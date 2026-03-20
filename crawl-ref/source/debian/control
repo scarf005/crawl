@@ -9,6 +9,7 @@ Build-Depends:
  debhelper-compat (= 13),
  flex,
  fonts-dejavu-core,
+ gettext,
  libfreetype6-dev,
  liblua5.4-dev,
  libncursesw5-dev,

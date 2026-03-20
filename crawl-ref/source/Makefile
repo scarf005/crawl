@@ -102,12 +102,12 @@ MAKEFLAGS += -rR # This only works for recursive makes, i.e. contribs ...
 .SUFFIXES:       # ... so zap the suffix list to neutralize most predefined rules, too
 
 .PHONY: all test install clean clean-contrib clean-rltiles clean-android \
-        clean-appimage clean-catch2 clean-plug-and-play-tests \
-        clean-coverage clean-coverage-full \
-        appimage distclean debug debug-lite profile package-source source \
-        build-windows package-windows-installer docs greet api api-dev android FORCE \
-        monster catch2-tests plug-and-play-tests \
-        crawl-universal crawl-arm64-apple-macos11 crawl-x86_64-apple-macos10.7 clean-mac
+         clean-appimage clean-catch2 clean-plug-and-play-tests \
+         clean-coverage clean-coverage-full \
+         appimage distclean debug debug-lite profile package-source source \
+         build-windows package-windows-installer docs greet api api-dev android FORCE \
+         monster catch2-tests plug-and-play-tests pot-data update-po compile-mo install-mo \
+         crawl-universal crawl-arm64-apple-macos11 crawl-x86_64-apple-macos10.7 clean-mac
 
 include Makefile.obj
 
@@ -188,6 +188,8 @@ PYTHON = python
 ifneq (, $(shell which python3 2>&1))
 	PYTHON = python3
 endif
+MSGMERGE = msgmerge
+MSGFMT = msgfmt
 
 export AR
 export RANLIB
@@ -1273,6 +1275,23 @@ GENERATED_FILES := $(GENERATED_HEADERS) art-data.h mi-enum.h \
                    cmd-name.h species-data.h aptitudes.h species-groups.h mon-data.h job-data.h job-groups.h
 
 LANGUAGES = $(filter-out en, $(notdir $(wildcard dat/descript/??)))
+TEXTDB_GETTEXT_FILES = dat/descript/features.txt dat/descript/items.txt \
+			      dat/descript/unident.txt dat/descript/unrand.txt \
+			      dat/descript/monsters.txt dat/descript/spells.txt \
+			      dat/descript/gods.txt dat/descript/branches.txt \
+			      dat/descript/skills.txt dat/descript/ability.txt \
+			      dat/descript/cards.txt dat/descript/commands.txt \
+			      dat/descript/clouds.txt dat/descript/status.txt \
+			      dat/descript/monstatus.txt dat/descript/mutations.txt \
+			      dat/descript/passives.txt dat/descript/species.txt \
+			      dat/descript/backgrounds.txt dat/descript/hints.txt \
+			      dat/descript/tutorial.txt dat/descript/egos.txt \
+			      dat/database/help.txt dat/database/FAQ.txt
+PO_DIR = po
+LOCALE_DIR = locale
+TEXTDB_GETTEXT_POT = $(PO_DIR)/crawl-data.pot
+TEXTDB_PO_FILES = $(wildcard $(PO_DIR)/*.po)
+TEXTDB_MO_FILES = $(patsubst $(PO_DIR)/%.po,$(LOCALE_DIR)/%/LC_MESSAGES/crawl-data.mo,$(TEXTDB_PO_FILES))
 SRC_PKG_BASE  := stone_soup
 SRC_VERSION   := $(shell git describe $(MERGE_BASE) 2>/dev/null || cat util/release_ver)
 MAJOR_VERSION = $(shell echo "$(SRC_VERSION)"|$(SED) -r 's/-.*//;s/^([^.]+\.[^.]+).*/\1/')
@@ -1298,6 +1317,35 @@ greet:
 	fi
 
 docs: $(GENERATED_DOCS)
+
+pot-data: $(TEXTDB_GETTEXT_POT)
+
+$(TEXTDB_GETTEXT_POT): util/textdb-pot.py util/textdb_gettext.py $(TEXTDB_GETTEXT_FILES)
+	[ -d $(PO_DIR) ] || mkdir -p $(PO_DIR)
+	$(QUIET_PYTHON)$(PYTHON) util/textdb-pot.py --output $@
+
+update-po: $(TEXTDB_GETTEXT_POT)
+	@if [ -n "$(TEXTDB_PO_FILES)" ]; then \
+		for po in $(TEXTDB_PO_FILES); do \
+			$(MSGMERGE) --update --backup=none "$$po" "$(TEXTDB_GETTEXT_POT)"; \
+		done; \
+	fi
+
+$(LOCALE_DIR)/%/LC_MESSAGES/crawl-data.mo: $(PO_DIR)/%.po $(TEXTDB_GETTEXT_POT)
+	mkdir -p $(dir $@)
+	$(MSGFMT) -o $@ $<
+
+compile-mo: $(TEXTDB_MO_FILES)
+
+install-mo: compile-mo
+	@if [ -n "$(TEXTDB_MO_FILES)" ]; then \
+		mkdir -p $(datadir_fp)/locale; \
+		for mo in $(TEXTDB_MO_FILES); do \
+			lang=$$(basename "$$(dirname "$$(dirname "$$mo")")"); \
+			mkdir -p $(datadir_fp)/locale/$$lang/LC_MESSAGES; \
+			$(COPY) "$$mo" $(datadir_fp)/locale/$$lang/LC_MESSAGES/crawl-data.mo; \
+		done; \
+	fi
 
 
 # Webtiles data
@@ -1593,6 +1641,7 @@ ifdef WEBTILES
 	mkdir -p $(webdir_fp)
 	$(COPY_R) webserver/game_data/* $(webdir_fp)/
 endif
+	+$(MAKE) install-mo datadir_fp="$(datadir_fp)"
 ifneq ($(savedir_fp),)
 	mkdir -p $(savedir_fp)/saves
 	mkdir -p $(savedir_fp)/morgue
@@ -1656,9 +1705,10 @@ clean: clean-rltiles clean-webserver clean-android clean-monster clean-catch2 \
 	$(RM) $(GAME) $(GAME).exe $(GENERATED_FILES) $(EXTRA_OBJECTS) libw32c.o\
 	    libunix.o $(ALL_OBJECTS) $(ALL_OBJECTS:.o=.d) *.ixx  \
 	    .contrib-libs .cflags AppHdr.h.gch AppHdr.h.d util/fake_pty \
-            rltiles/tiledef-unrand.cc
+	            rltiles/tiledef-unrand.cc $(TEXTDB_GETTEXT_POT)
 	$(RM) -r build-win
 	$(RM) -r build
+	$(RM) -r $(LOCALE_DIR)
 
 clean-contrib:
 	+$(MAKE) -C contrib clean
