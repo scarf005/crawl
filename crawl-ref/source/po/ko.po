@@ -14466,3 +14466,296 @@ msgid ""
 msgstr ""
 "채팅하려면 {login_link}"
 
+#. Preserve the {crawl} and {version} placeholders.
+#: ng-input.cc
+msgctxt ""
+"startup:opening_screen"
+msgid ""
+"<yellow>Hello, welcome to {crawl} {version}!</yellow>\n"
+"<brown>(c) Copyright 1997-2002 Linley Henzell, 2002-2025 Crawl DevTeam"
+msgstr ""
+"<yellow>{crawl} {version}에 오신 것을 환영합니다!</yellow>\n"
+"<brown>(c) Copyright 1997-2002 Linley Henzell, 2002-2025 Crawl DevTeam"
+
+#: ng-input.cc
+msgctxt ""
+"startup:options_read_prefix"
+msgid ""
+"<lightgrey>Options read from \""
+msgstr ""
+"<lightgrey>옵션을 \""
+
+#: ng-input.cc
+msgctxt ""
+"startup:options_read_suffix"
+msgid ""
+"\".</lightgrey>"
+msgstr ""
+"\"에서 읽었습니다.</lightgrey>"
+
+#: ng-input.cc
+msgctxt ""
+"startup:options_file_unreadable_prefix"
+msgid ""
+"<lightred>Options file \""
+msgstr ""
+"<lightred>옵션 파일 \""
+
+#: ng-input.cc
+msgctxt ""
+"startup:options_file_unreadable_suffix"
+msgid ""
+"\" is not readable; using defaults.</lightred>"
+msgstr ""
+"\"을 읽을 수 없어 기본값을 사용합니다.</lightred>"
+
+#: ng-input.cc
+msgctxt ""
+"startup:options_file_missing"
+msgid ""
+"<lightred>Options file not found; using defaults.</lightred>"
+msgstr ""
+"<lightred>옵션 파일을 찾지 못해 기본값을 사용합니다.</lightred>"
+
+#: startup.cc
+msgctxt ""
+"startup:loading_databases"
+msgid ""
+"Loading databases..."
+msgstr ""
+"데이터베이스를 불러오는 중..."
+
+#: startup.cc
+msgctxt ""
+"startup:loading_spells_features"
+msgid ""
+"Loading spells and features..."
+msgstr ""
+"주문과 지형을 불러오는 중..."
+
+#: startup.cc
+msgctxt ""
+"startup:loading_maps"
+msgid ""
+"Loading maps..."
+msgstr ""
+"맵을 불러오는 중..."
+
+#: startup.cc
+msgctxt ""
+"startup:mode_normal_label"
+msgid ""
+"Dungeon Crawl"
+msgstr ""
+"던전 크롤"
+
+#: startup.cc
+msgctxt ""
+"startup:mode_normal_desc"
+msgid ""
+"Dungeon Crawl: The main game: full of monsters, items, gods and danger!"
+msgstr ""
+"던전 크롤의 기본 모드입니다. 몬스터와 아이템, 신과 위험으로 가득합니다!"
+
+#: startup.cc
+msgctxt ""
+"startup:mode_seed_label"
+msgid ""
+"Choose Game Seed"
+msgstr ""
+"게임 시드 선택"
+
+#: startup.cc
+msgctxt ""
+"startup:mode_seed_desc"
+msgid ""
+"Play with a chosen custom dungeon seed."
+msgstr ""
+"직접 고른 던전 시드로 플레이합니다."
+
+#: startup.cc
+msgctxt ""
+"startup:mode_tutorial_label"
+msgid ""
+"Tutorial for Dungeon Crawl"
+msgstr ""
+"던전 크롤 튜토리얼"
+
+#: startup.cc
+msgctxt ""
+"startup:mode_tutorial_desc"
+msgid ""
+"Tutorial that covers the basics of Dungeon Crawl survival."
+msgstr ""
+"던전 크롤에서 살아남기 위한 기본을 익히는 튜토리얼입니다."
+
+#: startup.cc
+msgctxt ""
+"startup:mode_hints_label"
+msgid ""
+"Hints Mode for Dungeon Crawl"
+msgstr ""
+"던전 크롤 힌트 모드"
+
+#: startup.cc
+msgctxt ""
+"startup:mode_hints_desc"
+msgid ""
+"A mostly normal game that provides more advanced hints than the tutorial."
+msgstr ""
+"튜토리얼보다 한 단계 더 깊은 힌트를 제공하는 거의 일반 게임입니다."
+
+#: startup.cc
+msgctxt ""
+"startup:mode_descent_label"
+msgid ""
+"Dungeon Descent"
+msgstr ""
+"던전 디센트"
+
+#: startup.cc
+msgctxt ""
+"startup:mode_descent_desc"
+msgid ""
+"Mode with a branching, one-way path through the Dungeon."
+msgstr ""
+"던전을 따라 갈라지는 일방통행 경로로 진행하는 모드입니다."
+
+#: startup.cc
+msgctxt ""
+"startup:mode_sprint_label"
+msgid ""
+"Dungeon Sprint"
+msgstr ""
+"던전 스프린트"
+
+#: startup.cc
+msgctxt ""
+"startup:mode_sprint_desc"
+msgid ""
+"Hard, fixed single level game mode."
+msgstr ""
+"고정된 단일 층에서 진행하는 어려운 게임 모드입니다."
+
+#: startup.cc
+msgctxt ""
+"startup:mode_instructions_label"
+msgid ""
+"Instructions"
+msgstr ""
+"설명"
+
+#: startup.cc
+msgctxt ""
+"startup:mode_instructions_desc"
+msgid ""
+"Help menu."
+msgstr ""
+"도움말 메뉴를 엽니다."
+
+#: startup.cc
+msgctxt ""
+"startup:mode_arena_label"
+msgid ""
+"The Arena"
+msgstr ""
+"투기장"
+
+#: startup.cc
+msgctxt ""
+"startup:mode_arena_desc"
+msgid ""
+"Pit computer controlled teams versus each other!"
+msgstr ""
+"컴퓨터가 조종하는 팀끼리 서로 싸우게 합니다!"
+
+#: startup.cc
+msgctxt ""
+"startup:mode_high_scores_label"
+msgid ""
+"High Scores"
+msgstr ""
+"최고 점수"
+
+#: startup.cc
+msgctxt ""
+"startup:mode_high_scores_desc"
+msgid ""
+"View the high score list."
+msgstr ""
+"최고 점수 목록을 봅니다."
+
+#: startup.cc
+msgctxt ""
+"startup:new_game"
+msgid ""
+"New Game"
+msgstr ""
+"새 게임"
+
+#: startup.cc
+msgctxt ""
+"startup:language_prompt"
+msgid ""
+"Language [Ctrl-L]:"
+msgstr ""
+"언어 [Ctrl-L]:"
+
+#: startup.cc
+msgctxt ""
+"startup:enter_name"
+msgid ""
+"Enter your name:"
+msgstr ""
+"이름 입력:"
+
+#: startup.cc
+msgctxt ""
+"startup:choices"
+msgid ""
+"Choices:"
+msgstr ""
+"선택:"
+
+#: startup.cc
+msgctxt ""
+"startup:saved_games"
+msgid ""
+"Saved games:"
+msgstr ""
+"저장된 게임:"
+
+#. Preserve the {save} placeholder.
+#: startup.cc
+msgctxt ""
+"startup:quick_load_last_game"
+msgid ""
+"<white>[tab]</white> quick-load last game: {save}"
+msgstr ""
+"<white>[tab]</white> 마지막 게임 바로 불러오기: {save}"
+
+#. Preserve the {combo} placeholder.
+#: startup.cc
+msgctxt ""
+"startup:quick_start_last_combo"
+msgid ""
+"<white>[tab]</white> quick-start last combo: {combo}"
+msgstr ""
+"<white>[tab]</white> 마지막 조합 바로 시작: {combo}"
+
+#: startup.cc
+msgctxt ""
+"startup:view_rc_info"
+msgid ""
+"<white>[ctrl-p]</white> view rc file information and log"
+msgstr ""
+"<white>[ctrl-p]</white> rc 파일 정보와 로그 보기"
+
+#: startup.cc
+msgctxt ""
+"startup:init_errors_suffix"
+msgid ""
+" (<red>Errors during initialization!</red>)"
+msgstr ""
+" (<red>초기화 중 오류 발생!</red>)"
+
