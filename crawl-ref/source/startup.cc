@@ -23,6 +23,7 @@
 #include "god-abil.h"
 #include "god-passive.h"
 #include "hints.h"
+#include "i18n-gettext.h"
 #include "initfile.h"
 #include "item-name.h"
 #include "item-prop.h"
@@ -134,6 +135,8 @@ static void _initialize()
     // screen while this happens.
     loading_screen_open();
 #endif
+
+    i18n::init_gettext();
 
     // Initialise internal databases.
     _loading_message("Loading databases...");

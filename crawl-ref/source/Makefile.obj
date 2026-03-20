@@ -85,6 +85,7 @@ god-wrath.o \
 hash.o \
 hints.o \
 hiscores.o \
+i18n-gettext.o \
 initfile.o \
 invent.o \
 item-use.o \

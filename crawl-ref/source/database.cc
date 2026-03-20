@@ -18,12 +18,19 @@
 #include "clua.h"
 #include "end.h"
 #include "files.h"
+#include "i18n-gettext.h"
 #include "libutil.h"
 #include "options.h"
 #include "random.h"
 #include "stringutil.h"
 #include "syscalls.h"
 #include "unicode.h"
+
+enum class textdb_translation_mode
+{
+    legacy,
+    gettext,
+};
 
 // TextDB handles dependency checking the db vs text files, creating the
 // db, loading, and destroying the DB.
@@ -32,7 +39,9 @@ class TextDB
 public:
     // db_name is the savedir-relative name of the db file,
     // minus the "db" extension.
-    TextDB(const char* db_name, const char* dir, vector<string> files);
+    TextDB(const char* db_name, const char* dir, vector<string> files,
+           textdb_translation_mode translation_mode =
+               textdb_translation_mode::legacy);
     TextDB(TextDB *parent);
     ~TextDB() { shutdown(true); delete translation; }
     void init();
@@ -42,6 +51,13 @@ public:
     // Make it easier to migrate from raw DBM* to TextDB
     operator bool() const { return _db != 0; }
     operator DBM*() const { return _db; }
+    bool should_use_gettext() const
+    {
+        return !_parent
+               && _translation_mode == textdb_translation_mode::gettext
+               && i18n::textdb_gettext_enabled();
+    }
+    const char *name() const { return _db_name; }
 
  private:
     bool _needs_update() const;
@@ -52,6 +68,7 @@ public:
     const char* const _db_name;
     string _directory;
     vector<string> _input_files;
+    textdb_translation_mode _translation_mode;
     DBM* _db;
     string timestamp;
     TextDB *_parent;
@@ -87,11 +104,13 @@ static TextDB AllDBs[] =
             "status.txt",
             "monstatus.txt",
             "mutations.txt",
-            "passives.txt", }),
+            "passives.txt", },
+          textdb_translation_mode::gettext),
 
     TextDB("gamestart", "descript/",
           { "species.txt",
-            "backgrounds.txt" }),
+            "backgrounds.txt" },
+          textdb_translation_mode::gettext),
 
     TextDB("randart", "database/",
           { "randname.txt",
@@ -138,20 +157,24 @@ static TextDB AllDBs[] =
 
     TextDB("help", "database/",
           { "help.txt"      // database for outsourced help texts
-            }),
+            },
+          textdb_translation_mode::gettext),
 
     TextDB("FAQ", "database/",
           { "FAQ.txt",      // database for Frequently Asked Questions
-            }),
+            },
+          textdb_translation_mode::gettext),
 
     TextDB("hints", "descript/",
           { "hints.txt",    // hints mode
             "tutorial.txt", // tutorial mode
-            }),
+            },
+          textdb_translation_mode::gettext),
 
     TextDB("egos", "descript/",
           { "egos.txt",     // weapon/armour/missile egos
-            }),
+            },
+          textdb_translation_mode::gettext),
 };
 
 static TextDB& DescriptionDB = AllDBs[0];
@@ -177,9 +200,11 @@ static string _db_cache_path(string db, const char *lang)
 // TextDB
 // ----------------------------------------------------------------------
 
-TextDB::TextDB(const char* db_name, const char* dir, vector<string> files)
+TextDB::TextDB(const char* db_name, const char* dir, vector<string> files,
+               textdb_translation_mode translation_mode)
     : _db_name(db_name), _directory(dir), _input_files(files),
-      _db(nullptr), timestamp(""), _parent(0), translation(0)
+      _translation_mode(translation_mode), _db(nullptr), timestamp(""),
+      _parent(0), translation(0)
 {
 }
 
@@ -187,7 +212,8 @@ TextDB::TextDB(TextDB *parent)
     : _db_name(parent->_db_name),
       _directory(parent->_directory + Options.lang_name + "/"),
       _input_files(parent->_input_files), // FIXME: pointless copy
-      _db(nullptr), timestamp(""), _parent(parent), translation(nullptr)
+      _translation_mode(parent->_translation_mode), _db(nullptr),
+      timestamp(""), _parent(parent), translation(nullptr)
 {
 }
 
@@ -370,6 +396,15 @@ static datum _database_fetch(DBM *database, const string &key)
         result = dbm_fetch(database, dbKey);
 
     return result;
+}
+
+static string _database_fetch_string(DBM *database, const string &key)
+{
+    const datum result = _database_fetch(database, key);
+    if (result.dsize <= 0)
+        return "";
+
+    return string((const char *)result.dptr, result.dsize);
 }
 
 static vector<string> _database_find_keys(DBM *database,
@@ -631,32 +666,27 @@ static string _getWeightedString(TextDB &db, const string &key,
     string canonical_key = key + suffix;
     lowercase(canonical_key);
 
-    // Query the DB.
-    datum result;
+    string str;
 
     if (db.translation)
-        result = _database_fetch(db.translation->get(), canonical_key);
-    if (result.dsize <= 0)
-        result = _database_fetch(db.get(), canonical_key);
+        str = _database_fetch_string(db.translation->get(), canonical_key);
+    if (str.empty())
+        str = _database_fetch_string(db.get(), canonical_key);
 
-    if (result.dsize <= 0)
+    if (str.empty())
     {
         // Try ignoring the suffix.
         canonical_key = key;
         lowercase(canonical_key);
 
-        // Query the DB.
         if (db.translation)
-            result = _database_fetch(db.translation->get(), canonical_key);
-        if (result.dsize <= 0)
-            result = _database_fetch(db.get(), canonical_key);
+            str = _database_fetch_string(db.translation->get(), canonical_key);
+        if (str.empty())
+            str = _database_fetch_string(db.get(), canonical_key);
 
-        if (result.dsize <= 0)
+        if (str.empty())
             return "";
     }
-
-    // Cons up a (C++) string to return. The caller must release it.
-    string str = string((const char *)result.dptr, result.dsize);
 
     return _chooseStrByWeight(str, fixed_weight);
 }
@@ -745,18 +775,29 @@ static string _query_database(TextDB &db, string key, bool canonicalise_key,
         lowercase(key);
     }
 
-    // Query the DB.
-    datum result;
+    string str;
+    if (db.should_use_gettext() && !untranslated)
+    {
+        const string english = _database_fetch_string(db.get(), key);
+        if (english.empty())
+            return "";
 
-    if (db.translation && !untranslated)
-        result = _database_fetch(db.translation->get(), key);
-    if (result.dsize <= 0)
-        result = _database_fetch(db.get(), key);
+        str = i18n::translate_textdb_entry(db.name(), key, english);
+        if (str.empty() && db.translation)
+            str = _database_fetch_string(db.translation->get(), key);
+        if (str.empty())
+            str = english;
+    }
+    else
+    {
+        if (db.translation && !untranslated)
+            str = _database_fetch_string(db.translation->get(), key);
+        if (str.empty())
+            str = _database_fetch_string(db.get(), key);
+    }
 
-    if (result.dsize <= 0)
+    if (str.empty())
         return "";
-
-    string str((const char *)result.dptr, result.dsize);
 
     // <foo> is an alias to key foo
     if (str[0] == '<' && str[str.size() - 2] == '>'
