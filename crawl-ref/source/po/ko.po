@@ -13940,3 +13940,529 @@ msgstr ""
 "\n"
 "                                 <cyan><input>아무 버튼</input>이나 누르세요...</cyan>\n"
 
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:noscript"
+msgid ""
+"Please enable javascript!"
+msgstr ""
+"JavaScript를 활성화해 주세요!"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:user_label"
+msgid ""
+"User:"
+msgstr ""
+"사용자:"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:user"
+msgid ""
+"User"
+msgstr ""
+"사용자"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:pass_label"
+msgid ""
+"Pass:"
+msgstr ""
+"비밀번호:"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:login"
+msgid ""
+"Login"
+msgstr ""
+"로그인"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:register"
+msgid ""
+"Register"
+msgstr ""
+"회원가입"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:forgot_password"
+msgid ""
+"Forgot Password"
+msgstr ""
+"비밀번호를 잊으셨나요"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:change_email"
+msgid ""
+"Change Email"
+msgstr ""
+"이메일 변경"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:change_password"
+msgid ""
+"Change Password"
+msgstr ""
+"비밀번호 변경"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:logout"
+msgid ""
+"Logout"
+msgstr ""
+"로그아웃"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:username"
+msgid ""
+"Username:"
+msgstr ""
+"사용자 이름:"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:password"
+msgid ""
+"Password:"
+msgstr ""
+"비밀번호:"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:repeat_password"
+msgid ""
+"Repeat password:"
+msgstr ""
+"비밀번호 확인:"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:email_address"
+msgid ""
+"Email address:"
+msgstr ""
+"이메일 주소:"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:password_recovery_help"
+msgid ""
+"If you do not enter an email, you can't recover your password."
+msgstr ""
+"이메일을 입력하지 않으면 비밀번호를 복구할 수 없습니다."
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:cancel"
+msgid ""
+"Cancel"
+msgstr ""
+"취소"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:submit"
+msgid ""
+"Submit"
+msgstr ""
+"확인"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:current_password"
+msgid ""
+"Current password:"
+msgstr ""
+"현재 비밀번호:"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:new_password"
+msgid ""
+"New password:"
+msgstr ""
+"새 비밀번호:"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:current_email_address"
+msgid ""
+"Your current email address is:"
+msgstr ""
+"현재 이메일 주소:"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:email"
+msgid ""
+"Email:"
+msgstr ""
+"이메일:"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:ok"
+msgid ""
+"OK"
+msgstr ""
+"확인"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:forgot_password_done"
+msgid ""
+"If a matching account was found, then an email was sent to reset your password."
+msgstr ""
+"일치하는 계정을 찾았다면 비밀번호 재설정 이메일을 보냈습니다."
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:choose_new_password"
+msgid ""
+"Please choose a new password."
+msgstr ""
+"새 비밀번호를 선택해 주세요."
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:save"
+msgid ""
+"Save"
+msgstr ""
+"저장"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:close"
+msgid ""
+"Close"
+msgstr ""
+"닫기"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:account_restricted"
+msgid ""
+"This account is being held for administrator approval. Until approved, community features and some game modes may be restricted, and games will not be visible to other players."
+msgstr ""
+"이 계정은 관리자 승인을 기다리고 있습니다. 승인되기 전까지 커뮤니티 기능과 일부 게임 모드가 제한될 수 있으며, 게임이 다른 플레이어에게 표시되지 않습니다."
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:games_currently_running"
+msgid ""
+"Games currently running:"
+msgstr ""
+"현재 진행 중인 게임:"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:game"
+msgid ""
+"Game"
+msgstr ""
+"게임"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:char"
+msgid ""
+"Char"
+msgstr ""
+"캐릭터"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:place"
+msgid ""
+"Place"
+msgstr ""
+"장소"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:turn"
+msgid ""
+"Turn"
+msgstr ""
+"턴"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:time"
+msgid ""
+"Time"
+msgstr ""
+"시간"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:god"
+msgid ""
+"God"
+msgstr ""
+"신"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:idle"
+msgid ""
+"Idle"
+msgstr ""
+"대기"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:specs"
+msgid ""
+"Specs"
+msgstr ""
+"관전"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:milestone"
+msgid ""
+"Milestone"
+msgstr ""
+"주요 기록"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:loading"
+msgid ""
+"Loading..."
+msgstr ""
+"불러오는 중..."
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:stale_processes_prefix"
+msgid ""
+"There are some stale"
+msgstr ""
+"정리되지 않은"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:stale_processes_middle"
+msgid ""
+"processes. They'll be stopped in"
+msgstr ""
+"프로세스가 있습니다."
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:stale_processes_suffix"
+msgid ""
+"seconds. Press a key now if you don't want this to happen!"
+msgstr ""
+"초 후 종료됩니다. 원하지 않으면 지금 아무 키나 누르세요!"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:force_terminate_prefix"
+msgid ""
+"Couldn't stop one of your stale"
+msgstr ""
+"정리되지 않은"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:force_terminate_suffix"
+msgid ""
+"processes gracefully. Force its termination? [yn]"
+msgstr ""
+"프로세스 하나를 정상 종료할 수 없었습니다. 강제로 종료할까요? [yn]"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:yes"
+msgid ""
+"Yes"
+msgstr ""
+"예"
+
+#: webserver/templates/client.html
+msgctxt ""
+"webtiles:client.html:no"
+msgid ""
+"No"
+msgstr ""
+"아니오"
+
+#: webserver/templates/game_links.html
+msgctxt ""
+"webtiles:game_links.html:play_now"
+msgid ""
+"Play now:"
+msgstr ""
+"지금 플레이:"
+
+#: webserver/templates/game_links.html
+msgctxt ""
+"webtiles:game_links.html:edit_rc"
+msgid ""
+"(edit rc)"
+msgstr ""
+"(rc 편집)"
+
+#: webserver/static/scripts/client.js
+msgctxt ""
+"webtiles:client.js:logging_in"
+msgid ""
+"Logging in..."
+msgstr ""
+"로그인하는 중..."
+
+#: webserver/static/scripts/client.js
+msgctxt ""
+"webtiles:client.js:login_failed"
+msgid ""
+"Login failed."
+msgstr ""
+"로그인에 실패했습니다."
+
+#. Preserve the {username} placeholder.
+#: webserver/static/scripts/client.js
+msgctxt ""
+"webtiles:client.js:logged_in_as"
+msgid ""
+"Logged in as {username}"
+msgstr ""
+"로그인됨: {username}"
+
+#: webserver/static/scripts/client.js
+msgctxt ""
+"webtiles:client.js:username_spaces"
+msgid ""
+"The username can't contain spaces."
+msgstr ""
+"사용자 이름에는 공백을 넣을 수 없습니다."
+
+#: webserver/static/scripts/client.js
+msgctxt ""
+"webtiles:client.js:passwords_dont_match"
+msgid ""
+"Passwords don't match."
+msgstr ""
+"비밀번호가 일치하지 않습니다."
+
+#: webserver/static/scripts/client.js
+msgctxt ""
+"webtiles:client.js:password_changed"
+msgid ""
+"Password changed!"
+msgstr ""
+"비밀번호가 변경되었습니다!"
+
+#: webserver/static/scripts/client.js
+msgctxt ""
+"webtiles:client.js:password_change_failed"
+msgid ""
+"Password change failed!"
+msgstr ""
+"비밀번호 변경에 실패했습니다!"
+
+#: webserver/static/scripts/client.js
+msgctxt ""
+"webtiles:client.js:email_removed"
+msgid ""
+"Your account is no longer associated with an email address."
+msgstr ""
+"이 계정은 더 이상 이메일 주소와 연결되어 있지 않습니다."
+
+#. Preserve the {email} placeholder.
+#: webserver/static/scripts/client.js
+msgctxt ""
+"webtiles:client.js:email_set_to"
+msgid ""
+"Your email address has been set to {email}."
+msgstr ""
+"이메일 주소가 다음으로 설정되었습니다: {email}"
+
+#: webserver/static/scripts/client.js
+msgctxt ""
+"webtiles:client.js:email_spaces"
+msgid ""
+"The email address can't contain spaces."
+msgstr ""
+"이메일 주소에는 공백을 넣을 수 없습니다."
+
+#. Preserve the {game} placeholder.
+#: webserver/static/scripts/client.js
+msgctxt ""
+"webtiles:client.js:login_required_to_play"
+msgid ""
+"Login required to play {game}:"
+msgstr ""
+"{game} 플레이를 하려면 로그인해야 합니다:"
+
+#: webserver/static/scripts/client.js
+msgctxt ""
+"webtiles:client.js:back_to_lobby"
+msgid ""
+"Back to lobby"
+msgstr ""
+"로비로 돌아가기"
+
+#: webserver/static/scripts/client.js
+msgctxt ""
+"webtiles:client.js:login_to_chat"
+msgid ""
+"Login to chat:"
+msgstr ""
+"채팅하려면 로그인:"
+
+#. Preserve the {count} placeholder.
+#: webserver/static/scripts/chat.js
+msgctxt ""
+"webtiles:chat.js:spectators_count"
+msgid ""
+"{count} spectators"
+msgstr ""
+"관전자 {count}명"
+
+#. Preserve the {count} and {press_key} placeholders.
+#: webserver/static/scripts/chat.js
+msgctxt ""
+"webtiles:chat.js:new_messages_count"
+msgid ""
+"{count} new messages{press_key}"
+msgstr ""
+"새 메시지 {count}개{press_key}"
+
+#: webserver/static/scripts/chat.js
+msgctxt ""
+"webtiles:chat.js:press_f12"
+msgid ""
+" (Press F12)"
+msgstr ""
+" (F12를 누르세요)"
+
+#: webserver/static/scripts/chat.js
+msgctxt ""
+"webtiles:chat.js:close_prompt"
+msgid ""
+"(Esc: close)"
+msgstr ""
+"(Esc: 닫기)"
+
+#. Preserve the {login_link} placeholder.
+#: webserver/static/scripts/chat.js
+msgctxt ""
+"webtiles:chat.js:login_to_chat_html"
+msgid ""
+"{login_link} to chat"
+msgstr ""
+"채팅하려면 {login_link}"
+
