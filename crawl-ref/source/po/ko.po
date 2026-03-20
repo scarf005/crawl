@@ -14697,9 +14697,17 @@ msgstr ""
 msgctxt ""
 "startup:language_prompt"
 msgid ""
-"Language [Ctrl-L]:"
+"Language:"
 msgstr ""
-"언어 [Ctrl-L]:"
+"언어:"
+
+#: startup.cc
+msgctxt ""
+"startup:language_desc"
+msgid ""
+"Cycle the interface language for this session."
+msgstr ""
+"이번 실행 동안 사용할 인터페이스 언어를 순환합니다."
 
 #: startup.cc
 msgctxt ""
@@ -14758,4 +14766,3 @@ msgid ""
 " (<red>Errors during initialization!</red>)"
 msgstr ""
 " (<red>초기화 중 오류 발생!</red>)"
-
