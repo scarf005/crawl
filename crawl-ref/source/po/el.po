@@ -1,0 +1,1978 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: crawl-data\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+#. key: animal skin
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:animal skin"
+msgid ""
+"A large piece of thick skin covered in fur, cut from the corpse of an animal\n"
+"and worn as a primitive garment. It offers rudimentary protection against harm,\n"
+"but, having never been tanned, it carries a light stench of rotting flesh.\n"
+msgstr ""
+"Τα δέρματα πολλών ζώων.\n"
+
+#. key: bardiche
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:bardiche"
+msgid ""
+"A long pole with an enormous, cleaving blade on one end.\n"
+msgstr ""
+"Ένα μακρύ κοντάρι με μια τεράστια κοφτερή λεπίδα στο ένα άκρο.\n"
+
+#. key: book of annihilations
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of annihilations"
+msgid ""
+"A tome of arcane fury, greatly sought after by sorcerers. It allows the gifted\n"
+"and resourceful to conjure destruction with ease.\n"
+msgstr ""
+"Καθώς το μελετάς,  διακρίνεις αίμα να στάζει από τις σελίδες. Ακόμα και ένας\n"
+"αναλφάβητος μπορεί να νιώσει την καθαρή επίδραση κάποιας οργισμένης μαγικής\n"
+"δύναμης να περιέχεται σε αυτό. Ισχυροί μάγοι το αναζητούν, μιας και επιτρέπει\n"
+"στους χαρισματικούς και πολυμήχανους να σπέρνουν καταστροφή με απίστευτη\n"
+"ευκολία. Παρόλα αυτά, αδύναμοι μάγοι μπορεί ακόμη και να συναντήσουν το χαμό\n"
+"τους προσπαθώντας να διαβάσουν τη συγκεκριμένη σύνθεση.\n"
+
+#. key: book of cantrips
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of cantrips"
+msgid ""
+"A book containing a small selection of very basic magic spells, intended for\n"
+"beginners who wish to learn the rudiments of one of the featured magical\n"
+"schools.\n"
+msgstr ""
+"Ένα βιβλίο με ξόρκια.\n"
+
+#. key: book of conjurations
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of conjurations"
+msgid ""
+"A book containing an introduction to the destructive magical arts of\n"
+"Conjurations.\n"
+msgstr ""
+"Ένα βιβλίο με ξόρκια.\n"
+
+#. key: book of debilitation
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of debilitation"
+msgid ""
+"A spellbook containing spells known for having a particularly unpleasant\n"
+"effect on their victims. It's considered something of a faux pas in the\n"
+"wizarding community to be seen with this book in one's collection.\n"
+msgstr ""
+"Ένα βιβλίο με ξόρκια.\n"
+
+#. key: book of dreams
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of dreams"
+msgid ""
+"The somniloquent utterings of a famed mystic, using uniquely bizarre imagery\n"
+"and cryptic digressions to describe spells drawn from the mystic's visions.\n"
+msgstr ""
+"Ένα ημιδιαφανές βιβλίο; Το φως παίζει παράξενα στην επιφάνεια του.\n"
+
+#. key: book of fixed level
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of fixed level"
+msgid ""
+"A book of magic spells.\n"
+msgstr ""
+"Ένα βιβλίο με ξόρκια.\n"
+
+#. key: book of fixed theme
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of fixed theme"
+msgid ""
+"A book of magic spells.\n"
+msgstr ""
+"Ένα βιβλίο με ξόρκια.\n"
+
+#. key: book of hexes
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of hexes"
+msgid ""
+"A spellbook containing an assortment of powerful Hexes, which sparkles and\n"
+"shimmers as the pages are flipped.\n"
+msgstr ""
+"Ένα βιβλίο με ξόρκια.\n"
+
+#. key: book of necromancy
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of necromancy"
+msgid ""
+"A macabre book containing basic Necromancy spells. Readers are recommended to\n"
+"wear a pair of gloves they don't mind disposing of afterward.\n"
+msgstr ""
+"Ένας σκονισμένος τόμος απαγορευμένης μαγείας.\n"
+
+#. key: book of power
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of power"
+msgid ""
+"A book of powerful and destructive magic spells, rumbling and shuddering with\n"
+"barely-contained energies.\n"
+msgstr ""
+"Ένα βιβλίο με ξόρκια.\n"
+
+#. key: book of spatial translocations
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of spatial translocations"
+msgid ""
+"A basic spellbook on the magical field of Translocations. Many would-be mages\n"
+"have seen it disappear just as they needed it most.\n"
+msgstr ""
+"Ένα βιβλίο με ξόρκια.\n"
+
+#. key: book of the warp
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of the warp"
+msgid ""
+"A book of advanced Translocations spells, written by a particularly\n"
+"misanthropic mage. After its completion, they were never seen again, which may\n"
+"or may not have been the point.\n"
+msgstr ""
+"Ένα βιβλίο με ξόρκια.\n"
+
+#. key: book of unlife
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of unlife"
+msgid ""
+"An unholy book describing a variety of magical methods for the creation and\n"
+"command of undead servants.\n"
+msgstr ""
+"Ένα βιβλίο με ξόρκια, γεμάτο με σφραγίδες που επιτρέπουν τον έλεγχο των νεκρών.\n"
+
+#. key: buckler
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:buckler"
+msgid ""
+"A small piece of wood and metal, to be strapped on one arm for defence.\n"
+msgstr ""
+"Μία μικρή ασπίδα.\n"
+
+#. key: chain mail
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:chain mail"
+msgid ""
+"A suit of armour made entirely out of tiny metal rings.\n"
+msgstr ""
+"Μια στολή φτιαγμένη από αλληλένδετους μεταλλικούς κρίκους.\n"
+
+#. key: cloak
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:cloak"
+msgid ""
+"A cloth cloak.\n"
+msgstr ""
+"Ένας μανδύας από πανί.\n"
+
+#. key: corpse
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:corpse"
+msgid ""
+"A corpse. Useless and dead.\n"
+msgstr ""
+"Ένα πτώμα. Μπορείς να το τεμαχίσεις για μερικές μερίδες βρώσιμου κρέατος.\n"
+
+#. key: crystal plate armour
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:crystal plate armour"
+msgid ""
+"An incredibly heavy but extremely effective suit of crystalline armour.\n"
+msgstr ""
+"Μία απίστευτα βαριά αλλά πολύ αποτελεσματική κρυστάλλινη πανοπλία.\n"
+
+#. key: demon blade
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:demon blade"
+msgid ""
+"A terrible weapon, forged in the fires of Hell.\n"
+msgstr ""
+"Ένα τρομερό όπλο, σφυρηλατημένο στις φωτιές της Κόλασης.\n"
+
+#. key: demon trident
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:demon trident"
+msgid ""
+"A terrible three-pronged weapon, moulded by fire and brimstone.\n"
+msgstr ""
+"Ένα τρομερό όπλο, φορμαρισμένο από φωτιά και θειάφι.\n"
+
+#. key: demon whip
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:demon whip"
+msgid ""
+"A terrible weapon, woven in the depths of the inferno.\n"
+msgstr ""
+"Ένα τρομερό όπλο, πλεγμένο στα βάθη της Κόλασης.\n"
+
+#. key: eudemon blade
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:eudemon blade"
+msgid ""
+"A sacred blade from the forges of Heaven, inhabited by a good spirit. It is a\n"
+"favoured weapon of the Shining One's servants.\n"
+msgstr ""
+"Μια λεπίδα χάρμα οφθαλμών, σφυρηλατημένη στον Παράδεισο, που κατέχεται από ένα\n"
+"αγαθό πνεύμα. Είναι ένα από τα αγαπημένα όπλα των ακολούθων του Λαμπρού Ενός.\n"
+
+#. key: eveningstar
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:eveningstar"
+msgid ""
+"The opposite of a morningstar. A balanced mace with a long shaft and a metal\n"
+"head covered in lethal spikes.\n"
+msgstr ""
+"Το αντίστροφο ενός πρωινού άστρου.\n"
+
+#. key: fire dragon scales
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:fire dragon scales"
+msgid ""
+"The scales of a fire-breathing dragon. It provides great protection from fire,\n"
+"while rendering its wearer more susceptible to cold.\n"
+msgstr ""
+"Μια μαγική πανοπλία, φτιαγμένη από το δέρμα ενός δράκου που φτύνει φλόγες.\n"
+"Προσφέρει μεγάλη προστασία από τη φωτιά, αλλά κάνει αυτόν που τη φορά πιο\n"
+"ευάλωτο στο κρύο.\n"
+
+#. key: giant spiked club
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:giant spiked club"
+msgid ""
+"A giant lump of wood with sharp spikes at one end.\n"
+msgstr ""
+"Ένα γιγαντιαίο κομμάτι ξύλο με μυτερά καρφιά στο ένα άκρο.\n"
+
+#. key: glaive
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:glaive"
+msgid ""
+"A pole with a large, heavy blade on one end.\n"
+msgstr ""
+"Ένα κοντάρι με μια μεγάλη, βαριά λεπίδα στο ένα άκρο.\n"
+
+#. key: golden dragon scales
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:golden dragon scales"
+msgid ""
+"The scales of a golden dragon. It is much heavier than most dragon scale\n"
+"armours, and grants its wearer resistance to poison, fire and cold.\n"
+msgstr ""
+"Μια μαγική πανοπλία, φτιαγμένη από το δέρμα ενός χρυσού δράκου. Είναι\n"
+"υπερβολικά βαριά και δυσχεραίνει την κίνηση, αλλά προστατεύει αυτόν που τη φορά\n"
+"από τη φωτιά, το ψύχος και το δηλητήριο.\n"
+
+#. key: gold piece
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:gold piece"
+msgid ""
+"A pile of glittering gold coins.\n"
+msgstr ""
+"Ένας σωρός από γυαλιστερά χρυσά νομίσματα.\n"
+
+#. key: great mace
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:great mace"
+msgid ""
+"An enormous metal war club, of great cumbrousness.\n"
+msgstr ""
+"Ένα μεγάλο και βαρύ μεταλλικό ρόπαλο.\n"
+
+#. key: helmet
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:helmet"
+msgid ""
+"A piece of metal headgear.\n"
+msgstr ""
+"Ένα μεταλλικό κράνος.\n"
+
+#. key: lajatang
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:lajatang"
+msgid ""
+"A very rare and extremely effective weapon, featuring a pole with half-moon\n"
+"blades at both ends.\n"
+msgstr ""
+"Ένα πολύ σπάνιο και δραστικό εισαγόμενο όπλο που αποτελείται από ένα κοντάρι με\n"
+"λεπίδες σαν μισοφέγγαρα στα δύο του άκρα.\n"
+
+#. key: leather armour
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:leather armour"
+msgid ""
+"A suit made from layers of tanned animal hide. It provides basic protection\n"
+"with almost no hindrance to spellcasting or stealthy movement.\n"
+msgstr ""
+"Μια φορεσιά φτιαγμένη από σκληρό δέρμα.\n"
+
+#. key: longbow
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:longbow"
+msgid ""
+"A long, strong bow made of yew.\n"
+msgstr ""
+"Ένα μακρύ, δυνατό τόξο. Προκαλεί εξαιρετική ζημιά στη μάχη και ένας επιδέξιος\n"
+"τοξότης μπορεί να το χρησιμοποιήσει με πολύ καλά αποτελέσματα.\n"
+
+#. key: orb of zot
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:orb of zot"
+msgid ""
+"An invaluable artefact. Once you have escaped to the surface with it, your\n"
+"quest is complete.\n"
+msgstr ""
+"Όταν ξεφύγεις στην επιφάνεια με αυτό το ανεκτίμητο αντικείμενο, η αποστολή σου\n"
+"θα έχει έρθει σε πέρας.\n"
+
+#. key: pair of boots
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:pair of boots"
+msgid ""
+"A pair of boots. They are worn on the feet, and cover all but the largest\n"
+"hooves and talons.\n"
+msgstr ""
+"Ένα ζευγάρι μπότες.\n"
+
+#. key: pair of gloves
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:pair of gloves"
+msgid ""
+"A pair of gloves. They are worn on the hands, and cover all but the largest\n"
+"claws.\n"
+msgstr ""
+"Ένα ζευγάρι γάντια.\n"
+
+#. key: pearl dragon scales
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:pearl dragon scales"
+msgid ""
+"The nacreous scales of a pearl dragon. It grants its wearer resistance to\n"
+"negative energies.\n"
+msgstr ""
+"Μια μαγική πανοπλία φτιαγμένη από το ελαφρύ αλλά δυνατό δέρμα ενός\n"
+"μαργαριταρένιου δράκου. Προσφέρει προστασία από την αρνητική ενέργεια σε αυτόν\n"
+"που τη φορά.\n"
+
+#. key: potion of berserk rage
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:potion of berserk rage"
+msgid ""
+"A potion which can send one into an incoherent rage, granting them a great but\n"
+"temporary increase to their health, damage, and speed. In exchange, their mind\n"
+"is clouded by anger, only allowing them to move and attack in melee. The rage\n"
+"will wear off quickly if they do not attack monsters, and upon expiry, the\n"
+"imbiber will be fatigued, causing them to slow dramatically and rendering them\n"
+"unable to berserk again for a short duration.\n"
+msgstr ""
+"Ένα μαγικό φίλτρο που προκαλεί την ασυγκράτητη οργή αυτού που το πίνει.\n"
+
+#. key: potion of blood
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:potion of blood"
+msgid ""
+"A potion containing the essence of life.\n"
+msgstr ""
+"Ένα μαγικό φίλτρο που περιέχει την ουσία της ζωής. Είναι ζωτικής σημασίας για\n"
+"όλα τα ζωντανά όντα, καθώς επίσης και για κάποια απέθαντα. Μπορεί επίσης να\n"
+"προσφέρει θρέψη σε σαρκοφάγα πλάσματα.\n"
+
+#. key: potion of brilliance
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:potion of brilliance"
+msgid ""
+"A potion which increases the power of the drinker's spells and halves their\n"
+"magic cost (rounding up).\n"
+msgstr ""
+"Ένα μαγικό φίλτρο που αυξάνει δραστικά την ευφυΐα και τη μαγική δύναμη αυτού\n"
+"που το καταναλώνει.\n"
+
+#. key: potion of experience
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:potion of experience"
+msgid ""
+"A truly wonderful and very rare drink, which grants experience when consumed.\n"
+msgstr ""
+"Ένα πραγματικά υπέροχο και πολύ σπάνιο υγρό.\n"
+
+#. key: potion of invisibility
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:potion of invisibility"
+msgid ""
+"A potion which confers invisibility on one who consumes it.\n"
+msgstr ""
+"Ένα μαγικό φίλτρο που σε κρύβει από την όραση των άλλων.\n"
+
+#. key: potion of might
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:potion of might"
+msgid ""
+"A potion which greatly increases the power of the drinker's melee attacks.\n"
+msgstr ""
+"Ένα μαγικό φίλτρο που αυξάνει τη δύναμη και την επιθετική ικανότητα αυτού που\n"
+"το πίνει.\n"
+
+#. key: potion of mutation
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:potion of mutation"
+msgid ""
+"A potion which mutates the drinker, removing several mutations then\n"
+"granting a few random mutations, which are likely (but not guaranteed) to be\n"
+"beneficial.\n"
+msgstr ""
+"Ένα μαγικό φίλτρο που σου κάνει πολύ παράξενα πράγματα.\n"
+
+#. key: potion of resistance
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:potion of resistance"
+msgid ""
+"A potion which grants temporary resistance to a variety of harmful effects:\n"
+"fire, cold, electricity, poison, and acid.\n"
+msgstr ""
+"Ένα μαγικό φίλτρο που χαρίζει προσωρινή αντίσταση στα στοιχεία και το\n"
+"δηλητήριο.\n"
+
+#. key: quad damage
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:quad damage"
+msgid ""
+"A mysterious item resembling a rune of some kind. Once evoked, it will make the\n"
+"user glow blue and add a reverb to all sound... and there may be other effects\n"
+"as well.\n"
+msgstr ""
+"Ένα μυστηριώδες αντικείμενο που μοιάζει να είναι κάποιο μαγικό σύμβολο. Όταν\n"
+"χρησιμοποιηθεί, κάνει τον χρήστη να λάμπει μπλε και όλους τους ήχους να\n"
+"αντηχούν. Ίσως να υπάρχουν και άλλες παρενέργειες.\n"
+
+#. key: quarterstaff
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:quarterstaff"
+msgid ""
+"A sturdy wooden pole, meant for fighting.\n"
+msgstr ""
+"Ένα μακρύ ξύλινο κοντάρι, φτιαγμένο για μάχη.\n"
+
+#. key: ring of dexterity
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of dexterity"
+msgid ""
+"A ring that increases the dexterity of its wearer.\n"
+msgstr ""
+"Αυτό το δαχτυλίδι αυξάνει ή μειώνει την επιδεξιότητα αυτού που το φορά, ανάλογα\n"
+"με το βαθμό στο οποίο είναι μαγεμένο.\n"
+
+#. key: ring of evasion
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of evasion"
+msgid ""
+"A ring that makes its wearer more capable of avoiding attacks.\n"
+msgstr ""
+"Αυτό το δαχτυλίδι κάνει αυτόν που το φορά περισσότερο ή λιγότερο ικανό να\n"
+"αποφεύγει επιθέσεις, ανάλογα με το βαθμό στο οποίο είναι μαγεμένο.\n"
+
+#. key: ring of intelligence
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of intelligence"
+msgid ""
+"A ring that increases the intelligence of its wearer.\n"
+msgstr ""
+"Αυτό το δαχτυλίδι αυξάνει η μειώνει την πνευματική ικανότητα αυτού που το φορά,\n"
+"ανάλογα με το βαθμό στον οποίο είναι μαγεμένο.\n"
+
+#. key: ring of magical power
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of magical power"
+msgid ""
+"A ring that increases its wearer's reserves of magical power for so long as it\n"
+"is worn.\n"
+msgstr ""
+"Αυτό το δαχτυλίδι διευρύνει τα αποθέματα μαγικής ενέργειας αυτού που το φορά.\n"
+
+#. key: ring of poison resistance
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of poison resistance"
+msgid ""
+"A ring that protects its wearer from poison.\n"
+msgstr ""
+"Αυτό το δαχτυλίδι προστατεύει από την επίδραση δηλητηρίων.\n"
+
+#. key: ring of protection from cold
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of protection from cold"
+msgid ""
+"A ring that protects its wearer from cold.\n"
+msgstr ""
+"Αυτό το δαχτυλίδι παρέχει προστασία από το ψύχος.\n"
+
+#. key: ring of see invisible
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of see invisible"
+msgid ""
+"A ring that allows its wearer to see invisible things.\n"
+msgstr ""
+"Αυτό το δαχτυλίδι επιτρέπει σε αυτόν που το φορά να βλέπει κάθε τι αόρατο.\n"
+
+#. key: ring of wizardry
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of wizardry"
+msgid ""
+"A ring that increases the success rate of its wearer's magical spells.\n"
+msgstr ""
+"Αυτό το δαχτυλίδι βελτιώνει την ικανότητα αυτού που το φορά να χρησιμοποιεί\n"
+"ξόρκια.\n"
+
+#. key: amulet
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:amulet"
+msgid ""
+"An amulet to be worn as jewellery around the neck, charged with arcane powers\n"
+"of unknown provenance.\n"
+msgstr ""
+"Ένα άγνωστο περιδέραιο ή φυλακτό κάποιου είδους. Παρέχει σχεδόν πάντα\n"
+"ευεργετικές (αν και κάπως μικρές) αλλαγές σε αυτόν που το φορά.\n"
+
+#. key: potion
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:potion"
+msgid ""
+"An unlabelled flask containing a single dose of unknown liquid.\n"
+msgstr ""
+"Ένα άγνωστο φιαλίδιο με κάποιο υγρό.\n"
+
+#. key: ring
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:ring"
+msgid ""
+"A ring charged with arcane forces of unknown provenance, to be worn as jewellery\n"
+"on a finger.\n"
+msgstr ""
+"Ένα άγνωστο δαχτυλίδι. Τα περισσότερα παρέχουν ευεργετικές ιδιότητες σε αυτόν\n"
+"που τα φορά.\n"
+
+#. key: scroll
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:scroll"
+msgid ""
+"A disposable arcane formula inscribed on parchment by a professional scribe or\n"
+"sorcerer. Anyone can evoke the power of the arcane formula by reading it out\n"
+"loud, but the nature of that power is not a priori apparent.\n"
+msgstr ""
+"Ένας άγνωστος πάπυρος καλυμμένος με μαγική γραφή.\n"
+
+#. key: staff
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:staff"
+msgid ""
+"A staff improved with arcane powers of unknown nature.\n"
+msgstr ""
+"Ένα άγνωστο ξύλινο μπαστούνι που επηρεάζει τις μαγικές ικανότητες του χρήστη\n"
+"του.\n"
+
+#. key: wand
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:wand"
+msgid ""
+"An unusually magical sort of stick.\n"
+msgstr ""
+"Ένα άγνωστο ραβδί που εξαπολύει ξόρκια,\n"
+
+#. key: singing sword
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:singing sword"
+msgid ""
+"An enchanted blade which loves nothing more than to sing to its owner, whether\n"
+"they want it to or not.\n"
+msgstr ""
+"Αυτό το μαγεμένο όπλο δεν αγαπά τίποτα περισσότερο από το να τραγουδά στον\n"
+"κάτοχο του, είτε αυτός το θέλει είτε όχι.\n"
+
+#. key: mace of variability
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:mace of variability"
+msgid ""
+"A large mace said to have appeared when Xom grew bored with the predictability\n"
+"of more ordinary instruments of chaos.\n"
+msgstr ""
+"Δεν μπορείς να βασιστείς επάνω του.\n"
+
+#. key: scythe of curses
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:scythe of curses"
+msgid ""
+"A scythe surrounded by an ominous aura of dread. It carries a terrible and\n"
+"ancient curse, which it busily inflicts on both the wielder and their enemies.\n"
+msgstr ""
+"Αυτό το όπλο φέρει μια φρικτή και πολύ ενοχλητική κατάρα.\n"
+
+#. key: sceptre of torment
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:sceptre of torment"
+msgid ""
+"An accursed bone sceptre, created by some unknown hellish power. When used in\n"
+"combat, it causes agonising pain in all those unfortunate enough to gaze upon\n"
+"it, save for the wielder.\n"
+msgstr ""
+"Αυτό το πραγματικά καταραμένο όπλο είναι όργανο της Κόλασης.\n"
+
+#. key: lehudib's crystal spear
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:lehudib's crystal spear"
+msgid ""
+"Presumably this relic led to the invention of the famous spell, or maybe the\n"
+"other way around.\n"
+msgstr ""
+"Υποτίθεται πως αυτό το λείψανο οδήγησε στην εφεύρεση του διάσημου ξορκιού, ή\n"
+"ίσως και να έγινε το αντίστροφο.\n"
+
+#. key: robe of augmentation
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:robe of augmentation"
+msgid ""
+"A variegated robe, woven with enchantments to enhance the wearer's physical and\n"
+"mental abilities. Its creators wove in strands of hair from a hundred different\n"
+"animals, each chosen for the unique strengths it could grant the robe's wearer.\n"
+msgstr ""
+"Μια ρόμπα φτιαγμένη από το καλύτερο μετάξι.\n"
+
+#. key: maxwell's patent armour
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:maxwell's patent armour"
+msgid ""
+"A suit of armour created by the famous inventor Maxwell, providing unparalleled\n"
+"protective qualities at a very affordable price. His unorthodox materials left\n"
+"it with certain shortcomings, but he's yet to have anyone come back for a\n"
+"refund.\n"
+msgstr ""
+"Μια παράξενη πανοπλία.\n"
+
+#. key: asmodeus
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:asmodeus"
+msgid ""
+"Greatest and most cunning of the Lords of Hell, Asmodeus was born when the twin\n"
+"fires of greed and treachery first sparked to life within a mortal's heart.\n"
+"His hideous body is perpetually wreathed in flame.\n"
+msgstr ""
+"Ένας από τους αρχί-δαίμονες που κατοικούν στα βάθη της Κόλασης, τυλιγμένος στις\n"
+"φλόγες.\n"
+
+#. key: cerebov
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:cerebov"
+msgid ""
+"A violent and wrathful demon, Cerebov appears as a giant humanoid covered in\n"
+"shining golden armour and wielding a huge twisted sword.\n"
+msgstr ""
+"Ένας βίαιος και μανιώδης δαίμονας, ο Σερέμποβ μοιάζει με γιγάντιο άνθρωπο που\n"
+"φορά γυαλιστερή χρυσή πανοπλία και κραδαίνει ένα τεράστιο στρεβλωμένο σπαθί.\n"
+
+#. key: chuck
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:chuck"
+msgid ""
+"Chuck the stone giant loves rocks, the bigger the better! Over the years, he\n"
+"has managed to amass quite the collection, including some rare, enchanted ones.\n"
+msgstr ""
+"Ο Τσακ ο γίγαντας των λίθων αγαπά τις πέτρες, όσο μεγαλύτερη τόσο το καλύτερο!\n"
+"Στο πέρασμα των χρόνων, έχει μαζέψει μια εντυπωσιακή συλλογή η οποία περιέχει\n"
+"και μερικές σπάνιες, μαγεμένες πέτρες.\n"
+
+#. key: crazy yiuf
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:crazy yiuf"
+msgid ""
+"A withered old gnoll with a long silver beard, wielding a quarterstaff and\n"
+"wearing a cloak. He looks like a figure from mythology! Wait, is his beard held\n"
+"on to his ears with hooks?\n"
+msgstr ""
+"Ένα μαραμένο γέρικο νολ με μια μακριά ασημένια γενειάδα, κρατά ένα μπαστούνι\n"
+"και φορά ένα μανδύα.  Μοιάζει με μυθολογική μορφή! Για μια στιγμή, η γενειάδα\n"
+"του κρατιέται από τα αυτιά με γάντζους;\n"
+
+#. key: dispater
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:dispater"
+msgid ""
+"Greatest and most ruthless of the Lords of Hell, Dispater was born when first an\n"
+"iron sword drank mortal blood. They despise mortal vanities, the pursuit of\n"
+"‘reason’ and ‘beauty’ - the only art they enjoy is the art of war.\n"
+msgstr ""
+"Ο άρχοντας της Σιδηρής Πόλης Ντις.\n"
+
+#. key: dissolution
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:dissolution"
+msgid ""
+"The Pits of Slime used to be a thriving civilisation, and Dissolution was the\n"
+"prophet of their god. When the city was overtaken by its current residents,\n"
+"only Dissolution survived, for they alone turned faithfully to the Slime God.\n"
+"Dissolution became a tremendous mass of acidic ooze, yet retained their\n"
+"intelligence. They are filled with hatred for anything that can hold a form.\n"
+msgstr ""
+"Οι Λάκκοι της Βλέννας ήταν κάποτε μια αναπτυσσόμενη κοινωνία, και η Διάλυση\n"
+"ήταν η προφήτης του θεού τους. Όταν η πόλη έπεσε από τους τωρινούς της θαμώνες,\n"
+"μόνο η Διάλυση επιβίωσε, γιατί ήταν η μόνη που στράφηκε στη Θεά της Βλέννας. Η\n"
+"Διάλυση μετατράπηκε σε μια μάζα οξικής βλέννας απίστευτης πυκνότητας, αλλά\n"
+"κράτησε την ικανότητα σκέψης της. Είναι γεμάτη μίσος για κάθε τι που μπορεί να\n"
+"διατηρεί σχήμα.\n"
+
+#. key: dowan
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:dowan"
+msgid ""
+"A beautiful but vain deep elf with an aptitude for magic and little else. His\n"
+"skills are the perfect complement of his twin sister Duvessa's fighting prowess.\n"
+"In search of more powerful spells, he journeys to the surface with his sister.\n"
+msgstr ""
+"Ένα όμορφο αλλά ματαιόδοξο ξωτικό με κλίση στην μαγεία και τίποτα άλλο. Οι\n"
+"ικανότητες του συνοδεύουν τέλεια την πολεμική δεινότητα της δίδυμης αδερφής\n"
+"του, Ντουβέσσα.\n"
+
+#. key: joseph
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:joseph"
+msgid ""
+"Looks like a mercenary in a stupid-looking hat.\n"
+msgstr ""
+"Μοιάζει για μισθοφόρος.\n"
+
+#. key: brimstone fiend
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:brimstone fiend"
+msgid ""
+"A huge and powerful demon wreathed in damnation, with great scaly wings. It is\n"
+"one of the most fearsome denizens of any of the Hells.\n"
+msgstr ""
+"Ένας τεράστιος, ισχυρός δαίμονας τυλιγμένος στις φλόγες της Κόλασης, με μεγάλα\n"
+"φολιδωτά φτερά. Ένας από τους πιο τρομακτικούς κατοίκους της Κόλασης.\n"
+
+#. key: kikubaaqudgha
+#: dat/descript/gods.txt
+msgctxt ""
+"textdb:descriptions:kikubaaqudgha"
+msgid ""
+"Kikubaaqudgha is a terrible Demon-God, served by those who wish to indulge in\n"
+"the powers of death. An evil god, Kikubaaqudgha requires worshippers to cause\n"
+"the death and destruction of as many creatures as possible. In exchange,\n"
+"Kikubaaqudgha offers great assistance to the aspiring necromancer: a supply of\n"
+"useful bodies, knowledge of dark magic, and protection against necromantic\n"
+"backlash.\n"
+msgstr ""
+"Η Κίκουμπαακούντγκα είναι μια τρομερή θεότητα-δαίμονας που υπηρετείται από\n"
+"αυτούς που επιθυμούν να αποκτήσουν τις δυνάμεις του θανάτου. Η\n"
+"Κίκουμπαακούντγκα είναι σκοτεινή και ζητά το θάνατο ζωντανών πλασμάτων καθώς\n"
+"και δαιμόνων όσο συχνότερα γίνεται.\n"
+
+#. key: makhleb
+#: dat/descript/gods.txt
+msgctxt ""
+"textdb:descriptions:makhleb"
+msgid ""
+"Makhleb the Destroyer is a fearsome deity of bloodshed and mortification of the\n"
+"flesh. Followers are expected to cleanse others by inflicting suffering and\n"
+"death on them in Makhleb's name. Dedicated followers may also access the raw\n"
+"energies and hell-spawned servants of chaos, so that they may better break the\n"
+"impure world and its false laws for their evil god's glory.\n"
+msgstr ""
+"Ο Μακλέμπ ο Καταστροφέας είναι μια τρομερή θεότητα της αιματοχυσίας και της\n"
+"νέκρωσης της σάρκας. Οι ακόλουθοι του οφείλουν να “εξαγνίζουν” τους υπόλοιπους\n"
+"κάνοντας τους να υποφέρουν και προκαλώντας το θάνατο τους στο όνομα του Μακλέμπ\n"
+"και μπορούν να αποκομίζουν επιπλέον θεία χάρη θυσιάζοντας φρέσκα πτώματα.\n"
+"Αφοσιωμένοι ακόλουθοι μπορούν επίσης να χειρίζονται ωμή ενέργεια και πλάσματα\n"
+"της κόλασης που υπηρετούν το χάος, ώστε να μπορούν ευκολότερα να εξαγνίσουν τον\n"
+"εσφαλμένο κόσμο στο όνομα του σκοτεινού αυτού θεού.\n"
+
+#. key: okawaru
+#: dat/descript/gods.txt
+msgctxt ""
+"textdb:descriptions:okawaru"
+msgid ""
+"Okawaru is a dangerous and powerful god of battle. Followers are expected to\n"
+"constantly prove themselves in combat, and may channel Okawaru's might to\n"
+"enhance their prowess. Okawaru demands that followers prove themselves by their\n"
+"own strength alone, and so worshippers are forbidden from gaining allies by any\n"
+"means. Okawaru pays little heed to easy victories, but will reward worshippers\n"
+"for heroic feats against mighty foes.\n"
+msgstr ""
+"Ο Οκαγουάρου είναι ένας επικίνδυνος και δυνατός θεός της μάχης. Οι ακόλουθοι\n"
+"μπορούν να αποκτήσουν διάφορες δυνάμεις χρήσιμες στη μάχη καθώς και ανταμοιβές,\n"
+"αλλά οφείλουν να αποδεικνύουν συχνά την ικανότητα τους στη μάχη και να\n"
+"θυσιάζουν πτώματα. Ο Οκαγουάρου μισεί όσους προκαλούν ζημιά στους συμμάχους\n"
+"τους.\n"
+
+#. key: the shining one
+#: dat/descript/gods.txt
+msgctxt ""
+"textdb:descriptions:the shining one"
+msgid ""
+"Followers of the Shining One are bound to the code of the honourable warrior,\n"
+"soldiers in their god's eternal crusade against evil. For forsaking dark magic\n"
+"and underhanded tactics, the Shining One rewards them and their allies with the\n"
+"power they need to slay demons and the undead. Especially devout warriors can\n"
+"even call upon angels in times of need. The Shining One's followers can convert\n"
+"to Elyvilon or Zin while keeping some piety.\n"
+msgstr ""
+"Ο Λαμπρός Ένας είναι μια δυνατή θεότητα σε μια σταυροφορία εναντίον του κακού.\n"
+"Οι πιστοί και οι σύμμαχοι τους μπορεί να δεχτούν διάφορες ευλογίες όταν\n"
+"σκοτώνουν σκοτεινά και ανίερα πλάσματα. Επίσης ποτέ δεν πρέπει να χρησιμοποιούν\n"
+"ανίερη ή σκοτεινή μαγεία, και αναμένονται να αποδείχνουν την ηθική τους\n"
+"ανωτερότητα πολεμώντας τίμια. Ο θεός απαιτεί από τους πιστούς του να ψάχνουν\n"
+"συνεχώς τον κόσμο για ίχνη τους σκότους που πρέπει να εξαλειφθούν. Οι πιστοί\n"
+"του Λαμπρού Ενός μπορούν να αλλάξουν την πίστη τους στην Ελύβιλον ή τον Ζιν\n"
+"κρατώντας μερική απο τη θεία χάρη τους.\n"
+
+#. key: vehumet
+#: dat/descript/gods.txt
+msgctxt ""
+"textdb:descriptions:vehumet"
+msgid ""
+"Vehumet is a god of the destructive powers of magic. Followers will gain divine\n"
+"assistance in commanding the hermetic arts, and the most favoured stand to gain\n"
+"access to some of the fearsome spells in Vehumet's library. One's devotion to\n"
+"Vehumet can be proven by the causing of as much carnage and destruction as\n"
+"possible.\n"
+msgstr ""
+"Ο Βεχούμετ είναι θεός των καταστροφικών δυνάμεων της μαγείας. Οι ακόλουθοι του\n"
+"αποκτούν διάφορες χρήσιμες δυνάμεις ώστε να βελτιώσουν τις μαγικές τους\n"
+"ικανότητες, οι πιο εκλεκτοί εκ των οποίων αποκτούν κάποια από τα φοβερότερα\n"
+"ξόρκια απο τη βιβλιοθήκη του Βεχούμετ. Η αφοσίωση κάποιου στον Βεχούμετ μπορεί\n"
+"να αποδειχθεί από την πρόκληση όσο μεγαλύτερων καταστροφών γίνεται.\n"
+
+#. key: yredelemnul
+#: dat/descript/gods.txt
+msgctxt ""
+"textdb:descriptions:yredelemnul"
+msgid ""
+"Cast down by the good gods eons ago, Yredelemnul seeks to despoil their\n"
+"creations and chain all living souls within their inexorable grip. Followers who\n"
+"would conquer in Yredelemnul's name are granted the power to reap an army of the\n"
+"dead and bind powerful souls into eternal service - provided they can sweep\n"
+"across the land in a tide as inexorable as their god.\n"
+msgstr ""
+"Ο Ύρεντελεμνούλ είναι ένας σκοτεινός θεός οι πιστοί του οποίου επιθυμούν να\n"
+"αποκτήσουν εξουσία πάνω στο θάνατο και τα απέθαντα. Αυτοί μπορούν να εγείρουν\n"
+"λεγεώνες απέθαντων για να τους υπηρετήσουν και αποκτούν διάφορες χρήσιμες (αν\n"
+"και αποκρουστικές) ικανότητες. Ο Ύρεντελεμνούλ εκτιμά το θάνατο, αλλά προτιμά\n"
+"τα πτώματα να χρησιμοποιούνται παρά να θυσιάζονται. Η καταστροφή τεχνητών\n"
+"πλασμάτων είναι επίσης κάτι που εκτιμά ιδιαίτερα, μια και δεν είναι ούτε ζώντα,\n"
+"ούτε απέθαντα πλάσματα.\n"
+
+#. key: elven halls
+#: dat/descript/branches.txt
+msgctxt ""
+"textdb:descriptions:elven halls"
+msgid ""
+"The Elven Halls are home to the deep elves, a race that turned their backs on\n"
+"the sun long ago. Their halls are filled with riches, but a deadly welcome\n"
+"awaits any would-be robbers. In their long seclusion, the deep elves have\n"
+"perfected dark sorceries of a power the orcs can only dream of!\n"
+msgstr ""
+"Ενώ τα περισσότερα ξωτικά δεν θα μπορούσαν ποτέ να  κατοικήσουν σε ένα σκοτεινό\n"
+"υπόγειο σύμπλεγμα όπως αυτό, τα ξωτικά των βαθών το έκαναν. Οι αίθουσες τους\n"
+"είναι γεμάτες με πλούτη, αλλά οι περαστικοί καλό θα ήταν να λαμβάνουν υπ' όψιν\n"
+"τους την θρυλική ικανότητα του είδους στην χρήση μαγείας.\n"
+"\n"
+"Τα Δώματα των Ξωτικών αποτελούνται από τρία επίπεδα.\n"
+
+#. key: no ability ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:no ability ability"
+msgid ""
+"If you get this description, it is a bug.\n"
+msgstr ""
+"Αν διαβάζεις αυτό το μήνυμα, κάτι δεν πήγε καλά με τον κώδικα του παιχνιδιού.\n"
+
+#. key: spit poison ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:spit poison ability"
+msgid ""
+"Spits poison at a targeted creature.\n"
+msgstr ""
+"Φτύσε δηλητήριο.\n"
+
+#. key: breathe poison gas ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:breathe poison gas ability"
+msgid ""
+"Breathes a blast of poison gas at a targeted creature.\n"
+msgstr ""
+"Έκπνευσε δηλητηριώδη αέρια.\n"
+
+#. key: evoke berserk rage ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:evoke berserk rage ability"
+msgid ""
+"<Berserk ability>\n"
+msgstr ""
+"Εξοργίσου. Όταν βρίσκεσαι σε κατάσταση οργής, αυξάνεται δραματικά η αντοχή\n"
+"καθώς και η ικανότητα σου να προκαλείς ζημιά σε μάχη εξ' επαφής. Η οργή\n"
+"τελειώνει σύντομα αν δεν σκοτώνεις αντιπάλους, αλλά η διάρκεια μπορεί να\n"
+"επεκταθεί με πολλαπλούς θανάτους αντιπάλων. Ενώ βρίσκεσαι σε αυτή την\n"
+"κατάσταση, δεν έχεις την πνευματική διαύγεια για να κάνεις πολλά πράγματα (όπως\n"
+"για παράδειγμα να αλλάξεις όπλο, να πιεις ένα μαγικό φίλτρο, να χρησιμοποιήσεις\n"
+"μαγικές συσκευές ή μαγεία). Αυτή η οργή ακολουθείται από μεγάλη εξάντληση, κατά\n"
+"τη διάρκεια της οποίας δεν μπορείς να μπεις σε κατάσταση οργής ξανά, και\n"
+"μερικές φορές ίσως και να λιποθυμήσεις.\n"
+
+#. key: evoke invisibility ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:evoke invisibility ability"
+msgid ""
+"Turns the user invisible for a short period of time.\n"
+msgstr ""
+"Γίνε διαφανής για ένα μικρό διάστημα. Όταν γίνεσαι διαφανής, αυξάνονται τα\n"
+"επίπεδα μαγικής μόλυνσης και αυτό μπορεί να σε κάνει να αρχίσεις να λάμπεις.\n"
+
+#. key: end transformation ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:end transformation ability"
+msgid ""
+"Reverts you to your normal form.\n"
+msgstr ""
+"Γύρνα στην κανονική σου μορφή, με μια μικρή καθυστέρηση.\n"
+
+#. key: vitalisation ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:vitalisation ability"
+msgid ""
+"Temporarily provides protection from poison, confusion, petrification, and\n"
+"sickness, as well as the effects of clouds of foul pestilence. Your strength,\n"
+"intelligence and dexterity are also temporarily increased by a degree dependent\n"
+"on Invocations skill.\n"
+msgstr ""
+"Ζήτα θεϊκή δύναμη και στήριξη από τον Zin. Αυτό σε προστατεύει από αρρώστια,\n"
+"δηλητηρίαση, πέτρωμα, σύγχυση και σάπισμα. Επίσης αυξάνει και προφυλάσσει τη\n"
+"Δύναμη, την Επιδεξιότητά και την Ευφυΐα σου.\n"
+
+#. key: sanctuary ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:sanctuary ability"
+msgid ""
+"Transforms the area around the user into a domain of unbreakable law for a short\n"
+"duration. So long as anyone stands within this sanctuary, no harm may be done to\n"
+"them by others, and they may do no harm to others in turn.\n"
+"\n"
+"Beings with hostile intent are unable to enter a sanctuary and those already\n"
+"nearby when it is created will be forced to flee.\n"
+msgstr ""
+"Ζήτα θεϊκό άσυλο για ένα μικρό διάστημα. Ενώ βρίσκεσαι μέσα στο άσυλο, τα\n"
+"τέρατα δεν μπορούν να σου επιτεθούν, αλλά αυτή η προστασία θα πάψει με μιας σαν\n"
+"κάνεις κάποια εχθρική κίνηση.\n"
+
+#. key: cure all mutations ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:cure all mutations ability"
+msgid ""
+"Cures all your mutations — but only once.\n"
+msgstr ""
+"Θεράπευσε όλες σου τις μεταλλάξεις. Μπορεί να χρησιμοποιηθεί μόνο μια φορά.\n"
+
+#. key: divine shield ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:divine shield ability"
+msgid ""
+"Manifests a blindingly bright shield in front of the user. Held aloft by the\n"
+"Shining One's power, it will unerringly block the next several attacks which\n"
+"could be blocked by a mundane shield. Ranged attacks will be reflected and melee\n"
+"attackers have a chance of being briefly blinded by the resulting flash of\n"
+"light.\n"
+"\n"
+"This shield will block only a limited number of attacks before vanishing, with\n"
+"Invocations skill increasing how many.\n"
+msgstr ""
+"Ο Λαμπρός Ένας σου παρέχει μια θεϊκή ασπίδα. Επειδή πηγάζει από μια θεϊκή\n"
+"ικανότητα, δεν επηρεάζεται από τον εξοπλισμό ή τη μορφή σου, επηρεάζεται όμως\n"
+"από την θέληση σου και την ικανότητα σου στη Χρήση Ασπίδων.\n"
+
+#. key: cleansing flame ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:cleansing flame ability"
+msgid ""
+"Invokes a huge blast of divine fury centered on the user, severely damaging\n"
+"undead and demons and dealing damage to all other hostile creatures. The power\n"
+"of the blast is increased by Invocations skill.\n"
+msgstr ""
+"Επικαλέσου ένα ισχυρό χτύπημα θεϊκής οργής επικεντρωμένο σε εσένα, που κάνει\n"
+"μεγάλη ζημιά στους γύρω δαίμονες και στα απέθαντα πλάσματα. Γενικότερα κάνει\n"
+"ζημιά σε όλων των ειδών τους αντιπάλους, ποτέ όμως σε εσένα και τους συμμάχους\n"
+"σου.\n"
+
+#. key: summon divine warrior ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:summon divine warrior ability"
+msgid ""
+"Summons a powerful warrior against evil, either an angel or a daeva. The\n"
+"duration of their assistance is increased by Invocations skill, and glory in\n"
+"battle may lead the Shining One to bless them with an even longer stay.\n"
+msgstr ""
+"Κάλεσε έναν άγγελο ή ντέβα, ισχυρούς πολεμιστές ενάντια στο κακό. Μπορεί να\n"
+"ευλογηθούν από τον Λαμπρό Έναν ώστε να μείνουν για περισσότερο χρόνο στον κόσμο\n"
+"μας.\n"
+
+#. key: bind soul ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:bind soul ability"
+msgid ""
+"Attempts to bind the soul of a living, holy, or demonic being into your eternal\n"
+"service. If the targeted monster is slain before it leaves your sight, it will\n"
+"return as a bound soul, retaining the equipment, spells and abilities it had in\n"
+"life.\n"
+"\n"
+"Only beings who are relatively uninjured may be targeted, and the focus required\n"
+"to keep their soul from escaping will consume 1/3 of the user's current health -\n"
+"returning it only upon slaying them. The attempt will fail entirely if the\n"
+"targeted monster leaves your sight before the process is complete.\n"
+"\n"
+"The bound soul's health is influenced by the user's Invocations skill. It will\n"
+"follow its captor through stairs, and can be recalled from other levels.\n"
+"\n"
+"Only one soul can be bound at a time.\n"
+msgstr ""
+"Μάρκαρε ένα ζωντανό πλάσμα που σκοπεύεις να σκοτώσεις. Όταν αυτό πεθάνει, η\n"
+"ψυχή του θα είναι δική σου.\n"
+"\n"
+"Η σκλαβωμένη αυτή ψυχή διατηρεί τις ικανότητες και τον εξοπλισμό που είχε,\n"
+"καθώς επίσης και τον εξοπλισμό του. Παρ΄ όλα αυτά για να μαρκάρεις ένα πλάσμα,\n"
+"θα πρέπει να μην έχει πάθει πολλή ζημιά και μπορείς να έχεις σκλαβωμένο μόνο\n"
+"ένα πλάσμα. Η διάρκεια της ικανότητας εξαρτάται από την ικανότητα σου στις\n"
+"Επικλήσεις.\n"
+"\n"
+"Οι σκλαβωμένες ψυχές, σε αντίθεση με τα άμυαλα απέθαντα, σε ακολουθούν μεταξύ\n"
+"επιπέδων.\n"
+
+#. key: heroism ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:heroism ability"
+msgid ""
+"Temporarily increases all of your combat skills, both offensive and defensive.\n"
+"The duration is increased by Invocations skill.\n"
+msgstr ""
+"Αύξησε προσωρινά όλες σου τις φυσικές ικανότητες.\n"
+
+#. key: finesse ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:finesse ability"
+msgid ""
+"Greatly increases your combat speed. The duration is increased by Invocations\n"
+"skill.\n"
+msgstr ""
+"Αύξησε δραστικά την ταχύτητα επίθεσης σου, χωρίς απώλειες στην ακρίβεια σου.\n"
+"Αυτή η αφύσικη κατάσταση μπορεί να προκαλέσει μικρά ποσοστά μαγικής μόλυνσης τα\n"
+"οποία αν υπερβούν κάποιο όριο μπορούν να κάνουν κακό στην υγεία σου.\n"
+
+#. key: forget spell ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:forget spell ability"
+msgid ""
+"Removes a known spell from memory, so as to free memory to learn others.\n"
+msgstr ""
+"Ξέχνα ένα από τα ξόρκια σου ώστε να ελευθερώσεις μνήμη για κάποιο καινούριο.\n"
+
+#. key: berserk ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:berserk ability"
+msgid ""
+"Sends the user into a berserk rage. Going berserk temporarily increases health,\n"
+"speed, and damage dealt in melee. It will time out quickly outside of combat,\n"
+"but may be extended by multiple kills. While berserk, almost all actions other\n"
+"than movement and melee combat are prevented. When the rage expires, the user\n"
+"will be slowed and unable to berserk again for a short time.\n"
+msgstr ""
+"Εξοργίσου, αυξάνοντας δραστικά τους πόντους ζωής σου και τη ζημιά στην μάχη\n"
+"σώμα με σώμα. Τελειώνει γρήγορα αν δε σκοτώσεις κάποιον, αλλά η διάρκεια\n"
+"επεκτείνεται όσο σκοτώνεις. Ενώ είσαι εξοργισμένος, δεν μπορείς να κάνεις\n"
+"κάποια πράγματα, όπως; να αλλάξεις όπλο (η να το βγάλεις), να πιεις φίλτρα, να\n"
+"χρησιμοποιήσεις μαγικές συσκευές, η να κάνεις ξόρκια. Αυτή η οργή συνήθως\n"
+"ακολουθείται από μεγάλη εξάντληση, κατά τη διάρκεια της οποίας γίνεσαι αργός\n"
+"και δεν μπορείς να εξοργιστείς ξανά. Ο Trog μπορεί μερικές φορές να σε\n"
+"προστατέψει από αυτά τα προβλήματα.\n"
+
+#. key: brothers in arms ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:brothers in arms ability"
+msgid ""
+"Summons huge angry allies to wreak havoc.\n"
+msgstr ""
+"Κάλεσε τεράστιους εξαγριωμένους συμμάχους για να τα κάνουν γυαλιά-καρφιά.\n"
+
+#. key: purification ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:purification ability"
+msgid ""
+"Purges your body of poison, confusion, slowness, petrification, weakness, and\n"
+"sickness. Any drained maximum health will also be fully restored.\n"
+msgstr ""
+"Αφαίρεσε από το σώμα σου κάθε αρνητική επίδραση όπως αρρώστια, δηλητηρίαση,\n"
+"αργή κίνηση, πέτρωμα, σύγχυση και σάπισμα, και επανέφερε πλήρως τη Δύναμη, την\n"
+"Επιδεξιότητα και την Ευφυΐα σου.\n"
+
+#. key: depart the abyss ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:depart the abyss ability"
+msgid ""
+"Transports you out of the Abyss, returning you to the location from which you\n"
+"entered it.\n"
+msgstr ""
+"Αποχώρησε από την Άβυσσο για το σημείο απ' όπου μπήκες σε αυτή.\n"
+
+#. key: banish ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:banish ability"
+msgid ""
+"Attempts to banish a creature into the Abyss. If the attempt succeeds, you gain\n"
+"some piety and the creature's full experience value. Even creatures that resist\n"
+"are left malmutated and weakened by the brush with the Abyss. Invocations skill\n"
+"makes Banishment harder to resist.\n"
+msgstr ""
+"Αποπειράσου να αφανίσεις ένα πλάσμα στην Άβυσσο.\n"
+
+#. key: corrupt ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:corrupt ability"
+msgid ""
+"Corrupts the current level by unleashing Abyssal energies on it. This will\n"
+"cause the area nearby to change appearance, and will gate in creatures from the\n"
+"Abyss bent on causing destruction. This will not work on levels already\n"
+"corrupted or in the Abyss itself. The size of the effect is increased by\n"
+"Invocations skill.\n"
+msgstr ""
+"Διέφθειρε το επίπεδο στο οποίο βρίσκεσαι, με αποτέλεσμα να εισβάλλουν δαίμονες\n"
+"από την Άβυσσο στην περιοχή οι οποίοι σπέρνουν τυφλά την καταστροφή. Δεν μπορεί\n"
+"να χρησιμοποιηθεί σε ένα επίπεδο που έχει ήδη διαφθαρεί.\n"
+
+#. key: enter the abyss ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:enter the abyss ability"
+msgid ""
+"Transports you to Lugonu's realm instantly. The effort of even using the\n"
+"ability will leave your health depleted.\n"
+msgstr ""
+"Μεταφέρσου άμεσα στον κόσμο της Λουγκόνου... Η χρήση αυτής της ικανότητας είναι\n"
+"τόσο εξαντλητική που χάνεις και κάποια αντοχή και ενέργεια.\n"
+
+#. key: triple draw ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:triple draw ability"
+msgid ""
+"Draws three cards from any deck, and allows you to choose one to play,\n"
+"discarding the other two.\n"
+msgstr ""
+"Τράβα τρεις κάρτες από μια οποιαδήποτε τράπουλα που έχεις στην κατοχή σου,\n"
+"κοίταξε τες και διάλεξε μια για να κρατήσεις πετώντας τις άλλες δύο.\n"
+
+#. key: deal four ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:deal four ability"
+msgid ""
+"Plays four cards from a deck in the time it normally takes to draw a\n"
+"single card.\n"
+msgstr ""
+"Τράβα τέσσερις κάρτες από μια οποιαδήποτε μη σεσημασμένη τράπουλα που έχεις\n"
+"στην κατοχή σου στο χρόνο που κανονικά θα έπαιρνε να τραβήξεις μια. Η υπόλοιπη\n"
+"τράπουλα χάνεται. Αν η τράπουλα δεν έχει αρκετές κάρτες, ο Nemelex θα σου δώσει\n"
+"μια ακόμα, αλλά μπορεί να μη σου αρέσει...\n"
+
+#. key: stack five ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:stack five ability"
+msgid ""
+"Draws five cards from your choice of decks, and allows you to sort them into\n"
+"any order. Subsequently, you can draw these cards in the order you chose.\n"
+"Re-using this ability will discard the current stack.\n"
+msgstr ""
+"Τράβα πέντε κάρτες από μια οποιαδήποτε μη σεσημασμένη τράπουλα που έχεις στην\n"
+"κατοχή σου, χάνοντας τις υπόλοιπες. Κοίταξε τις και βάλε τις σε σειρά.\n"
+"Ακολούθως, μπορείς να τις τραβήξεις όπως ακριβώς τις σημείωσες.\n"
+
+#. key: smiting ability
+#. Preserve [[key]] references exactly.
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:smiting ability"
+msgid ""
+"[[Smiting spell]] The strength of the smiting is increased by Invocations skill.\n"
+"\n"
+"Beogh will not allow you to use this directly against another apostle during a\n"
+"divine trial.\n"
+msgstr ""
+"Χτύπα μέσω θεϊκής δύναμης τον αντίπαλο σου. Δεν χρειάζεται να έχεις καθαρή\n"
+"ορατότητα ως προς τον συγκεκριμένο εχθρό, αρκεί να τον βλέπεις καθαρά.\n"
+
+#. key: bend time ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:bend time ability"
+msgid ""
+"Attempts to slow down everyone adjacent to you. High Invocations skill makes it\n"
+"harder to resist.\n"
+msgstr ""
+"Προσπάθησε να κάνεις όλους όσους βρίσκονται ακριβώς δίπλα σου πιο αργούς.\n"
+"Μεγαλύτερη ικανότητα στις Επικλήσεις θα κάνει δυσκολότερο για τους αντιπάλους\n"
+"το να αντισταθούν.\n"
+
+#. key: temporal distortion ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:temporal distortion ability"
+msgid ""
+"Warps the flow of time, causing monsters to skip forwards in time relative to\n"
+"you.\n"
+msgstr ""
+"Στρέβλωσε την ροή του χρόνου γύρω σου, κάνοντας τους γύρω αντιπάλους σου να\n"
+"μεταφέρονται μερικούς γύρους στο μέλλον, αγνοώντας σε.\n"
+
+#. key: step from time ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:step from time ability"
+msgid ""
+"Removes you completely from the flow of time. Time will pass as it usually does,\n"
+"and monsters will wander away and sometimes even fall back to sleep. After some\n"
+"time has passed, you will return in the same state as the very second you\n"
+"departed.\n"
+"\n"
+"Invocations skill increases the likelihood that your absence will have been so\n"
+"long that alert monsters have fallen asleep again.\n"
+msgstr ""
+"Αφαίρεσε τον εαυτό σου από τη ροή του χρόνου. Γύρω σου όλα συμβαίνουν με τον\n"
+"κανονικό τους ρυθμό, πλάσματα περιφέρονται, πτώματα σαπίζουν, φυτά\n"
+"αναπτύσσονται. Μετά από λίγο επιστρέφεις στο ίδιο σημείο με τα ίδια\n"
+"χαρακτηριστικά ακριβώς όπως τη στιγμή που αποχώρισες.\n"
+
+#. key: slimify ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:slimify ability"
+msgid ""
+"Coats a wielded weapon or your fists with slime, turning the next living or\n"
+"corporeal undead monster hit into a neutral slime.\n"
+msgstr ""
+"Κάλυψε ένα όπλο η τα χέρια σου με γλοιό, μετατρέποντας το επόμενο πλάσμα που θα\n"
+"ακουμπήσεις σε ένα ουδέτερο γλοιώδες πλάσμα. (Δουλεύει μόνο σε ζωντανά και\n"
+"απέθαντα πλάσματα)\n"
+
+#. key: renounce religion ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:renounce religion ability"
+msgid ""
+"Renounces your faith. This will make you leave your god (and usually anger\n"
+"said god).\n"
+msgstr ""
+"Απαρνήσου την πίστη σου. (Αυτό προκαλεί την οργή των περισσοτέρων)\n"
+
+#. key: deep elf
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:deep elf"
+msgid ""
+"Deep Elves have a strong affinity for all kinds of magic, but are very fragile.\n"
+"They regenerate magical power rapidly.\n"
+msgstr ""
+"Τα ξωτικά με τη μεγαλύτερη κλίση στη μαγεία, αλλά και τα πιο εύθραυστα.\n"
+
+#. key: demigod
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:demigod"
+msgid ""
+"Demigods refuse to worship any god, but make up for this with divine attributes\n"
+"and high reserves of health and magic.\n"
+msgstr ""
+"Δεν ακολουθούν ποτέ θεό, αλλά οι Ημίθεοι έχουν θεϊκές ικανότητες και αντοχή.\n"
+
+#. key: demonspawn
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:demonspawn"
+msgid ""
+"Demonspawn are half human, half demon. They acquire strong demonic mutations as\n"
+"they grow.\n"
+msgstr ""
+"Οι Απόγονοι Δαιμόνων είναι μισοί άνθρωποι, μισοί δαίμονες. Αποκτούν δυνατές\n"
+"δαιμονικές μεταλλάξεις καθώς αναπτύσσονται.\n"
+
+#. key: draconian
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:draconian"
+msgid ""
+"Draconians are versatile hybrids. They mature when reaching level 7 and develop\n"
+"a colour.\n"
+msgstr ""
+"Οι Δρακονιανοί είναι πολύπλευρα υβρίδια. Όταν φτάνουν στο επίπεδο 7 ωριμάζουν\n"
+"και αποκτούν το κανονικό τους χρώμα.\n"
+
+#. key: felid
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:felid"
+msgid ""
+"Felids are many-lived sentient cats. They cannot use armour or weapons.\n"
+msgstr ""
+"Αυτά τα αιλουροειδή κατέχουν ευφυΐα, αλλά δεν μπορούν να χρησιμοποιήσουν πολλά\n"
+"αντικείμενα, καθώς επίσης και όπλα και πανοπλίες.\n"
+
+#. key: gargoyle
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:gargoyle"
+msgid ""
+"Made of living stone, Gargoyles have a preternatural affinity for earth magic.\n"
+"They have low health, but their stone bodies are incredibly tough.\n"
+msgstr ""
+"Καμωμένα από πέτρα, τα Γκαργκόιλ έχουν πολύ στενή σχέση με τη γη.\n"
+
+#. key: human
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:human"
+msgid ""
+"Humans are natural explorers. Discovering new places refreshes and invigorates them.\n"
+"They are otherwise completely average.\n"
+msgstr ""
+"Κοινότοποι και μέτριοι.\n"
+
+#. key: tengu
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:tengu"
+msgid ""
+"Tengu are bird-people who love to fight, both with weapons and spells. They are\n"
+"fragile but agile, and eventually learn to fly.\n"
+msgstr ""
+"Ανθρωπόμορφα πτηνά που αρέσκονται στο να πολεμούν με όπλα αλλά και μαγεία.\n"
+"Είναι αρκετά εύθραυστοι, αλλά μαθαίνουν να πετούν αργότερα.\n"
+
+#. key: merfolk
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:merfolk"
+msgid ""
+"Half fish, half human, Merfolk are citizens of both water and land. They are\n"
+"strong combatants, and adept at using magic to assist in battle.\n"
+msgstr ""
+"Μισοί ψάρι, μισοί άνθρωπος οι Άνθρωποι της Θάλασσας είναι κάτοικοι του νερού\n"
+"και της στεριάς.\n"
+
+#. key: minotaur
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:minotaur"
+msgid ""
+"Minotaurs are large muscular humans with bovine heads. They excel at all forms\n"
+"of close and ranged combat.\n"
+msgstr ""
+"Ένα μεγάλος άνδρας με κεφάλι ταύρου. Είναι άριστοι σε κάθε είδους μάχη σώμα με\n"
+"σώμα και με όπλα απόστασης.\n"
+
+#. key: mummy
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:mummy"
+msgid ""
+"Compelled to walk by an ancient curse, Mummies have innate faith and are adept\n"
+"at Necromancy, but learn other skills very slowly. They cannot drink potions.\n"
+msgstr ""
+"Μια απέθαντη μορφή καλυμμένη με επιδέσμους και βαλσαμωτικά υγρά, αναγκασμένες\n"
+"να περιφέρονται από μια αρχαία κατάρα.\n"
+
+#. key: naga
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:naga"
+msgid ""
+"Nagas are hybrids: human from the waist up, with a snake-like tail instead of\n"
+"legs. They move very slowly but are naturally resilient.\n"
+msgstr ""
+"Ένα υβρίδιο, άνθρωπος από το στήθος και πάνω, με έναν μυώδη φολιδωτό κορμό που\n"
+"καταλήγει όπως σε φίδι.\n"
+
+#. key: octopode
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:octopode"
+msgid ""
+"Octopodes are a species of amphibious cephalopods. They can wear eight rings,\n"
+"but almost no armour fits them.\n"
+msgstr ""
+"Ένα είδος αμφίβιων κεφαλόποδων. Μπορούν να φορούν οκτώ δαχτυλίδια αλλά σχεδόν\n"
+"κανένα είδος πανοπλίας.\n"
+
+#. key: spriggan
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:spriggan"
+msgid ""
+"Very small, very frail and very fast, Spriggans are highly competent stabbers\n"
+"and spellcasters.\n"
+msgstr ""
+"Πολύ μικρές, εύθραυστες και γρήγορες. Οι Νεράιδες είναι ικανοί χρήστες της\n"
+"μαγείας και των ύπουλων τακτικών μάχης.\n"
+
+#. key: troll
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:troll"
+msgid ""
+"Trolls are monstrous creatures with powerful claws. They regenerate health\n"
+"rapidly.\n"
+msgstr ""
+"Μεγάλα κτήνη έτοιμα να ξεκάνουν τα πάντα με τα νύχια τους χωρίς δεύτερη σκέψη.\n"
+"Είναι πάντα πεινασμένα.\n"
+
+#. key: air elementalist
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:air elementalist"
+msgid ""
+"Air Elementalists have learned the Shock spell. Their electrical magic can harm\n"
+"groups of foes, while their air spells assist in fighting or fleeing enemies.\n"
+msgstr ""
+"Οι Μάγοι του Αέρα ξεκινούν με το ξόρκι Ηλεκτροσόκ. Αργότερα, το βιβλίο του Αέρα\n"
+"τους παρέχει επιλογές που τους βοηθούν να επιβιώσουν.\n"
+
+#. key: artificer
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:artificer"
+msgid ""
+"Artificers start with a few magic wands and a club. They'll need to find better\n"
+"weapons and armour before their wands run out.\n"
+msgstr ""
+"Οι Τεχνίτες ξεκινούν με μερικές μαγικές συσκευές και είναι ικανοί χρήστες\n"
+"τέτοιων εργαλείων.\n"
+
+#. key: berserker
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:berserker"
+msgid ""
+"Berserkers believe in Trog, the magic-hating god of frenzy. Not much can stop a\n"
+"raging berserker early on, apart from hubris.\n"
+msgstr ""
+"Οι Βάρβαροι πιστεύουν στον Trog, τον θεό της μανίας που μισεί τη μαγεία. Λίγα\n"
+"πράγματα μπορούν να σταματήσουν έναν Βάρβαρο σε κατάσταση οργής στην αρχή,\n"
+"εκτός ίσως της ύβρις.\n"
+
+#. key: chaos knight
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:chaos knight"
+msgid ""
+"Chaos Knights are playthings of the unpredictable Xom, and are subject to the\n"
+"god's constantly changing moods.\n"
+msgstr ""
+"Οι Ιππότες του Χάους είναι παιχνιδάκια του απρόβλεπτου Xom, και είναι έρμαια\n"
+"των συνεχών αλλαγών της διάθεσης του.\n"
+
+#. key: conjurer
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:conjurer"
+msgid ""
+"Conjurers begin with the Magic Dart spell, and can learn other non-elemental\n"
+"spells to reliably blast their foes.\n"
+msgstr ""
+"Οι Μάγοι της Καταστροφής αντιμετωπίζουν τα προβλήματα τους με τη χρήστη μαγείας\n"
+"που επικεντρώνεται στην ωμή δύναμη.\n"
+
+#. key: earth elementalist
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:earth elementalist"
+msgid ""
+"Earth Elementalists know the Sandblast spell, and can later learn more earthen\n"
+"spells suitable for subtle stabbing or brute-force blasting.\n"
+msgstr ""
+"Οι Μάγοι της Γης, ξεκινούν ξέροντας το ξόρκι Αμμοβολή και κουβαλούν μικρές\n"
+"πέτρες για να το κάνουν ισχυρότερο. Περισσότερα γήινα ξόρκια υπάρχουν στο\n"
+"βιβλίο τους της Γεωμαντείας\n"
+
+#. key: enchanter
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:enchanter"
+msgid ""
+"Enchanters know a variety of Hexes that can incapacitate their foes, and are\n"
+"equipped with an enchanted dagger and potions of invisibility.\n"
+msgstr ""
+"Οι Γητευτές χρησιμοποιούν ξόρκια που αχρηστεύουν τους αντιπάλους τους και\n"
+"ξεκινούν με ένα στιλέτο και βελάκια.\n"
+
+#. key: fighter
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:fighter"
+msgid ""
+"Fighters are equipped with armour and shield, as well as a weapon of their\n"
+"choice and potions of might.\n"
+msgstr ""
+"Οι Πολεμιστές είναι εξοπλισμένοι με πανοπλία και ασπίδα, καθώς επίσης και ένα\n"
+"όπλο της επιλογής τους και ένα φίλτρο Δύναμης.\n"
+
+#. key: fire elementalist
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:fire elementalist"
+msgid ""
+"Fire Elementalists have learned the Foxfire spell. Their other starting spells\n"
+"are likewise focused on fiery and explosive destruction.\n"
+msgstr ""
+"Οι Μάγοι της Φωτιάς ξεκινούν με το βιβλίο της Φλόγας και το ξόρκι Πύρινη\n"
+"Γλώσσα. Τα υπόλοιπα ξόρκια στο βιβλίο τους επίσης επικεντρώνονται γύρω από την\n"
+"καταστροφή.\n"
+
+#. key: gladiator
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:gladiator"
+msgid ""
+"Gladiators are ready for the arena with light armour, a weapon of their choice,\n"
+"and a few throwing weapons and nets.\n"
+msgstr ""
+"Οι Μονομάχοι είναι έτοιμοι για την αρένα με ελαφριά πανοπλία, δίχτυα και ένα\n"
+"όπλο της επιλογής τους.\n"
+
+#. key: hedge wizard
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:hedge wizard"
+msgid ""
+"Hedge Wizards are magic generalists, good at using a wide variety of tools to\n"
+"frustrate their foes and gain an edge in the battlefield.\n"
+msgstr ""
+"Οι Μάγοι ξεκινούν με ένα βιβλίο Χαμηλής Μαγείας, το οποίο περιέχει μια μεγάλη\n"
+"γκάμα από ξόρκια. Ξεκινούν με μεγαλύτερες πηγές ενέργειας από όλους τους\n"
+"διαφορετικούς τύπους χαρακτήρα.\n"
+
+#. key: hunter
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:hunter"
+msgid ""
+"Hunters carry a shortbow, light armour and a scroll of butterflies.\n"
+msgstr ""
+"Οι Κυνηγοί μπορούν να επιτίθενται από απόσταση με ένα όπλο απόστασης της\n"
+"επιλογής τους, χωρίς να εξαρτώνται από τη μαγεία.\n"
+
+#. key: ice elementalist
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:ice elementalist"
+msgid ""
+"Ice Elementalists begin with the Freeze spell. Their later spells provide strong\n"
+"offence and defence, but may restrict their movement.\n"
+msgstr ""
+"Οι Μάγοι του Πάγου ξεκινούν με το βιβλίο της Παγωνιάς και το ξόρκι Πάγωμα. Το\n"
+"βιβλίο περιέχει ξόρκια που εξυπηρετούν διάφορους σκοπούς.\n"
+
+#. key: monk
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:monk"
+msgid ""
+"Monks start with a simple weapon of their choice, an orb of light, and a potion\n"
+"of divine ambrosia, and gain additional piety with the first god they worship.\n"
+msgstr ""
+"Οι Ασκητές είναι έτοιμοι να αντιμετωπίσουν τα πάντα στο μπουντρούμι φορώντας\n"
+"μόνο έναν χιτώνα και χρησιμοποιώντας το σώμα τους. Αποκτούν επιπλέον θεία χάρη\n"
+"όταν επιλέξουν τον πρώτο τους θεό.\n"
+
+#. key: necromancer
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:necromancer"
+msgid ""
+"Necromancers start out with the Soul Splinter spell. Eventually, they can turn\n"
+"the dead into allies and use the life force of the living to restore themselves.\n"
+msgstr ""
+"Οι Νεκρομάντες είναι μάγοι ειδικευμένοι στην πρακτική της μαγείας του θανάτου.\n"
+"Ξεκινούν με το ξόρκι Πόνος.\n"
+
+#. key: summoner
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:summoner"
+msgid ""
+"Summoners are able to cast Summon Small Mammal from the start, and begin with\n"
+"spells to summon stronger and more exotic allies in their library.\n"
+msgstr ""
+"Οι Καλεστές ξεκινούν με το βιβλίο των Καλεσμάτων και το ξόρκι Κάλεσμα Μικρών\n"
+"Θηλαστικών.\n"
+
+#. key: wanderer
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:wanderer"
+msgid ""
+"Wanderers start with random equipment and skills.\n"
+msgstr ""
+"Οι Περιπλανώμενοι ξεκινούν με τυχαίο εξοπλισμό και δεξιότητες.\n"
+
+#. key: warper
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:warper"
+msgid ""
+"Warpers start with a weapon of their choice, a scroll of blinking, darts of\n"
+"disjunction, and some Translocation spells in their library.\n"
+msgstr ""
+"Οι Στρεβλωτές ξεκινούν με ένα όπλο της επιλογής τους και έναν πάπυρο άμεσης\n"
+"μετακίνησης. Μπορούν να μάθουν ξόρκια από το βιβλίο των Χωρικών Μετατοπίσεων.\n"
+
+#. key: tutorial intro
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial intro"
+msgid ""
+"You can reread all messages at any time with\n"
+"<input>$cmd[CMD_REPLAY_MESSAGES]</input>. Also, press <input>Space</input>\n"
+"<localtiles> or <input>left click</input> with mouse</localtiles> to clear the\n"
+"<cyan>--more--</cyan> prompts.\n"
+msgstr ""
+"Μπορείς να διαβάσεις ξανά όλα τα μηνύματα ανά πάσα στιγμή με το\n"
+"<input>$cmd[CMD_REPLAY_MESSAGES]</input>. Επίσης, πιέζοντας\n"
+"<input>Space</input> καθαρίζεις τις γραμμές <cyan>--more--</cyan>.\n"
+
+#. key: tutorial1 start
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial1 start"
+msgid ""
+"In this lesson you're going to learn how to move around and explore a level.\n"
+"You can move <localtiles>by clicking somewhere with your <input>Mouse</input>,\n"
+"or </localtiles>with the <input>arrow keys</input>.\n"
+msgstr ""
+"Σε αυτό το μάθημα θα μάθεις πως να κινείσαι και να εξερευνάς επίπεδα. Μπορείς\n"
+"να μετακινηθείς <localtiles> κλικάροντας με το <input>Mouse</input>, ή\n"
+"</localtiles> με τα <input>arrow keys</input>.\n"
+
+#. key: tutorial1 go_on
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial1 go_on"
+msgid ""
+"You're doing great! Now, explore a bit until you reach the next blue square.\n"
+msgstr ""
+"Τα πας φοβερά! Συνέχισε να εξερευνάς μέχρι να φτάσεις στο επόμενο μπλε\n"
+"τετράγωνο.\n"
+
+#. key: tutorial1 downstairs
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial1 downstairs"
+msgid ""
+"When standing on a staircase leading downwards, you can enter the next level\n"
+"with <input>$cmd[CMD_GO_DOWNSTAIRS]</input><localtiles> or with\n"
+"a <input>left click</input> on your character</localtiles>.\n"
+msgstr ""
+"Όταν στέκεσαι σε μια σκάλα που πάει κάτω μπορείς να κατέβεις στο επόμενο\n"
+"επίπεδο με το <input>$cmd[CMD_GO_DOWNSTAIRS]</input><localtiles> ή κάνοντας\n"
+"<input>Shift-Click</input> πάνω στον χαρακτήρα σου </localtiles>.\n"
+
+#. key: tutorial1 autoexplore
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial1 autoexplore"
+msgid ""
+"Exploring manually can get tedious after a while, so you might want to let that\n"
+"happen automatically. Try it by pressing <input>$cmd[CMD_EXPLORE]</input>\n"
+"<localtiles>, or by clicking on 'autoexplore', the first button in the command\n"
+"bar below the minimap.</localtiles>.\n"
+msgstr ""
+"Η εξερεύνηση μπορεί να γίνει κοπιαστική, οπότε ίσως να θες να την κάνεις\n"
+"αυτόματα. Δοκίμασε την πιέζοντας <input>$cmd[CMD_EXPLORE]</input>.\n"
+
+#. key: tutorial1 exclusion
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial1 exclusion"
+msgid ""
+"Some dangerous ground is marked with <w>exclusions</w>. Autotravel\n"
+"<localtiles>(including <input>mouseclick</input>!) </localtiles>will not lead\n"
+"you into exclusions. Instead you will automatically stop.\n"
+"\n"
+"However, autoexplore will move you safely around exclusions: so, you can safely\n"
+"continue by pressing <input>$cmd[CMD_EXPLORE]</input>.\n"
+msgstr ""
+"Μερικά επικίνδυνα σημεία μαρκάρονται με <w>exclusions</w>. Η αυτόματη\n"
+"εξερεύνηση <localtiles> (συμπεριλαμβανόμενης και αυτής με\n"
+"<input>mouseclick</input>!) </localtiles> δεν σε οδηγεί μέσα σε αυτά, αντί\n"
+"αυτού σταματάς αυτόματα.\n"
+"\n"
+"Παρ' όλα αυτά η αυτόματη εξερεύνηση θα σε μετακινήσει με ασφάλεια γύρω από τα\n"
+"μαρκαρισμένα σημεία ώστε να μπορείς να συνεχίσεις πιέζοντας το\n"
+"<input>$cmd[CMD_EXPLORE]</input>.\n"
+
+#. key: tutorial1 autoexplore_announce
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial1 autoexplore_announce"
+msgid ""
+"Autoexplore will stop when you first see items or dungeon features, like these\n"
+"stairs. To travel directly to the stairs, you can\n"
+"<localtiles><input>click</input> on them; or you can </localtiles>press\n"
+"<input>$cmd[CMD_DISPLAY_MAP]</input> to enter the map overview, then\n"
+"<input><<</input> to move the cursor to the nearest up-stairs, and\n"
+"<input>Enter</input> to go there.\n"
+msgstr ""
+"Η αυτόματη εξερεύνηση σταματά όταν συναντάς σημαντικά σημεία και αντικείμενα.\n"
+"Για να πας απευθείας σε κάποιες σκάλες που θες, μπορείς να κάνεις <localtiles>\n"
+"<input>click</input> σε αυτές ή </localtiles> να πιέσεις\n"
+"<input>$cmd[CMD_DISPLAY_MAP] << Enter</input>.\n"
+
+#. key: tutorial1 tutorial_end
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial1 tutorial_end"
+msgid ""
+"Congratulations! You've completed the first lesson!\n"
+"\n"
+"To exit the tutorial, simply go up these stairs with\n"
+"<input>$cmd[CMD_GO_UPSTAIRS]</input><localtiles> or by\n"
+"<input>left clicking</input> on your character</localtiles>. Confirm the\n"
+"resulting prompt with an uppercase <input>Y</input>.\n"
+msgstr ""
+"Συγχαρητήρια! Πέρασες το πρώτο μάθημα επιτυχώς!\n"
+"\n"
+"Για να φύγεις από αυτό το μάθημα, ανέβα τα σκαλιά με το\n"
+"<input>$cmd[CMD_GO_UPSTAIRS]</input><localtiles> ή κάνοντας\n"
+"<input>Shift-clicking</input> στον χαρακτήρα σου</localtiles>. Επικύρωσε την\n"
+"απόφαση σου με κεφαλαίο <input>Y</input>.\n"
+
+#. key: tutorial1 newlevel
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial1 newlevel"
+msgid ""
+"A new level! To begin with, head over to that door to the right.\n"
+"\n"
+"Also, remember: You can reread old messages with\n"
+"<input>$cmd[CMD_REPLAY_MESSAGES]</input>.\n"
+msgstr ""
+"Ένα νέο επίπεδο! Για να αρχίσεις, προχώρα έως την πόρτα στα δεξιά.\n"
+"\n"
+"Θυμήσου πως μπορείς να διαβάσεις παλιά μηνύματα με το\n"
+"<input>$cmd[CMD_REPLAY_MESSAGES]</input>.\n"
+
+#. key: tutorial1 door
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial1 door"
+msgid ""
+"You can open a closed door by walking into it.\n"
+msgstr ""
+"Μπορείς να ανοίξεις μια κλειστή πόρτα βαδίζοντας προς το μέρος της.\n"
+
+#. key: tutorial1 water
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial1 water"
+msgid ""
+"Note how you can move through shallow but not through deep water.\n"
+msgstr ""
+"Πρόσεξε πως μπορείς να κινείσαι στο ρηχό αλλά όχι στο βαθύ νερό.\n"
+
+#. key: tutorial1 upstairs
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial1 upstairs"
+msgid ""
+"When standing on a staircase leading upwards, you can enter the previous level\n"
+"with <input>$cmd[CMD_GO_UPSTAIRS]</input><localtiles> or by\n"
+"<input>left clicking</input> on your character</localtiles>.\n"
+msgstr ""
+"Όταν στέκεσαι σε μια σκάλα που πάει επάνω μπορείς να ανέβεις στο προηγούμενο\n"
+"επίπεδο με το <input>$cmd[CMD_GO_DOWNSTAIRS]</input><localtiles> ή κάνοντας\n"
+"<input>Shift-Click</input> πάνω στον χαρακτήρα σου </localtiles>.\n"
+
+#. key: tutorial2 start
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial2 start"
+msgid ""
+"This lesson will teach you about monsters and fighting. First, we need a\n"
+"weapon! Go and grab the one lying over there.\n"
+msgstr ""
+"Αυτό το μάθημα θα σε διδάξει για τα τέρατα και πως να μάχεσαι. Πρώτα, θα\n"
+"χρειαστούμε ένα όπλο! Πήγαινε μάζεψε εκείνο εκεί πέρα.\n"
+
+#. key: tutorial2 melee
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial2 melee"
+msgid ""
+"To attack a monster with your bare hands or wielded weapon, simply walk into\n"
+"it.\n"
+msgstr ""
+"Για να επιτεθείς σε ένα τέρας με τις γροθιές σου ή το όπλο σου, απλώς βάδισε\n"
+"προς το μέρος του.\n"
+
+#. key: tutorial2 resting
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial2 resting"
+msgid ""
+"Very good! You can heal by resting with <input>$cmd[CMD_REST]</input>\n"
+"<localtiles>, or by clicking the 'rest' button in the command bar below the\n"
+"minimap</localtiles>. This will make you rest until your health is full, but\n"
+"will be interrupted by important events.\n"
+msgstr ""
+"Μια χαρά! Μπορείς να αναπληρώσεις χαμένους πόντους ζωής ξεκουράζοντας τον\n"
+"χαρακτήρα σου με το <input>$cmd[CMD_REST]</input>. Ο χαρακτήρας θα ξεκουραστεί\n"
+"για 100 γύρους αλλά τυχόν σημαντικά γεγονότα θα τον διακόψουν.\n"
+
+#. key: tutorial2 tutorial_end
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial2 tutorial_end"
+msgid ""
+"Congratulations! You've survived your first batch of monsters! To exit the\n"
+"tutorial, simply go down these stairs.\n"
+msgstr ""
+"Συγχαρητήρια! Επιβίωσες την πρώτη σου επαφή με τέρατα! Για να τελειώσει αυτό το\n"
+"μάθημα, κατέβα τις σκάλες.\n"
+
+#. key: tutorial5 start
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial5 start"
+msgid ""
+"In this lesson you're going to learn about gods and how to use their powers.\n"
+msgstr ""
+"Σε αυτό το μάθημα θα μάθεις για τους θεούς και πως να χρησιμοποιείς τις\n"
+"δυνάμεις τους.\n"
+
+#. key: tutorial5 piety_on_kill
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial5 piety_on_kill"
+msgid ""
+"Some gods really like it if you kill monsters in their name. Let the slaughter\n"
+"begin!\n"
+msgstr ""
+"Κάποιοι θεοί εκτιμούν πολύ το να σκοτώνεις τέρατα στο όνομα τους. Ας αρχίσει η\n"
+"σφαγή!\n"
+
+#. key: tutorial5 berserk2
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial5 berserk2"
+msgid ""
+"Berserk is also really useful against multiple enemies — as long as you don't\n"
+"run out of steam in-between.\n"
+msgstr ""
+"Η οργή είναι πολύ χρήσιμη ενάντια σε πολλούς αντιπάλους, αρκεί να μην τελειώσει\n"
+"πριν τους κανονίσεις.\n"
+

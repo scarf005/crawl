@@ -1,0 +1,914 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: crawl-data\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+#. key: animal skin
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:animal skin"
+msgid ""
+"A large piece of thick skin covered in fur, cut from the corpse of an animal\n"
+"and worn as a primitive garment. It offers rudimentary protection against harm,\n"
+"but, having never been tanned, it carries a light stench of rotting flesh.\n"
+msgstr ""
+"Pele de um animal.\n"
+
+#. key: bardiche
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:bardiche"
+msgid ""
+"A long pole with an enormous, cleaving blade on one end.\n"
+msgstr ""
+"Uma haste longa com uma enorme lâmina cortante em uma ponta.\n"
+
+#. key: book of cantrips
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of cantrips"
+msgid ""
+"A book containing a small selection of very basic magic spells, intended for\n"
+"beginners who wish to learn the rudiments of one of the featured magical\n"
+"schools.\n"
+msgstr ""
+"Um livro de magia.\n"
+
+#. key: book of conjurations
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of conjurations"
+msgid ""
+"A book containing an introduction to the destructive magical arts of\n"
+"Conjurations.\n"
+msgstr ""
+"Um livro de magia.\n"
+
+#. key: book of debilitation
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of debilitation"
+msgid ""
+"A spellbook containing spells known for having a particularly unpleasant\n"
+"effect on their victims. It's considered something of a faux pas in the\n"
+"wizarding community to be seen with this book in one's collection.\n"
+msgstr ""
+"Um livro de magia.\n"
+
+#. key: book of dreams
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of dreams"
+msgid ""
+"The somniloquent utterings of a famed mystic, using uniquely bizarre imagery\n"
+"and cryptic digressions to describe spells drawn from the mystic's visions.\n"
+msgstr ""
+"Um livro translúcido; a luz reflete de forma estranha na sua superfície.\n"
+
+#. key: book of fixed level
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of fixed level"
+msgid ""
+"A book of magic spells.\n"
+msgstr ""
+"Um livro de magias.\n"
+
+#. key: book of fixed theme
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of fixed theme"
+msgid ""
+"A book of magic spells.\n"
+msgstr ""
+"Um livro de magias.\n"
+
+#. key: book of hexes
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of hexes"
+msgid ""
+"A spellbook containing an assortment of powerful Hexes, which sparkles and\n"
+"shimmers as the pages are flipped.\n"
+msgstr ""
+"Um livro de magia.\n"
+
+#. key: book of necromancy
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of necromancy"
+msgid ""
+"A macabre book containing basic Necromancy spells. Readers are recommended to\n"
+"wear a pair of gloves they don't mind disposing of afterward.\n"
+msgstr ""
+"Um tomo empoeirado de magia proibida.\n"
+
+#. key: book of power
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of power"
+msgid ""
+"A book of powerful and destructive magic spells, rumbling and shuddering with\n"
+"barely-contained energies.\n"
+msgstr ""
+"Um livro de magia.\n"
+
+#. key: book of spatial translocations
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of spatial translocations"
+msgid ""
+"A basic spellbook on the magical field of Translocations. Many would-be mages\n"
+"have seen it disappear just as they needed it most.\n"
+msgstr ""
+"Um livro de magia.\n"
+
+#. key: book of the warp
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of the warp"
+msgid ""
+"A book of advanced Translocations spells, written by a particularly\n"
+"misanthropic mage. After its completion, they were never seen again, which may\n"
+"or may not have been the point.\n"
+msgstr ""
+"Um livro de magia.\n"
+
+#. key: book of unlife
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of unlife"
+msgid ""
+"An unholy book describing a variety of magical methods for the creation and\n"
+"command of undead servants.\n"
+msgstr ""
+"Um livro de magia cheio de runas para controlar os mortos.\n"
+
+#. key: buckler
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:buckler"
+msgid ""
+"A small piece of wood and metal, to be strapped on one arm for defence.\n"
+msgstr ""
+"Um escudo pequeno.\n"
+
+#. key: chain mail
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:chain mail"
+msgid ""
+"A suit of armour made entirely out of tiny metal rings.\n"
+msgstr ""
+"Um traje feito de anéis de metal entrelaçados.\n"
+
+#. key: cloak
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:cloak"
+msgid ""
+"A cloth cloak.\n"
+msgstr ""
+"Uma capa de tecido.\n"
+
+#. key: corpse
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:corpse"
+msgid ""
+"A corpse. Useless and dead.\n"
+msgstr ""
+"Um cadáver. Você pode talhá-lo para obter nacos de carne comestível.\n"
+
+#. key: crystal plate armour
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:crystal plate armour"
+msgid ""
+"An incredibly heavy but extremely effective suit of crystalline armour.\n"
+msgstr ""
+"Uma armadura de cristal inacreditavelmente pesada, mas extremamente eficiente.\n"
+
+#. key: decaying skeleton
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:decaying skeleton"
+msgid ""
+"A decaying skeleton.\n"
+msgstr ""
+"Um esqueleto em decomposição.\n"
+
+#. key: demon blade
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:demon blade"
+msgid ""
+"A terrible weapon, forged in the fires of Hell.\n"
+msgstr ""
+"Uma arma terrível, forjada no fogo do Inferno.\n"
+
+#. key: demon trident
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:demon trident"
+msgid ""
+"A terrible three-pronged weapon, moulded by fire and brimstone.\n"
+msgstr ""
+"Uma arma terrível, modelada por fogo e enxofre.\n"
+
+#. key: demon whip
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:demon whip"
+msgid ""
+"A terrible weapon, woven in the depths of the inferno.\n"
+msgstr ""
+"Uma arma terrível, tramada nas profundezas do Inferno.\n"
+
+#. key: eveningstar
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:eveningstar"
+msgid ""
+"The opposite of a morningstar. A balanced mace with a long shaft and a metal\n"
+"head covered in lethal spikes.\n"
+msgstr ""
+"O oposto de uma maça-estrela.\n"
+
+#. key: giant spiked club
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:giant spiked club"
+msgid ""
+"A giant lump of wood with sharp spikes at one end.\n"
+msgstr ""
+"Uma tora de madeira gigante com espinhos afiados em um extremo.\n"
+
+#. key: glaive
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:glaive"
+msgid ""
+"A pole with a large, heavy blade on one end.\n"
+msgstr ""
+"Uma haste com uma lâmina grande e pesada em uma ponta.\n"
+
+#. key: gold piece
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:gold piece"
+msgid ""
+"A pile of glittering gold coins.\n"
+msgstr ""
+"Uma pilha de moedas de ouro reluzentes.\n"
+
+#. key: great mace
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:great mace"
+msgid ""
+"An enormous metal war club, of great cumbrousness.\n"
+msgstr ""
+"Uma maça grande e pesada.\n"
+
+#. key: helmet
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:helmet"
+msgid ""
+"A piece of metal headgear.\n"
+msgstr ""
+"Uma peça de armadura para a cabeça.\n"
+
+#. key: javelin
+#. Preserve {{ lua }} delimiters exactly.
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:javelin"
+msgid ""
+"A lightweight spear, designed for throwing. It will pass through the targets it\n"
+"hits, potentially hitting all targets in its path until it reaches maximum\n"
+"range.\n"
+"{{\n"
+"    if you.race() == \"Kobold\" or you.race() == \"Spriggan\" then\n"
+"        return \"Unfortunately, it is too long and awkward for you to use.\"\n"
+"    end\n"
+"}}\n"
+msgstr ""
+"Esta lança leve foi projetada para ser arremessada e causar muito dano.\n"
+"{{\n"
+"    if you.race() == \"Halfling\"\n"
+"        or you.race() == \"Kobold\"\n"
+"        or you.race() == \"Spriggan\"\n"
+"    then\n"
+"        return \"Infelizmente, ela é muito longa e desajeitada para que você.\"\n"
+"    else\n"
+"        return \"\"\n"
+"    end\n"
+"}}\n"
+
+#. key: large rock
+#. Preserve {{ lua }} delimiters exactly.
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:large rock"
+msgid ""
+"A very large and very heavy stone. {{\n"
+"    if you.race() == \"Ogre\"\n"
+"       or you.race() == \"Troll\"\n"
+"   then\n"
+"       return \"\"\n"
+"   else\n"
+"       return \"Only large creatures are capable of throwing it.\"\n"
+"   end\n"
+"}}\n"
+msgstr ""
+"Uma pedra muito grande e muito pesada. {{\n"
+"    if you.race() == \"Ogre\"\n"
+"       or you.race() == \"Troll\"\n"
+"       or you.race() == \"Formicid\"\n"
+"   then\n"
+"       return \"\"\n"
+"   else\n"
+"       return \"Força extraordinária é necessária para se quer carregar uma\n"
+"dessas, e \" ..\n"
+"              \"apenas criaturas grandes são capazes de arremessá-la.\"\n"
+"   end\n"
+"}}\n"
+
+#. key: leather armour
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:leather armour"
+msgid ""
+"A suit made from layers of tanned animal hide. It provides basic protection\n"
+"with almost no hindrance to spellcasting or stealthy movement.\n"
+msgstr ""
+"Um traje feito de couro enrijecido.\n"
+
+#. key: pair of boots
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:pair of boots"
+msgid ""
+"A pair of boots. They are worn on the feet, and cover all but the largest\n"
+"hooves and talons.\n"
+msgstr ""
+"Um par de botas.\n"
+
+#. key: pair of gloves
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:pair of gloves"
+msgid ""
+"A pair of gloves. They are worn on the hands, and cover all but the largest\n"
+"claws.\n"
+msgstr ""
+"Um par de luvas.\n"
+
+#. key: quarterstaff
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:quarterstaff"
+msgid ""
+"A sturdy wooden pole, meant for fighting.\n"
+msgstr ""
+"Uma haste de madeira robusta feita para combate.\n"
+
+#. key: ring of magical power
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of magical power"
+msgid ""
+"A ring that increases its wearer's reserves of magical power for so long as it\n"
+"is worn.\n"
+msgstr ""
+"Este anel aumenta as reservas de poder mágico daquele que o veste.\n"
+
+#. key: ring of protection from cold
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of protection from cold"
+msgid ""
+"A ring that protects its wearer from cold.\n"
+msgstr ""
+"Este anel oferece proteção contra o frio.\n"
+
+#. key: ring of see invisible
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of see invisible"
+msgid ""
+"A ring that allows its wearer to see invisible things.\n"
+msgstr ""
+"Este anel permite ao usuário ver aquelas coisas ocultadas magicamente.\n"
+
+#. key: rune of zot
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:rune of zot"
+msgid ""
+"A charm which allows entry into the Realm of Zot.\n"
+msgstr ""
+"Um talismã que permite acesso ao domínio de Zot.\n"
+
+#. key: scale mail
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scale mail"
+msgid ""
+"A leather suit covered with metal plates attached to each other in overlapping\n"
+"rows to provide full protection, but at the cost of reduced freedom of\n"
+"movement.\n"
+msgstr ""
+"Uma armadura de couro coberta de pequenas placas de metal.\n"
+
+#. key: scythe
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scythe"
+msgid ""
+"A farm implement, usually only used by untrained mobs in combat. In practice,\n"
+"it's quite similar to a halberd.\n"
+msgstr ""
+"Uma ferramenta do campo, normalmente inútil em combate.\n"
+
+#. key: staff of conjuration
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:staff of conjuration"
+msgid ""
+"A staff that increases the power of conjurations cast by its wielder. If the\n"
+"wielder is skilled in Evocations and Conjurations, they can blast those they\n"
+"strike with pure energy.\n"
+msgstr ""
+"Este cajado aumenta o poder das magias de conjuração lançadas pelo seu usuário.\n"
+
+#. key: stone
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:stone"
+msgid ""
+"A small chunk of dense but otherwise unremarkable natural mineral. It can be\n"
+"thrown to cause minor damage.\n"
+msgstr ""
+"Uma pedra. Pode ser arremessada à mão ou com uma funda.\n"
+
+#. key: swamp dragon scales
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:swamp dragon scales"
+msgid ""
+"The scales of a swamp dragon. It confers resistance to poison on its wearer.\n"
+msgstr ""
+"Uma armadura mágica feita das escamas de um dragão do pântano, que confere\n"
+"resistência a veneno ao usuário.\n"
+
+#. key: whip
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:whip"
+msgid ""
+"A long plaited strip of leather. Originally developed for use in disagreements\n"
+"with cattle, this simple weapon is now widely used to settle differences\n"
+"between all sorts of creatures.\n"
+msgstr ""
+"Um chicote.\n"
+
+#. key: amulet
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:amulet"
+msgid ""
+"An amulet to be worn as jewellery around the neck, charged with arcane powers\n"
+"of unknown provenance.\n"
+msgstr ""
+"Um talismã para ser usado como joia em volta do pescoço, carregado com poderes\n"
+"arcanos de origem desconhecida.\n"
+
+#. key: potion
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:potion"
+msgid ""
+"An unlabelled flask containing a single dose of unknown liquid.\n"
+msgstr ""
+"Uma pequena garrafa com um líquido.\n"
+
+#. key: ring
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:ring"
+msgid ""
+"A ring charged with arcane forces of unknown provenance, to be worn as jewellery\n"
+"on a finger.\n"
+msgstr ""
+"Um talismã carregado com forças arcanas de origem desconhecida a ser vestido\n"
+"como uma joia em um dedo.\n"
+
+#. key: scroll
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:scroll"
+msgid ""
+"A disposable arcane formula inscribed on parchment by a professional scribe or\n"
+"sorcerer. Anyone can evoke the power of the arcane formula by reading it out\n"
+"loud, but the nature of that power is not a priori apparent.\n"
+msgstr ""
+"Um pergaminho de papel coberto em escritura mágica.\n"
+
+#. key: staff
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:staff"
+msgid ""
+"A staff improved with arcane powers of unknown nature.\n"
+msgstr ""
+"Um bastão imbuído em poderes arcanos de natureza desconhecida.\n"
+
+#. key: wand
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:wand"
+msgid ""
+"An unusually magical sort of stick.\n"
+msgstr ""
+"Uma vareta. Quem sabe ela seja mágica.\n"
+
+#. key: kikubaaqudgha
+#: dat/descript/gods.txt
+msgctxt ""
+"textdb:descriptions:kikubaaqudgha"
+msgid ""
+"Kikubaaqudgha is a terrible Demon-God, served by those who wish to indulge in\n"
+"the powers of death. An evil god, Kikubaaqudgha requires worshippers to cause\n"
+"the death and destruction of as many creatures as possible. In exchange,\n"
+"Kikubaaqudgha offers great assistance to the aspiring necromancer: a supply of\n"
+"useful bodies, knowledge of dark magic, and protection against necromantic\n"
+"backlash.\n"
+msgstr ""
+"Kikubaaqudgha é um terrível deus-demônio, seguido por aqueles que desejam\n"
+"saborear os poderes da morte. Kikubaaqudgha é maligno e exige o sacrifício de\n"
+"criaturas vivas e demônios com a maior frequência possível.\n"
+
+#. key: lugonu
+#: dat/descript/gods.txt
+msgctxt ""
+"textdb:descriptions:lugonu"
+msgid ""
+"Banished to the chaotic realm of the Abyss, Lugonu the Unformed seeks followers\n"
+"to spread bloodshed and corruption in the overworld. Those who gain Lugonu's\n"
+"favour will be granted some of the power of the Abyss itself, allowing them to\n"
+"call forth eldritch horrors, and even to travel between the overworld and the\n"
+"Abyss at will.\n"
+msgstr ""
+"Lugonu, o Não-Formado, deleita-se com o caos do Abismo. Seus seguidores são\n"
+"enviados para causar derramamento de sangue e corrupção nos mundos acima, e\n"
+"devem fazê-lo constantemente para ganhar o favor desde deus maligno.\n"
+
+#. key: makhleb
+#: dat/descript/gods.txt
+msgctxt ""
+"textdb:descriptions:makhleb"
+msgid ""
+"Makhleb the Destroyer is a fearsome deity of bloodshed and mortification of the\n"
+"flesh. Followers are expected to cleanse others by inflicting suffering and\n"
+"death on them in Makhleb's name. Dedicated followers may also access the raw\n"
+"energies and hell-spawned servants of chaos, so that they may better break the\n"
+"impure world and its false laws for their evil god's glory.\n"
+msgstr ""
+"Makhleb, o Destruidor, é o temível deus do derramamento de sangue e da\n"
+"mortificação da carne. Espera-se dos seus seguidores que purifiquem os outros\n"
+"por meio do sofrimento e da morte em nome de Makhleb. Poderão receber maior\n"
+"atenção do deus destruindo os recém mortos. Seguidores dedicados têm acesso às\n"
+"energias brutas e servos do caos vindos do inferno para que possam romper o\n"
+"mundo impuro as suas leis falsas melhor para a glória deste deus maligno.\n"
+
+#. key: okawaru
+#: dat/descript/gods.txt
+msgctxt ""
+"textdb:descriptions:okawaru"
+msgid ""
+"Okawaru is a dangerous and powerful god of battle. Followers are expected to\n"
+"constantly prove themselves in combat, and may channel Okawaru's might to\n"
+"enhance their prowess. Okawaru demands that followers prove themselves by their\n"
+"own strength alone, and so worshippers are forbidden from gaining allies by any\n"
+"means. Okawaru pays little heed to easy victories, but will reward worshippers\n"
+"for heroic feats against mighty foes.\n"
+msgstr ""
+"Okawaru é o perigoso e poderoso deus da batalha. Seguidores poderão ganhar uma\n"
+"série de poderes úteis em combate, bem como várias outras recompensas, mas\n"
+"devem provar sua devoção constantemente com batalhas e sacrifício de cadáveres.\n"
+"Okawaru rejeita aqueles que ferem os seus aliados.\n"
+
+#. key: sif muna
+#: dat/descript/gods.txt
+msgctxt ""
+"textdb:descriptions:sif muna"
+msgid ""
+"Sif Muna the Loreminder is a contemplative but powerful deity, served by those\n"
+"who seek magical knowledge. Followers who triumph over their foes can call upon\n"
+"the Loreminder for magical power and the ability to cast spells beyond their\n"
+"magical training. The devout are rewarded with a supply of spellbooks taken\n"
+"directly from Sif Muna's legendary library.\n"
+msgstr ""
+"Sif Muna, o Guardião do Conhecimento, é uma deidade contemplativa, porém\n"
+"poderosa, seguida por aqueles que buscam conhecimento mágico. O Guardião do\n"
+"Conhecimento aprecia o treinamento das habildades mágicas.\n"
+
+#. key: the shining one
+#: dat/descript/gods.txt
+msgctxt ""
+"textdb:descriptions:the shining one"
+msgid ""
+"Followers of the Shining One are bound to the code of the honourable warrior,\n"
+"soldiers in their god's eternal crusade against evil. For forsaking dark magic\n"
+"and underhanded tactics, the Shining One rewards them and their allies with the\n"
+"power they need to slay demons and the undead. Especially devout warriors can\n"
+"even call upon angels in times of need. The Shining One's followers can convert\n"
+"to Elyvilon or Zin while keeping some piety.\n"
+msgstr ""
+"O Reluzente é uma deidade poderosa em uma cruzada contra o mal. Seus seguidores\n"
+"e aliados recebem várias bênçãos ao destruírem impiedosamente criaturas\n"
+"malignas e profanas. Os seus adoradores jamais deverão usar magias profanas ou\n"
+"malignas, e espera-se que provem a sua superioridade moral lutando de forma\n"
+"honrada. O deus exige dos seus seguidores que explorem o mundo, examinando\n"
+"todos os seus habitantes em busca do mal que deve ser erradicado. Os seguidores\n"
+"d'O Reluzente podem converter-se para Elyvilon ou Zin sem perder toda a sua fé.\n"
+
+#. key: vehumet
+#: dat/descript/gods.txt
+msgctxt ""
+"textdb:descriptions:vehumet"
+msgid ""
+"Vehumet is a god of the destructive powers of magic. Followers will gain divine\n"
+"assistance in commanding the hermetic arts, and the most favoured stand to gain\n"
+"access to some of the fearsome spells in Vehumet's library. One's devotion to\n"
+"Vehumet can be proven by the causing of as much carnage and destruction as\n"
+"possible.\n"
+msgstr ""
+"Vehumet é o deus dos poderes destrutivos da magia. Seguidores ganham vários\n"
+"poderes úteis para melhorar seu domínio sobre as artes herméticas, e os\n"
+"favoritos podem vir a ganhar acesso a algumas das magias mais temíveis da\n"
+"biblioteca de Vehumet. A devoção a Vehumet pode ser provada causando o máximo\n"
+"de destruição e carnificina possível.\n"
+
+#. key: yredelemnul
+#: dat/descript/gods.txt
+msgctxt ""
+"textdb:descriptions:yredelemnul"
+msgid ""
+"Cast down by the good gods eons ago, Yredelemnul seeks to despoil their\n"
+"creations and chain all living souls within their inexorable grip. Followers who\n"
+"would conquer in Yredelemnul's name are granted the power to reap an army of the\n"
+"dead and bind powerful souls into eternal service - provided they can sweep\n"
+"across the land in a tide as inexorable as their god.\n"
+msgstr ""
+"Yredelemnul, o Sombrio, é um deus maligno adorado por aqueles que desejam poder\n"
+"sobre a morte e os mortos-vivos. Seguidores, que devem opor-se a tudo que for\n"
+"sagrado, podem levantar legiões de servos mortos-vivos e adquirir uma série de\n"
+"poderes úteis (e desagradáveis). Yredelemnul aprecia a morte, mas prefere que\n"
+"cadáveres sejam utilizados ao invés de sacrificados. A destruição de seres\n"
+"artificiais também é favorecida, pois estes não estão nem realmente vivos nem\n"
+"sujeitos à morte ou à não-morte.\n"
+
+#. key: breathe poison gas ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:breathe poison gas ability"
+msgid ""
+"Breathes a blast of poison gas at a targeted creature.\n"
+msgstr ""
+"Esbafora uma rajada de gás venenoso em um monstro alvo.\n"
+
+#. key: cleansing flame ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:cleansing flame ability"
+msgid ""
+"Invokes a huge blast of divine fury centered on the user, severely damaging\n"
+"undead and demons and dealing damage to all other hostile creatures. The power\n"
+"of the blast is increased by Invocations skill.\n"
+msgstr ""
+"Invoca uma grande rajada de fúria divina centrada em você, causando grandes\n"
+"danos a mortos-vivos e demônios. Todos outros hostis tomam dano, ou não,\n"
+"ficando você e seus aliados imunes.\n"
+
+#. key: brothers in arms ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:brothers in arms ability"
+msgid ""
+"Summons huge angry allies to wreak havoc.\n"
+msgstr ""
+"Conjura aliados grandes e nervosos para causar estragos.\n"
+
+#. key: banish ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:banish ability"
+msgid ""
+"Attempts to banish a creature into the Abyss. If the attempt succeeds, you gain\n"
+"some piety and the creature's full experience value. Even creatures that resist\n"
+"are left malmutated and weakened by the brush with the Abyss. Invocations skill\n"
+"makes Banishment harder to resist.\n"
+msgstr ""
+"Tenta banir um monstro para o Abismo.\n"
+
+#. key: bend time ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:bend time ability"
+msgid ""
+"Attempts to slow down everyone adjacent to you. High Invocations skill makes it\n"
+"harder to resist.\n"
+msgstr ""
+"Tenta reduzir a velocidade de todo muito perto de você. A habilidade Invocações\n"
+"Altas tornam mais difícil de resistir.\n"
+
+#. key: cmd_interlevel_travel
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_interlevel_travel"
+msgid ""
+"Travel to distant levels\n"
+msgstr ""
+"Viajar para níveis distantes\n"
+
+#. key: cmd_use_ability
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_use_ability"
+msgid ""
+"Use divine, innate or evokable abilities\n"
+msgstr ""
+"Utilizar habilidades divinas ou inatas\n"
+
+#. key: cmd_search_stashes
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_search_stashes"
+msgid ""
+"Search for items/features\n"
+msgstr ""
+"Procurar itens/recursos\n"
+
+#. key: cmd_replay_messages
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_replay_messages"
+msgid ""
+"Reread recent messages\n"
+msgstr ""
+"Ler as mensagens recentes\n"
+
+#. key: cmd_resists_screen
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_resists_screen"
+msgid ""
+"Display character overview\n"
+msgstr ""
+"Exibir a visão geral do seu personagem\n"
+
+#. key: cmd_display_religion
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_religion"
+msgid ""
+"Display religious status\n"
+msgstr ""
+"Exibir status de religião\n"
+
+#. key: cmd_display_mutations
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_mutations"
+msgid ""
+"Display mutations\n"
+msgstr ""
+"Exibir mutações\n"
+
+#. key: cmd_display_skills
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_skills"
+msgid ""
+"Manage skills\n"
+msgstr ""
+"Gerenciar habilidades\n"
+
+#. key: cmd_display_character_status
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_character_status"
+msgid ""
+"Display character status\n"
+msgstr ""
+"Exibir o status do personagem\n"
+
+#. key: cmd_display_character_status verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_character_status verbose"
+msgid ""
+"Displays details on your current movement speed, attack speed, stealth, magic\n"
+"resistance, and any currently active enchantments or status effects.\n"
+msgstr ""
+"Exibe os encantamentos ativos e outras coisas.\n"
+
+#. key: cmd_display_known_objects
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_known_objects"
+msgid ""
+"List discovered item types\n"
+msgstr ""
+"Listar tipo de itens descobertos\n"
+
+#. key: cmd_save_game_now
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_save_game_now"
+msgid ""
+"Save and exit\n"
+msgstr ""
+"Salvar e sair\n"
+
+#. key: cmd_edit_player_tile
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_edit_player_tile"
+msgid ""
+"Modify the player tile\n"
+msgstr ""
+"Mudar o título do jogador\n"
+
+#. key: cmd_display_commands
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_commands"
+msgid ""
+"Game help\n"
+msgstr ""
+"Ajuda do jogo\n"
+
+#. key: cmd_display_commands verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_commands verbose"
+msgid ""
+"Displays a list of commands.\n"
+msgstr ""
+"Lista de comandos, opções etc.\n"
+
+#. key: cmd_autofight
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_autofight"
+msgid ""
+"Hit the closest monster\n"
+msgstr ""
+"Atacar o monstro mais próximo\n"
+
+#. key: cmd_autofight verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_autofight verbose"
+msgid ""
+"Moves towards the closest hostile monster, or attacks an adjacent monster with\n"
+"your current weapon.\n"
+msgstr ""
+"Mover-se em direção ao monstro hostil mais próximo e atacá-lo como a arma em\n"
+"mãos.\n"
+
+#. key: cmd_autofight_nomove
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_autofight_nomove"
+msgid ""
+"Hit an adjacent monster\n"
+msgstr ""
+"Atacar o monstro adjacente\n"
+
+#. key: cmd_autofight_nomove verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_autofight_nomove verbose"
+msgid ""
+"Attacks an adjacent monster with your current weapon.\n"
+msgstr ""
+"Atacar um monstro próximo de si com a arma em mãos.\n"
+
+#. key: cmd_wait
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_wait"
+msgid ""
+"Wait a single turn\n"
+msgstr ""
+"Esperar um turno\n"
+

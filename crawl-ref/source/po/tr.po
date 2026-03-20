@@ -1,0 +1,567 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: crawl-data\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+#. key: book of fixed level
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of fixed level"
+msgid ""
+"A book of magic spells.\n"
+msgstr ""
+"Kitabın sihirli büyüsü.\n"
+
+#. key: book of fixed theme
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of fixed theme"
+msgid ""
+"A book of magic spells.\n"
+msgstr ""
+"Kitabın sihirli büyüsü.\n"
+
+#. key: helmet
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:helmet"
+msgid ""
+"A piece of metal headgear.\n"
+msgstr ""
+"Metal başlık parçası.\n"
+
+#. key: pair of boots
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:pair of boots"
+msgid ""
+"A pair of boots. They are worn on the feet, and cover all but the largest\n"
+"hooves and talons.\n"
+msgstr ""
+"Bir çift bot.\n"
+
+#. key: pair of gloves
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:pair of gloves"
+msgid ""
+"A pair of gloves. They are worn on the hands, and cover all but the largest\n"
+"claws.\n"
+msgstr ""
+"Bir çift eldiven.\n"
+
+#. key: wand
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:wand"
+msgid ""
+"An unusually magical sort of stick.\n"
+msgstr ""
+"Bir değnek. Belki sihirlidir.\n"
+
+#. key: scimitar of flaming death
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:scimitar of flaming death"
+msgid ""
+"A scimitar with a mysteriously smoking blade. Occasionally its heat leaks out,\n"
+"covering opponents in magical flame.\n"
+msgstr ""
+"Smokin'!\n"
+
+#. key: scythe "finisher"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:scythe \"finisher\""
+msgid ""
+"A long and exceedingly sharp scythe, capable of eviscerating in a single blow.\n"
+"Its extraordinary speed is the work of a mad wizard, who spent years refining\n"
+"it before discarding it in a fit of rage.\n"
+"\n"
+"The blade looses a low keen as it cuts through the air.\n"
+msgstr ""
+"Uzun ve keskin tırpan. Savaşlar için özel olarak modifiye edilmiş\n"
+
+#. key: robe of augmentation
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:robe of augmentation"
+msgid ""
+"A variegated robe, woven with enchantments to enhance the wearer's physical and\n"
+"mental abilities. Its creators wove in strands of hair from a hundred different\n"
+"animals, each chosen for the unique strengths it could grant the robe's wearer.\n"
+msgstr ""
+"En iyi ipekten yapılmış cübbe\n"
+
+#. key: cloak of flash
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:cloak of flash"
+msgid ""
+"A cloak that twitches and jerks without any intervention.\n"
+msgstr ""
+"Titreyen bir pelerin\n"
+
+#. key: skin of zhor
+#. Preserve {{ lua }} delimiters exactly.
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:skin of zhor"
+msgid ""
+"The {{\n"
+"    if you.can_smell() then\n"
+"        return \"smelly \"\n"
+"    end\n"
+"}}skin of some strange animal, native to cold and distant lands. It radiates\n"
+"the chill of its native habitat.\n"
+msgstr ""
+"Garip bir hayvanın kokan derisi\n"
+
+#. key: salamander hide armour
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:salamander hide armour"
+msgid ""
+"Most salamanders' bodies are consigned to the fiery depths from which they\n"
+"sprang. Rarely, though, salamanders instead preserve the skins of those that\n"
+"passed. The runes and decorations on this hide suggest it once belonged to a\n"
+"respected warrior or priest - perhaps even a king. The fiery spirit remains in\n"
+"the skin, granting its power to the wearer.\n"
+msgstr ""
+"Salamander derisinden yapılma zırh\n"
+
+#. key: shield of resistance
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:shield of resistance"
+msgid ""
+"A bronze shield, looking almost exactly like a tortoise's shell. It was built\n"
+"by the adherents of an obscure minor faith, who imbued it with the power of\n"
+"their god. As the god is said to, this shield protects against sword and sling,\n"
+"frost and flame.\n"
+msgstr ""
+"Bronz bir kalkan\n"
+
+#. key: maxwell's patent armour
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:maxwell's patent armour"
+msgid ""
+"A suit of armour created by the famous inventor Maxwell, providing unparalleled\n"
+"protective qualities at a very affordable price. His unorthodox materials left\n"
+"it with certain shortcomings, but he's yet to have anyone come back for a\n"
+"refund.\n"
+msgstr ""
+"Garip görünüşlü zırh\n"
+
+#. key: depart the abyss ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:depart the abyss ability"
+msgid ""
+"Transports you out of the Abyss, returning you to the location from which you\n"
+"entered it.\n"
+msgstr ""
+"Geldiğin yere dönmek için Abyss ten ayrıl\n"
+
+#. key: a buggy card
+#: dat/descript/cards.txt
+msgctxt ""
+"textdb:descriptions:a buggy card"
+msgid ""
+"The card depicts a Crawl player filing a bug report on Mantis.\n"
+"\n"
+"Drawing this card is a bug, if one ever encounters it as such.\n"
+msgstr ""
+"Haydağğ (Eğer bunu görüyorsanız bu bir hata)\n"
+
+#. key: cmd_rest
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_rest"
+msgid ""
+"Rest and heal\n"
+msgstr ""
+"Dinlen ve iyileş\n"
+
+#. key: cmd_replay_messages
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_replay_messages"
+msgid ""
+"Reread recent messages\n"
+msgstr ""
+"Son mesajları tekrar oku\n"
+
+#. key: cmd_resists_screen
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_resists_screen"
+msgid ""
+"Display character overview\n"
+msgstr ""
+"Karakterin genel görünüşünü göster\n"
+
+#. key: cmd_resists_screen verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_resists_screen verbose"
+msgid ""
+"Displays an overview of your current resistances, abilities, equipment and\n"
+"attributes.\n"
+msgstr ""
+"Bilinen dirençleri, yetenekleri, ekipman istatistliklerini vs. gösterir\n"
+
+#. key: cmd_display_religion
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_religion"
+msgid ""
+"Display religious status\n"
+msgstr ""
+"Dini durumu göster\n"
+
+#. key: cmd_display_mutations
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_mutations"
+msgid ""
+"Display mutations\n"
+msgstr ""
+"Mutasyonları göster\n"
+
+#. key: cmd_display_skills
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_skills"
+msgid ""
+"Manage skills\n"
+msgstr ""
+"Becerileri yönet\n"
+
+#. key: cmd_display_character_status
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_character_status"
+msgid ""
+"Display character status\n"
+msgstr ""
+"Karakter statüsünü görüntüle\n"
+
+#. key: cmd_display_known_objects
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_known_objects"
+msgid ""
+"List discovered item types\n"
+msgstr ""
+"Keşfedilmiş eşya türlerinin listesi\n"
+
+#. key: cmd_save_game_now
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_save_game_now"
+msgid ""
+"Save and exit\n"
+msgstr ""
+"Kaydet ve çık\n"
+
+#. key: cmd_display_commands
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_commands"
+msgid ""
+"Game help\n"
+msgstr ""
+"Oyun yardımı\n"
+
+#. key: cmd_display_commands verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_commands verbose"
+msgid ""
+"Displays a list of commands.\n"
+msgstr ""
+"Komutlar, seçenekler, vs. listesi\n"
+
+#. key: cmd_autofight
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_autofight"
+msgid ""
+"Hit the closest monster\n"
+msgstr ""
+"En yakın yaratığa vur\n"
+
+#. key: cmd_wait
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_wait"
+msgid ""
+"Wait a single turn\n"
+msgstr ""
+"Bir tur bekle\n"
+
+#. key: cmd_drop
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_drop"
+msgid ""
+"Drop items\n"
+msgstr ""
+"Eşyaları bırak\n"
+
+#. key: cmd_display_map
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_map"
+msgid ""
+"Enter map mode\n"
+msgstr ""
+"Harita moduna gir\n"
+
+#. key: cmd_map_goto_target
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_goto_target"
+msgid ""
+"Travel to cursor\n"
+msgstr ""
+"İmlece seyahat et\n"
+
+#. key: cmd_map_next_level
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_next_level"
+msgid ""
+"Down one level\n"
+msgstr ""
+"Bir seviye aşağı\n"
+
+#. key: cmd_map_prev_level
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_prev_level"
+msgid ""
+"Up one level\n"
+msgstr ""
+"Bir seviye yukarı\n"
+
+#. key: cmd_map_find_upstair
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_upstair"
+msgid ""
+"Find stairs up\n"
+msgstr ""
+"Yukarı merdivenlerini bul\n"
+
+#. key: cmd_map_find_downstair
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_downstair"
+msgid ""
+"Find stairs down\n"
+msgstr ""
+"Aşağı merdivenlerini bul\n"
+
+#. key: cmd_map_find_downstair verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_downstair verbose"
+msgid ""
+"Cycles through stairs down.\n"
+msgstr ""
+"Basamaklardan aşağıya doğru pedal çevir\n"
+
+#. key: cmd_map_find_you
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_you"
+msgid ""
+"Find me\n"
+msgstr ""
+"Beni bul\n"
+
+#. key: cmd_map_find_portal
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_portal"
+msgid ""
+"Find shops and portals\n"
+msgstr ""
+"Satıcıları ve portalı bul\n"
+
+#. key: cmd_map_find_trap
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_trap"
+msgid ""
+"Find traps\n"
+msgstr ""
+"Tuzakları bul\n"
+
+#. key: cmd_map_find_altar
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_altar"
+msgid ""
+"Find altars\n"
+msgstr ""
+"Adak taşını bul\n"
+
+#. key: cmd_zoom_in
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_zoom_in"
+msgid ""
+"Zoom in\n"
+msgstr ""
+"Yakınlaştır\n"
+
+#. key: cmd_zoom_in verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_zoom_in verbose"
+msgid ""
+"Zooms in on dungeon area.\n"
+msgstr ""
+"Zindan alanı üzerine yakınlaş\n"
+
+#. key: cmd_zoom_out
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_zoom_out"
+msgid ""
+"Zoom out\n"
+msgstr ""
+"Uzaklaştır\n"
+
+#. key: tutorial intro
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial intro"
+msgid ""
+"You can reread all messages at any time with\n"
+"<input>$cmd[CMD_REPLAY_MESSAGES]</input>. Also, press <input>Space</input>\n"
+"<localtiles> or <input>left click</input> with mouse</localtiles> to clear the\n"
+"<cyan>--more--</cyan> prompts.\n"
+msgstr ""
+"Herzaman <input>$cmd[CMD_REPLAY_MESSAGES]</input> ile tüm mesajlarınızı tekrar\n"
+"okuyabilirsiniz. Ayrıca <input>Space</input> tuşu ile<cyan>--more--</cyan>\n"
+"temizleyebilirsiniz.\n"
+
+#. key: tutorial1 go_on
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial1 go_on"
+msgid ""
+"You're doing great! Now, explore a bit until you reach the next blue square.\n"
+msgstr ""
+"Çok iyi gidiyorsun! Şimdi, sıradaki mavi kareye erişene kadar biraz keşfet.\n"
+
+#. key: tutorial1 levelmap
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial1 levelmap"
+msgid ""
+"What's this? To find out where you are, <tiles>have a look at the\n"
+"<w>minimap</w> to the right of the screen.</tiles><localtiles> You can have a\n"
+"closer look at a part of the map with a <input>right mouse click</input> and\n"
+"also can travel there with a <input>left click</input>.</localtiles><webtiles>\n"
+"You can </webtiles><nomouse>enter the overmap view with\n"
+"<input>$cmd[CMD_DISPLAY_MAP]</input> and then move the cursor around to look\n"
+"around the level. You also can travel wherever your cursor is pointing by\n"
+"pressing <input>.</input> or <input>Enter</input>. Press <input>Escape</input>\n"
+"to return to the normal game mode.</nomouse>\n"
+msgstr ""
+"Bu nedir? Nerede olduğunu, <tiles>ekranın sağındaki <w>minimap</w>a bakarak\n"
+"bul.</tiles><localtiles> <input>sağ mouse</input> ile haritanın bir parçasına\n"
+"yakından bakabilirsin ve<input>sol tuş</input> ile seyehat\n"
+"edebilirsin.</localtiles><webtiles> harita üzerinden girişi\n"
+"<input>$cmd[CMD_DISPLAY_MAP]</input> ile görüntüleyebilir ve imleci seviye\n"
+"etrafında gezindirebilirsiniz. Ayrıca istediğiniz yere <input>.</input> yada\n"
+"<input>Enter</input> basarak seyehat edebilirsiniz normal oyun moduna dönmek\n"
+"için <input>Escape</input> tuluna basın.</webtiles><console> harita üzerinde\n"
+"<input>$cmd[CMD_DISPLAY_MAP]</input> ile görüntüle ve ardından imleci seviyenin\n"
+"etrafında gezindirin.Ayrıca istediğiniz yere <input>.</input> yada\n"
+"<input>Enter</input> basarak seyehat edebilirsiniz normal oyun moduna dönmek\n"
+"için <input>Escape</input> tuluna basın.</console>\n"
+
+#. key: tutorial1 door
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial1 door"
+msgid ""
+"You can open a closed door by walking into it.\n"
+msgstr ""
+"Kapalı kapıyı içine yürüyerek açabilirsin. Açık kapıyı kapatmak için,\n"
+"<input>$cmd[CMD_CLOSE_DOOR]</input> tuşunu kullan.\n"
+
+#. key: tutorial2 start
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial2 start"
+msgid ""
+"This lesson will teach you about monsters and fighting. First, we need a\n"
+"weapon! Go and grab the one lying over there.\n"
+msgstr ""
+"Bu ders sana canavarları ve kavga etmeyi öğretecek. İlk olarak, bir silaha\n"
+"ihtiyacımız var! Git ve kendine bir yatacak yer kap.\n"
+
+#. key: tutorial2 downstairs
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial2 downstairs"
+msgid ""
+"Well done! After resting to full health continue to the next level with\n"
+"<input>$cmd[CMD_GO_DOWNSTAIRS]</input><localtiles> or by <input>clicking</input>\n"
+"on your character</localtiles>.\n"
+msgstr ""
+"Helal! Tüm canıla dayandıktan sonra sıradaki seviyeye gir\n"
+"<input>$cmd[CMD_GO_DOWNSTAIRS]</input>.\n"
+
+#. key: tutorial2 travel_reminder
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial2 travel_reminder"
+msgid ""
+"Remember that you can autoexplore using <input>$cmd[CMD_EXPLORE]</input>.\n"
+msgstr ""
+"<input>$cmd[CMD_EXPLORE]</input> kulanarak gezginden faydalanabileceğini\n"
+"unutma.\n"
+
+#. key: tutorial2 explore
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial2 explore"
+msgid ""
+"Find the exit! Remember that you can autoexplore using\n"
+"<input>$cmd[CMD_EXPLORE]</input>.\n"
+msgstr ""
+"Çıkışı bul! <input>$cmd[CMD_EXPLORE]</input> kullanarak gezgine ulaşabileceğini\n"
+"unutma.\n"
+
+#. key: tutorial2 tutorial_end
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial2 tutorial_end"
+msgid ""
+"Congratulations! You've survived your first batch of monsters! To exit the\n"
+"tutorial, simply go down these stairs.\n"
+msgstr ""
+"Tebrikler! Canavarlar ile olan ilk karşılaşmandan sağ çıktın! Eğitimden çıkmak\n"
+"için merdivenlerden aşağı in.\n"
+
+#. key: tutorial5 start
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial5 start"
+msgid ""
+"In this lesson you're going to learn about gods and how to use their powers.\n"
+msgstr ""
+"Bu derste tanrıları ve güçlerini nasıl kullanacağını öğreneceksin.\n"
+

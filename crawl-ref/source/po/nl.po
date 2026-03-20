@@ -1,0 +1,434 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: crawl-data\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+#. key: amulet
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:amulet"
+msgid ""
+"An amulet to be worn as jewellery around the neck, charged with arcane powers\n"
+"of unknown provenance.\n"
+msgstr ""
+"Een talisman die rond de nek als juweel gedragen dient te worden, opgeladen met\n"
+"mysterieuze en onbekende krachten.\n"
+
+#. key: potion
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:potion"
+msgid ""
+"An unlabelled flask containing a single dose of unknown liquid.\n"
+msgstr ""
+"Een ongelabeld flesje met een enkele dosis van een onbekende vloeistof in.\n"
+
+#. key: ring
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:ring"
+msgid ""
+"A ring charged with arcane forces of unknown provenance, to be worn as jewellery\n"
+"on a finger.\n"
+msgstr ""
+"Een talisman die mysterieuze en onbekende krachten bezit, die rond een vinger\n"
+"gedragen wordt als juweel.\n"
+
+#. key: scroll
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:scroll"
+msgid ""
+"A disposable arcane formula inscribed on parchment by a professional scribe or\n"
+"sorcerer. Anyone can evoke the power of the arcane formula by reading it out\n"
+"loud, but the nature of that power is not a priori apparent.\n"
+msgstr ""
+"Een magische formule beschreven op perkament door een professioneel tovenaar.\n"
+"Iedereen kan de kracht van de formule oproepen door de spreuk hardop uit te\n"
+"spreken, maar de aard van die kracht is a priori niet duidelijk.\n"
+
+#. key: staff
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:staff"
+msgid ""
+"A staff improved with arcane powers of unknown nature.\n"
+msgstr ""
+"Een staf, vervolmaakt met magische krachten van onbekende aard.\n"
+
+#. key: wand
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:wand"
+msgid ""
+"An unusually magical sort of stick.\n"
+msgstr ""
+"Een stokje. Misschien magisch.\n"
+
+#. key: banish ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:banish ability"
+msgid ""
+"Attempts to banish a creature into the Abyss. If the attempt succeeds, you gain\n"
+"some piety and the creature's full experience value. Even creatures that resist\n"
+"are left malmutated and weakened by the brush with the Abyss. Invocations skill\n"
+"makes Banishment harder to resist.\n"
+msgstr ""
+"Probeert een monster naar de Diepte te verbannen.\n"
+
+#. key: bend time ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:bend time ability"
+msgid ""
+"Attempts to slow down everyone adjacent to you. High Invocations skill makes it\n"
+"harder to resist.\n"
+msgstr ""
+"Probeert iedereen rondom je te vertragen. Hoe hoger je Invocatievaardigheid,\n"
+"hoe moeilijker het is voor monsters om zich hiertegen te verzetten.\n"
+
+#. key: sacrifice an eye ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:sacrifice an eye ability"
+msgid ""
+"Sacrifices an eye, causing you to have a much harder time hitting targets.\n"
+msgstr ""
+"Offert een oog op, waardoor je moeilijker doelwitten kan raken, alsof\n"
+"je een amulet van onnauwkeurigheid draagt.\n"
+
+#. key: tutorial1 go_on
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial1 go_on"
+msgid ""
+"You're doing great! Now, explore a bit until you reach the next blue square.\n"
+msgstr ""
+"Je doet het geweldig! Verken nu een beetje totdat je het blauwe vierkant hebt\n"
+"bereikt.\n"
+
+#. key: tutorial1 door
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial1 door"
+msgid ""
+"You can open a closed door by walking into it.\n"
+msgstr ""
+"Je kan een gesloten deur openen door erin te lopen.\n"
+
+#. key: tutorial1 close_door
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial1 close_door"
+msgid ""
+"To close an open door, press <input>$cmd[CMD_CLOSE_DOOR]</input>.\n"
+msgstr ""
+"Druk op <input>$cmd[CMD_CLOSE_DOOR]</input> om een deur dicht te doen.\n"
+
+#. key: tutorial1 water
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial1 water"
+msgid ""
+"Note how you can move through shallow but not through deep water.\n"
+msgstr ""
+"Merk op dat je door ondiep water kan bewegen, maar niet door diep water.\n"
+
+#. key: tutorial2 start
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial2 start"
+msgid ""
+"This lesson will teach you about monsters and fighting. First, we need a\n"
+"weapon! Go and grab the one lying over there.\n"
+msgstr ""
+"In deze les leer je over monsters en vechten. Maar eerst hebben we een wapen\n"
+"nodig! Pak deze die hier ligt.\n"
+
+#. key: tutorial2 melee
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial2 melee"
+msgid ""
+"To attack a monster with your bare hands or wielded weapon, simply walk into\n"
+"it.\n"
+msgstr ""
+"Om een monster aan te vallen met de blote hand, of het wapen dat je vast hebt,\n"
+"ren je er gewoon tegen.\n"
+
+#. key: tutorial2 resting_reminder
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial2 resting_reminder"
+msgid ""
+"Remember, you can rest up with <input>$cmd[CMD_REST]</input>.\n"
+msgstr ""
+"Onthoud: je kunt rusten via <input>$cmd[CMD_REST]</input>.\n"
+
+#. key: tutorial2 downstairs
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial2 downstairs"
+msgid ""
+"Well done! After resting to full health continue to the next level with\n"
+"<input>$cmd[CMD_GO_DOWNSTAIRS]</input><localtiles> or by <input>clicking</input>\n"
+"on your character</localtiles>.\n"
+msgstr ""
+"Goed zo! Ga nadat je gezondheidsmeter helemaal is bijgevuld verder naar het\n"
+"volgende niveau via <input>$cmd[CMD_GO_DOWNSTAIRS]</input>.\n"
+
+#. key: tutorial2 newlevel
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial2 newlevel"
+msgid ""
+"Remember: You can reread old messages with\n"
+"<input>$cmd[CMD_REPLAY_MESSAGES]</input>.\n"
+msgstr ""
+"Onthoud: je kunt oude berichten opnieuw lezen via\n"
+"<input>$cmd[CMD_REPLAY_MESSAGES]</input>.\n"
+
+#. key: tutorial2 tutorial_end
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial2 tutorial_end"
+msgid ""
+"Congratulations! You've survived your first batch of monsters! To exit the\n"
+"tutorial, simply go down these stairs.\n"
+msgstr ""
+"Gefeliciteerd! Je hebt je eerste troep monsters overleefd! Om de tutorial te\n"
+"verlaten, ga je deze trap af.\n"
+
+#. key: tutorial2 exit
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial2 exit"
+msgid ""
+":nowrap\n"
+"<white>Tutorial 2 summary: Combat</white>\n"
+"\n"
+"<yellow>Weapons<console> <cyan>)</cyan></console></yellow>\n"
+"  <input>$cmd[CMD_PICKUP]</input>  pick up an item\n"
+"  <input>$cmd[CMD_EQUIP]</input>  equip an item<localtiles>\n"
+"  You can also do this by <input>clicking</input> on the weapon in your inventory.</localtiles>\n"
+"  <input>$cmd[CMD_QUIVER_ITEM]</input>  adjust your quiver\n"
+"\n"
+"<yellow>Monsters</yellow><localtiles>\n"
+"  <input>mouseover</input>  examine a monster\n"
+"  <input>rightclick</input> read a more detailed description</localtiles><nomouse>\n"
+"  <input>$cmd[CMD_LOOK_AROUND]</input>  examine a monster\n"
+"  <input>$cmd[CMD_LOOK_AROUND]$cmd[CMD_TARGET_DESCRIBE]</input> read a more detailed description</nomouse>\n"
+"  <input>$cmd[CMD_PRIMARY_ATTACK]</input> fire held weapon\n"
+"  <input>$cmd[CMD_FIRE]$cmd[CMD_TARGET_SELECT]</input> fire quiver at pre-targeted monster\n"
+"  <input>shift-tab</input>, <input>p</input> fire quiver at closest monster\n"
+"  <input>$cmd[CMD_FIRE]$cmd[CMD_TARGET_CYCLE_FORWARD]</input> target another monster<localtiles>\n"
+"  You can also fire a missile by <input>clicking</input> on it, then confirming the target with <input>Enter</input>.</localtiles>\n"
+"\n"
+"<yellow>Resting</yellow>\n"
+"  <input>$cmd[CMD_WAIT]</input>  wait and rest a single turn\n"
+"  <input>$cmd[CMD_REST]</input>  wait and rest up to 100 turns\n"
+msgstr ""
+":nowrap\n"
+"<yellow>Wapens<console> <cyan>)</cyan></console></yellow>\n"
+"  <input>$cmd[CMD_PICKUP]</input>  voorwerp oppakken\n"
+"  <input>$cmd[CMD_WIELD_WEAPON]</input>  wapen hanteren<localtiles>\n"
+"  Je kunt dit ook doen door in je inventaris op het wapen te <input>klikken</input>.</localtiles>\n"
+"\n"
+"<yellow>Monsters</yellow><localtiles>\n"
+"  <input>mouse-over</input>  monster examineren\n"
+"  <input>rechter muisknop</input> gedetailleerde omschrijving lezen</localtiles><nomouse>\n"
+"  <input>$cmd[CMD_LOOK_AROUND]</input>  monster examineren\n"
+"  <input>$cmd[CMD_LOOK_AROUND]$cmd[CMD_TARGET_DESCRIBE]</input> gedetailleerde omschrijving lezen</nomouse>\n"
+"  <input>$cmd[CMD_FIRE]$cmd[CMD_TARGET_SELECT]</input> munitie op vooraf geselecteerd monster afvuren\n"
+"  <input>$cmd[CMD_FIRE]$cmd[CMD_TARGET_CYCLE_FORWARD]</input> ander monster selecteren<localtiles>\n"
+"  Je kunt ook een voorwerp afvuren door hierop te <input>klikken</input> en het doel te bevestigen met <input>Enter</input>.</localtiles>\n"
+"\n"
+"<yellow>Rusten</yellow>\n"
+"  <input>$cmd[CMD_WAIT]</input>  een beurt wachten en rusten\n"
+"  <input>$cmd[CMD_REST]</input>  tot maximaal 100 beurten wachten en rusten\n"
+"\n"
+"                         <cyan>Druk op een <input>toets</input> om dit scherm leeg te maken...</cyan>\n"
+
+#. key: tutorial3 start
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial3 start"
+msgid ""
+"In this lesson you're going to learn about items and how to use them.\n"
+msgstr ""
+"In deze les leer je over voorwerpen, en hoe ze te gebruiken.\n"
+
+#. key: tutorial3 autopickup
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial3 autopickup"
+msgid ""
+"Some types of items<tiles>, marked with a green frame,</tiles> are picked up\n"
+"automatically as you step on them.\n"
+msgstr ""
+"Sommige voorwerpen<tiles>, aangeduid met een groen kadertje,</tiles> worden\n"
+"automatisch opgepakt als je erop stapt.\n"
+
+#. key: tutorial3 gold
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial3 gold"
+msgid ""
+"Gold can be spent in shops. It takes no inventory space and cannot be dropped.\n"
+msgstr ""
+"Goud kan je besteden in winkels. Het is gewichtloos, en je kan het niet\n"
+"neerleggen.\n"
+
+#. key: tutorial3 shop
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial3 shop"
+msgid ""
+"Shops offer a variety of items, but they don't buy items from anyone.\n"
+msgstr ""
+"Winkels bieden een waaier aan voorwerpen aan, maar je kan er niets verkopen.\n"
+
+#. key: tutorial3 optional_battle
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial3 optional_battle"
+msgid ""
+"Warning, this way leads to <lightred>a difficult battle</lightred>. You may\n"
+"choose to use what you've learned so far in a fight, or try to reach the other\n"
+"exit on the island. Either way, it may be a good idea to do some shopping, if\n"
+"you haven't already.\n"
+msgstr ""
+"Waarshuwing: deze weg leidt naar een <lightred>moeilijk gevecht</lightred>.\n"
+"Ofwel gebruik je de vechtkennis die je zonet hebt opgedaan, ofwel probeer je de\n"
+"andere kant van het eiland te bereiken. Hoe dan ook is het een goed idee om\n"
+"eerst wat te winkelen, als je dat nog niet gedaan hebt.\n"
+
+#. key: tutorial3 tutorial_end
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial3 tutorial_end"
+msgid ""
+"Well done! To exit the tutorial, simply go down these stairs.\n"
+msgstr ""
+"Goed gedaan! Om deze uitleg te sluiten ga je de trap af.\n"
+
+#. key: tutorial3 exit
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial3 exit"
+msgid ""
+":nowrap\n"
+"<white>Tutorial 3 summary: Items</white>\n"
+"\n"
+"<yellow>Item commands</yellow>\n"
+"  <input>$cmd[CMD_PICKUP]</input>  pick up an item\n"
+"  <input>$cmd[CMD_DROP]</input>  drop an item\n"
+"  <input>$cmd[CMD_EQUIP]</input>  equip armour, weapons, and jewellery\n"
+"  <input>$cmd[CMD_UNEQUIP]</input>  unequip armour, weapons, and jewellery\n"
+"  <input>$cmd[CMD_READ]</input>  read a scroll\n"
+"  <input>$cmd[CMD_QUAFF]</input>  quaff a potion\n"
+"  <input>$cmd[CMD_EVOKE]</input>  evoke a wand\n"
+"\n"
+"  Use and (un)equip commands are also available from item descriptions in the inventory menu (<input>$cmd[CMD_DISPLAY_INVENTORY]</input>).<localtiles>\n"
+"  And of course, <input>mouseclicks</input> also work.</localtiles>\n"
+"\n"
+"<yellow>Other</yellow>\n"
+"  <input>$cmd[CMD_DISPLAY_COMMANDS]?</input> access the command help\n"
+"  <input>$cmd[CMD_EXPLORE]</input>  explore automatically\n"
+"  <input>$cmd[CMD_SEARCH_STASHES]</input> search for items/features previously seen<localtiles>\n"
+"  Several of these commands can also be executed by clicking in the <w>command panel</w>.</localtiles>\n"
+msgstr ""
+":nowrap\n"
+"<yellow>Voorwerpopdrachten</yellow>\n"
+"  <input>$cmd[CMD_PICKUP]</input>  voorwerp oppakken\n"
+"  <input>$cmd[CMD_WEAR_ARMOUR]</input>  kledij dragen\n"
+"  <input>$cmd[CMD_READ]</input>  perkament lezen\n"
+"  <input>$cmd[CMD_WIELD_WEAPON]</input>  wapen hanteren\n"
+"  <input>$cmd[CMD_QUAFF]</input>  drankje drinken\n"
+"  <input>$cmd[CMD_EVOKE]</input>  staf evoceren\n"
+"  <input>$cmd[CMD_WEAR_JEWELLERY]</input>  sieraad dragen\n"
+"  <input>$cmd[CMD_REMOVE_JEWELLERY]</input>  sieraad verwijderen\n"
+"  <input>$cmd[CMD_DROP]</input>  voorwerp laten vallen\n"
+"  Daarnaast zijn er gebruiksopdrachten in het inventarismenu (<input>$cmd[CMD_DISPLAY_INVENTORY]</input>) beschikbaar, net als de omschrijvingen van voorwerpen.<localtiles>\n"
+"  En natuurlijk werken ook <input>muisklikken</input>.</localtiles>\n"
+"\n"
+"<yellow>Overig</yellow>\n"
+"  <input>$cmd[CMD_DISPLAY_COMMANDS]?</input> opdrachthulp openen\n"
+"  <input>$cmd[CMD_RESISTS_SCREEN]</input>  personageoverzicht weergeven\n"
+"  <input>$cmd[CMD_USE_ABILITY]</input>  bekwaamheid gebruiken\n"
+"  <input>$cmd[CMD_EXPLORE]</input>  automatisch verkennen\n"
+"  <input>$cmd[CMD_SEARCH_STASHES]</input> naar eerder geziene voorwerpen/kenmerken zoeken<localtiles>\n"
+"  Een aantal van deze opdrachten kan ook worden uitgevoerd door in het <w>opdrachtenvenster</w> te klikken.</localtiles>\n"
+"\n"
+"                         <cyan>Druk op een <input>toets</input> om dit scherm leeg te maken...</cyan>\n"
+
+#. key: tutorial4 start
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial4 start"
+msgid ""
+"In this lesson you're going to learn how to memorise and cast spells.\n"
+msgstr ""
+"In deze les leer je hoe spreuken te leren en gebruiken.\n"
+
+#. key: tutorial4 tutorial_end
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial4 tutorial_end"
+msgid ""
+"Congratulations, you're a real wizard now! To exit the tutorial, simply go down\n"
+"these stairs.\n"
+msgstr ""
+"Super, je bent een echte tovenaar nu! Om deze uitleg te sluiten ga je de trap\n"
+"af.\n"
+
+#. key: tutorial5 start
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial5 start"
+msgid ""
+"In this lesson you're going to learn about gods and how to use their powers.\n"
+msgstr ""
+"In deze les bekijken we goden en leer je hoe hun krachten te gebruiken.\n"
+
+#. key: tutorial5 piety_on_kill
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial5 piety_on_kill"
+msgid ""
+"Some gods really like it if you kill monsters in their name. Let the slaughter\n"
+"begin!\n"
+msgstr ""
+"Sommige goden appreciëren het als je in hun naam monsters verslaat. Maak er een\n"
+"slachtpartij van!\n"
+
+#. key: tutorial5 berserk2
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial5 berserk2"
+msgid ""
+"Berserk is also really useful against multiple enemies — as long as you don't\n"
+"run out of steam in-between.\n"
+msgstr ""
+"Berserk is ook erg nuttig tegen meerdere vijanden — zo lang je tussenin niet\n"
+"uitgeput geraakt.\n"
+
+#. key: tutorial5 tutorial_end
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial5 tutorial_end"
+msgid ""
+"Congratulations! You've finished the last tutorial lesson and are now ready for\n"
+"the real game. Good luck!\n"
+"\n"
+"To exit the tutorial, just go down these stairs.\n"
+msgstr ""
+"Gefeliciteerd! Je hebt de laatste tutorial-les voltooid; nu ben klaar voor het\n"
+"echte spel. Veel succes!\n"
+"\n"
+"Om de tutorial te verlaten, ga je deze trap af.\n"
+

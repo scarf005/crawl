@@ -1,0 +1,1319 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: crawl-data\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+#. key: a gate leading back out of this place
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a gate leading back out of this place"
+msgid ""
+"A gate that will let you return whence you came.\n"
+msgstr ""
+":name Portti ulos tästä paikasta\n"
+"Tämä portti johtaa takaisin luolastoon.\n"
+
+#. key: a gateway to hell
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a gateway to hell"
+msgid ""
+"A gateway leading to the Vestibule of Hell. Few would go there voluntarily.\n"
+msgstr ""
+"Tämä portti vie Helvetin eteiseen. Harvat menisivät sinne vapaaehtoisesti.\n"
+
+#. key: a dead tree
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a dead tree"
+msgid ""
+"The dry remains of a long-dead tree.\n"
+msgstr ""
+"Tämä puu on yhtä kuollut kuin kaikki muukin täällä.\n"
+
+#. key: a golden statue
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a golden statue"
+msgid ""
+"A solid gold statue of a saint.\n"
+msgstr ""
+"Sulaa kultaa oleva patsas pyhimyksestä.\n"
+
+#. key: animal skin
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:animal skin"
+msgid ""
+"A large piece of thick skin covered in fur, cut from the corpse of an animal\n"
+"and worn as a primitive garment. It offers rudimentary protection against harm,\n"
+"but, having never been tanned, it carries a light stench of rotting flesh.\n"
+msgstr ""
+"Suuri kappale tanakkaa, turkin peittämää ihoa. Leikattu eläimen ruumiista ja\n"
+"käytetään alkukantaisena vaatekappaleena. Se tarjoaa alkeellista puolustusta,\n"
+"mutta koska sitä ei ole parkittu, siinä on lievä mätänevän lihan löyhkä.\n"
+
+#. key: bardiche
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:bardiche"
+msgid ""
+"A long pole with an enormous, cleaving blade on one end.\n"
+msgstr ""
+"Pitkä paalu, jonka toisessa päässä on valtava, halkova terä.\n"
+
+#. key: book of annihilations
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of annihilations"
+msgid ""
+"A tome of arcane fury, greatly sought after by sorcerers. It allows the gifted\n"
+"and resourceful to conjure destruction with ease.\n"
+msgstr ""
+"Veri valuu tämän kirjan repaleisilta sivuilta, ja jopa lukutaidoton tuntee sen\n"
+"sisältämän mystisen raivon vaikutuksen. Velhot tavoittelevat sitä ankarasti,\n"
+"sillä se antaa lahjakkaiden ja neuvokkaiden ohjata tuhoa erittäin helposti.\n"
+"Heikot maagit kuitenkin saattavat kohdata tuomionsa tästä teoksesta.\n"
+"\n"
+"VAROITUS: Jos epäonnistut opetellessasi loitsua tästä kirjasta, kirja hyökkää\n"
+"päällesi.\n"
+
+#. key: book of cantrips
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of cantrips"
+msgid ""
+"A book containing a small selection of very basic magic spells, intended for\n"
+"beginners who wish to learn the rudiments of one of the featured magical\n"
+"schools.\n"
+msgstr ""
+"Pienen määrän aloittelijatason magiikkaa sisältävä kirja. Se on suunniteltu\n"
+"aloittelijoille, jotka haluavat oppia jonkin mukana olevan taikuuskoulukunnan\n"
+"alkeet. Siitä huolimatta jopa kokeneet maagit saattavat keksiä sen sisältä\n"
+"löytyville loitsuille käyttöä.\n"
+
+#. key: book of conjurations
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of conjurations"
+msgid ""
+"A book containing an introduction to the destructive magical arts of\n"
+"Conjurations.\n"
+msgstr ""
+"Oppikirja tuhovoimaiseen taikuuteen, Konjuraatioihin. Se vavisee juuri ja juuri\n"
+"sisällä pysyvästä voimasta avautuessaan. Erittäin suosittu kirja, sitä\n"
+"jatkuvasti muutetaan ja päivitetään: tämän vuoden painos keskittyy Jään ja\n"
+"Ilman elementteihin.\n"
+
+#. key: book of debilitation
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of debilitation"
+msgid ""
+"A spellbook containing spells known for having a particularly unpleasant\n"
+"effect on their victims. It's considered something of a faux pas in the\n"
+"wizarding community to be seen with this book in one's collection.\n"
+msgstr ""
+"Hyödyllisiä manipulaatiotaikoja, etenkin Mystiselle Tarkka-ampujalle, sisältävä\n"
+"kirja. Monet sivuista ovat täynnä reikiä, aivan kuin niitä olisi käytetty\n"
+"jousiammunnan maalitauluina ennen kirjoitusta ja sidontaa. Tämän okkultisen\n"
+"tekniikan pitäisi antaa loitsuille lisävoimaa pitkän matkan aseiden kanssa\n"
+"käytettynä, mutta käytännössä ne eivät eroa mitenkään vähemmän reikiintyneiden\n"
+"tekstien variaatioista.\n"
+
+#. key: book of dreams
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of dreams"
+msgid ""
+"The somniloquent utterings of a famed mystic, using uniquely bizarre imagery\n"
+"and cryptic digressions to describe spells drawn from the mystic's visions.\n"
+msgstr ""
+"Kokoelma unissapuhuvan mystikon virkkomisia, joka kuvailee mystikon unitilaa\n"
+"heijastavia loitsuja. Teoksen kriitikot väittävät, että kirjan loitsut eivät\n"
+"käytännössä eroa mitenkään jo aiemmin tunnetuista loitsuista, mutta kirja on\n"
+"edelleen suosiossa sen ainutlaatuisen eriskummallisen kuvaston ja kryptisten\n"
+"poikkeamien takia.\n"
+
+#. key: book of fixed level
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of fixed level"
+msgid ""
+"A book of magic spells.\n"
+msgstr ""
+"Taikoja sisältävä kirja.\n"
+
+#. key: book of fixed theme
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of fixed theme"
+msgid ""
+"A book of magic spells.\n"
+msgstr ""
+"Taikoja sisältävä kirja.\n"
+
+#. key: book of necromancy
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of necromancy"
+msgid ""
+"A macabre book containing basic Necromancy spells. Readers are recommended to\n"
+"wear a pair of gloves they don't mind disposing of afterward.\n"
+msgstr ""
+"Makaaberi opus, joka on aloittelevien Nekromantikoiden ensimmäinen kirja hyvin\n"
+"usein. Ottaen huomioon Nekromantian vaarat, se on joskus myös viimeinen.\n"
+
+#. key: book of power
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of power"
+msgid ""
+"A book of powerful and destructive magic spells, rumbling and shuddering with\n"
+"barely-contained energies.\n"
+msgstr ""
+"Voimakkaan taikuuden kirja, joka on kunnianhimoisten, kilpailijoihiinsa nähden\n"
+"valta-aseman haluavien velhojen himoitsema. Se rasahtelee ja värisee juuri ja\n"
+"juuri hallinnassa pysyvistä energioista.\n"
+
+#. key: book of spatial translocations
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of spatial translocations"
+msgid ""
+"A basic spellbook on the magical field of Translocations. Many would-be mages\n"
+"have seen it disappear just as they needed it most.\n"
+msgstr ""
+"Teleportaatiokirjallisuuden klassikko. Kirjoittaja oli arkkimaagi ja menestynyt\n"
+"Varppaaja Golubria, kahden vuosisadan takaa. Kirjaa voi edelleen löytää\n"
+"taikuuden kirjastoista ympäri maailmaa, vaikka se ei aina ole siinä hyllyssä\n"
+"mihin kirjastonhoitaja jätti sen.\n"
+
+#. key: book of the warp
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of the warp"
+msgid ""
+"A book of advanced Translocations spells, written by a particularly\n"
+"misanthropic mage. After its completion, they were never seen again, which may\n"
+"or may not have been the point.\n"
+msgstr ""
+"Kirja kokeneille Varppaajille. Sen hohtavat sivut ovat olemassa useissa\n"
+"ulottuvuuksissa yhtä aikaa, mitkä eivät kaikki tottele geometrian yleisiä\n"
+"sääntöjä. Jotkin sivut katoavat kääntäessä, kun taas osa ilmestyy tyhjästä ja\n"
+"toiset menevät toisten sivujen tai itsensä läpi. Joillakin sivuilla on kolme\n"
+"puolta, tai pelkästään yksi, tai epänormaali määrä kulmia. Tämä saattaa olla\n"
+"hämmentävää.\n"
+
+#. key: book of unlife
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of unlife"
+msgid ""
+"An unholy book describing a variety of magical methods for the creation and\n"
+"command of undead servants.\n"
+msgstr ""
+"Tämä epäpyhä kirja kertoo maagisista keinoista epäkuolleiden palvelijoiden\n"
+"luomiseen ja käskemiseen. Kauheassa kirjassa säteilee pahansuopa aura, ja sen\n"
+"pergamenttisivut joskus sätkivät ja värisevät itsestään.\n"
+
+#. key: buckler
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:buckler"
+msgid ""
+"A small piece of wood and metal, to be strapped on one arm for defence.\n"
+msgstr ""
+"Pieni kappale puuta ja metallia, jonka voi kiinnittää käteen hihnalla\n"
+"puolustukseksi. Se on hieman vaivalloinen käyttää, ja ilman harjoitusta\n"
+"hidastaa soturin hyökkäysnopeutta.\n"
+
+#. key: chain mail
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:chain mail"
+msgid ""
+"A suit of armour made entirely out of tiny metal rings.\n"
+msgstr ""
+"Täysin pienistä metallirinkuloista tehty haarniska. Se tarjoaa hyvää suojaa\n"
+"aseita, kynsiä ja torahampaita vastaan, mutta haittaa nopeaa ja hiljaista\n"
+"liikettä.\n"
+
+#. key: cloak
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:cloak"
+msgid ""
+"A cloth cloak.\n"
+msgstr ""
+"Kangasviitta.\n"
+
+#. key: corpse
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:corpse"
+msgid ""
+"A corpse. Useless and dead.\n"
+msgstr ""
+"Ruumis. Voit teurastaa sen tuottaaksesi syömäkelpoisia lihakimpaleita.\n"
+
+#. key: crystal plate armour
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:crystal plate armour"
+msgid ""
+"An incredibly heavy but extremely effective suit of crystalline armour.\n"
+msgstr ""
+"Uskomattoman raskas mutta äärimmäisen tehokas kristallipanssari.\n"
+
+#. key: gold piece
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:gold piece"
+msgid ""
+"A pile of glittering gold coins.\n"
+msgstr ""
+"Kasa kiiltäviä kultakolikoita.\n"
+
+#. key: amulet
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:amulet"
+msgid ""
+"An amulet to be worn as jewellery around the neck, charged with arcane powers\n"
+"of unknown provenance.\n"
+msgstr ""
+"Kaulassa pidettävä talismaani, jossa piilee mystisiä, tuntemattomasta lähteestä\n"
+"peräisin olevia voimia.\n"
+
+#. key: potion
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:potion"
+msgid ""
+"An unlabelled flask containing a single dose of unknown liquid.\n"
+msgstr ""
+"Pieni nestettä sisältävä pullo.\n"
+
+#. key: ring
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:ring"
+msgid ""
+"A ring charged with arcane forces of unknown provenance, to be worn as jewellery\n"
+"on a finger.\n"
+msgstr ""
+"Sormeen pujotettava koru, jossa piilee mystisiä, tuntemattomasta lähteestä\n"
+"peräisin olevia voimia.\n"
+
+#. key: scroll
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:scroll"
+msgid ""
+"A disposable arcane formula inscribed on parchment by a professional scribe or\n"
+"sorcerer. Anyone can evoke the power of the arcane formula by reading it out\n"
+"loud, but the nature of that power is not a priori apparent.\n"
+msgstr ""
+"Paperikäärö täynnä maagista kirjoitusta.\n"
+
+#. key: staff
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:staff"
+msgid ""
+"A staff improved with arcane powers of unknown nature.\n"
+msgstr ""
+"Salaisilla voimilla vahvistettu taistelusauva.\n"
+
+#. key: wand
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:wand"
+msgid ""
+"An unusually magical sort of stick.\n"
+msgstr ""
+"Keppi. Ehkä siinä on taikuutta.\n"
+
+#. key: singing sword
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:singing sword"
+msgid ""
+"An enchanted blade which loves nothing more than to sing to its owner, whether\n"
+"they want it to or not.\n"
+msgstr ""
+"Tämä siunattu ase rakastaa kaikista eniten omistajalleen laulamista, halusi hän\n"
+"sitä tai ei.\n"
+
+#. key: mace of variability
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:mace of variability"
+msgid ""
+"A large mace said to have appeared when Xom grew bored with the predictability\n"
+"of more ordinary instruments of chaos.\n"
+msgstr ""
+"Se on varsin epäluotettava.\n"
+
+#. key: scythe of curses
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:scythe of curses"
+msgid ""
+"A scythe surrounded by an ominous aura of dread. It carries a terrible and\n"
+"ancient curse, which it busily inflicts on both the wielder and their enemies.\n"
+msgstr ""
+"Tässä aseessa on karmea ja hyvin ärsyttävä kirous.\n"
+
+#. key: dagger of chilly death
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:dagger of chilly death"
+msgid ""
+"A dagger made of one huge shard of sapphire. It covers opponents in ice,\n"
+"slowing down their movement somewhat.\n"
+msgstr ""
+"Yhdestä valtavasta safiirin palasta tehty tikari.\n"
+
+#. key: mithril axe "arga"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:mithril axe \"arga\""
+msgid ""
+"A beautiful mithril axe, probably lost by some dwarven hero.\n"
+msgstr ""
+"Kaunis mithrilkirves, varmaan jäänyt jälkeen joltakin kääpiösankarilta.\n"
+
+#. key: longbow "piercer"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:longbow \"piercer\""
+msgid ""
+"An exceptionally large metal longbow.\n"
+msgstr ""
+"Erikoisen suuri metallinen pitkäjousi.\n"
+
+#. key: blowgun of the assassin
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:blowgun of the assassin"
+msgid ""
+"This blowgun seems to guide the needle to seek the most lethal point to hit\n"
+"the target, packing a nasty punch.\n"
+msgstr ""
+"Se on suunniteltu helposti kätkettäväksi, mutta silti tinttaa ilkeästi.\n"
+
+#. key: knife of accuracy
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:knife of accuracy"
+msgid ""
+"It is almost unerringly accurate.\n"
+msgstr ""
+"Se on melkein erehtymättömän tarkka.\n"
+
+#. key: crown of dyrovepreva
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:crown of dyrovepreva"
+msgid ""
+"A large circlet of dull bronze, set with a dazzling array of gemstones. It was\n"
+"first worn by a prince of the Titans, who sought protection from the incessant\n"
+"warfare between his fellow princes. In practice, the main effect of the\n"
+"artefact was to unite his rivals against him.\n"
+msgstr ""
+"Häikäisevällä timanttirivistöllä varusteltu suuri pronssikruunu.\n"
+
+#. key: cloak of flash
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:cloak of flash"
+msgid ""
+"A cloak that twitches and jerks without any intervention.\n"
+msgstr ""
+"Värisevä viitta.\n"
+
+#. key: maxwell's patent armour
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:maxwell's patent armour"
+msgid ""
+"A suit of armour created by the famous inventor Maxwell, providing unparalleled\n"
+"protective qualities at a very affordable price. His unorthodox materials left\n"
+"it with certain shortcomings, but he's yet to have anyone come back for a\n"
+"refund.\n"
+msgstr ""
+"Oudon näköinen panssari.\n"
+
+#. key: fencer's gloves
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:fencer's gloves"
+msgid ""
+"A pair of gloves made of white silk.\n"
+msgstr ""
+"Valkoisesta silkistä tehdyt hanskat.\n"
+
+#. key: cloak of starlight
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:cloak of starlight"
+msgid ""
+"A phosphorescent cloak, woven of pure light beams. The ripples of its folds\n"
+"as the wearer leaps and swerves in combat may dazzle those who gaze on it.\n"
+msgstr ""
+"Aitojen valosäteiden punoma viitta.\n"
+
+#. key: brooch of shielding
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:brooch of shielding"
+msgid ""
+"A brooch with an intricate inlaid design, providing a range of magical\n"
+"protections. Back in the good old days, every adventurer had one of these handy\n"
+"devices. That, and a pony.\n"
+msgstr ""
+"Vanhoina hyvinä aikoina jokaisella seikkailijalla oli yksi tämmöinen. Ja poni.\n"
+
+#. key: autumn katana
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:autumn katana"
+msgid ""
+"An exquisitely crafted sword. Its blade is so sharp that it can cut through\n"
+"space itself.\n"
+msgstr ""
+"Tämä eksoottinen miekka sopii aidosti valaistuneille taistelijoille.\n"
+
+#. key: azrael
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:azrael"
+msgid ""
+"A powerful, belligerent efreet. (Is there any other kind?)\n"
+msgstr ""
+"Voimakas, sotaisa Efreet. (Onko muunlaisia edes olemassa?)\n"
+
+#. key: boris
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:boris"
+msgid ""
+"An ancient and powerful lich. Like all true liches, Boris is immortal, and will\n"
+"regenerate his desiccated skeletal remains even if completely disintegrated.\n"
+"The same cannot be said for his many victims over his many centuries, from\n"
+"which he collects and channels their dying woes and regrets.\n"
+msgstr ""
+"Muinainen Lich. Ilma hänen kätketyn muotonsa ympärillä ritisee pahasta\n"
+"energiasta.\n"
+
+#. key: chuck
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:chuck"
+msgid ""
+"Chuck the stone giant loves rocks, the bigger the better! Over the years, he\n"
+"has managed to amass quite the collection, including some rare, enchanted ones.\n"
+msgstr ""
+"Chuck, kivijättiläinen, rakastaa kiviä, mitä isompi sen parempi! Vuosien\n"
+"varrella hänelle on siunaantunut varsinainen kokoelma, jossa on myös\n"
+"harvinaisia, vahvennettuja yksilöitä.\n"
+
+#. key: dispater
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:dispater"
+msgid ""
+"Greatest and most ruthless of the Lords of Hell, Dispater was born when first an\n"
+"iron sword drank mortal blood. They despise mortal vanities, the pursuit of\n"
+"‘reason’ and ‘beauty’ - the only art they enjoy is the art of war.\n"
+msgstr ""
+"Disin Iron Cityn valtias.\n"
+
+#. key: erolcha
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:erolcha"
+msgid ""
+"An especially cunning ogre-mage.\n"
+msgstr ""
+"Erityisen ovela ogre-maagi.\n"
+
+#. key: eustachio
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:eustachio"
+msgid ""
+"An apprentice summoner with a flowing moustache. He has funny ideas about\n"
+"honour.\n"
+msgstr ""
+"Apulaiskutsuja virtaviivaisilla viiksillä. Hänellä on hauskoja ajatuksia\n"
+"kunniasta.\n"
+
+#. key: grum
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:grum"
+msgid ""
+"A tough-looking gnoll, wearing the pelt of one of his former war dogs.\n"
+msgstr ""
+"Ankaran näköinen gnolli, yllään yhden hänen entisen sotakoiransa turkki.\n"
+
+#. key: harold
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:harold"
+msgid ""
+"A middle-aged bounty hunter, anxious to retire after one final job. He hopes to\n"
+"settle down somewhere and live a quiet life with his family, using the money\n"
+"from his final bounty: you.\n"
+msgstr ""
+"Keski-ikäinen palkkionmetsästäjä, palkattu tappamaan sinut. Hänellä on kiire.\n"
+
+#. key: ijyb
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:ijyb"
+msgid ""
+"A small and shrewd goblin inventor, wearing blue rags coated in soot.\n"
+"She claims dominion over this level of the dungeon; trespassers will find\n"
+"themselves on the business end of a homemade wand.\n"
+msgstr ""
+"Pieni ja kiero maahinen. Hänellä on vaatteinaan joitakin rumia sinisiä rääsyjä.\n"
+
+#. key: joseph
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:joseph"
+msgid ""
+"Looks like a mercenary in a stupid-looking hat.\n"
+msgstr ""
+"Näyttää aivan palkkasotilaalta.\n"
+
+#. key: louise
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:louise"
+msgid ""
+"A mighty sorceress, clad from head to toe in heavy armour. Once an adventurer\n"
+"looking for the fabled Orb of Zot, she was cast into the Abyss and got\n"
+"hopelessly lost there. Toyed with by some greater power, she was stuck on the\n"
+"hostile plane for nearly a decade. When she finally emerged from the Abyss,\n"
+"Louise had become powerful indeed, but had also gone fully insane. She now\n"
+"wanders the halls of the dungeon, seeking other adventurers to share her fate.\n"
+msgstr ""
+"Epätavallisen raskaasti panssaroitu loitsija.\n"
+
+#. key: maurice
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:maurice"
+msgid ""
+"A sly, conniving thief. A self-proclaimed legend, he was one of the most skilled\n"
+"and crafty of the thieves and rogues lured by the Orb. The magical parasitic\n"
+"vines that have claimed his body still wish to continue his life's work, with a\n"
+"back-up plan of both a vicious magic-drinking maw and potent wands.\n"
+msgstr ""
+"Viekas, juonitteleva varas.\n"
+
+#. key: brimstone fiend
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:brimstone fiend"
+msgid ""
+"A huge and powerful demon wreathed in damnation, with great scaly wings. It is\n"
+"one of the most fearsome denizens of any of the Hells.\n"
+msgstr ""
+"Helvetintulen ympäröimä jättimäinen ja voimakas demoni, suurilla suomuisilla\n"
+"siivillä. Yksi Helvettien pelottavimmista asukeista.\n"
+
+#. key: abjuration spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:abjuration spell"
+msgid ""
+"Reduces the remaining duration of any nearby hostile summoned creatures.\n"
+msgstr ""
+"Tämä loitsu yrittää lähettää vaarallisen kutsuntaolennon sinne, mistä se\n"
+"tulikin, tai ainakin lyhentää sen aikaa sen kutsujan apuna.\n"
+
+#. key: agony spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:agony spell"
+msgid ""
+"Cuts the health of a target creature in half. This damage is never directly\n"
+"lethal.\n"
+msgstr ""
+"Tämä taika leikkaa olennon sietokyvyn kahtia, mutta ei tapa koskaan suoralta\n"
+"kädeltä.\n"
+
+#. key: blink spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:blink spell"
+msgid ""
+"Randomly translocates the caster a short distance. After translocating in this\n"
+"way, the spell cannot be cast again for a short period of time depending on\n"
+"spell power.\n"
+msgstr ""
+"Tämä loitsu satunnaisesti teleporttaa loitsijaansa vähän matkaa.\n"
+
+#. key: call imp spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:call imp spell"
+msgid ""
+"Calls forth a minor demon from the pits of Hell, equipped with a spear with\n"
+"which to jab at the caster's enemies. The quality of the imp's weaponry rises\n"
+"with spell power.\n"
+msgstr ""
+"Tällä taialla voi kutsua pienen demonin Helvetin syövereistä.\n"
+
+#. key: cause fear spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:cause fear spell"
+msgid ""
+"Causes fear in those near to the caster, causing those affected to be unable to\n"
+"approach the caster, and to sometimes fail to attack them in melee. Leaving the\n"
+"caster's line of sight will end the effect.\n"
+msgstr ""
+"Tämä taika saa loitsijan lähellä olevat pelkäämään.\n"
+
+#. key: charm spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:charm spell"
+msgid ""
+"Causes an otherwise hostile creature to fight on the caster's side for a while.\n"
+"Adventurers, set on their quest for the ORB, instead suffer momentary confusion.\n"
+msgstr ""
+"Tämä taika saa vaarallisen olennon taistelemaan puolellasi hetkeksi aikaa.\n"
+
+#. key: confuse spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:confuse spell"
+msgid ""
+"Induces a state of bewilderment and confusion in a creature's mind.\n"
+msgstr ""
+"Tämä taika aiheuttaa olennon mieleen hämmennystä ja sekaannusta.\n"
+
+#. key: death channel spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:death channel spell"
+msgid ""
+"Binds the souls of slain living, demonic and holy creatures, forcing their\n"
+"spectres to remain and fight for the caster for as long as the channel lasts.\n"
+msgstr ""
+"Tämä taika nostaa käyttäjän ja hänen apuriensa tappamia eläviä orjuuteen\n"
+"aavemaisina olentoina.\n"
+
+#. key: debugging ray spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:debugging ray spell"
+msgid ""
+"Fires a ray which does massive damage (1500 hp) and always hits.\n"
+msgstr ""
+"Säde joka tekee massiivista vahinkoa (1500 hp) ja osuu aina.\n"
+
+#. key: breathe poison gas ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:breathe poison gas ability"
+msgid ""
+"Breathes a blast of poison gas at a targeted creature.\n"
+msgstr ""
+"Henkäise myrkkykaasua tähtäämääsi hirviöön.\n"
+
+#. key: end transformation ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:end transformation ability"
+msgid ""
+"Reverts you to your normal form.\n"
+msgstr ""
+"Palaa takaisin perusmuotoosi pienellä viiveellä.\n"
+
+#. key: cure all mutations ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:cure all mutations ability"
+msgid ""
+"Cures all your mutations — but only once.\n"
+msgstr ""
+"Paranna kaikki mutaatiosi — mutta vain kerran.\n"
+
+#. key: brothers in arms ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:brothers in arms ability"
+msgid ""
+"Summons huge angry allies to wreak havoc.\n"
+msgstr ""
+"Kutsu valtavia, vihaisia apulaisia aiheuttamaan sekasortoa.\n"
+
+#. key: depart the abyss ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:depart the abyss ability"
+msgid ""
+"Transports you out of the Abyss, returning you to the location from which you\n"
+"entered it.\n"
+msgstr ""
+"Jätä Syvänne taaksesi ja palaa sinne mistä tulit.\n"
+
+#. key: banish ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:banish ability"
+msgid ""
+"Attempts to banish a creature into the Abyss. If the attempt succeeds, you gain\n"
+"some piety and the creature's full experience value. Even creatures that resist\n"
+"are left malmutated and weakened by the brush with the Abyss. Invocations skill\n"
+"makes Banishment harder to resist.\n"
+msgstr ""
+"Yritä karkottaa hirviö Syvänteeseen.\n"
+
+#. key: cmd_rest verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_rest verbose"
+msgid ""
+"Rests while your health and magic regenerate. Resting is interrupted as soon\n"
+"as a hostile monster comes into view. If health and magic are both already\n"
+"full, resting will wait for 100 turns.\n"
+msgstr ""
+"Käytä korkeintaan 100 vuoroa terveyden ja taikavoiman lataamiseen ja/tai\n"
+"etsimiseen. Lepääminen keskeytyy, jos näkyviin tulee hirviö.\n"
+
+#. key: cmd_explore
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_explore"
+msgid ""
+"Autoexplore the current level\n"
+msgstr ""
+"Tutki nykyinen taso automaattisesti.\n"
+
+#. key: cmd_explore verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_explore verbose"
+msgid ""
+"Automatically explores the current level, collecting items on the way.\n"
+"Exploration stops as soon as a hostile monster comes into view, or when you\n"
+"encounter new items or features.\n"
+msgstr ""
+"Laittaa hahmosi matkaamaan automaattisesti kohti tutkimattomia alueita\n"
+"nykyisessä kerroksessa, keräten samalla autopickup-säädetyt tavarat.\n"
+"Liikkuminen loppuu hirviön tullessa näkökenttään, ja myös ilmoittaakseen\n"
+"löydettyjä esineitä ja erikoisuuksia.\n"
+
+#. key: cmd_interlevel_travel
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_interlevel_travel"
+msgid ""
+"Travel to distant levels\n"
+msgstr ""
+"Matkusta kaukaisiin tasoihin\n"
+
+#. key: cmd_interlevel_travel verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_interlevel_travel verbose"
+msgid ""
+"Automatically travels to a chosen level or branch. Travel is interrupted by\n"
+"monsters coming into view.\n"
+msgstr ""
+"Matkusta kaukaisiin kerroksiin. Hirviöt pysäyttävät matkanteon.\n"
+
+#. key: cmd_use_ability
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_use_ability"
+msgid ""
+"Use divine, innate or evokable abilities\n"
+msgstr ""
+"Käytä pyhiä tai synnynnäisiä kykyjä\n"
+
+#. key: cmd_search_stashes
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_search_stashes"
+msgid ""
+"Search for items/features\n"
+msgstr ""
+"Etsi esineitä/erikoisuuksia\n"
+
+#. key: cmd_search_stashes verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_search_stashes verbose"
+msgid ""
+"Searches for items or features seen elsewhere, and allows you to travel to\n"
+"their location.\n"
+msgstr ""
+"Etsi esineitä ja erikoisuuksia joita näit muualla, ja matkusta sinne.\n"
+
+#. key: cmd_replay_messages
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_replay_messages"
+msgid ""
+"Reread recent messages\n"
+msgstr ""
+"Lue uudelleen viimeaikaiset viestit\n"
+
+#. key: cmd_resists_screen
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_resists_screen"
+msgid ""
+"Display character overview\n"
+msgstr ""
+"Näytä hahmon kokonaiskatsaus\n"
+
+#. key: cmd_resists_screen verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_resists_screen verbose"
+msgid ""
+"Displays an overview of your current resistances, abilities, equipment and\n"
+"attributes.\n"
+msgstr ""
+"Näyttää tietoa tunnetuista vastustuskyvyistä, taidoista, varusteista jne.\n"
+
+#. key: cmd_display_overmap
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_overmap"
+msgid ""
+"Display dungeon overview\n"
+msgstr ""
+"Näytä luolaston kartta\n"
+
+#. key: cmd_display_overmap verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_overmap verbose"
+msgid ""
+"Displays an overview of dungeon branch locations, discovered altars, shops and\n"
+"level annotations.\n"
+msgstr ""
+"Näyttää sivuluolastojen, kauppojen ja muiden kohtaamiesi erikoisuuksien\n"
+"sijainnit.\n"
+
+#. key: cmd_display_religion
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_religion"
+msgid ""
+"Display religious status\n"
+msgstr ""
+"Näytä uskonnon tila\n"
+
+#. key: cmd_display_religion verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_religion verbose"
+msgid ""
+"Displays your god's likes and dislikes, conduct, and your current religious\n"
+"standing and divine abilities.\n"
+msgstr ""
+"Näyttää jumalaasi miellyttävät ja vihastuttavat asiat, käytöksen, nykyisen\n"
+"uskonnollisen arvosi ja pyhät erikoiskyvyt.\n"
+
+#. key: cmd_display_mutations
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_mutations"
+msgid ""
+"Display mutations\n"
+msgstr ""
+"Näytä mutaatiot\n"
+
+#. key: cmd_display_skills
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_skills"
+msgid ""
+"Manage skills\n"
+msgstr ""
+"Hallitse taitoja\n"
+
+#. key: cmd_display_character_status
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_character_status"
+msgid ""
+"Display character status\n"
+msgstr ""
+"Näytä hahmon tila\n"
+
+#. key: cmd_display_character_status verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_character_status verbose"
+msgid ""
+"Displays details on your current movement speed, attack speed, stealth, magic\n"
+"resistance, and any currently active enchantments or status effects.\n"
+msgstr ""
+"Näyttää aktiiviset taiat ja muutaman muun asian.\n"
+
+#. key: cmd_display_known_objects
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_known_objects"
+msgid ""
+"List discovered item types\n"
+msgstr ""
+"Näytä tunnetut esinetyypit\n"
+
+#. key: cmd_save_game_now
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_save_game_now"
+msgid ""
+"Save and exit\n"
+msgstr ""
+"Tallenna ja poistu\n"
+
+#. key: cmd_save_game_now verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_save_game_now verbose"
+msgid ""
+"Saves the game for later and exits. Once you resume the game, the save file is\n"
+"deleted again.\n"
+msgstr ""
+"Tallentaa pelin myöhempää jatkoa varten ja poistuu. Kun jatkat peliä, tallennus\n"
+"poistuu.\n"
+
+#. key: cmd_edit_player_tile
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_edit_player_tile"
+msgid ""
+"Modify the player tile\n"
+msgstr ""
+"Muokkaa pelaajatiiltä\n"
+
+#. key: cmd_edit_player_tile verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_edit_player_tile verbose"
+msgid ""
+"Allows you to modify the equipment and species tile displayed in the player\n"
+"doll.\n"
+msgstr ""
+"Muokkaa pelaajanukella näytettävää varustusta ja muita piirteitä.\n"
+
+#. key: cmd_display_commands
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_commands"
+msgid ""
+"Game help\n"
+msgstr ""
+"Peliapu\n"
+
+#. key: cmd_display_commands verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_commands verbose"
+msgid ""
+"Displays a list of commands.\n"
+msgstr ""
+"Lista komennoista, asetuksista jne.\n"
+
+#. key: cmd_autofight
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_autofight"
+msgid ""
+"Hit the closest monster\n"
+msgstr ""
+"Hyökkää lähimmän hirviön kimppuun\n"
+
+#. key: cmd_autofight verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_autofight verbose"
+msgid ""
+"Moves towards the closest hostile monster, or attacks an adjacent monster with\n"
+"your current weapon.\n"
+msgstr ""
+"Liiku kohti lähintä vaarallista hirviötä ja hyökkää sen kimppuun kädessäsi\n"
+"olevalla aseella.\n"
+
+#. key: cmd_autofight_nomove
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_autofight_nomove"
+msgid ""
+"Hit an adjacent monster\n"
+msgstr ""
+"Hyökkää viereisen hirviön kimppuun\n"
+
+#. key: cmd_autofight_nomove verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_autofight_nomove verbose"
+msgid ""
+"Attacks an adjacent monster with your current weapon.\n"
+msgstr ""
+"Hyökkää viereisen hirviön kimppuun kädessäsi olevalla aseella.\n"
+
+#. key: cmd_wait
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_wait"
+msgid ""
+"Wait a single turn\n"
+msgstr ""
+"Odota yksi vuoro\n"
+
+#. key: deep elf
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:deep elf"
+msgid ""
+"Deep Elves have a strong affinity for all kinds of magic, but are very fragile.\n"
+"They regenerate magical power rapidly.\n"
+msgstr ""
+"Magiassa taitavin haltia, mutta myös haurain.\n"
+
+#. key: demigod
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:demigod"
+msgid ""
+"Demigods refuse to worship any god, but make up for this with divine attributes\n"
+"and high reserves of health and magic.\n"
+msgstr ""
+"He eivät koskaan seuraa jumalia, mutta Puolijumalilla on sen sijaan pyhät\n"
+"ominaisuudet ja terveysvarastot.\n"
+
+#. key: demonspawn
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:demonspawn"
+msgid ""
+"Demonspawn are half human, half demon. They acquire strong demonic mutations as\n"
+"they grow.\n"
+msgstr ""
+"Demonimies on puoliksi ihminen, puoliksi demoni. Kasvaessaan he saavat\n"
+"voimakkaita demonisia mutaatioita.\n"
+
+#. key: draconian
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:draconian"
+msgid ""
+"Draconians are versatile hybrids. They mature when reaching level 7 and develop\n"
+"a colour.\n"
+msgstr ""
+"Draconianit ovat monipuolisia hybridejä. Ne aikuistuvat tasolla 7, kehittäen\n"
+"itselleen värin.\n"
+
+#. key: felid
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:felid"
+msgid ""
+"Felids are many-lived sentient cats. They cannot use armour or weapons.\n"
+msgstr ""
+"Näillä kissoilla on älykkyttä, mutta ne eivät pysty panssarin tai aseistuksen\n"
+"käyttöön.\n"
+
+#. key: human
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:human"
+msgid ""
+"Humans are natural explorers. Discovering new places refreshes and invigorates them.\n"
+"They are otherwise completely average.\n"
+msgstr ""
+"Tavanomainen ja keskiverto.\n"
+
+#. key: air elementalist
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:air elementalist"
+msgid ""
+"Air Elementalists have learned the Shock spell. Their electrical magic can harm\n"
+"groups of foes, while their air spells assist in fighting or fleeing enemies.\n"
+msgstr ""
+"Ilmaelementalistit ovat oppineet Sähköisku-taian. Myöhemmässä vaiheessa Ilman\n"
+"kirja antaa heille joustavuutta selviytymiseen.\n"
+
+#. key: artificer
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:artificer"
+msgid ""
+"Artificers start with a few magic wands and a club. They'll need to find better\n"
+"weapons and armour before their wands run out.\n"
+msgstr ""
+"Esinesoturit aloittavat muutamalla maagisella esineellä, joiden käytössä he\n"
+"ovat taitavia.\n"
+
+#. key: berserker
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:berserker"
+msgid ""
+"Berserkers believe in Trog, the magic-hating god of frenzy. Not much can stop a\n"
+"raging berserker early on, apart from hubris.\n"
+msgstr ""
+"Berserkit uskovat Trogiin, taikaa vihaavaan vimmajumalaan. Moni asia ei voi\n"
+"pysäyttää berserkkiä aikaisessa vaiheessa, paitsi ylimielisyys.\n"
+
+#. key: chaos knight
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:chaos knight"
+msgid ""
+"Chaos Knights are playthings of the unpredictable Xom, and are subject to the\n"
+"god's constantly changing moods.\n"
+msgstr ""
+"Kaaosritarit ovat arvaamattoman Xomin leikkikaluja ja joutuvat jumalansa\n"
+"jatkuvasti vaihtuvan mielialan koetukselle.\n"
+
+#. key: conjurer
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:conjurer"
+msgid ""
+"Conjurers begin with the Magic Dart spell, and can learn other non-elemental\n"
+"spells to reliably blast their foes.\n"
+msgstr ""
+"Taistelumaagit kohtaavat ongelmansa Konjuraatioiden kirjan vahingoittavilla\n"
+"taioilla.\n"
+
+#. key: earth elementalist
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:earth elementalist"
+msgid ""
+"Earth Elementalists know the Sandblast spell, and can later learn more earthen\n"
+"spells suitable for subtle stabbing or brute-force blasting.\n"
+msgstr ""
+"Maaelementalistit osaavat Hiekkatykki-taian ja kantavat mukanaan kiviä\n"
+"lisätäkseen loistun voimaa. Lisää maanläheisiä taikoja he oppivat Geomagiikan\n"
+"kirjasta.\n"
+
+#. key: enchanter
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:enchanter"
+msgid ""
+"Enchanters know a variety of Hexes that can incapacitate their foes, and are\n"
+"equipped with an enchanted dagger and potions of invisibility.\n"
+msgstr ""
+"Vahventajat käyttävät loitsuja itsensä tehostamiseksi taistelussa, tai tekevät\n"
+"muut toimintakyvyttömiksi. He myös aloittavat hyvillä tikoilla.\n"
+
+#. key: fire elementalist
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:fire elementalist"
+msgid ""
+"Fire Elementalists have learned the Foxfire spell. Their other starting spells\n"
+"are likewise focused on fiery and explosive destruction.\n"
+msgstr ""
+"Tulielementalistit aloittavat Liekkien kirjalla ja osaavat Liekkikieli-taian.\n"
+"Kirjan muutkin taiat keskittyvät tuhoamiseen.\n"
+
+#. key: gladiator
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:gladiator"
+msgid ""
+"Gladiators are ready for the arena with light armour, a weapon of their choice,\n"
+"and a few throwing weapons and nets.\n"
+msgstr ""
+"Gladiaattorit ovat valmiita areenakoitoksiin kevyellä panssarilla, kilvellä,\n"
+"heittoverkoilla ja valitsemallaan aseella.\n"
+
+#. key: hedge wizard
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:hedge wizard"
+msgid ""
+"Hedge Wizards are magic generalists, good at using a wide variety of tools to\n"
+"frustrate their foes and gain an edge in the battlefield.\n"
+msgstr ""
+"Velhot aloittavat Vähäisen taikuuden kirjalla, jossa on vino pino taikoja.\n"
+"Heillä on suuremmat taikuusvarastot kuin muilla hahmoluokilla.\n"
+
+#. key: hunter
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:hunter"
+msgid ""
+"Hunters carry a shortbow, light armour and a scroll of butterflies.\n"
+msgstr ""
+"Metsästäjät osaavat hyökätä kaukaa, tukeutumatta ärsyttävään taikuuteen.\n"
+
+#. key: ice elementalist
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:ice elementalist"
+msgid ""
+"Ice Elementalists begin with the Freeze spell. Their later spells provide strong\n"
+"offence and defence, but may restrict their movement.\n"
+msgstr ""
+"Jääelementalistit aloittavat Pakkasen kirjalla ja osaavat Jäädytys-loitsun.\n"
+"Kirjan muut loitsut sopivat moneen tilanteeseen.\n"
+
+#. key: monk
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:monk"
+msgid ""
+"Monks start with a simple weapon of their choice, an orb of light, and a potion\n"
+"of divine ambrosia, and gain additional piety with the first god they worship.\n"
+msgstr ""
+"Munkit ovat valmiina kohtaamaan Luolaston yllään vain kaapu. He luottavat\n"
+"kehoonsa.\n"
+
+#. key: necromancer
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:necromancer"
+msgid ""
+"Necromancers start out with the Soul Splinter spell. Eventually, they can turn\n"
+"the dead into allies and use the life force of the living to restore themselves.\n"
+msgstr ""
+"Nekromantikot ovat kuolotaikuuden spesialisteja. He aloittavat Kipu-loitsulla.\n"
+
+#. key: wanderer
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:wanderer"
+msgid ""
+"Wanderers start with random equipment and skills.\n"
+msgstr ""
+"Vaeltajat aloittavat satunnaisella varustuksella ja taidoilla.\n"
+
+#. key: warper
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:warper"
+msgid ""
+"Warpers start with a weapon of their choice, a scroll of blinking, darts of\n"
+"disjunction, and some Translocation spells in their library.\n"
+msgstr ""
+"Varppaajat aloittavat haluamallaan aseella ja Välähdys-kääröllä. He voivat\n"
+"oppia taikoja Spatiaalisten translokaatioiden kirjasta.\n"
+

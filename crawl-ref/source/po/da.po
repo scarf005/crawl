@@ -1,0 +1,5370 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: crawl-data\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+#. key: animal skin
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:animal skin"
+msgid ""
+"A large piece of thick skin covered in fur, cut from the corpse of an animal\n"
+"and worn as a primitive garment. It offers rudimentary protection against harm,\n"
+"but, having never been tanned, it carries a light stench of rotting flesh.\n"
+msgstr ""
+"Et stort stykke tyk hud, dækket af pels, som er flået af et dyrekadaver, og som\n"
+"kan bæres som en primitiv klædedragt. Den yder rudimentær beskyttelse mod slag,\n"
+"men fordi det ikke er garvet, lugter det svagt af råddent kød.\n"
+
+#. key: bardiche
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:bardiche"
+msgid ""
+"A long pole with an enormous, cleaving blade on one end.\n"
+msgstr ""
+"En lang stage med et enormt, kløvende blad i den ene ende.\n"
+
+#. key: book of annihilations
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of annihilations"
+msgid ""
+"A tome of arcane fury, greatly sought after by sorcerers. It allows the gifted\n"
+"and resourceful to conjure destruction with ease.\n"
+msgstr ""
+"Denne bogs lasede sider bløder, og selv analfabeter kan mærke kraften i det\n"
+"mystiske raseri, den indeholder. Den er eftersøgt af troldmænd, for den lader\n"
+"de dygtige og snarrådige styre den totale ødelæggelse så let som ingenting. Men\n"
+"sølle troldkarle risikerer en krank skæbne, hvis de læser dette værk.\n"
+"\n"
+"ADVARSEL: Hvis det mislykkes at lære en besværgelse fra denne bog, vil den\n"
+"angribe dig.\n"
+
+#. key: book of cantrips
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of cantrips"
+msgid ""
+"A book containing a small selection of very basic magic spells, intended for\n"
+"beginners who wish to learn the rudiments of one of the featured magical\n"
+"schools.\n"
+msgstr ""
+"En bog som indeholder et lille udvalg af de mest grundlæggende besværgelser,\n"
+"beregnet på begyndere, som gerne vil lære en af de repræsenterede magiske\n"
+"skolers mest rudimentære teknikker. Ikke desto mindre kan selv erfarne\n"
+"troldmænd drage nytte af besværgelserne i den.\n"
+
+#. key: book of conjurations
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of conjurations"
+msgid ""
+"A book containing an introduction to the destructive magical arts of\n"
+"Conjurations.\n"
+msgstr ""
+"En bog, som indeholder en introduktion til fremmaningernes destruktive magiske\n"
+"kunster. Når den åbnes, skælver den af kræfter, den knapt kan rumme. En meget\n"
+"populær bog, som konstant bliver revideret og opdateret: Udgaven fra i år\n"
+"fokuserer på elementerne is og luft.\n"
+
+#. key: book of debilitation
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of debilitation"
+msgid ""
+"A spellbook containing spells known for having a particularly unpleasant\n"
+"effect on their victims. It's considered something of a faux pas in the\n"
+"wizarding community to be seen with this book in one's collection.\n"
+msgstr ""
+"En bog med forbandelser som er nyttige for en okkult skytte. Mange af siderne\n"
+"er fyldt med huller, som om de blev brugt til at træne bueskydning med, før de\n"
+"blev beskrevet og indbundet. Denne okkulte teknik skulle gøre besværgelserne\n"
+"mere velegnede til brug med skydevåben, men i praksis fungerer de ikke\n"
+"anderledes end de udgaver, der findes i mindre gennemhullede tekster.\n"
+
+#. key: book of dreams
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of dreams"
+msgid ""
+"The somniloquent utterings of a famed mystic, using uniquely bizarre imagery\n"
+"and cryptic digressions to describe spells drawn from the mystic's visions.\n"
+msgstr ""
+"Optegnelser over en mystikers mumlen, mens han var i trance, som beskriver en\n"
+"række besværgelser, der afspejler mystikerens drømmetilstand. Værkets kritikere\n"
+"mener, at besværgelserne ikke funktionelt adskiller sig fra allerede kendte\n"
+"udgaver, men bogen er fortsat populær for sit bizarre billedsprog og sine\n"
+"kryptiske sidebemærkninger.\n"
+
+#. key: book of fixed level
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of fixed level"
+msgid ""
+"A book of magic spells.\n"
+msgstr ""
+"En bog med magiske besværgelser.\n"
+
+#. key: book of fixed theme
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of fixed theme"
+msgid ""
+"A book of magic spells.\n"
+msgstr ""
+"En bog med magiske besværgelser.\n"
+
+#. key: book of necromancy
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of necromancy"
+msgid ""
+"A macabre book containing basic Necromancy spells. Readers are recommended to\n"
+"wear a pair of gloves they don't mind disposing of afterward.\n"
+msgstr ""
+"En makaber bog med magiske besværgelser, som ofte er den første grimoire, en\n"
+"nybegynder udi nekromantikken studerer. På grund af de farer, der er forbundet\n"
+"med at beskæftige sig med nekromantisk magi, er det også til tider den *sidste*\n"
+"grimoire, en nybegynder udi nekromantikken studerer.\n"
+
+#. key: book of power
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of power"
+msgid ""
+"A book of powerful and destructive magic spells, rumbling and shuddering with\n"
+"barely-contained energies.\n"
+msgstr ""
+"En bog med kraftfulde magiske besværgelser, som er eftersøgt af ambitiøse\n"
+"troldmænd, der vil hæve sig over deres rivaler. Den knitrer og skælver af\n"
+"energier, der med nød og næppe er dæmmet op for.\n"
+
+#. key: book of spatial translocations
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of spatial translocations"
+msgid ""
+"A basic spellbook on the magical field of Translocations. Many would-be mages\n"
+"have seen it disappear just as they needed it most.\n"
+msgstr ""
+"Klassiskeren over dem alle om translokationernes magiske felt, skrevet af\n"
+"ærketroldmanden Golubria, som også var en dygtig forvrænger, for tohundrede år\n"
+"siden. Bogen findes stadig i magiske biblioteker over hele verdenen, selvom den\n"
+"ikke altid er der, hvor bibliotekaren efterlod den.\n"
+
+#. key: book of the warp
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of the warp"
+msgid ""
+"A book of advanced Translocations spells, written by a particularly\n"
+"misanthropic mage. After its completion, they were never seen again, which may\n"
+"or may not have been the point.\n"
+msgstr ""
+"En bog med translokationsbesværgelser til erfarne forvrængere. Dens flimrende\n"
+"sider eksisterer i flere dimensioner på samme tid, og det er ikke dem alle, der\n"
+"overholder den konventionelle geometris regler. Nogle blade forsvinder, når de\n"
+"vendes, andre dukker op ud af ingenting, og endnu andre passerer direkte gennem\n"
+"andre sider eller sig selv. Nogle af bladene har tre sider, eller kun en, eller\n"
+"antallet af hjørner er en brøk. Effekten kan være forstyrrende.\n"
+
+#. key: book of unlife
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of unlife"
+msgid ""
+"An unholy book describing a variety of magical methods for the creation and\n"
+"command of undead servants.\n"
+msgstr ""
+"Denne uhellige bog beskriver en lang række magiske metoder til at skabe og\n"
+"kontrollere udøde tjenere. Den skrækkelige bog udstråler en hadsk aura, og dens\n"
+"pergamentsider spjætter og skælver ind i mellem af sig selv.\n"
+
+#. key: box of beasts
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:box of beasts"
+msgid ""
+"A box filled with the bizarre leftovers of a depraved wizard's magical\n"
+"experimentations. Opening it might set loose a friendly mutant beast: bizarre\n"
+"creatures, each with their own combination of traits. Increased skill with\n"
+"Evocations will allow stronger beasts to be released.\n"
+"\n"
+"There are six known traits:\n"
+" * Bat beasts fly and move very quickly, but erratically.\n"
+" * Fire beasts resist and breathe fire.\n"
+" * Ox beasts resist cold, are armoured with thick fur, and can knock back foes.\n"
+" * Shock beasts resist electricity and can transform into living lightning.\n"
+" * Sting beasts resist poison and have a reaching poison-tail attack.\n"
+" * Weird beasts can see invisible and attack with constricting tentacles.\n"
+"\n"
+"As far as anyone knows, all beasts have exactly two of these traits.\n"
+msgstr ""
+"Denne æske indeholder en forkvaklet troldmands magiske eksperimenters bizarre\n"
+"rester. Hvis den åbnes, kan den slippe en venlig kimære løs: en mytisk hybrid\n"
+"som består af dele fra tre separate væsener.\n"
+
+#. key: buckler
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:buckler"
+msgid ""
+"A small piece of wood and metal, to be strapped on one arm for defence.\n"
+msgstr ""
+"Et lille stykke træ og metal, som spændes på den ene arm til forsvar. Det er\n"
+"lidt uhåndterligt, så en kriger uden en smule træning vil angribe en kende\n"
+"langsommere.\n"
+
+#. key: chain mail
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:chain mail"
+msgid ""
+"A suit of armour made entirely out of tiny metal rings.\n"
+msgstr ""
+"En rustning, som udelukkende består af små metalringe. Ringbrynje yder stærk\n"
+"beskyttelse mod våben, kløer og savtænder, men forhindrer hurtig og snigende\n"
+"bevægelse.\n"
+
+#. key: cloak
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:cloak"
+msgid ""
+"A cloth cloak.\n"
+msgstr ""
+"En stofkappe.\n"
+
+#. key: corpse
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:corpse"
+msgid ""
+"A corpse. Useless and dead.\n"
+msgstr ""
+"Et kadaver. Du kan slagte det for at få spiselige kødklumper.\n"
+
+#. key: crystal plate armour
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:crystal plate armour"
+msgid ""
+"An incredibly heavy but extremely effective suit of crystalline armour.\n"
+msgstr ""
+"En utroligt tung, men ekstremt effektiv krystallinsk rustning.\n"
+
+#. key: decaying skeleton
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:decaying skeleton"
+msgid ""
+"A decaying skeleton.\n"
+msgstr ""
+"Et rådnende skelet.\n"
+
+#. key: deck of destruction
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:deck of destruction"
+msgid ""
+"A deck of magical cards, most of which hurl death and destruction at one's foes\n"
+"(or, if unlucky, at oneself).\n"
+msgstr ""
+"Et spil magiske kort som for det meste slynger død og ødelæggelse efter dine\n"
+"fjender (eller dig selv hvis du er uheldig).\n"
+
+#. key: deck of punishment
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:deck of punishment"
+msgid ""
+"A deck of magical cards which wreak havoc on the user.\n"
+msgstr ""
+"Et spil magiske kort som hærger brugeren.\n"
+
+#. key: deck of summoning
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:deck of summoning"
+msgid ""
+"A deck of magical cards, depicting a range of weird and wonderful creatures.\n"
+msgstr ""
+"Et spil magiske kort som afbilder en lang række sære og underfulde væsener.\n"
+
+#. key: demon blade
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:demon blade"
+msgid ""
+"A terrible weapon, forged in the fires of Hell.\n"
+msgstr ""
+"Et grufuldt våben, som er smedet i Helvedes ild. Det bliver endnu mere\n"
+"dødbringende i hænderne på dem med en dæmonisk natur.\n"
+
+#. key: demon trident
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:demon trident"
+msgid ""
+"A terrible three-pronged weapon, moulded by fire and brimstone.\n"
+msgstr ""
+"Et grufuldt, tregrenet våben, som er formet af ild og svovl.\n"
+
+#. key: demon whip
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:demon whip"
+msgid ""
+"A terrible weapon, woven in the depths of the inferno.\n"
+msgstr ""
+"Et grufuldt våben, som er vævet i infernoets dybder.\n"
+
+#. key: dire flail
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:dire flail"
+msgid ""
+"A flail with long spikes and a heavy head.\n"
+msgstr ""
+"En stridsplejl med lange pigge og et tungere hoved.\n"
+
+#. key: eudemon blade
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:eudemon blade"
+msgid ""
+"A sacred blade from the forges of Heaven, inhabited by a good spirit. It is a\n"
+"favoured weapon of the Shining One's servants.\n"
+msgstr ""
+"En hellig klinge, som er frembragt af Himmelens smedjer og beboet af en god\n"
+"ånd. Det er Den Strålendes tjeneres yndlingsvåben, og det kan ikke bruges af\n"
+"ondskabens styrker.\n"
+
+#. key: eveningstar
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:eveningstar"
+msgid ""
+"The opposite of a morningstar. A balanced mace with a long shaft and a metal\n"
+"head covered in lethal spikes.\n"
+msgstr ""
+"Piggene på denne morgenstjerne er exceptionelt lange, hvilket lader den\n"
+"forårsage odiøse sår.\n"
+
+#. key: fire dragon scales
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:fire dragon scales"
+msgid ""
+"The scales of a fire-breathing dragon. It provides great protection from fire,\n"
+"while rendering its wearer more susceptible to cold.\n"
+msgstr ""
+"En magisk rustning, som er lavet af en ildsprudende drages skæl. Den beskytter\n"
+"fremragende mod ild, men gør bæreren mere modtagelig over for effekterne af\n"
+"kulde.\n"
+
+#. key: giant spiked club
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:giant spiked club"
+msgid ""
+"A giant lump of wood with sharp spikes at one end.\n"
+msgstr ""
+"En kæmpe klump træ med spidse pigge i den ene ende.\n"
+
+#. key: glaive
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:glaive"
+msgid ""
+"A pole with a large, heavy blade on one end.\n"
+msgstr ""
+"En stage med en stor, tung klinge i den ene ende.\n"
+
+#. key: golden dragon scales
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:golden dragon scales"
+msgid ""
+"The scales of a golden dragon. It is much heavier than most dragon scale\n"
+"armours, and grants its wearer resistance to poison, fire and cold.\n"
+msgstr ""
+"En magisk rustning, som er lavet af en gulddrages skæl. Den er meget tungere\n"
+"end de fleste drageskæls-rustninger og beskytter bæreren mod gift, ild og\n"
+"kulde.\n"
+
+#. key: gold piece
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:gold piece"
+msgid ""
+"A pile of glittering gold coins.\n"
+msgstr ""
+"En bunke glimtende guldmønter.\n"
+
+#. key: great mace
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:great mace"
+msgid ""
+"An enormous metal war club, of great cumbrousness.\n"
+msgstr ""
+"En enorm stridskølle af metal, som er overordentligt uhåndterlig.\n"
+
+#. key: hat
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:hat"
+msgid ""
+"A cloth hat.\n"
+msgstr ""
+"En hat af stof eller læder.\n"
+
+#. key: helmet
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:helmet"
+msgid ""
+"A piece of metal headgear.\n"
+msgstr ""
+"En hovedbeklædning af metal.\n"
+
+#. key: sling
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:sling"
+msgid ""
+"A piece of cloth and leather for launching stones, adequate for hunting small\n"
+"game like rabbits or goblins.\n"
+msgstr ""
+"Et stykke stof og læder, som bruges til at affyre sten med, som gør en lille\n"
+"smule skade, når de rammer. I modsætning til andre affyringsvåben bliver den\n"
+"ikke langsommere af, at man bruger et skjold samtidig.\n"
+
+#. key: javelin
+#. Preserve {{ lua }} delimiters exactly.
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:javelin"
+msgid ""
+"A lightweight spear, designed for throwing. It will pass through the targets it\n"
+"hits, potentially hitting all targets in its path until it reaches maximum\n"
+"range.\n"
+"{{\n"
+"    if you.race() == \"Kobold\" or you.race() == \"Spriggan\" then\n"
+"        return \"Unfortunately, it is too long and awkward for you to use.\"\n"
+"    end\n"
+"}}\n"
+msgstr ""
+"Dette lette spyd er designet til at blive kastet og kan forvolde alvorlige\n"
+"skader.\n"
+"{{\n"
+"    if you.race() == \"Halfling\"\n"
+"        or you.race() == \"Kobold\"\n"
+"        or you.race() == \"Spriggan\"\n"
+"    then\n"
+"        return \"Det er desværre for langt og uhåndterligt til, at du kan \" ..\n"
+"               \"bruge det.\"\n"
+"    else\n"
+"        return \"\"\n"
+"    end\n"
+"}}\n"
+
+#. key: kite shield
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:kite shield"
+msgid ""
+"A piece of wood and metal, to be strapped on one arm for defence.\n"
+msgstr ""
+"Et stykke træ og metal, som spændes på den ene arm til beskyttelse. Det er\n"
+"uhåndterligt at gå med, og uden træning vil det få dig til at angribe\n"
+"langsommere.\n"
+
+#. key: lajatang
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:lajatang"
+msgid ""
+"A very rare and extremely effective weapon, featuring a pole with half-moon\n"
+"blades at both ends.\n"
+msgstr ""
+"Et meget sjældent og ekstremt effektivt eksotisk våben, bestående af en stav\n"
+"med halvmåneformede klinger i begge ender.\n"
+
+#. key: large rock
+#. Preserve {{ lua }} delimiters exactly.
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:large rock"
+msgid ""
+"A very large and very heavy stone. {{\n"
+"    if you.race() == \"Ogre\"\n"
+"       or you.race() == \"Troll\"\n"
+"   then\n"
+"       return \"\"\n"
+"   else\n"
+"       return \"Only large creatures are capable of throwing it.\"\n"
+"   end\n"
+"}}\n"
+msgstr ""
+"En meget stor og meget tung sten. {{\n"
+"    if you.race() == \"Ogre\"\n"
+"       or you.race() == \"Troll\"\n"
+"       or you.race() == \"Formicid\"\n"
+"    then\n"
+"        return \"\"\n"
+"    else\n"
+"        return \"Det kræver ekstraordinær styrke overhovedet at løfte en, \" ..\n"
+"               \"og kun store væsener kan kaste den.\"\n"
+"    end\n"
+"}}\n"
+
+#. key: leather armour
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:leather armour"
+msgid ""
+"A suit made from layers of tanned animal hide. It provides basic protection\n"
+"with almost no hindrance to spellcasting or stealthy movement.\n"
+msgstr ""
+"Denne lette rustning er lavet af lag af garvet dyrehud og yder grundlæggende\n"
+"beskyttelse stort set uden at hæmme udførlige gestus eller hurtige, snigende\n"
+"bevægelser.\n"
+
+#. key: longbow
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:longbow"
+msgid ""
+"A long, strong bow made of yew.\n"
+msgstr ""
+"En lang, stærk bue, lavet af takstræ. Den gør fremragende skade i kamp, og en\n"
+"dygtig bueskytte kan bruge den overordentligt effektivt.\n"
+
+#. key: orb of zot
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:orb of zot"
+msgid ""
+"An invaluable artefact. Once you have escaped to the surface with it, your\n"
+"quest is complete.\n"
+msgstr ""
+"Når du er undsluppet til overfladen med dette uvurderlige klenodie, er din\n"
+"søgen forbi.\n"
+
+#. key: pair of boots
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:pair of boots"
+msgid ""
+"A pair of boots. They are worn on the feet, and cover all but the largest\n"
+"hooves and talons.\n"
+msgstr ""
+"Et par støvler.\n"
+
+#. key: pair of gloves
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:pair of gloves"
+msgid ""
+"A pair of gloves. They are worn on the hands, and cover all but the largest\n"
+"claws.\n"
+msgstr ""
+"Et par handsker.\n"
+
+#. key: pearl dragon scales
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:pearl dragon scales"
+msgid ""
+"The nacreous scales of a pearl dragon. It grants its wearer resistance to\n"
+"negative energies.\n"
+msgstr ""
+"En rustning, som er lavet af de perlemorsfarvede skæl fra en perledrage. Den\n"
+"giver bæreren modstandskraft over for negativ energi.\n"
+
+#. key: phial of floods
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:phial of floods"
+msgid ""
+"An enchanted vessel of elemental water. Removing the stopper unleashes a torrent\n"
+"of water, smashing the target and flooding the nearby area. If any creatures\n"
+"engulfed by the wave need air to breathe, they'll be unable to cast spells until\n"
+"they recover. The strength of the torrent and the duration of the flooding\n"
+"increase with Evocations skill.\n"
+msgstr ""
+"Dette fortryllede kar er ved at flyde over af elementarvand. Hvis man fjerner\n"
+"proppen, flyder en rivende strøm af vand fra karret og slipper vandånderne i\n"
+"den fri.\n"
+
+#. key: potion of berserk rage
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:potion of berserk rage"
+msgid ""
+"A potion which can send one into an incoherent rage, granting them a great but\n"
+"temporary increase to their health, damage, and speed. In exchange, their mind\n"
+"is clouded by anger, only allowing them to move and attack in melee. The rage\n"
+"will wear off quickly if they do not attack monsters, and upon expiry, the\n"
+"imbiber will be fatigued, causing them to slow dramatically and rendering them\n"
+"unable to berserk again for a short duration.\n"
+msgstr ""
+"En trylledrik, som bevirker et usammenhængende raserianfald.\n"
+
+#. key: potion of blood
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:potion of blood"
+msgid ""
+"A potion containing the essence of life.\n"
+msgstr ""
+"En flaske, som indeholder livets essens. Den er livsvigtig for alle levende\n"
+"væsener og for visse udøde. Den giver også næring til dem, der kan fordøje kød.\n"
+
+#. key: potion of brilliance
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:potion of brilliance"
+msgid ""
+"A potion which increases the power of the drinker's spells and halves their\n"
+"magic cost (rounding up).\n"
+msgstr ""
+"En trylledrik, som kan øge både intelligens og magisk kraft voldsomt hos den,\n"
+"der drikker den.\n"
+
+#. key: potion of enlightenment
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:potion of enlightenment"
+msgid ""
+"A potion which uplifts both the body and mind of its drinkers, lifting them\n"
+"from the ground and increasing their Will to resist the world's temptations.\n"
+msgstr ""
+"En drik, som giver stor opdrift til den, der drikker den.\n"
+
+#. key: potion of experience
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:potion of experience"
+msgid ""
+"A truly wonderful and very rare drink, which grants experience when consumed.\n"
+msgstr ""
+"En virkeligt vidunderlig og særdeles sjælden drik.\n"
+
+#. key: potion of invisibility
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:potion of invisibility"
+msgid ""
+"A potion which confers invisibility on one who consumes it.\n"
+msgstr ""
+"En eliksir, som skjuler dig for andres øjne.\n"
+
+#. key: potion of might
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:potion of might"
+msgid ""
+"A potion which greatly increases the power of the drinker's melee attacks.\n"
+msgstr ""
+"En trylledrik, som øger din styrke og fysiske kraft betragteligt, hvis du\n"
+"drikker den.\n"
+
+#. key: potion of mutation
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:potion of mutation"
+msgid ""
+"A potion which mutates the drinker, removing several mutations then\n"
+"granting a few random mutations, which are likely (but not guaranteed) to be\n"
+"beneficial.\n"
+msgstr ""
+"En drik, som gør overordentligt underlige ting ved dig.\n"
+
+#. key: potion of resistance
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:potion of resistance"
+msgid ""
+"A potion which grants temporary resistance to a variety of harmful effects:\n"
+"fire, cold, electricity, poison, and acid.\n"
+msgstr ""
+"En trylledrik, som gør dig midlertidigt modstandsdygtig mod elementerne og\n"
+"gift.\n"
+
+#. key: quad damage
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:quad damage"
+msgid ""
+"A mysterious item resembling a rune of some kind. Once evoked, it will make the\n"
+"user glow blue and add a reverb to all sound... and there may be other effects\n"
+"as well.\n"
+msgstr ""
+"En mystisk genstand, som ligner en form for rune. Når den aktiveres, får den\n"
+"brugeren til at lyse blåt og får alle lyde til at give genlyd ... og måske er\n"
+"der også andre virkninger.\n"
+
+#. key: quarterstaff
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:quarterstaff"
+msgid ""
+"A sturdy wooden pole, meant for fighting.\n"
+msgstr ""
+"En solid træstang, som er lavet til kamp.\n"
+
+#. key: ring of dexterity
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of dexterity"
+msgid ""
+"A ring that increases the dexterity of its wearer.\n"
+msgstr ""
+"Denne ring øger eller formindsker din behændighed, når du har den på, afhængigt\n"
+"af hvor meget, den er fortryllet.\n"
+
+#. key: ring of evasion
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of evasion"
+msgid ""
+"A ring that makes its wearer more capable of avoiding attacks.\n"
+msgstr ""
+"Denne ring gør enten sin ejer bedre eller dårligere til at undgå angreb,\n"
+"afhængigt af hvor meget, den er fortryllet.\n"
+
+#. key: ring of intelligence
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of intelligence"
+msgid ""
+"A ring that increases the intelligence of its wearer.\n"
+msgstr ""
+"Denne ring øger eller mindsker sin bærers mentale evner, afhængigt af hvor\n"
+"meget den er fortryllet.\n"
+
+#. key: ring of magical power
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of magical power"
+msgid ""
+"A ring that increases its wearer's reserves of magical power for so long as it\n"
+"is worn.\n"
+msgstr ""
+"Denne ring øger sin bærers reserver af magisk energi.\n"
+
+#. key: ring of poison resistance
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of poison resistance"
+msgid ""
+"A ring that protects its wearer from poison.\n"
+msgstr ""
+"Denne ring beskytter sin bærer mod effekterne af gifte og edder.\n"
+
+#. key: ring of protection
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of protection"
+msgid ""
+"A ring that protects its wearer from most sources of damage.\n"
+msgstr ""
+"Denne ring beskytter dig mod skade eller gør dig mere sårbar, afhængigt af\n"
+"fortryllelse, når du har den på.\n"
+
+#. key: ring of protection from cold
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of protection from cold"
+msgid ""
+"A ring that protects its wearer from cold.\n"
+msgstr ""
+"Denne ring beskytter mod kulde.\n"
+
+#. key: ring of see invisible
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of see invisible"
+msgid ""
+"A ring that allows its wearer to see invisible things.\n"
+msgstr ""
+"Denne ring lader bæreren se de ting, der er skjult af magi.\n"
+
+#. key: ring of slaying
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of slaying"
+msgid ""
+"A ring that increases the wearer's accuracy and damage with ranged weapons and\n"
+"melee attacks.\n"
+msgstr ""
+"Denne ring øger eller mindsker brugerens effektivitet med skydevåben og\n"
+"nærkampsangreb. Den har to fortryllelser, som påvirker henholdsvis præcision og\n"
+"skade.\n"
+
+#. key: ring of strength
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of strength"
+msgid ""
+"A ring that increases the strength of its wearer.\n"
+msgstr ""
+"Denne ring øger eller mindsker sin bærers fysiske styrke, alt efter hvor\n"
+"fortryllet den er.\n"
+
+#. key: ring of wizardry
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of wizardry"
+msgid ""
+"A ring that increases the success rate of its wearer's magical spells.\n"
+msgstr ""
+"Denne ring øger bærerens evne til at bruge magiske besværgelser.\n"
+
+#. key: rune of zot
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:rune of zot"
+msgid ""
+"A charm which allows entry into the Realm of Zot.\n"
+msgstr ""
+"En talisman, som lader dig træde ind i Zots domæne.\n"
+
+#. key: sacred scourge
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:sacred scourge"
+msgid ""
+"A blessed weapon, woven by the saints in Heaven and hated by the unholy. It is\n"
+"a favoured weapon of the Shining One's servants.\n"
+msgstr ""
+"En velsignet våben, som er vævet af helgenerne i himmelen og hadet af det\n"
+"uhellige. Den er et yndet våben for Den Strålendes tjenere.\n"
+
+#. key: scale mail
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scale mail"
+msgid ""
+"A leather suit covered with metal plates attached to each other in overlapping\n"
+"rows to provide full protection, but at the cost of reduced freedom of\n"
+"movement.\n"
+msgstr ""
+"Denne læderdragt er dækket af metalplader, som er sammenføjet i overlappende\n"
+"rækker for at yde fuld beskyttelse, men på bekostning af reduceret\n"
+"bevægelsesfrihed.\n"
+
+#. key: scimitar
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scimitar"
+msgid ""
+"A long sword with a wide, curved blade.\n"
+msgstr ""
+"Et langt sværd med en bred, buet klinge.\n"
+
+#. key: scroll of acquirement
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scroll of acquirement"
+msgid ""
+"A wonderful scroll which causes the creation of a valuable item, with the\n"
+"reader choosing from a small selection. The items offered will often be a\n"
+"good match for the reader's skills; and if nothing recommends itself, the\n"
+"reader can always choose a heap of gold.\n"
+msgstr ""
+"Denne vidunderlige skriftrulle skaber en værdifuld genstand, hvis type er valgt\n"
+"af læseren. De genstande, der skabes, er i høj grad vægtet mod overensstemmelse\n"
+"med læserens færdigheder og mod udstyr, som læseren endnu ikke har set.\n"
+"Desværre er der intet, der er sikkert.\n"
+
+#. key: scroll of amnesia
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scroll of amnesia"
+msgid ""
+"A scroll that allows its reader to selectively erase one spell from memory to\n"
+"recapture the magical energy bound up with it.\n"
+msgstr ""
+"Denne skriftrulle lader læseren slette en valgfri besværgelse fra hukommelsen,\n"
+"så den magiske energi, der er investeret i den, kan frigøres til andre formål.\n"
+
+#. key: scroll of blinking
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scroll of blinking"
+msgid ""
+"A scroll that allows its reader to teleport a short distance, with precise\n"
+"control.\n"
+msgstr ""
+"Denne skriftrulle lader læseren teleportere en kort distance med præcis\n"
+"kontrol. Vær opmærksom på, at kontrolleret teleportation vil besmitte den\n"
+"teleporterede med magisk energi.\n"
+
+#. key: scroll of brand weapon
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scroll of brand weapon"
+msgid ""
+"A scroll that imbues a weapon with a random brand. Any existing brand will be\n"
+"replaced with a different one, and any brand forbidden by your current god will\n"
+"not be chosen. Artefacts cannot be branded in this way.\n"
+"\n"
+"Melee weapons will commonly be branded with the flaming, freezing, heavy,\n"
+"venom or protection brand (or with the special brand exclusive to the category\n"
+"of weapon being branded), and rarely with the draining, electrocution, spectral,\n"
+"vampiric or chaos brand.\n"
+"\n"
+"Ranged weapons will commonly be branded with the flaming, freezing, heavy or\n"
+"draining brand, and rarely with the electrocution or chaos brand.\n"
+msgstr ""
+"Denne skriftrulle fortryller et valgfrit våben, så det bliver langt mere\n"
+"effektivt til at forvolde skade på dine fjender. Den kan gøre de midlertidige\n"
+"præg, som visse besværgelser giver, permanente, eller den kan bruges på et\n"
+"permanent præget våben for at vælge et nyt, tilfældigt præg.\n"
+"\n"
+"Præg som er tæt knyttet til en af guderne (Trog, Lugonu, Kikubaaqudgha, Den\n"
+"Strålende) kan ikke fikseres på denne måde. Xom ville på den anden side ikke\n"
+"lade så oplagt en mulighed for løjer gå til spilde.\n"
+
+#. key: scroll of enchant armour
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scroll of enchant armour"
+msgid ""
+"A scroll that places an enchantment on a piece of armour chosen by the reader.\n"
+"Body armour and bardings can be enchanted up to the same value as their base\n"
+"armour rating. Bucklers, kite shields and tower shields can be enchanted up to\n"
+"+3, +5 or +8 respectively, and other armour can be enchanted up to +2. Magical\n"
+"artefacts cannot be enchanted at all.\n"
+msgstr ""
+"Denne skriftrulle fortryller et stykke rustning. De fleste former for rustning\n"
+"kan kun fortrylles til +2, bortset fra skjolde, som kan fortrylles til +3, og\n"
+"visse former for krops- og dyrerustning, som kan fortrylles til samme værdi som\n"
+"deres basis-RK. Magiske artefakter kan slet ikke fortrylles.\n"
+"\n"
+"Den kan også bruges til at fortrylle visse eksotiske væseners skind.\n"
+
+#. key: scroll of enchant weapon
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scroll of enchant weapon"
+msgid ""
+"A scroll that places an enchantment on a weapon chosen by the reader,\n"
+"increasing both accuracy and damage. Weapons can be enchanted up to +9. Magical\n"
+"artefacts cannot be enchanted at all.\n"
+msgstr ""
+"Denne skriftrulle fortryller et våben efter eget valg og gør det langt mere\n"
+"effektivt i kamp ved at øge både præcision og skade. Det bliver sværere og\n"
+"sværere at få den til at virke på stærkt fortryllede våben og kan aldrig\n"
+"fortrylle dem højere end +9. Magiske artefakter kan slet ikke fortrylles.\n"
+
+#. key: scroll of fear
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scroll of fear"
+msgid ""
+"A scroll that causes great fear in nearby foes, causing them to flee until\n"
+"attacked, cornered, or enough time has passed.\n"
+"\n"
+"Non-living, undead and plant monsters cannot be feared, and berserk or frenzied\n"
+"monsters are also immune.\n"
+msgstr ""
+"Denne skriftrulle indgyder de, der ser den blive læst, med en afgrundsdyb\n"
+"rædsel.\n"
+
+#. key: scroll of fog
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scroll of fog"
+msgid ""
+"A scroll that surrounds the reader with a dense cloud of fog, which can block\n"
+"vision temporarily. The fog takes a short time to fully spill out.\n"
+msgstr ""
+"Denne skriftrulle indhyller læseren i en tæt sky af tåge.\n"
+
+#. key: scroll of identify
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scroll of identify"
+msgid ""
+"A useful magic scroll which identifies the properties of any unknown object.\n"
+msgstr ""
+"Denne nyttige, magiske skriftrulle lader dig bestemme en given genstands\n"
+"egenskaber, og vil lejlighedsvis tillade flere identifikationer.\n"
+"\n"
+"Hvis den bruges på en stak kort, vil den også afsløre det øverste kort.\n"
+
+#. key: scroll of immolation
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scroll of immolation"
+msgid ""
+"A scroll that fills the creatures around the reader with an unstable and\n"
+"powerful inner flame. This fire is released any time the victims are hit, and\n"
+"explosively released upon their death. Giant creatures cause bigger explosions.\n"
+msgstr ""
+"Den skriftrulle fylder væsener omkring læseren med en ustabil og kraftfuld\n"
+"indre flamme.\n"
+
+#. key: scroll of noise
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scroll of noise"
+msgid ""
+"A prank scroll that creates a loud noise when read.\n"
+msgstr ""
+"Denne drilske skriftrulle som ofte sniges ned i en troldmands rygsæk af en\n"
+"lusket lærling, laver et værre spektakel.\n"
+
+#. key: scroll of revelation
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scroll of revelation"
+msgid ""
+"A scroll that reveals its reader's surroundings. The layout of the current\n"
+"floor is fully mapped, and everything within a moderate radius, including\n"
+"both visible and invisible monsters, is momentarily shown.\n"
+msgstr ""
+"Denne skriftrulle afslører læserens omgivelser.\n"
+
+#. key: scroll of silence
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scroll of silence"
+msgid ""
+"A scroll that eliminates all sound near the reader. This makes reading scrolls,\n"
+"casting spells, invoking divine abilities, or shouting impossible in the\n"
+"reader's vicinity.\n"
+"\n"
+"Certain monsters have innate magical or special abilities which will still be\n"
+"usable while silenced.\n"
+"\n"
+"The effect starts out with a large radius, which will then shrink, eventually\n"
+"covering only the reader, before it times out.\n"
+msgstr ""
+"Denne skriftrulle får alle lyde i nærheden af læseren til at forstumme. Det gør\n"
+"det umuligt at læse skriftruller, kaste besværgelser eller råbe i nærheden af\n"
+"læseren. Den trykkende, unaturlige stilhed vil gøre det aldeles svært at snige\n"
+"sig.\n"
+"\n"
+"Stilheden starter med en radius afhængig af kraft indtil den kun dækker\n"
+"læseren, hvorefter effekten ophører. Visse væsener, for eksempel dæmoner,\n"
+"kaster besværgelser uden at tale og påvirkes derfor ikke. De, der har iboende\n"
+"magiske effekter, vil også stadig kunne bruge dem.\n"
+
+#. key: scroll of summoning
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scroll of summoning"
+msgid ""
+"A scroll that calls forth several allied creatures woven from shadow into the\n"
+"shapes of those beings found within the reader's immediate vicinity.\n"
+msgstr ""
+"Denne skriftrulle hidkalder adskillige væsener, som er vævet af skygger til at\n"
+"ligne de fjender, der findes i læserens umiddelbare nærhed.\n"
+
+#. key: scroll of teleportation
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scroll of teleportation"
+msgid ""
+"A scroll that translocates the reader to a random position after a short delay.\n"
+"Reading this scroll while waiting for a teleportation will instead cancel it.\n"
+msgstr ""
+"Kort tid efter at have læst ordene på denne skriftrulle, vil du blive\n"
+"translokeret til en tilfældig position.\n"
+
+#. key: scroll of torment
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scroll of torment"
+msgid ""
+"A scroll that calls on the powers of darkness to inflict great pain on any\n"
+"nearby creature — including the reader! This halves the resilience of all\n"
+"living creatures and cuts down all holy creature resilence by about a third,\n"
+"although it is never directly fatal.\n"
+msgstr ""
+"Denne skriftrulle påkalder sig mørkets kræfter for at påføre væsener i nærheden\n"
+"store smerter – inklusive dig! Dette halverer alle levende væseners livskraft,\n"
+"men er aldrig decideret dødbringende.\n"
+
+#. key: scroll of vulnerability
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scroll of vulnerability"
+msgid ""
+"A scroll that briefly halves the willpower of the reader and any nearby beings,\n"
+"rendering them vulnerable to many magical effects. The scroll cannot affect\n"
+"those fully immune to such effects.\n"
+msgstr ""
+"Denne skriftrulle fjerner alle magiske fortryllelser fra læseren og fra væsener\n"
+"i nærheden. Magisk modstandskraft hos læseren og andre væsener i nærheden vil\n"
+"også blive halveret i en kort periode. Sidstnævnte effekt påvirker dog ikke\n"
+"væsener som er komplet immune over for magi.\n"
+
+#. key: scythe
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scythe"
+msgid ""
+"A farm implement, usually only used by untrained mobs in combat. In practice,\n"
+"it's quite similar to a halberd.\n"
+msgstr ""
+"Et landbrugsredskab, der som regel bruges af utrænet bærme i kamp.\n"
+
+#. key: short sword
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:short sword"
+msgid ""
+"A personal stabbing weapon with a short grip.\n"
+msgstr ""
+"En lille, tveægget klinge med et kort greb.\n"
+
+#. key: spear
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:spear"
+msgid ""
+"A hunting weapon consisting of a wooden shaft with a pointed metal head\n"
+"fastened on one end.\n"
+msgstr ""
+"Et jagtvåben, som består af et træskaft med et spidst metalhoved, som er\n"
+"fæstnet i den ene ende.\n"
+
+#. key: staff of air
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:staff of air"
+msgid ""
+"A staff that increases the power of air spells cast by its wielder, and\n"
+"insulates them from electricity. If the wielder is skilled in Evocations and\n"
+"Air Magic, they can shock those struck by it, dealing electrical damage which\n"
+"bypasses half of defenders' armour.\n"
+msgstr ""
+"Denne stav øger brugerens luftbesværgelsers kraft, men mindsker den for\n"
+"jordbesværgelser. Den isolerer brugeren mod elektricitet. Hvis brugeren er\n"
+"dygtig til vækkelser og luftmagi, vil staven give dem, der rammes af den, stød.\n"
+
+#. key: staff of cold
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:staff of cold"
+msgid ""
+"A staff that increases the power of ice spells cast by its wielder, and\n"
+"protects them from the effects of cold. If the wielder is skilled in Evocations\n"
+"and Ice Magic, they can freeze those struck by it.\n"
+msgstr ""
+"Denne stav øger brugerens isbesværgelsers kraft, men nedsætter den for\n"
+"ildbesværgelser. Den beskytter brugeren mod virkningerne af kulde. Hvis\n"
+"brugeren er kyndig i vækkelser og ismagi kan staven fryse de fjender, den\n"
+"rammer.\n"
+
+#. key: staff of conjuration
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:staff of conjuration"
+msgid ""
+"A staff that increases the power of conjurations cast by its wielder. If the\n"
+"wielder is skilled in Evocations and Conjurations, they can blast those they\n"
+"strike with pure energy.\n"
+msgstr ""
+"Denne stav øger brugerens fremmaningers kraft.\n"
+
+#. key: staff of necromancy
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:staff of necromancy"
+msgid ""
+"A staff that increases the power of necromantic spells cast by its wielder, and\n"
+"protects them from negative energy. If the wielder is skilled in Evocations and\n"
+"Necromancy, they can inflict great pain on those living souls they strike,\n"
+"dealing negative energy damage which bypasses armour.\n"
+msgstr ""
+"Denne stav øger brugerens nekromantiske besværgelsers kraft og beskytter mod\n"
+"negativ energi. Hvis brugeren er kyndig i både vækkelser og nekromantik vil\n"
+"staven forårsage store smerter, når den rammer levende sjæle.\n"
+
+#. key: staff of earth
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:staff of earth"
+msgid ""
+"A staff that increases the power of earth spells cast by its wielder. If the\n"
+"wielder is skilled in Evocations and Earth magic, they can fracture the ground\n"
+"beneath those struck by it, dealing substantial damage - though much less to\n"
+"creatures which fly.\n"
+msgstr ""
+"Den stav øger brugerens jordbesværgelsers kraft, men mindsker den for\n"
+"luftbesværgelser. Hvis brugeren er kyndig i vækkelser og jordmagi kan den knuse\n"
+"dem, den rammer.\n"
+
+#. key: staff of fire
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:staff of fire"
+msgid ""
+"A staff that increases the power of fire spells cast by its wielder, and\n"
+"protects them from the effects of fire. If the wielder is skilled in Evocations\n"
+"and Fire Magic, they can burn those struck by it.\n"
+msgstr ""
+"Denne stav øger brugerens ildbesværgelsers kraft, men nedsætter den for\n"
+"isbesværgelser. Den beskytter brugeren mod virkningerne af ild. Hvis brugeren\n"
+"er kyndig i vækkelser og ildmagi kan staven fryse de fjender, den rammer.\n"
+
+#. key: steam dragon scales
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:steam dragon scales"
+msgid ""
+"The scales of a steam-breathing dragon. Unlike the scales of some larger\n"
+"dragons, it does not provide its wearer with much protection (beyond a\n"
+"resistance to scalding steam), but it is extremely light and supple.\n"
+msgstr ""
+"En rustning, som er lavet af skællene fra en drage, der ånder damp. Selvom den\n"
+"i modsætning til rustninger, der er lavet af skællene fra visse større drager,\n"
+"ikke yder den store beskyttelse, så er den ekstremt let og smidig.\n"
+
+#. key: stone
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:stone"
+msgid ""
+"A small chunk of dense but otherwise unremarkable natural mineral. It can be\n"
+"thrown to cause minor damage.\n"
+msgstr ""
+"En lille klump kompakt, men ellers ikke opsigtsvækkende naturligt forekommende\n"
+"mineraler. Den kan kastes med hænderne eller affyres med en slynge.\n"
+
+#. key: storm dragon scales
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:storm dragon scales"
+msgid ""
+"The scales of a lightning-breathing dragon. It is heavier than most dragon\n"
+"scale armours, and gives its wearer resistance to electrical discharges.\n"
+msgstr ""
+"En rustning, som er lavet af skællene fra en drage med lynånde. Den er tungere\n"
+"end de fleste rustninger af drageskæl og giver bæreren stor modstandskraft over\n"
+"for elektriske udladninger.\n"
+
+#. key: swamp dragon scales
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:swamp dragon scales"
+msgid ""
+"The scales of a swamp dragon. It confers resistance to poison on its wearer.\n"
+msgstr ""
+"En rustning, som er lavet af skællene fra sumpdrage. Den giver bæreren\n"
+"modstandskraft mod gift.\n"
+
+#. key: throwing net
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:throwing net"
+msgid ""
+"A mesh of ropes knotted together with weights around the edge, used to entangle\n"
+"and entrap targets. Struggling victims can eventually destroy the net and break\n"
+"free, if they live long enough.\n"
+msgstr ""
+"Et net af reb, som er bundet sammen og har vægte i kanten, som bruges til at\n"
+"besnære og indfange bytte. Sprællende ofre vil til sidst ødelægge nettet og\n"
+"bryde fri hvis de lever længe nok.\n"
+
+#. key: trident
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:trident"
+msgid ""
+"A fishing spear improved with a longer shaft and a three-pronged metal head.\n"
+msgstr ""
+"Et fiskespyd, som er forbedret med et længere skaft og et tregrenet metalhoved.\n"
+
+#. key: trishula
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:trishula"
+msgid ""
+"A blessed trident moulded by cleansing flame, with three points symbolising the\n"
+"combined might of the three holy gods. It is a favoured weapon of the Shining\n"
+"One's servants.\n"
+msgstr ""
+"En velsignet trefork, som er formet af rensende flammer, med tre takker, som\n"
+"symboliserer de tre hellige guders samlede kraft. Den er et yndet våben for Den\n"
+"Strålendes tjenere.\n"
+
+#. key: troll leather armour
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:troll leather armour"
+msgid ""
+"The stiff and knobbly skin of a troll. It magically regenerates its wearer's\n"
+"flesh, once attuned to the wearer's body at full health.\n"
+msgstr ""
+"En rustning, som er lavet af det stive og noprede skind fra en helt almindelig\n"
+"trold. Det regenerer lige så langsomt bærerens kød ved hjælp af magi (med\n"
+"mindre vedkommende allerede er en trold).\n"
+
+#. key: wand of digging
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:wand of digging"
+msgid ""
+"A magical device which drills tunnels through unworked rock.\n"
+msgstr ""
+"En magisk anordning, som graver tunneller gennem uforarbejdet klippe.\n"
+
+#. key: wand of polymorph
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:wand of polymorph"
+msgid ""
+"A magical device which causes a creature to be transmogrified into another\n"
+"form. It is especially effective against shape-changing creatures.\n"
+msgstr ""
+"En magisk anordning som omskaber et væsen til en anden form. Den er særligt\n"
+"effektiv mod formskiftende væsener.\n"
+
+#. key: whip
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:whip"
+msgid ""
+"A long plaited strip of leather. Originally developed for use in disagreements\n"
+"with cattle, this simple weapon is now widely used to settle differences\n"
+"between all sorts of creatures.\n"
+msgstr ""
+"Et langt, flettet stykke læder. Dette enkle våben blev oprindeligt brugt i\n"
+"uoverensstemmelser med kvæg, men bruges nu i uoverensstemmelser mellem alle\n"
+"mulige former for væsener.\n"
+
+#. key: amulet
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:amulet"
+msgid ""
+"An amulet to be worn as jewellery around the neck, charged with arcane powers\n"
+"of unknown provenance.\n"
+msgstr ""
+"En talisman, der kan bæres om halsen som et smykke og er ladet med mystiske\n"
+"kræfter af ukendt herkomst.\n"
+
+#. key: potion
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:potion"
+msgid ""
+"An unlabelled flask containing a single dose of unknown liquid.\n"
+msgstr ""
+"En lille flaske væske.\n"
+
+#. key: ring
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:ring"
+msgid ""
+"A ring charged with arcane forces of unknown provenance, to be worn as jewellery\n"
+"on a finger.\n"
+msgstr ""
+"En talisman, ladet med mystiske kræfter af ukendt herkomst, som kan bæres som\n"
+"smykke på en finger.\n"
+
+#. key: scroll
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:scroll"
+msgid ""
+"A disposable arcane formula inscribed on parchment by a professional scribe or\n"
+"sorcerer. Anyone can evoke the power of the arcane formula by reading it out\n"
+"loud, but the nature of that power is not a priori apparent.\n"
+msgstr ""
+"En rulle papir, som er dækket af magisk skrift.\n"
+
+#. key: staff
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:staff"
+msgid ""
+"A staff improved with arcane powers of unknown nature.\n"
+msgstr ""
+"En stav, som er forbedret med mystiske kræfter af ukendt art.\n"
+
+#. key: wand
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:wand"
+msgid ""
+"An unusually magical sort of stick.\n"
+msgstr ""
+"En kæp. Måske er den magisk.\n"
+
+#. key: singing sword
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:singing sword"
+msgid ""
+"An enchanted blade which loves nothing more than to sing to its owner, whether\n"
+"they want it to or not.\n"
+msgstr ""
+"Der er intet, dette fortryllede våben elsker mere end at synge for sin\n"
+"ejermand, uanset om de vil have det eller ej.\n"
+
+#. key: wrath of trog
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:wrath of trog"
+msgid ""
+"A bloodstained axe that was the favourite weapon of the old god Trog, before it\n"
+"was lost. It induces a bloodthirsty berserker rage when used in battle, although\n"
+"mere mortals who wield it will find themselves temporarily overwhelmed by Trog's\n"
+"power.\n"
+msgstr ""
+"Dette var den gamle gud Trogs yndlingsvåben, indtil det en dag gik tabt. Det\n"
+"fylder enhver, som rammer en anden med det, med et blodtørstigt\n"
+"bersærkerraseri.\n"
+
+#. key: mace of variability
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:mace of variability"
+msgid ""
+"A large mace said to have appeared when Xom grew bored with the predictability\n"
+"of more ordinary instruments of chaos.\n"
+msgstr ""
+"Den er ganske upålidelig.\n"
+
+#. key: staff of olgreb
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:staff of olgreb"
+msgid ""
+"A staff which was once wielded by the great alchemist Olgreb.\n"
+msgstr ""
+"Det var dette magiske våben, den mægtige troldmand Olgreb bar, da han afgik ved\n"
+"døden et sted i disse underjordiske gange. Det øger sin brugers evne til at\n"
+"bruge giftmagi og bærer på magiske kræfter, som kan vækkes. Ifølge\n"
+"overleveringerne forskede Olgreb i sjældne gifte, som kunne have en begrænset\n"
+"virkning selv på væsener, som ellers er immune over for alle kendte gifte.\n"
+"Olgreb sørgede naturligvis for, at staven yder fuld beskyttelse mod selv hans\n"
+"egne gifte.\n"
+
+#. key: scythe of curses
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:scythe of curses"
+msgid ""
+"A scythe surrounded by an ominous aura of dread. It carries a terrible and\n"
+"ancient curse, which it busily inflicts on both the wielder and their enemies.\n"
+msgstr ""
+"Dette våben bærer en frygtelig og overordentligt irriterende forbandelse.\n"
+
+#. key: sceptre of torment
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:sceptre of torment"
+msgid ""
+"An accursed bone sceptre, created by some unknown hellish power. When used in\n"
+"combat, it causes agonising pain in all those unfortunate enough to gaze upon\n"
+"it, save for the wielder.\n"
+msgstr ""
+"Dette overordentligt forbandede våben er et af Helvedes instrumenter.\n"
+
+#. key: sword of cerebov
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:sword of cerebov"
+msgid ""
+"A twisted blade, covered in eerie flames. Its demonic power burns away at the\n"
+"very essence of those it is wielded against.\n"
+msgstr ""
+"Sælsomme flammer dækker dets forvredne klinge. Dets dæmoniske kraft brænder\n"
+"noget af forsvarerens modstandskraft over for ild bort.\n"
+
+#. key: faerie dragon scales
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:faerie dragon scales"
+msgid ""
+"An enchanted suit of armour created from the scales of a rare breed of dragon,\n"
+"now thought to be extinct. This prized relic is now one of the last proofs that\n"
+"the vividly coloured faerie dragons ever existed.\n"
+msgstr ""
+"Fedrager var engang en race af samme art som de spættede. Uheldigvis blev deres\n"
+"livlige farver deres undergang, fordi de advarede eventuelt bytte. De er nu\n"
+"uddøde, og dette skattede relikvie er et af de sidste beviser på, at de\n"
+"overhovedet har eksisteret.\n"
+
+#. key: scimitar of flaming death
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:scimitar of flaming death"
+msgid ""
+"A scimitar with a mysteriously smoking blade. Occasionally its heat leaks out,\n"
+"covering opponents in magical flame.\n"
+msgstr ""
+"Brandvarm!\n"
+
+#. key: dagger of chilly death
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:dagger of chilly death"
+msgid ""
+"A dagger made of one huge shard of sapphire. It covers opponents in ice,\n"
+"slowing down their movement somewhat.\n"
+msgstr ""
+"En dolk, som er lavet af et kæmpe stykke safir.\n"
+
+#. key: scythe "finisher"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:scythe \"finisher\""
+msgid ""
+"A long and exceedingly sharp scythe, capable of eviscerating in a single blow.\n"
+"Its extraordinary speed is the work of a mad wizard, who spent years refining\n"
+"it before discarding it in a fit of rage.\n"
+"\n"
+"The blade looses a low keen as it cuts through the air.\n"
+msgstr ""
+"En lang og skarp le, som er særligt modificeret til brug i kamp.\n"
+
+#. key: giant club "skullcrusher"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:giant club \"skullcrusher\""
+msgid ""
+"A massive enchanted cudgel that augments the already considerable strength of\n"
+"anyone mighty enough to wield it.\n"
+msgstr ""
+"Denne yndige knippel kan fylde enhver jætte med fryd – uanset om det gælder\n"
+"barslagsmål, folkedrab eller en blanding af de to.\n"
+
+#. key: glaive of the guard
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:glaive of the guard"
+msgid ""
+"A glaive commissioned several years ago by a wealthy queen fearful for the\n"
+"safety of her vast treasury. No foe, the smith promised, could defeat a guard\n"
+"wielding such a weapon!\n"
+"\n"
+"It was stolen a few months later, along with the rest of the queen's treasury;\n"
+"the guard, it transpired, had been caught napping. Still, it should serve more\n"
+"than adequately in the hands of a waking user.\n"
+msgstr ""
+"Dette våben har engang tilhørt Gar Dogh, som vogtede en konges skatte. I følge\n"
+"legenderne for han vild et sted i de underjordiske gange.\n"
+
+#. key: zealot's sword
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:zealot's sword"
+msgid ""
+"A sword made of one huge piece of crystal. Legend says it was the Shining One's\n"
+"gift to a worshipper. This blade is notorious for inducing bloodthirsty rage in\n"
+"both the wielder and all of their followers.\n"
+msgstr ""
+"Et langsværd, som er lavet af et kæmpe stykke krystal. Legenderne vil vide, at\n"
+"det var en gave fra Den Strålende til en tilbeder. Klingen er berygtet for at\n"
+"fremkalde et blodtørstigt raseri i både brugeren og alle hans eller hendes\n"
+"dødelige følgesvende.\n"
+
+#. key: sword of the dread knight
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:sword of the dread knight"
+msgid ""
+"An adamantine great sword. Its first wielder was a worshipper of Yredelemnul\n"
+"who eschewed the use of magic in combat, preferring to destroy her enemies with\n"
+"brute force. Unfortunately for her, not all of her opponents shared her\n"
+"limitations.\n"
+"\n"
+"It has felled countless great warriors under her grip, and the souls of those\n"
+"who had their lives taken beckon it to take even more under its new owner.\n"
+msgstr ""
+"Et ubrydeligt slagsværd.\n"
+
+#. key: morningstar "eos"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:morningstar \"eos\""
+msgid ""
+"A jewelled morningstar, glowing brightly with the light of the dawn. It\n"
+"illuminates the dungeon's recesses, revealing the machinations of those who\n"
+"would prefer to stay invisible.\n"
+msgstr ""
+"Daggryets rosenrøde fingre ...\n"
+
+#. key: spear of the botono
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:spear of the botono"
+msgid ""
+"A dark and malign artefact. It increases the potency of hexes cast by anyone\n"
+"unwise enough to risk wielding it.\n"
+msgstr ""
+"Et mørkt og ildesindet artefakt. Hos de, der er ubesindige nok til at bære den,\n"
+"øger den effekten af de forbandelser, de kaster.\n"
+
+#. key: mithril axe "arga"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:mithril axe \"arga\""
+msgid ""
+"A beautiful mithril axe, probably lost by some dwarven hero.\n"
+msgstr ""
+"En smuk økse af mitril, som en eller anden dværghelt nok har tabt.\n"
+
+#. key: longbow "piercer"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:longbow \"piercer\""
+msgid ""
+"An exceptionally large metal longbow.\n"
+msgstr ""
+"En exceptionelt stor langbue af metal.\n"
+
+#. key: blowgun of the assassin
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:blowgun of the assassin"
+msgid ""
+"This blowgun seems to guide the needle to seek the most lethal point to hit\n"
+"the target, packing a nasty punch.\n"
+msgstr ""
+"Det er udformet til at være let at skjule, men det sparker stadig som en hest.\n"
+
+#. key: lance "wyrmbane"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:lance \"wyrmbane\""
+msgid ""
+"An enchanted lance deadly to all dragonkind. It grows more powerful every time\n"
+"it inflicts a killing blow on a strong dragon. The more powerful it grows, the\n"
+"harder it will be to find a worthy opponent.\n"
+msgstr ""
+"En fortryllet lanse, som vokser sig mere og mere mægtig for hver gang, den\n"
+"nedlægger en stærk drage. Jo mere mægtig den bliver, jo sværere bliver det at\n"
+"finde en værdig modstander.\n"
+
+#. key: plutonium sword
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:plutonium sword"
+msgid ""
+"A triple sword made of weird glowing metal. It irradiates those it strikes,\n"
+"causing a range of unpredictable effects — if they survive the impact of the\n"
+"blade itself, that is.\n"
+msgstr ""
+"En triple sword af et underligt, glødende metal. Du spekulerer over, om strålingen\n"
+"vil få et ekstra hoved til at vokse frem på dine skuldre.\n"
+
+#. key: great mace "undeadhunter"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:great mace \"undeadhunter\""
+msgid ""
+"A weapon imbued with magic to disrupt and destroy the forces binding undead\n"
+"creatures together. Legends say that, long ago, a lich lord created many\n"
+"such weapons to ensure the loyalty of his undead servants. Sadly, this mace\n"
+"might be the last one left.\n"
+msgstr ""
+"Legenderne vil vide, at for længe siden eksperimenterede en dødningeherre med\n"
+"at skabe bevidste tjenere i stedet for tankeløse tingester. For at sikre sig\n"
+"deres loyalitet lavede han en række våben, som var præget med magi, der kunne\n"
+"modvirke den, der holdt udøde sammen, og dermed forvolde dem stor skade.\n"
+"\n"
+"Selvom dødningen for længst er gået til grunde, så siges hans våben at have\n"
+"været meget populære på grund af den ravage, de forvolder blandt udøde. Denne\n"
+"stridskølle er muligvis det eneste af våbnene, der findes endnu.\n"
+
+#. key: knife of accuracy
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:knife of accuracy"
+msgid ""
+"It is almost unerringly accurate.\n"
+msgstr ""
+"Den er næsten usvigeligt præcis.\n"
+
+#. key: lehudib's crystal spear
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:lehudib's crystal spear"
+msgid ""
+"Presumably this relic led to the invention of the famous spell, or maybe the\n"
+"other way around.\n"
+msgstr ""
+"Dette relikvie førte formentlig til opfindelsen af den berømte besværgelse,\n"
+"eller også var det omvendt.\n"
+
+#. key: captain's cutlass
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:captain's cutlass"
+msgid ""
+"An infamous weapon, once used by a vile pirate captain to slaughter countless\n"
+"innocents. He finally met his destiny when a kraken swallowed his ship, and the\n"
+"cutlass was thought to be lost with him.\n"
+msgstr ""
+"Dette berygtede våben blev brugt af en vederstyggelig sørøver til at slagte\n"
+"utallige uskyldige. Han mødte omsider sit endeligt, da en kraken slugte hans\n"
+"skib med hele mandskabet om bord. Huggerten regnedes for at være tabt for\n"
+"evigt, men nu holder du beviset på dit modsatte i din hule hånd.\n"
+
+#. key: storm bow
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:storm bow"
+msgid ""
+"A longbow with the colour of dark rain clouds that fires arrows like lightning.\n"
+msgstr ""
+"Denne bue har samme farve som mørke regnvejrsskyer og lugter af våd ozon.\n"
+
+#. key: tower shield of ignorance
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:tower shield of ignorance"
+msgid ""
+"A shield unearthed from the remains of a ruined city. It bears an inscription\n"
+"written in an ancient language. Scholars and wise men laboured for countless\n"
+"hours to decipher it, and in time, a translation was finally settled on:\n"
+"\n"
+"\"With a shield like this, who needs to think?\"\n"
+msgstr ""
+"»Et åbent sind er som en fæstning, hvor portene står åbne og murene er\n"
+"ubevogtede.«\n"
+
+#. key: robe of augmentation
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:robe of augmentation"
+msgid ""
+"A variegated robe, woven with enchantments to enhance the wearer's physical and\n"
+"mental abilities. Its creators wove in strands of hair from a hundred different\n"
+"animals, each chosen for the unique strengths it could grant the robe's wearer.\n"
+msgstr ""
+"En kåbe af den fineste silke.\n"
+
+#. key: cloak of the thief
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:cloak of the thief"
+msgid ""
+"A pitch-black cloak which allows its wearer to excel in the arts of thievery.\n"
+"Even the clumsy will find their footsteps softer and the shouts of their\n"
+"adversaries less attention-getting.\n"
+msgstr ""
+"Den lader bæreren brillere i tyveriets kunst og kan udløse tykke røgskyer, når\n"
+"den vækkes, så det bliver lettere at tage flugten.\n"
+
+#. key: tower shield "bullseye"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:tower shield \"bullseye\""
+msgid ""
+"Just in case you had trouble getting hit.\n"
+msgstr ""
+"Bare hvis du nu havde svært ved at blive ramt.\n"
+
+#. key: crown of dyrovepreva
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:crown of dyrovepreva"
+msgid ""
+"A large circlet of dull bronze, set with a dazzling array of gemstones. It was\n"
+"first worn by a prince of the Titans, who sought protection from the incessant\n"
+"warfare between his fellow princes. In practice, the main effect of the\n"
+"artefact was to unite his rivals against him.\n"
+msgstr ""
+"En stor krone af mat bronze, som er indlagt med et funklende udvalg af\n"
+"ædelsten.\n"
+
+#. key: hat of the bear spirit
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:hat of the bear spirit"
+msgid ""
+"A fur hat once owned by Ukta, a powerful ogre shaman. It houses the spirit of\n"
+"an especially mighty bear, whose rages devastated the ogres until it was slain.\n"
+msgstr ""
+"Denne pelshat tilhørte engang Ukta, en mægtig jætte-shaman, og huser en særligt\n"
+"mægtig bjørns ånd.\n"
+
+#. key: robe of misfortune
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:robe of misfortune"
+msgid ""
+"A splendid flowing robe of fur and silk whose lucky colour has faded.\n"
+msgstr ""
+"En pragtfuld, flagrende kåbe af pels og silke.\n"
+
+#. key: cloak of flash
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:cloak of flash"
+msgid ""
+"A cloak that twitches and jerks without any intervention.\n"
+msgstr ""
+"En vibrerende kappe.\n"
+
+#. key: lear's hauberk
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:lear's hauberk"
+msgid ""
+"A well-made golden hauberk that covers all of its wearer's body parts. It\n"
+"includes a chainmail coif, chausses and maille gauntlets.\n"
+msgstr ""
+"En veludført, gylden kjortel af ringbrynje, som dækker alle brugerens lemmer.\n"
+"Den inkluderer en hjelmhue, hoser og brynjehandsker.\n"
+
+#. key: skin of zhor
+#. Preserve {{ lua }} delimiters exactly.
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:skin of zhor"
+msgid ""
+"The {{\n"
+"    if you.can_smell() then\n"
+"        return \"smelly \"\n"
+"    end\n"
+"}}skin of some strange animal, native to cold and distant lands. It radiates\n"
+"the chill of its native habitat.\n"
+msgstr ""
+"Et sært dyrs stinkende skind.\n"
+
+#. key: salamander hide armour
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:salamander hide armour"
+msgid ""
+"Most salamanders' bodies are consigned to the fiery depths from which they\n"
+"sprang. Rarely, though, salamanders instead preserve the skins of those that\n"
+"passed. The runes and decorations on this hide suggest it once belonged to a\n"
+"respected warrior or priest - perhaps even a king. The fiery spirit remains in\n"
+"the skin, granting its power to the wearer.\n"
+msgstr ""
+"En læderrustning, som er lavet af en salamanders skind.\n"
+
+#. key: gauntlets of war
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:gauntlets of war"
+msgid ""
+"A pair of thick steel gauntlets. They were Okawaru's reward for a mighty\n"
+"warlord. The owner is destined to die in battle, but what a death it will be!\n"
+msgstr ""
+"Disse tykke stålhandsker var Okawarus belønning til en mægtig krigsherre.\n"
+"Fortjener du at eje dem?\n"
+
+#. key: shield of resistance
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:shield of resistance"
+msgid ""
+"A bronze shield, looking almost exactly like a tortoise's shell. It was built\n"
+"by the adherents of an obscure minor faith, who imbued it with the power of\n"
+"their god. As the god is said to, this shield protects against sword and sling,\n"
+"frost and flame.\n"
+msgstr ""
+"Et bronzeskjold.\n"
+
+#. key: robe of folly
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:robe of folly"
+msgid ""
+"A dull grey robe. It is enchanted to provide mages with immeasurable power,\n"
+"and more than a little overconfidence...\n"
+msgstr ""
+"En kedelig, grå kåbe. Den er fortryllet, så den giver sin bærer umådelig kraft\n"
+"og visdom.\n"
+
+#. key: maxwell's patent armour
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:maxwell's patent armour"
+msgid ""
+"A suit of armour created by the famous inventor Maxwell, providing unparalleled\n"
+"protective qualities at a very affordable price. His unorthodox materials left\n"
+"it with certain shortcomings, but he's yet to have anyone come back for a\n"
+"refund.\n"
+msgstr ""
+"En underligt udseende rustning.\n"
+
+#. key: mask of the dragon
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:mask of the dragon"
+msgid ""
+"The mask of the High Priest of ancient Erebora. In ancient times, the gods of\n"
+"the Ereborans ceased to answer their prayers, and in desperation, the people\n"
+"turned to the forbidden worship of dragons. Now, of their works, only this mask\n"
+"remains.\n"
+msgstr ""
+"En sær, blå hjelm, som er lavet af hårdt, men fleksibelt læder, der får\n"
+"bærerens ansigt til at ligne en drages åsyn.\n"
+
+#. key: scales of the dragon king
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:scales of the dragon king"
+msgid ""
+"A suit of armour created from the enchanted scales of a once-mighty king of\n"
+"dragons. In his time, titans and lesser dragons struggled with him in vain —\n"
+"but as with all things, even he was eventually cast down and undone. Of his\n"
+"life and deeds, this is all that remains.\n"
+msgstr ""
+"Engang for længe siden tog en mægtig gulddrage magten over alle dragerne i hans\n"
+"del af verden. Men hans regeringstid blev kort, bragt til ende af et enkelt,\n"
+"ynkeligt menneske, som efterfølgende lavede denne rustning af dragens skind.\n"
+
+#. key: hat of the alchemist
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:hat of the alchemist"
+msgid ""
+"A dirty hat. It bears signs of surviving many weird explosions, which suggests\n"
+"it may have means of protecting the head inside from the risks involved with\n"
+"alchemy experiments.\n"
+msgstr ""
+"En beskidt hat. Den bærer præg af at have overlevet mange mystiske\n"
+"eksplosioner, hvilket kunne tyde på, at den er i stand til at beskytte det\n"
+"hoved, der er indeni, mod de risici, der er forbundet med alkymistiske\n"
+"eksperimenter. Og med den beskyttelse, hatten yder, har det med garanti krævet\n"
+"en forudgående hjerneskade overhovedet at overveje sådanne eksperimenter.\n"
+
+#. key: fencer's gloves
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:fencer's gloves"
+msgid ""
+"A pair of gloves made of white silk.\n"
+msgstr ""
+"Et par handsker, som er lavet af hvid silke.\n"
+
+#. key: cloak of starlight
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:cloak of starlight"
+msgid ""
+"A phosphorescent cloak, woven of pure light beams. The ripples of its folds\n"
+"as the wearer leaps and swerves in combat may dazzle those who gaze on it.\n"
+msgstr ""
+"En fosforescerende kappe, som er vævet af rene lysstråler.\n"
+
+#. key: ratskin cloak
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:ratskin cloak"
+msgid ""
+"A cloak stitched from the hides of hundreds of hell rats by an enchantress with\n"
+"far too much time on her hands. Many more rats remain somehow concealed within\n"
+"it, and may scurry out to assist the wearer.\n"
+msgstr ""
+"En fortryllerske med en magisk væv og for meget fritid syede denne kappe af\n"
+"skindet fra hundredvis af rotter, hovedsagligt de orange af slagsen. Den er\n"
+"lidt akavet at have på og ser tåbelig ud, men den yder fremragende beskyttelse\n"
+"mod alle slags rotter.\n"
+
+#. key: amulet of the air
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:amulet of the air"
+msgid ""
+"A sky-blue amulet, suffused with enchantments that protect the wearer and make\n"
+"their Air spells more powerful. Its creator lacked just one thing: a steady\n"
+"hand.\n"
+msgstr ""
+"Mange af denne himmelblå amulets beskyttende egenskaber må stamme fra en\n"
+"magtfuld lufttroldmand. Det eneste, han manglede, var åbenbart en rolig hånd.\n"
+
+#. key: amulet of cekugob
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:amulet of cekugob"
+msgid ""
+"A strange-looking piece of crystal on an ordinary-looking string, with an odd\n"
+"selection of powers.\n"
+msgstr ""
+"Et underligt udseende stykke krystal i en almindeligt udseende snor med et\n"
+"besynderligt udvalg af kræfter.\n"
+
+#. key: amulet of tranquility
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:amulet of tranquility"
+msgid ""
+"A pendant made of purest jade. It grants its wearer immense willpower and\n"
+"mental fortitude.\n"
+msgstr ""
+"Dette vedhæng er lavet af den reneste jade og giver sin bærer umådelig okkult\n"
+"styrke, når det kommer til at ryste fjendtlig magi af sig.\n"
+
+#. key: necklace of bloodlust
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:necklace of bloodlust"
+msgid ""
+"A necklace made of bloodstained human and animal teeth, and something that\n"
+"appears to be a piece of spine.\n"
+msgstr ""
+"Du undrer dig over hvilket brutalt bæst, der ville gå med en blodindsmurt\n"
+"halskæde af menneske- og dyretænder og noget, der ser ud til at være en flækket\n"
+"ryghvirvel.\n"
+
+#. key: ring of the mage
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:ring of the mage"
+msgid ""
+"An enchanted sapphire, inset into a ring. It aids the spellcasting of its\n"
+"wearer.\n"
+msgstr ""
+"En fortryllet safir, som er indfattet i en ring. Den hjælper bæreren med at\n"
+"kaste besværgelser.\n"
+
+#. key: brooch of shielding
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:brooch of shielding"
+msgid ""
+"A brooch with an intricate inlaid design, providing a range of magical\n"
+"protections. Back in the good old days, every adventurer had one of these handy\n"
+"devices. That, and a pony.\n"
+msgstr ""
+"I de gode, gamle dage havde alle eventyrere en af de her praktiske anordninger.\n"
+"Sådan en og en pony.\n"
+
+#. key: robe of clouds
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:robe of clouds"
+msgid ""
+"A robe of a material as nebulous and insubstantial as the clouds. It whips the\n"
+"air around it up into a furious storm as it ripples and swirls.\n"
+msgstr ""
+"En kåbe af et så skrøbeligt materiale, at det næsten kunne være skyer.\n"
+
+#. key: obsidian axe
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:obsidian axe"
+msgid ""
+"An axe with a powerful curse placed on it by one of the lords of Pandemonium,\n"
+"so that unsuspecting adventurers would unleash demons into this world. Beware,\n"
+"for it has ways of taking its wielder under its command...\n"
+msgstr ""
+"Denne økse er forbandet af en af Pandæmoniums herrer, så intetanende eventyrere\n"
+"som dig kommer til at slippe dæmoner løs i denne verden. Tag dig i agt, for\n"
+"denne økse kan tage magten over den, der bærer den ...\n"
+
+#. key: lightning scales
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:lightning scales"
+msgid ""
+"A set of armoured plates assembled to protect a creature with a long, scaly\n"
+"lower body. Faintly crackling with electricity, they supercharge their wearer's\n"
+"ability to cover distance.\n"
+msgstr ""
+"Disse skæl er blevet formet som en rustning til den nedre del af en nagas krop.\n"
+"De knitrer svagt af elektricitet og er fortryllet til at lade bæreren bugte sig\n"
+"af sted næsten lige så hurtigt som et menneske.\n"
+
+#. key: autumn katana
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:autumn katana"
+msgid ""
+"An exquisitely crafted sword. Its blade is so sharp that it can cut through\n"
+"space itself.\n"
+msgstr ""
+"Dette eksotiske sværd er et våben for oplyste krigere.\n"
+
+#. key: shillelagh "devastator"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:shillelagh \"devastator\""
+msgid ""
+"A wooden cudgel, loaded with more than just lead.\n"
+msgstr ""
+"Du gætter på, at denne pind er ladet med mere end bare bly.\n"
+
+#. key: dragonskin cloak
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:dragonskin cloak"
+msgid ""
+"An opalescent cloak gleaming with the colours of all kinds of dragons. It\n"
+"imbues the wearer with draconic resistances, although somewhat unreliably.\n"
+msgstr ""
+"Denne opaliserende kappe glimter med alle dragers farver. Den beskytter bæreren\n"
+"mod alle former for elementarangreb, men er desværre ikke synderligt pålidelig.\n"
+
+#. key: ring of the octopus king
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:ring of the octopus king"
+msgid ""
+"One of the eight rings once worn by the Octopus King and now scattered across\n"
+"the land. Each has its own unique enchantment.\n"
+msgstr ""
+"»En havfrue med sangen så kær\n"
+" Vakte blækspruttekongens begær\n"
+" Hendes blævrende bejler\n"
+" Blev gejler og gejler Men med så mange ringe var opgaven svær.«\n"
+
+#. key: axe of woe
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:axe of woe"
+msgid ""
+"As you hold this axe your mind does not feel fully your own. Your body begins\n"
+"to exhibit strength far beyond its capabilities, and your movements become\n"
+"guided by Makhleb.\n"
+msgstr ""
+"Da du griber om skaftet på denne økse, føles dit sind ikke længere helt som dit\n"
+"eget. Din krop begynder at udvise en hidtil umulig styrke, og dine bevægelser\n"
+"bliver styret af Makhleb.\n"
+
+#. key: moon troll leather armour
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:moon troll leather armour"
+msgid ""
+"A suit of armour rumoured to have been created by enchanting the hide of a\n"
+"now-extinct species of troll. Whether the name rings true or is merely\n"
+"appropriated to add mystique is something of a mystery. The armour's innate\n"
+"powers of regeneration and magical protection, however, are hard to dispute.\n"
+msgstr ""
+"Denne rustning blev efter sigende skabt ved at fortrylle skindet fra en nu\n"
+"uddød race af trolde. Det er umuligt at sige med sikkerhed, om denne rustning\n"
+"virkelig er en rest fra de legendariske vindrædsler, eller blot en tillempning\n"
+"for at gøre den mere mystisk. Men dens magt til hurtigt at helbrede brugeren på\n"
+"bekostning af magisk kraft er i hvert fald ikke til at komme uden om.\n"
+
+#. key: macabre finger necklace
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:macabre finger necklace"
+msgid ""
+"An ugly dangling finger on a string. Everything about it reeks of malign\n"
+"influences... but it's hard to avoid thinking that it would look better with a\n"
+"ring on it.\n"
+msgstr ""
+"Denne dinglende finger ville tage sig bedre ud med en ring på.\n"
+
+#. key: boots of the spider
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:boots of the spider"
+msgid ""
+"A novel pair of boots invented by a suitor of Arachne.\n"
+msgstr ""
+"Et opfindsomt par støvler, som en af Arachnes bejlere hittede på.\n"
+
+#. key: hat of the high council
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:hat of the high council"
+msgid ""
+"A relic of some ancient wizarding war. Centuries later, it still crackles with\n"
+"effects from the residual hexes and magical energies it was once subjected to\n"
+"on a daily basis; spellcasters able to get a handle on its power, however, will\n"
+"find it enhances the power of their spells.\n"
+msgstr ""
+"Et relikvie fra en fordums trolddomskrig. Flere århundreder senere knitrer det\n"
+"stadig af virkningerne af de resterende forbandelser og magiske energier, som\n"
+"det engang blev udsat for på daglig basis. Trolddomsbrugere, som formår at\n"
+"tøjle dets kræfter, vil dog opdage, at den øger deres besværgelsers kraft.\n"
+
+#. key: __(_suffix_examine
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:__(_suffix_examine"
+msgid ""
+"It has been enchanted to dance through the air and attack under its own power.\n"
+msgstr ""
+"En fortryllelse får våbnet til at danse gennem luften og angribe af sig selv.\n"
+
+#. key: aizul
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:aizul"
+msgid ""
+"Once the primary guardian serpent of a legendary treasure hoard, she was\n"
+"disgraced after thieves looted it while she slept. She seeks to make up for her\n"
+"failure by protecting the only treasure the villains overlooked, a single\n"
+"precious talisman.\n"
+msgstr ""
+"En gang var denne slange den fremmeste vogter af en legendarisk skat, men han\n"
+"faldt i unåde da skatten blev stjålet, mens han sov. Han snor sig nu rundt i de\n"
+"underjordiske gange og søger at hævne sig på alle vordende røvere. Han er en\n"
+"talentfuld troldkarl, men ikke mere farlig i nærkamp end andre af sin slags.\n"
+
+#. key: asmodeus
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:asmodeus"
+msgid ""
+"Greatest and most cunning of the Lords of Hell, Asmodeus was born when the twin\n"
+"fires of greed and treachery first sparked to life within a mortal's heart.\n"
+"His hideous body is perpetually wreathed in flame.\n"
+msgstr ""
+"En af de ærkedæmoner, som har hjemme i Helvedes dyb, omsluttet af ild.\n"
+
+#. key: azrael
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:azrael"
+msgid ""
+"A powerful, belligerent efreet. (Is there any other kind?)\n"
+msgstr ""
+"En magtfuld, krigerisk ifrit. (Findes der nogen anden slags?)\n"
+
+#. key: boris
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:boris"
+msgid ""
+"An ancient and powerful lich. Like all true liches, Boris is immortal, and will\n"
+"regenerate his desiccated skeletal remains even if completely disintegrated.\n"
+"The same cannot be said for his many victims over his many centuries, from\n"
+"which he collects and channels their dying woes and regrets.\n"
+msgstr ""
+"En ældgammel og mægtig dødning. Som alle sande dødninge er Boris udødelig og\n"
+"vil regenerere sine udtørrede knogler, selv hvis de fuldstændigt nedbrydes.\n"
+
+#. key: cerebov
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:cerebov"
+msgid ""
+"A violent and wrathful demon, Cerebov appears as a giant humanoid covered in\n"
+"shining golden armour and wielding a huge twisted sword.\n"
+msgstr ""
+"Cerebov, en voldelig og arrig dæmon, fremstår som et gigantisk menneske klædt i\n"
+"en skinnende, gylden rustning og bevæbnet med et enormt, bølget sværd.\n"
+
+#. key: chuck
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:chuck"
+msgid ""
+"Chuck the stone giant loves rocks, the bigger the better! Over the years, he\n"
+"has managed to amass quite the collection, including some rare, enchanted ones.\n"
+msgstr ""
+"Stenkæmpen Chuck elsker sten, jo større, jo bedre! Gennem årene har han\n"
+"akkumuleret en pæn samling, inklusive nogle sjældne, fortryllede nogle af\n"
+"slagsen.\n"
+
+#. key: crazy yiuf
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:crazy yiuf"
+msgid ""
+"A withered old gnoll with a long silver beard, wielding a quarterstaff and\n"
+"wearing a cloak. He looks like a figure from mythology! Wait, is his beard held\n"
+"on to his ears with hooks?\n"
+msgstr ""
+"En runken, gammel gnold med et langt, sølvfarvet skæg. Han er bevæbnet med en\n"
+"stav og bærer en kappe. Han ligner en mytologisk figur! Vent, er hans skæg\n"
+"fæstnet til hans ører med kroge?\n"
+
+#. key: dispater
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:dispater"
+msgid ""
+"Greatest and most ruthless of the Lords of Hell, Dispater was born when first an\n"
+"iron sword drank mortal blood. They despise mortal vanities, the pursuit of\n"
+"‘reason’ and ‘beauty’ - the only art they enjoy is the art of war.\n"
+msgstr ""
+"Herren over Jernbyen Dis.\n"
+
+#. key: dissolution
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:dissolution"
+msgid ""
+"The Pits of Slime used to be a thriving civilisation, and Dissolution was the\n"
+"prophet of their god. When the city was overtaken by its current residents,\n"
+"only Dissolution survived, for they alone turned faithfully to the Slime God.\n"
+"Dissolution became a tremendous mass of acidic ooze, yet retained their\n"
+"intelligence. They are filled with hatred for anything that can hold a form.\n"
+msgstr ""
+"Slimbrøndene var engang en blomstrende civilisation, og Nedbryderen var profet\n"
+"for dennes gud. Da byen blev erobret af dens nuværende indbyggere, overlevede\n"
+"kun Nedbryderen da han som den eneste rettroende søgte hjælp hos slimguden.\n"
+"Nedbryderen blev en kolossal masse af slimsyre, men beholdt sit intellekt. Han\n"
+"er fyldt med had mod alt der kan opretholde en fast form.\n"
+
+#. key: donald
+#. Preserve {{ lua }} delimiters exactly.
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:donald"
+msgid ""
+"{{\n"
+"    local descript = \"An adventurer just like you, trying to find the Orb.\"\n"
+"\n"
+"    if you.race() ~= \"Merfolk\" and you.race() ~= \"Octopode\" then\n"
+"        descript = descript .. \" Unlike you, and d\"\n"
+"    else\n"
+"        descript = descript .. \" D\"\n"
+"    end\n"
+"\n"
+"    descript = descript .. \"espite his hatred of it, he takes to water \" ..\n"
+"                           \"like a fowl.\"\n"
+"\n"
+"    return descript\n"
+"}}\n"
+msgstr ""
+"{{\n"
+"    local descript = \"En eventyrer som dig, der prøver at finde sfæren.\"\n"
+"\n"
+"    if you.race() ~= \"Merfolk\" and you.race() ~= \"Octopode\" then\n"
+"        descript = descript .. \" I modsætning til dig, og p\"\n"
+"    else\n"
+"        descript = descript .. \" p\"\n"
+"    end\n"
+"\n"
+"    descript = descript .. \"å trods af hans had til det, så klarer han sig \" ..\n"
+"                           \"som fjerkræ i vandet.\"\n"
+"\n"
+"    return descript\n"
+"}}\n"
+
+#. key: dowan
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:dowan"
+msgid ""
+"A beautiful but vain deep elf with an aptitude for magic and little else. His\n"
+"skills are the perfect complement of his twin sister Duvessa's fighting prowess.\n"
+"In search of more powerful spells, he journeys to the surface with his sister.\n"
+msgstr ""
+"En smuk, men forfængelig elver med talent for magi og ikke meget andet. Hans\n"
+"evner supplerer hans tvillingesøster Duvessas kampdygtighed perfekt.\n"
+
+#. key: duvessa
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:duvessa"
+msgid ""
+"A plain-looking deep elven fighter who is technically brilliant in many forms of\n"
+"combat, but over-confident because of it. She is complemented by the magical\n"
+"skills of her twin brother, Dowan. She journeys to the surface to challenge\n"
+"its greatest champions.\n"
+msgstr ""
+"En jævnt udseende elverkriger som er teknisk brillant i mange former for\n"
+"kampteknik, men skråsikker som følge deraf. Hun suppleres af sin tvillingebror\n"
+"Dowans magiske evner.\n"
+
+#. key: edmund
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:edmund"
+msgid ""
+"A jealous sibling of Sigmund (indeed, the youngest of nine brothers). He has\n"
+"none of Sigmund's skills in magic, but makes up for it with his skills in\n"
+"fighting and a canny head for money. He is eager to prove his superiority by\n"
+"killing hapless adventurers with his expensive flail and quick wit.\n"
+msgstr ""
+"En af Sigmunds jaloux søskende (den yngste af ni brødre). Han har ingen af sin\n"
+"brors magiske evner, men dette opvejes af hans kampfærdigheder og næse for\n"
+"penge. Han er ivrig efter at bevise sin overlegenhed ved at dræbe uheldige\n"
+"eventyrere med sin dyre plejl og sit skarpe vid.\n"
+
+#. key: ereshkigal
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:ereshkigal"
+msgid ""
+"Greatest and most inexorable of the Lords of Hell, Ereshkigal was born when\n"
+"first a mortal breathed her last. Noiselessly she laughs at lives cut short and\n"
+"loved ones separated by untimely death, enwreathed in the silence of the grave.\n"
+msgstr ""
+"En frygtindgydende ærkedæmon som hersker i det dødsensfarlige, underjordiske\n"
+"rige Tartarus.\n"
+
+#. key: erolcha
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:erolcha"
+msgid ""
+"An especially cunning ogre-mage.\n"
+msgstr ""
+"En særligt snu jætte-troldkvinde.\n"
+
+#. key: eustachio
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:eustachio"
+msgid ""
+"An apprentice summoner with a flowing moustache. He has funny ideas about\n"
+"honour.\n"
+msgstr ""
+"En lærling udi hidkaldelsernes kunst. Han har et bølget overskæg og nogle\n"
+"underfundige idéer om ære.\n"
+
+#. key: frances
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:frances"
+msgid ""
+"A stout warrior who once bested a powerful lord of Pandemonium in combat,\n"
+"gaining control over the demon's realm and thanes. The battle left her with a\n"
+"deep facial scar, one that she carries as a badge of honour rather than a\n"
+"symbol of shame.\n"
+msgstr ""
+"En hårdfør kriger som engang besejrede en mægtig hersker af Pandæmonium i\n"
+"tvekamp og tilegnede sig dæmonens rige og lensmænd. Som resultat af kampen\n"
+"pådrog hun sig et dybt ar i ansigtet som hun bærer med stolthed, snarere end\n"
+"skam.\n"
+
+#. key: frederick
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:frederick"
+msgid ""
+"A svelte fighter-mage with a gold-rimmed monocle, a keen sense of tradition,\n"
+"and the blood of the gods running through his veins. He's here looking for a\n"
+"worthy opponent, but he's yet to find one.\n"
+msgstr ""
+"En elegant kriger og magiker som bærer en guldrandet monokel og søger en værdig\n"
+"modstander. Det er du sandsynligvis ikke.\n"
+
+#. key: gastronok
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:gastronok"
+msgid ""
+"A voracious and surprisingly intelligent slug, devoted to eating everything and\n"
+"everyone he comes across, with a pointed hat perched rakishly atop his head. He\n"
+"acquired the hat the same way he acquired his intelligence and his knowledge of\n"
+"spells: by consuming their former owner, a powerful wizard.\n"
+msgstr ""
+"En glubsk og overraskende kløgtig snegl som er opsat på at æde alt og alle, han\n"
+"møder. På hovedet har en spids hat spændstigt på sned. Han anskaffede sig\n"
+"hatten på samme måde som han fik sin intelligens og sin viden om besværgelser:\n"
+"ved at fortære deres tidligere ejer, en mægtig troldmand.\n"
+
+#. key: gloorx vloq
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:gloorx vloq"
+msgid ""
+"A shadowy figure clothed in profound darkness.\n"
+msgstr ""
+"En skyggefuld skikkelse indhyllet i det dybeste mørke.\n"
+
+#. key: grinder
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:grinder"
+msgid ""
+"An inefficient shadow imp previously employed as a torturer in one of the lower\n"
+"circles of Hell. She has a tendency to complain and make inane statements.\n"
+msgstr ""
+"En uduelig skyggedjævleyngel, som tidligere var torturmester i en af Helvedes\n"
+"lavere cirkler. Han har tendens til at brokke sig og komme med åndssvage\n"
+"kommentarer.\n"
+
+#. key: grum
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:grum"
+msgid ""
+"A tough-looking gnoll, wearing the pelt of one of his former war dogs.\n"
+msgstr ""
+"En barskt udseende gnold, som bærer en af sine tidligere krigshundes skind.\n"
+
+#. key: harold
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:harold"
+msgid ""
+"A middle-aged bounty hunter, anxious to retire after one final job. He hopes to\n"
+"settle down somewhere and live a quiet life with his family, using the money\n"
+"from his final bounty: you.\n"
+msgstr ""
+"En midaldrende dusørjæger opsat på efter at trække sig tilbage fra dusørræset\n"
+"efter en sidste opgave. Han ønsker at slå sig ned et sted og leve et stille liv\n"
+"med sin familie for pengene fra sit sidste mål: dig.\n"
+
+#. key: ignacio
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:ignacio"
+msgid ""
+"While a mortal cannot turn into a demon aside from divine intervention, this is\n"
+"what happened to Ignacio after Makhleb saw his love for his job and smiled upon\n"
+"him. He is now slated to continue the joy of his life for all eternity.\n"
+"\n"
+"Although his new form includes a number of large razor-sharp blades growing\n"
+"from his demonic appendages, he kept his favourite axe and is eager to let you\n"
+"test its edge.\n"
+msgstr ""
+"En dødelig kan kun forvandles til en dæmon gennem guddommelig indgriben. Dette\n"
+"skete for Ignacio, efter Makhleb så hans kærlighed til sit arbejde og\n"
+"tilsmilede ham. Han er nu dømt til at fortsætte sit livs store fornøjelse i al\n"
+"evighed.\n"
+"\n"
+"Selvom hans nye form omfatter en række barberbladsskarpe klinger, som er\n"
+"udvokset fra hans dæmoniske lemmer, har Ignacio beholdt sin yndlingsøkse – og\n"
+"er ivrig after at teste dens blad på dig.\n"
+
+#. key: ijyb
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:ijyb"
+msgid ""
+"A small and shrewd goblin inventor, wearing blue rags coated in soot.\n"
+"She claims dominion over this level of the dungeon; trespassers will find\n"
+"themselves on the business end of a homemade wand.\n"
+msgstr ""
+"En lille, forskruet goblin iklædt grimme, blå laser. Han har herredømmet over\n"
+"dette niveau af de underjordiske gange; indtrængende straffes med døden.\n"
+
+#. key: jessica
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:jessica"
+msgid ""
+"An evil apprentice sorceress. She entered the dungeon hoping to find a quiet,\n"
+"secluded place where she could study the darker arts without being disturbed.\n"
+msgstr ""
+"En ondsindet troldkvindelærling. Hun er kommet til de underjordiske gange i\n"
+"håbet om at finde et stille, afsides sted hvor hun kan studere de mørke kunster\n"
+"uden at blive forstyrret.\n"
+
+#. key: jory
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:jory"
+msgid ""
+"Once a simple village peasant, Jory found himself transformed in undeath into a\n"
+"powerful creature. Through the countless centuries unlived since then, he has\n"
+"honed his skills in combat and magic, and amassed great wealth and many\n"
+"possessions.\n"
+msgstr ""
+"I levende live var Jory en simpel bonde, men som udød forvandlede han sig til\n"
+"et magtfuldt væsen. Gennem utallige århundreders uliv har han udviklet sine\n"
+"evner inden for kamp og magi, akkumuleret stor rigdom og mange ejendele.\n"
+
+#. key: joseph
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:joseph"
+msgid ""
+"Looks like a mercenary in a stupid-looking hat.\n"
+msgstr ""
+"Ligner en lejesvend.\n"
+
+#. key: lom lobon
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:lom lobon"
+msgid ""
+"Stoic and inscrutable, Lom Lobon is an ancient demon infamous for their mastery\n"
+"of magic. Rumoured to be the most learned being in the halls of Pandemonium,\n"
+"they are at times sought out by mortal wizards who offer their souls in\n"
+"exchange for the secrets of the arcane. Lacking the terrible wrath present in\n"
+"most demons, Lom Lobon's single eye instead hides a cold, impartial cruelty.\n"
+msgstr ""
+"En ældgammel og besynderligt fredfyldt dæmon. Den har et enormt, lysende øje\n"
+"midt i panden med hvilket den køligt betragter dig.\n"
+
+#. key: louise
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:louise"
+msgid ""
+"A mighty sorceress, clad from head to toe in heavy armour. Once an adventurer\n"
+"looking for the fabled Orb of Zot, she was cast into the Abyss and got\n"
+"hopelessly lost there. Toyed with by some greater power, she was stuck on the\n"
+"hostile plane for nearly a decade. When she finally emerged from the Abyss,\n"
+"Louise had become powerful indeed, but had also gone fully insane. She now\n"
+"wanders the halls of the dungeon, seeking other adventurers to share her fate.\n"
+msgstr ""
+"En mægtig troldkvinde klædt i tungt panser fra top til tå. Hun var engang en\n"
+"eventyrer på jagt efter den sagnomspundne Sfære fra Zot, men styrtede ned i\n"
+"Afgrunden, hvor hun for håbløst vild. Louise var fanget på dette plan i næsten\n"
+"et årti, mens de højere magter legede med hende. Da hun endelig undslap\n"
+"Afgrunden var hun blevet ganske mægtig, men også fuldstændig vanvittig. Hun\n"
+"vandrer nu hvileløst rundt i de underjordiske gange og leder efter andre\n"
+"eventyrere der kan dele hendes skæbne.\n"
+
+#. key: margery
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:margery"
+msgid ""
+"A lithe spellcaster in service to the powers of Hell; it is her duty to ensure\n"
+"that the inhabitants of the Dungeon never forget their place. She personally\n"
+"slew the ancient dragon from whose hide her strange armour is crafted.\n"
+msgstr ""
+"En smidig troldkvinde, som tjener helvedes kræfter. Det er hendes pligt at\n"
+"sikre sig, at de underjordiske ganges beboere aldrig glemmer deres plads. Hun\n"
+"dræbte selv den ældgamle drage, hvis skind blev til hendes sære rustning.\n"
+
+#. key: maurice
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:maurice"
+msgid ""
+"A sly, conniving thief. A self-proclaimed legend, he was one of the most skilled\n"
+"and crafty of the thieves and rogues lured by the Orb. The magical parasitic\n"
+"vines that have claimed his body still wish to continue his life's work, with a\n"
+"back-up plan of both a vicious magic-drinking maw and potent wands.\n"
+msgstr ""
+"En snu, bedragerisk tyv.\n"
+
+#. key: menkaure
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:menkaure"
+msgid ""
+"A fair and noble ruler of an ancient and mighty kingdom, mummified after an\n"
+"early death. His faithful priests subsequently infused him with great and\n"
+"powerful magic, seeking to grant him eternal life. Now he is forgotten and\n"
+"reduced to mouldering bandages and dry, brittle bones.\n"
+msgstr ""
+"En retfærdig og ædel hersker over et ældgammelt og mægtigt kongerige, som blev\n"
+"mumificeret efter en tidlig død. Hans trofaste præster har siden tilført ham\n"
+"stor og kraftfuld magi i et forsøg på at skænke ham evigt liv. Nu er han glemt\n"
+"og reduceret til smuldrende bandager og tørre, skøre knogler.\n"
+
+#. key: mennas
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:mennas"
+msgid ""
+"There was once a human priest named Mennas. He travelled far and wide as a\n"
+"missionary of Zin, often venturing even into Orcish lands. He beseeched the orcs\n"
+"to abandon their false tribes and return to the peoples of their birth; only\n"
+"Zin's light could truly cleanse the weight of sin that had twisted their bodies.\n"
+"\n"
+"By all accounts the orcs were not happy with Mennas. Eventually, a group of them\n"
+"demanded he recant his words and when Mennas remained silent, they cut out his\n"
+"tongue.\n"
+"\n"
+"Whether or not this angel is that same Mennas is something of a mystery, as he\n"
+"seems to have difficulty speaking.\n"
+msgstr ""
+"Der var engang en menneskelig præst ved navn Mennas. Han rejste vidt og bredt\n"
+"for at prædike Zin for alle, der ville lytter. Han gik endda så vidt, at han\n"
+"rejste til orkernes lande for at belære dem love og nåde. Efter alt at dømme\n"
+"var orkerne ikke glade for Mennas. De forlangte, at han svor, at Beogh var den\n"
+"eneste sande gud, og da Mennas forblev tavs, skar de hans tunge ud.\n"
+"\n"
+"Om denne engel er den samme Mennas forbliver noget af et mysterium, da han\n"
+"lader til at have problemer med at tale.\n"
+
+#. key: mnoleg
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:mnoleg"
+msgid ""
+"A weirdly glowing figure, dancing through the twisted air of Pandemonium.\n"
+msgstr ""
+"En underligt lysende skikkelse, som danser gennem Pandæmoniums forvredne luft.\n"
+
+#. key: nellie
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:nellie"
+msgid ""
+"A highly intelligent elephant who travelled as part of a circus. One dark\n"
+"night, she slipped out of her chain and disappeared into Pandemonium, never to\n"
+"be seen again.\n"
+msgstr ""
+"En overordentligt intelligent elefant, som engang var med i et cirkus. En sen\n"
+"nattetime smuttede hun ud af sin lænke, forsvandt ind i Pandæmonium og blev\n"
+"aldrig set igen.\n"
+
+#. key: nikola
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:nikola"
+msgid ""
+"A brilliant scientist obsessed with electricity. In his attempts to perfect his\n"
+"electric golem, he was involved in a terrible accident, and now phases in and\n"
+"out of reality.\n"
+msgstr ""
+"En genial videnskabsmand besat af elektricitet. I forsøget på at fuldende sin\n"
+"elektriske golem kom han ud for en forfærdelig ulykke, og nu faser han ind og\n"
+"ud af virkeligheden.\n"
+
+#. key: pargi
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:pargi"
+msgid ""
+"An unusually weak troll.\n"
+msgstr ""
+"En usædvanligt tynd trold.\n"
+"\n"
+"Du kan mærke en klump i halsen.\n"
+
+#. key: polyphemus
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:polyphemus"
+msgid ""
+"A cyclops shepherd, he is very protective of his charges, whom he watches with\n"
+"an undying fervor through his single massive eye. Nevertheless, he won't\n"
+"hesitate to use them as projectiles in a pinch; after all, the best defence is\n"
+"a good offence.\n"
+msgstr ""
+"En kyklophyrde. Han er særdeles beskyttende over for sin hjord, som han vogter\n"
+"med udødelig iver med sit ene enorme øje.\n"
+
+#. key: rupert
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:rupert"
+msgid ""
+"Rippling muscles, glistening pecs, incredible glutes - Rupert is the peak of\n"
+"physical perfection. Even so, his roars seem louder than even his fantastic form\n"
+"can explain. Perhaps he holds some talisman that lends supernatural force to his\n"
+"bellows?\n"
+msgstr ""
+"En mand med utroligt dårlige manerer, hvis brøl kan gøre en rise jaloux.\n"
+
+#. key: saint roka
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:saint roka"
+msgid ""
+"A mighty warlord. Some orcs even say they are the Chosen One of Beogh.\n"
+msgstr ""
+"En mægtig krigsherre. Der er endda visse orker, som siger, at han er Beoghs\n"
+"udvalgte.\n"
+
+#. key: sigmund
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:sigmund"
+msgid ""
+"The elder of a pair of brothers who came for the Orb. No one knows what Sigmund\n"
+"saw in the dungeon to drive him mad, but his shrewd magical tactics and wicked\n"
+"scythe now leave little time for his victims to wonder. Despite his reputation\n"
+"as a vicious murderer, his grandiose and dramatic ways have earned him the\n"
+"admiration of many denizens of the dungeon.\n"
+msgstr ""
+"Den ældste af et par brødre, der er kommet efter Sfæren. Ingen ved, hvad\n"
+"Sigmund så i de underjordiske gange, som drev ham fra forstanden, men hans\n"
+"durkdrevne magiske taktikker og nådesløse le giver nu heller ikke hans ofre\n"
+"meget tid til at tænke over det. På trods af hans omdømme som en blodtørstig\n"
+"morder, så har hans grandiose og dramatiske stil vundet ham mange af de\n"
+"underjordiske ganges indbyggeres beundring.\n"
+
+#. key: sonja
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:sonja"
+msgid ""
+"A graceful kobold assassin. Admire her graceful pirouettes, thrill at her\n"
+"daring leaps! But watch out for her knives!\n"
+msgstr ""
+"En elegant koboldsnigmorder. Du kommer til at beundre hendes yndefulde\n"
+"pirouetter, du vil begejstres over hendes vovefulde spring! Men pas på hendes\n"
+"knive!\n"
+
+#. key: terence
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:terence"
+msgid ""
+"A veteran of a war against the armataurs' elephant-riders. He has recently\n"
+"retired to make a new home in the dungeon.\n"
+msgstr ""
+"Terence er en voldelig morder, som dræber både for fornøjelsens og pengenes\n"
+"skyld. Han er tvunget i skjul efter et mislykket job, og han har ikke råd til\n"
+"at lade nogen, der har set ham, undslippe de underjordiske gange i live – der\n"
+"er trods alt en pris på hans hoved.\n"
+
+#. key: urug
+#. Preserve {{ lua }} delimiters exactly.
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:urug"
+msgid ""
+"A coarse and lanky orc. Urug lost her eye in a fight with a harpy, and has\n"
+"sworn to slay every last one of them. Unfortunately, the vision in her\n"
+"remaining eye is not very good, and she has mistaken you for one.\n"
+"{{\n"
+"    if you.can_smell() then\n"
+"        return \"She smells terrible.\"\n"
+"    end\n"
+"}}\n"
+msgstr ""
+"En grov og ranglet ork. Urug mistede et øje i en kamp med en harpy og svor, at\n"
+"han ville dræbe hver eneste af dem. Uheldigvis er synet på hans sidste øje ikke\n"
+"synderligt godt, så han har forvekslet dig med en harpy.\n"
+"{{\n"
+"    if you.can_smell() then\n"
+"        return \"Han lufter forfærdeligt.\"\n"
+"    end\n"
+"}}\n"
+
+#. key: xtahua
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:xtahua"
+msgid ""
+"An ancient and mighty dragon.\n"
+msgstr ""
+"En ældgammel og mægtig drage.\n"
+
+#. key: acid blob
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:acid blob"
+msgid ""
+"A lump of sickly pustulent flesh, dripping with lethal acid.\n"
+msgstr ""
+"En klump sygelig, pusdryppende kød hvorfra dødelig syre siver.\n"
+
+#. key: adder
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:adder"
+msgid ""
+"A common dungeon snake, a species of troglodytic reptile commonly found in\n"
+"subterranean spaces.\n"
+msgstr ""
+"Den gennemsnitlige tunnelslange. En art hulereptil, som man ofte finder under\n"
+"jorden.\n"
+
+#. key: air elemental
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:air elemental"
+msgid ""
+"A spirit drawn from the elemental plane of air. It exists in this world as a\n"
+"lightning-spitting spirit, stunning foes with its crackling bursts.\n"
+msgstr ""
+"En ånd fra vindens elementarplan. I denne verden eksisterer den som en susende\n"
+"hvirvelvind, der opløses og gendannes.\n"
+
+#. key: alligator
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:alligator"
+msgid ""
+"An aggressive crocodilian with great crunching jaws full of sharp teeth.\n"
+msgstr ""
+"En listig krokodille der skjuler sig i vandet og venter tålmodigt på at byttet\n"
+"kommer for tæt på hvorefter den med pludselig fart og vildskab griber ofret og\n"
+"knuser det mellem sine mægtige kæber.\n"
+
+#. key: alligator snapping turtle
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:alligator snapping turtle"
+msgid ""
+"A particularly large and nasty snapping turtle. Like its smaller relative, it\n"
+"can reach out and bite from afar.\n"
+msgstr ""
+"En særligt stor og fæl snapskildpadde. Den kan ligesom sine mindre slægtninge\n"
+"strække sig og bide på lang afstand, og når den føler sig truet, trækker den\n"
+"sig ind i sit skjold.\n"
+
+#. key: anaconda
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:anaconda"
+msgid ""
+"A very large snake that moves with startling swiftness. It kills not by poison\n"
+"but by constricting its prey.\n"
+msgstr ""
+"En meget stor slange som bevæger sig uhyggeligt hurtigt både på land og til\n"
+"vands. Den dræber ikke med gift, men ved at kværke sit bytte.\n"
+
+#. key: ancient champion
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:ancient champion"
+msgid ""
+"An unfathomably ancient skeleton. It has hundreds of golden sigils etched onto\n"
+"its bones, and pulses with terrible, unholy power.\n"
+msgstr ""
+"Et ufatteligt gammelt skelet. Der er hundredevis af gyldne symboler skåret ind\n"
+"i knoglerne og det pulserer med rædselsfuld, uhellig kraft.\n"
+
+#. key: ancient lich
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:ancient lich"
+msgid ""
+"A lich who, having existed for countless centuries, has grown almost\n"
+"unimaginably powerful through the study of dark magic.\n"
+msgstr ""
+"En dødning som efter at have eksisteret i utallige århundreder har opnået en\n"
+"næsten ufattelig kraft gennem sine studier af sort magi.\n"
+
+#. key: angel
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:angel"
+msgid ""
+"A divine warrior of the Shining One. It is a towering winged figure of\n"
+"unnatural beauty surrounded by an aura of brilliant white light.\n"
+msgstr ""
+"Den Strålendes hellige krigere er tårnhøje, bevingede skikkelser der besidder\n"
+"en unaturlig skønhed og er omgivet af en aura af blændende hvidt lys. De virker\n"
+"vægtløse og smidige når de flyver på trods af deres tunge rustninger.\n"
+
+#. key: apis
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:apis"
+msgid ""
+"A placid, sacred bull of Elyvilon. Its status as an exalted envoy of the Healer\n"
+"lets its very presence double the health of its allies.\n"
+msgstr ""
+"Elyvilons fredelige, hellige tyr. Tag jer i agt, misdædere, for den vil vende\n"
+"sig mod jer!\n"
+
+#. key: azure jelly
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:azure jelly"
+msgid ""
+"An extremely cold blob of bright blue cytoplasm, forming bits of frost in the\n"
+"air around it.\n"
+msgstr ""
+"En voldsomt kold klat af funklende blå cytoplasma der danner frostpartikler i\n"
+"luften omkring sig.\n"
+
+#. key: ball lightning
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:ball lightning"
+msgid ""
+"A swift sphere of coruscating electrical energy. It will explode at the\n"
+"slightest disturbance.\n"
+msgstr ""
+"En kæmpe, hurtig sfære af gnistrende, elektrisk energi. Den mindste\n"
+"forstyrrelse vil få den til at eksplodere.\n"
+
+#. key: ball python
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:ball python"
+msgid ""
+"A small snake that can augment its bite by constricting small creatures.\n"
+msgstr ""
+"En lille slange som supplerer sit bid med at kvæle små væsener.\n"
+
+#. key: balrug
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:balrug"
+msgid ""
+"A huge and very powerful demon, wreathed in fire and shadows.\n"
+msgstr ""
+"En enorm og mægtig dæmon som er indhyllet i ild og skygger.\n"
+
+#. key: basilisk
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:basilisk"
+msgid ""
+"A crested lizard of middling size with a terrible petrifying gaze.\n"
+msgstr ""
+"Et toppet krybdyr i mellemstørrelsen med et frygteligt forstenende blik.\n"
+
+#. key: bat
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:bat"
+msgid ""
+"A large grey bat that, despite being herbivorous, is quite aggressive. It is\n"
+"myopic and uses echolocation to navigate.\n"
+msgstr ""
+"En stor, grå flagermus der er meget agressiv selvom den er planteæder. Den er\n"
+"nærsynet og bruger ekkolokalisering til at navigere.\n"
+
+#. key: black bear
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:black bear"
+msgid ""
+"A small black bear. Like all ursines, it will become enraged if badly hurt.\n"
+msgstr ""
+"En lille, sort bjørn. Som alle bjørne bliver den rasende eller forskrækket hvis\n"
+"den kommer slemt til skade.\n"
+
+#. key: black mamba
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:black mamba"
+msgid ""
+"An astonishingly fast tropical snake whose bite bears a deadly venom.\n"
+msgstr ""
+"En stor og forskrækkeligt hurtig slange hvis bid overfører en dødbringende\n"
+"gift.\n"
+
+#. key: blink frog
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:blink frog"
+msgid ""
+"A species of frog that possesses the ability to blink at will. It can blink\n"
+"itself close to its intended prey, or blink away to escape harm. It is commonly\n"
+"found in packs.\n"
+msgstr ""
+"En art kæmpefræ som kan blinke når som helst. Den kan blinke sig tættere på sit\n"
+"bytte eller blinke i sikkerhed i en snæver vending. Den optræder som regel i\n"
+"flok.\n"
+
+#. key: blizzard demon
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:blizzard demon"
+msgid ""
+"A greater demon formed from wistful snow and bitter lightning.\n"
+msgstr ""
+"En større dæmon som er indhyllet i sne og lyn.\n"
+
+#. key: brimstone fiend
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:brimstone fiend"
+msgid ""
+"A huge and powerful demon wreathed in damnation, with great scaly wings. It is\n"
+"one of the most fearsome denizens of any of the Hells.\n"
+msgstr ""
+"En kæmpestor og mægtig dæmon omgivet af helvedesild med store, skællede vinger.\n"
+"En af de mest frygtsomme indbyggere i alle Helvedes cirkler.\n"
+
+#. key: executioner
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:executioner"
+msgid ""
+"A horribly powerful and swift demon, its shape obscured by a cloud of swirling\n"
+"scythe-like blades.\n"
+msgstr ""
+"En skrækkeligt mægtig og lynsnar dæmon hvis form er sløret af en sky af\n"
+"hvirvlende le-lignende klinger.\n"
+
+#. key: hell sentinel
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:hell sentinel"
+msgid ""
+"A towering monolith constructed and possessed by demonic forces. A thousand\n"
+"eyes leer through slits in its jagged, spiked armour.\n"
+msgstr ""
+"En tårnhøj monolit konstrueret og besat af dæmoniske kræfter. Tusind øjne\n"
+"skuler grumt ud af sprækker i dens forrevne, tornede rustning.\n"
+
+#. key: ice fiend
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:ice fiend"
+msgid ""
+"A huge frigid demon covered in frost and wreathed in freezing air. It is one of\n"
+"the most terrible denizens of the many Hells.\n"
+msgstr ""
+"En kæmpemæssig frostdæmon dækket af rim og omsluttet af bidende kolde vinde. En\n"
+"af de mest forfærdelige beboere i Helvedes mange cirkler.\n"
+
+#. key: killer klown
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:killer klown"
+msgid ""
+"A comical figure full of life and laughter. It looks very happy to see you...\n"
+"but is there a slightly malicious cast to its features? Is that red face paint\n"
+"or something altogether less pleasant?\n"
+msgstr ""
+"En komisk figur fuld af liv og latter. Den synes at være meget glad for at se\n"
+"dig ... men kan en vis skadefryd spores i dens ansigtstræk? Er det der rød\n"
+"ansigtsmaling eller noget langt mindre behageligt?\n"
+
+#. key: orb guardian
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:orb guardian"
+msgid ""
+"A huge, glowing, four-limbed purple creature with heightened senses, created by\n"
+"the Orb itself. It guards the Orb with enormous punctiliousness and violence,\n"
+"and its death will alert any Boundless Tesseracts on the level to begin creating\n"
+"reinforcements.\n"
+"\n"
+"Unless the Orb has already been disturbed, it will refuse to abandon its duty\n"
+"by leaving the floor.\n"
+msgstr ""
+"Et enormt, glødende, firelemmet, lilla væsen med unaturligt skarpe sanser, som\n"
+"Sfæren har skabt til at vogte over den. Den bevogter Sfæren med voldsom\n"
+"pertentlighed og brutalitet.\n"
+
+#. key: dungeon
+#: dat/descript/branches.txt
+msgctxt ""
+"textdb:descriptions:dungeon"
+msgid ""
+"It is still a mystery how this bizarre place was created. Some claim that it is\n"
+"the playground of bored gods, whereas others maintain that it was shaped by all\n"
+"kinds of species who fled the overworld and shunned the light. No matter what\n"
+"its origin, this deep cavern is filled with riches unheard of as well as with\n"
+"ample dangers to any intruder. Few have escaped alive, and even fewer have kept\n"
+"some sliver of sanity sufficient to tell the tale.\n"
+msgstr ""
+"Det er stadig et mysterium, hvordan dette bizarre sted blev skabt. Der er\n"
+"nogen, der hævder, at det er en legeplads for lunefulde guder, mens andre\n"
+"fastholder, at det blev formet af alle mulige arter, der er flygtet fra\n"
+"overfladen og skyer lyset. Uanset oprindelsen, så er denne dybe hule fyldt med\n"
+"uhørte rigdomme og alle hånde farer for enhver indtrænger. Få er sluppet ud med\n"
+"livet i behold, og endnu færre havde så meget forstand tilbage, at de kunne\n"
+"fortælle om det.\n"
+"\n"
+"De underjordiske gange er 15 niveauer dybe, men for at være helt ærlig, så er\n"
+"det blot begyndelsen.\n"
+
+#. key: elven halls
+#: dat/descript/branches.txt
+msgctxt ""
+"textdb:descriptions:elven halls"
+msgid ""
+"The Elven Halls are home to the deep elves, a race that turned their backs on\n"
+"the sun long ago. Their halls are filled with riches, but a deadly welcome\n"
+"awaits any would-be robbers. In their long seclusion, the deep elves have\n"
+"perfected dark sorceries of a power the orcs can only dream of!\n"
+msgstr ""
+"De fleste elverfolk ville aldrig flytte ind i et mørkt, underjordisk kompleks\n"
+"som dette, men det gjorde dybelverne. Deres haller er fyldt med rigdomme, men\n"
+"forbipasserende bør komme denne arts legendariske kundskab udi magi i hu.\n"
+"\n"
+"Elverfolkets haller er tre niveauer dybt.\n"
+
+#. key: lair
+#: dat/descript/branches.txt
+msgctxt ""
+"textdb:descriptions:lair"
+msgid ""
+"Most adventurers find the Lair of Beasts to be an exciting change of climate.\n"
+"And indeed, there is something to be said about getting gored, mauled and eaten\n"
+"rather than sliced, burnt or stabbed.\n"
+"\n"
+"The Lair contains the entrances to one of the Swamp or the Shoals, one of the\n"
+"Snake Pit or the Spider Nest, and to the Pits of Slime.\n"
+msgstr ""
+"De fleste eventyrere synes, at Bæsternes Hule er en spændende luftforandring,\n"
+"og man må indrømme, at der er meget godt at sige om at bliver stanget, flænset\n"
+"og spist frem for at blive snittet, brændt eller dolket.\n"
+"\n"
+"Hulen er otte niveauer dyb og indeholder trapper til tre andre forgreninger.\n"
+
+#. key: shoals
+#: dat/descript/branches.txt
+msgctxt ""
+"textdb:descriptions:shoals"
+msgid ""
+"The exotic underground beaches of the Shoals make up a few small islands in a\n"
+"seemingly endless sea. The merfolk have made it their home, alongside many\n"
+"dreaded sea creatures.\n"
+"\n"
+"A dungeon features only one of the Shoals and Swamp branches.\n"
+msgstr ""
+"Sandbankernes eksotiske, underjordiske strande udgør en håndfuld små øer i et\n"
+"tilsyneladende endeløst hav. Nøkkerne har hjemme her sammen med mange\n"
+"skrækindjagende havvæsener.\n"
+"\n"
+"Sandbankerne er fem niveauer dybe og gemmer på den andeskællede rune. Ethvert\n"
+"underjordisk kompleks af gange indeholder sandbankerne eller sumpen. Hvis\n"
+"sandbankerne er der, er indgangen mellem niveau 3 og 6 af bæsternes hule.\n"
+
+#. key: snake pit
+#: dat/descript/branches.txt
+msgctxt ""
+"textdb:descriptions:snake pit"
+msgid ""
+"The corridors of the Snake Pit are home to all varieties of serpent, and are\n"
+"inhabited by a society of powerful nagas and salamanders.\n"
+"\n"
+"A dungeon features only one of the Snake Pit and Spider Nest branches.\n"
+msgstr ""
+"Ormegårdens gange huser alle mulige typer slanger og bebos af et samfund af\n"
+"magtfulde nagaer og salamandere.\n"
+"\n"
+"Ormegården er fem niveauer dyb og gemmer på den slangebugtede rune. Ethvert\n"
+"underjordisk kompleks af gange indeholder enten ormegården eller\n"
+"edderkoppereden. Hvis ormegården er der er indgangen mellem niveau 3 og 6 af\n"
+"bæsternes hule.\n"
+
+#. key: spider nest
+#: dat/descript/branches.txt
+msgctxt ""
+"textdb:descriptions:spider nest"
+msgid ""
+"The crumbling, web-choked caverns of the Spider Nest are packed with poisonous\n"
+"arthropods and assorted creepy-crawlies.\n"
+"\n"
+"A dungeon features only one of the Spider Nest and Snake Pit branches.\n"
+msgstr ""
+"De smuldrende, spindelvævsindhyllede grotter i edderkoppereden er fyldt med\n"
+"giftige leddyr og assorterede kriblekrabler.\n"
+"\n"
+"Edderkoppereden er fem niveauer dyb og gemmer på den florlette rune. Ethvert\n"
+"underjordisk kompleks af gange indeholder enten edderkoppereden eller\n"
+"ormegården. Hvis edderkoppereden er der er indgangen mellem niveau 3 og 6 af\n"
+"bæsternes hule.\n"
+
+#. key: sewer
+#: dat/descript/branches.txt
+msgctxt ""
+"textdb:descriptions:sewer"
+msgid ""
+"Every inhabited place needs to dispose of its waste products. The Dungeon too\n"
+"has its stinking sewers and drains, full of filthy water and ignored by most\n"
+"but used as hideaways by the disgusting and the desperate. Old tales speak of\n"
+"dangerous creatures stalking through the foul-smelling green water, preying on\n"
+"each other without mercy. The tales also allude to valuable items accidentally\n"
+"washed into the drainage tunnels, forgotten and left to grow mouldy in the damp\n"
+"caverns.\n"
+msgstr ""
+"Ethvert beboet sted har brug for at komme af med sit affald. Selv de\n"
+"underjordiske gange har deres stinkende kloakker og afløb, som flyder med slam\n"
+"og ignoreres af de fleste, men bruges som skjulested for de frastødende og de\n"
+"desperate. De gamle sagn taler om farlige væsener, der jager i det\n"
+"ildelugtende, grønne vand og dræber uden nåde. Fortællingerne antyder også, at\n"
+"værdifulde genstande til tider skylles ned i de klamme grotter, hvor de glemte\n"
+"ligger og mugner.\n"
+
+#. key: volcano
+#: dat/descript/branches.txt
+msgctxt ""
+"textdb:descriptions:volcano"
+msgid ""
+"Built from enormous blocks of obsidian, the volcano's sweltering chambers may\n"
+"once have served as a temple to some strange deity, or perhaps the dwelling of\n"
+"a mighty fire giant. The air shimmers with oppressive heat, and the dull roar\n"
+"of the volcano's heart never ceases.\n"
+msgstr ""
+"Dette ulideligt varme kammer er bygget af enorme obsidiansten, og har måske\n"
+"engang tjent som tempel til en fremmed guddom eller huset en mægtig ildkæmpe.\n"
+"Luften flimrer af den trykkende hede, og det dumpe brøl af vulkanens hjerte\n"
+"tier aldrig.\n"
+
+#. key: depths
+#: dat/descript/branches.txt
+msgctxt ""
+"textdb:descriptions:depths"
+msgid ""
+"The Depths are the deepest part of the dungeon proper, subject to the\n"
+"corrupting influence of the Realm of Zot without being considered a part of it.\n"
+msgstr ""
+"Dybet er den dybeste del af de centrale underjordiske gange og er underkastet\n"
+"Zots Riges forkvaklende indflydelse uden at være en del af det.\n"
+"\n"
+"Dybet er fem niveauer dybt og indgangen findes på de underjordiske ganges\n"
+"dybeste niveau.\n"
+
+#. key: armour
+#: dat/descript/skills.txt
+msgctxt ""
+"textdb:descriptions:armour"
+msgid ""
+"Armour skill multiplies the AC gained from wearing armour of all kinds, both\n"
+"from body armour and cloaks, gloves, etc. It also slightly lessens penalties\n"
+"to spellcasting and ranged weapon speed from heavy armour.\n"
+msgstr ""
+"Træning i rustning øger den RK, du får for at bære tung rustning og mindsker\n"
+"besværet med den i forbindelse med nærkamp og besværgelser.\n"
+
+#. key: no ability ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:no ability ability"
+msgid ""
+"If you get this description, it is a bug.\n"
+msgstr ""
+"Hvis du får denne beskrivelse er det en fejl.\n"
+
+#. key: spit poison ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:spit poison ability"
+msgid ""
+"Spits poison at a targeted creature.\n"
+msgstr ""
+"Spytter gift efter det valgte uhyre.\n"
+
+#. key: breathe fire ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:breathe fire ability"
+msgid ""
+"Breathes a blast of fire at a targeted creature.\n"
+msgstr ""
+"{{\n"
+"    local desc = \"Ånder ild på det valgte uhyre\"\n"
+"\n"
+"    if you.race() == \"Red Draconian\" then\n"
+"        desc = desc .. \", og efterlader en sky af flammer\"\n"
+"    end\n"
+"\n"
+"    desc = desc .. \".\"\n"
+"\n"
+"    return desc\n"
+"}}\n"
+
+#. key: breathe poison gas ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:breathe poison gas ability"
+msgid ""
+"Breathes a blast of poison gas at a targeted creature.\n"
+msgstr ""
+"Udspyer en bølge af giftgas mod et uhyre.\n"
+
+#. key: dig ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:dig ability"
+msgid ""
+"Allows making tunnels through soft rock and rusted grates. Activating the\n"
+"ability has no cost and simply prepares you to start digging; once active,\n"
+"moving into a wall will start tunnelling. Doing so makes some noise and drains\n"
+"the user's maximum health.\n"
+"\n"
+"Once active, activating the ability again or making any non-digging movement\n"
+"action will cancel the Dig status.\n"
+msgstr ""
+"Lader dig grave tunneller gennem bløde klipper og rustne porte. Du bekendtgør\n"
+"kun din intention om at grave ved at bruge evnen, for rent faktisk at gøre det\n"
+"må du bevæge dig ind i en mur. Det er naturligvis langsommere end at gå, larmer\n"
+"en del og gør dig sulten.\n"
+
+#. key: shaft self ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:shaft self ability"
+msgid ""
+"Sends you to a random position one to three floors down, as if you jumped into\n"
+"a shaft trap. It takes some time to dig the shaft.\n"
+msgstr ""
+"Sender dig til en tilfældig placering en til tre niveauer nede, ligesom hvis du\n"
+"var hoppet gennem en skaktfælde. Det tager tid at grave skakten.\n"
+
+#. key: evoke berserk rage ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:evoke berserk rage ability"
+msgid ""
+"<Berserk ability>\n"
+msgstr ""
+"Gå bersærk. Mens du er bersærk er dine livspoint og den skade du forvolder i\n"
+"nærkamp voldsomt øget. Bersærkergangen ophører hurtigt, hvis du ikke dræber\n"
+"noget, men kan forlænges med flere drab. Mens du er bersærk er der en række\n"
+"handlinger, du ikke kan foretage dig, såsom at trække et våben, drikke noget,\n"
+"vække vånde eller genstande eller kaste besværgelser. Et sådant raseri følges\n"
+"som regel af en dyb udmattelse, en tid hvor du er langsom, ikke kan gå bersærk\n"
+"og sommetider endda besvimer.\n"
+
+#. key: evoke invisibility ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:evoke invisibility ability"
+msgid ""
+"Turns the user invisible for a short period of time.\n"
+msgstr ""
+"Gør dig usynlig i en begrænset periode. Det øger din magiske besmittelse at\n"
+"være usynlig og kan i sidste ende forårsage gløden.\n"
+
+#. key: end transformation ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:end transformation ability"
+msgid ""
+"Reverts you to your normal form.\n"
+msgstr ""
+"Vend tilbage til din normale form med en kort forsinkelse.\n"
+
+#. key: recite ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:recite ability"
+msgid ""
+"Preaches to nearby monsters about Zin's laws for a short duration. After\n"
+"finishing a recitation, it cannot be repeated for a short time.\n"
+"\n"
+"The recitation will have different effects depending on the target: the chaotic\n"
+"and unclean will be affected by powerful and damaging effects, undead and\n"
+"demons will be affected by weaker rebukes, and any other intelligent creatures\n"
+"will have confusion sown amongst them, with heretics and priests of gods other\n"
+"than Zin being punished much more strongly. The effectiveness of the recitation\n"
+"is increased by Invocations skill and piety.\n"
+msgstr ""
+"Prædiker Zins bud for uhyrer, hvilket kan føre til forskellige resultater.\n"
+"Recitationen fortsætter et kort stykke tid, men afbrydes af handlinger som at\n"
+"kaste besværgelser, læse skriftruller eller drikke eliksirer. Der er fire\n"
+"bøger, du kan prædike fra:\n"
+" • Afskyens Bog: Denne bog behandler det mest afskyvækkende, Zin kender til:\n"
+"kaos i alle dets former. Disse recitationer påkalder Zins mest voldsomme vrede.\n"
+" • Afsoningens Bog: De urene er næsten lige så hadet af Lovgiveren.\n"
+"Recitationer fra denne bog vil forvolde sådanne væsener skade.\n"
+" • Apostatens Bog: Recitation fra denne bog sår forvirring blandt intelligente\n"
+"væsener. Men de som vover at tilbede andre guder end Zin, kan permanent blive\n"
+"berøvet muligheden for at sprede deres modbydelige tro.\n"
+" • Anatemaets Bog: Dæmoner og de udøde er hadet af Zin. Denne bog giver dig\n"
+"midlerne til at irettesætte dem.\n"
+
+#. key: vitalisation ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:vitalisation ability"
+msgid ""
+"Temporarily provides protection from poison, confusion, petrification, and\n"
+"sickness, as well as the effects of clouds of foul pestilence. Your strength,\n"
+"intelligence and dexterity are also temporarily increased by a degree dependent\n"
+"on Invocations skill.\n"
+msgstr ""
+"Vitaliserer dig, så du får guddommelig udholdenhed og næring fra Zin.\n"
+"Guddommelig udholdenhed beskytter dig mod sygdom, forgiftning, forstening,\n"
+"forvirring og forrådnelse og øger og vedligeholder midlertidigt din styrke,\n"
+"intelligens og behændighed.\n"
+
+#. key: imprison ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:imprison ability"
+msgid ""
+"Temporarily imprisons a monster in walls of silver. The duration of the prison\n"
+"is increased by Invocations skill.\n"
+msgstr ""
+"Fængsler midlertidigt et uhyre bag vægge af sølv. Fængslets varighed øges af\n"
+"din færdighed med påkaldelser.\n"
+
+#. key: sanctuary ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:sanctuary ability"
+msgid ""
+"Transforms the area around the user into a domain of unbreakable law for a short\n"
+"duration. So long as anyone stands within this sanctuary, no harm may be done to\n"
+"them by others, and they may do no harm to others in turn.\n"
+"\n"
+"Beings with hostile intent are unable to enter a sanctuary and those already\n"
+"nearby when it is created will be forced to flee.\n"
+msgstr ""
+"Du kan søge tilflugt i et guddommeligt refugie i en kort periode. Mens du er\n"
+"inde i refugiet angriber uhyrer dig ikke, men beskyttelsen forsvinder, hvis du\n"
+"bryder den guddommelige fred.\n"
+
+#. key: cure all mutations ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:cure all mutations ability"
+msgid ""
+"Cures all your mutations — but only once.\n"
+msgstr ""
+"Kurerer alle dine mutationer – men kun en gang.\n"
+
+#. key: divine shield ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:divine shield ability"
+msgid ""
+"Manifests a blindingly bright shield in front of the user. Held aloft by the\n"
+"Shining One's power, it will unerringly block the next several attacks which\n"
+"could be blocked by a mundane shield. Ranged attacks will be reflected and melee\n"
+"attackers have a chance of being briefly blinded by the resulting flash of\n"
+"light.\n"
+"\n"
+"This shield will block only a limited number of attacks before vanishing, with\n"
+"Invocations skill increasing how many.\n"
+msgstr ""
+"Den Strålende skænker dig et guddommeligt skjold. Fordi det bæres af gudens\n"
+"kraft, kommer det ikke i vejen for dit udstyr. Men det kontrolleres af din\n"
+"viljekraft, og din færdighed med skjold forbedrer det.\n"
+
+#. key: cleansing flame ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:cleansing flame ability"
+msgid ""
+"Invokes a huge blast of divine fury centered on the user, severely damaging\n"
+"undead and demons and dealing damage to all other hostile creatures. The power\n"
+"of the blast is increased by Invocations skill.\n"
+msgstr ""
+"Påkalder en enorm eksplosion af guddommelig vrede med dig som midtpunkt, der\n"
+"beskadiger udøde og dæmoner voldsomt. Alle andre fjender tager også skade, men\n"
+"lidt mindre, og du og dine allierede påvirkes aldrig.\n"
+
+#. key: summon divine warrior ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:summon divine warrior ability"
+msgid ""
+"Summons a powerful warrior against evil, either an angel or a daeva. The\n"
+"duration of their assistance is increased by Invocations skill, and glory in\n"
+"battle may lead the Shining One to bless them with an even longer stay.\n"
+msgstr ""
+"Hidkalder en engel eller en daeva, som er mægtige krigere mod ondskaben. De kan\n"
+"blive velsignet af Den Strålende, så de kan blive længere i denne verden.\n"
+
+#. key: recall undead harvest ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:recall undead harvest ability"
+msgid ""
+"Recalls your undead followers from anywhere in the dungeon to your immediate\n"
+"surroundings.\n"
+msgstr ""
+"Kalder dine udøde følgesvende tilbage fra hvor som helst i de underjordiske\n"
+"gange til din umiddelbare nærhed.\n"
+
+#. key: bind soul ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:bind soul ability"
+msgid ""
+"Attempts to bind the soul of a living, holy, or demonic being into your eternal\n"
+"service. If the targeted monster is slain before it leaves your sight, it will\n"
+"return as a bound soul, retaining the equipment, spells and abilities it had in\n"
+"life.\n"
+"\n"
+"Only beings who are relatively uninjured may be targeted, and the focus required\n"
+"to keep their soul from escaping will consume 1/3 of the user's current health -\n"
+"returning it only upon slaying them. The attempt will fail entirely if the\n"
+"targeted monster leaves your sight before the process is complete.\n"
+"\n"
+"The bound soul's health is influenced by the user's Invocations skill. It will\n"
+"follow its captor through stairs, and can be recalled from other levels.\n"
+"\n"
+"Only one soul can be bound at a time.\n"
+msgstr ""
+"Mærker et levende, intelligent uhyres sjæl som værende moden til at blive\n"
+"plukket. Når det mærkede uhyre dør, vil dets sjæl være din.\n"
+"\n"
+"Den trælbundne sjæl beholder uhyrets færdigheder, udstyr og evner og noget af\n"
+"dets naturlige heling. Det er dog kun et relativt uskadt uhyre, som kan få sin\n"
+"sjæl markeret, og kun en sjæl kan trælbindes af gangen. Mærkningen er endvidere\n"
+"afhængig af dine færdigheder med påkaldelser.\n"
+"\n"
+"Bemærk, at trælbundne sjæle kan følge dig væk fra det niveau, de blev skabt på.\n"
+
+#. key: heroism ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:heroism ability"
+msgid ""
+"Temporarily increases all of your combat skills, both offensive and defensive.\n"
+"The duration is increased by Invocations skill.\n"
+msgstr ""
+"Øger midlertidigt alle dine kampfærdigheder, inklusive evnen til at snige dig\n"
+"omkring.\n"
+
+#. key: finesse ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:finesse ability"
+msgid ""
+"Greatly increases your combat speed. The duration is increased by Invocations\n"
+"skill.\n"
+msgstr ""
+"Øger din kamphastighed markant, uden tab af præcision. Denne unaturlige\n"
+"virkning forårsager en anelse magisk besmittelse, som det kan være usundt at\n"
+"være udsat for gennem længere tid.\n"
+
+#. key: forget spell ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:forget spell ability"
+msgid ""
+"Removes a known spell from memory, so as to free memory to learn others.\n"
+msgstr ""
+"Glemmer enhver af de besværgelser, du i øjeblikket kan huske, så du kan få\n"
+"hukommelse til at lære andre.\n"
+
+#. key: berserk ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:berserk ability"
+msgid ""
+"Sends the user into a berserk rage. Going berserk temporarily increases health,\n"
+"speed, and damage dealt in melee. It will time out quickly outside of combat,\n"
+"but may be extended by multiple kills. While berserk, almost all actions other\n"
+"than movement and melee combat are prevented. When the rage expires, the user\n"
+"will be slowed and unable to berserk again for a short time.\n"
+msgstr ""
+"Du går bersærk. Mens du er bersærk er dine livspoint og den skade du forvolder\n"
+"i nærkamp voldsomt øget, men i en begrænset periode. Bersærkergangen ophører\n"
+"hurtigt, hvis du ikke dræber noget, men kan forlænges med flere drab. Mens du\n"
+"er bersærk er der en række handlinger, du ikke kan foretage dig, såsom at\n"
+"trække et våben, drikke noget, vække vånde eller genstande eller kaste\n"
+"besværgelser. Et sådant raseri følges som regel af en dyb udmattelse, en tid\n"
+"hvor du er langsom og ikke kan gå bersærk igen. I modsætning til andre kilder\n"
+"til raseri, kan din fromhed hos Trog sommetider forhindre dig i at besvime.\n"
+
+#. key: trog's hand ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:trog's hand ability"
+msgid ""
+"Invokes a powerful regeneration ability which stacks with all other sources and\n"
+"is effective even on those who would not otherwise be able to regenerate. It\n"
+"also fortifies the user's willpower, protecting against many magical effects.\n"
+msgstr ""
+"Påkalder dig en kraftig regenerationsevne som samarbejder med alle andre kilder\n"
+"til regeneration og oven i købet lader ikke-helenede arter regenerere. Dette\n"
+"øger også din beskyttelse mod fjendtlige fortryllelser.\n"
+
+#. key: brothers in arms ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:brothers in arms ability"
+msgid ""
+"Summons huge angry allies to wreak havoc.\n"
+msgstr ""
+"Hidkalder enorme, arrige allierede til at lave ravage.\n"
+
+#. key: purification ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:purification ability"
+msgid ""
+"Purges your body of poison, confusion, slowness, petrification, weakness, and\n"
+"sickness. Any drained maximum health will also be fully restored.\n"
+msgstr ""
+"Renser din krop for alle ubehagelige virkninger som sygdom, forgiftning,\n"
+"langsomhed, forstening, forvirring og forrådnelse og genopretter fuldstændigt\n"
+"din styrke, behændighed og intelligens.\n"
+
+#. key: divine vigour ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:divine vigour ability"
+msgid ""
+"Greatly increases your maximum health and magic points, depending on\n"
+"Invocations skill. Your current health and magic points will also be increased\n"
+"proportionally.\n"
+msgstr ""
+"Dine maksimale livs- og magipoint bliver voldsomt forøget (den præcise\n"
+"forøgelse afhænger af din færdighed med påkaldelser). Dine nuværende livs- og\n"
+"magipoint øges proportionelt.\n"
+
+#. key: depart the abyss ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:depart the abyss ability"
+msgid ""
+"Transports you out of the Abyss, returning you to the location from which you\n"
+"entered it.\n"
+msgstr ""
+"Forlader Afgrunden til fordel for der, hvor du kom fra.\n"
+
+#. key: banish ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:banish ability"
+msgid ""
+"Attempts to banish a creature into the Abyss. If the attempt succeeds, you gain\n"
+"some piety and the creature's full experience value. Even creatures that resist\n"
+"are left malmutated and weakened by the brush with the Abyss. Invocations skill\n"
+"makes Banishment harder to resist.\n"
+msgstr ""
+"Forsøger at forvise et uhyre til Afgrunden.\n"
+
+#. key: corrupt ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:corrupt ability"
+msgid ""
+"Corrupts the current level by unleashing Abyssal energies on it. This will\n"
+"cause the area nearby to change appearance, and will gate in creatures from the\n"
+"Abyss bent on causing destruction. This will not work on levels already\n"
+"corrupted or in the Abyss itself. The size of the effect is increased by\n"
+"Invocations skill.\n"
+msgstr ""
+"Fordærver det nuværende niveau ved at udsætte det for Afgrundens energier.\n"
+"Dette vil vende og ned på niveauets udseende og hidkalde dæmoner fra Afgrunden,\n"
+"som tørster efter død og ødelæggelse. Denne evne påvirke ikke niveauer, som\n"
+"allerede er fordærvet eller som befinder sig i Afgrunden.\n"
+
+#. key: enter the abyss ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:enter the abyss ability"
+msgid ""
+"Transports you to Lugonu's realm instantly. The effort of even using the\n"
+"ability will leave your health depleted.\n"
+msgstr ""
+"Overfører dig øjeblikkeligt til Lugonus rige. Bare det at bruge den evne vil\n"
+"tappe dit helbred og din energi.\n"
+
+#. key: triple draw ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:triple draw ability"
+msgid ""
+"Draws three cards from any deck, and allows you to choose one to play,\n"
+"discarding the other two.\n"
+msgstr ""
+"Træk tre kort fra en vilkårlig stak i din oppakning, se på dem og vælg, hvilket\n"
+"du vil spille, og hvilke to, du vil kassere.\n"
+
+#. key: deal four ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:deal four ability"
+msgid ""
+"Plays four cards from a deck in the time it normally takes to draw a\n"
+"single card.\n"
+msgstr ""
+"Giver fire kort fra enhver umærket stak på den tid, det normalt tager at trække\n"
+"et enkelt kort. Resten af stakken går tabt. Hvis stakken ikke indeholder\n"
+"tilstrækkeligt med kort, giver Nemelex dig et ekstra. men det er ikke sikkert,\n"
+"du bliver glad for det.\n"
+
+#. key: stack five ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:stack five ability"
+msgid ""
+"Draws five cards from your choice of decks, and allows you to sort them into\n"
+"any order. Subsequently, you can draw these cards in the order you chose.\n"
+"Re-using this ability will discard the current stack.\n"
+msgstr ""
+"Trækker fem kort fra en umærket stak i din oppakning og kasserer resten af\n"
+"stakken. Se på kortene og sortér dem som du har lyst til. Derefter kan du\n"
+"trække kortene i den valgte rækkefølge.\n"
+
+#. key: smiting ability
+#. Preserve [[key]] references exactly.
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:smiting ability"
+msgid ""
+"[[Smiting spell]] The strength of the smiting is increased by Invocations skill.\n"
+"\n"
+"Beogh will not allow you to use this directly against another apostle during a\n"
+"divine trial.\n"
+msgstr ""
+"Får din guds vrede til at ramme en fjende du kan se. Det kræver ikke en direkte\n"
+"linje, der er nok at kunne se fjenden.\n"
+
+#. key: bend time ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:bend time ability"
+msgid ""
+"Attempts to slow down everyone adjacent to you. High Invocations skill makes it\n"
+"harder to resist.\n"
+msgstr ""
+"Forsøger at sagtne alle ved siden af dig. En høj færdighed med påkaldelser gør\n"
+"den sværere at modstå.\n"
+
+#. key: temporal distortion ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:temporal distortion ability"
+msgid ""
+"Warps the flow of time, causing monsters to skip forwards in time relative to\n"
+"you.\n"
+msgstr ""
+"Forvrænger tidens strøm omkring dig, så uhyrer hopper fremad i tid i forhold\n"
+"til dig.\n"
+
+#. key: slouch ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:slouch ability"
+msgid ""
+"Causes damage to everyone in sight who is moving faster than you, dealing more\n"
+"damage with greater differences in speed.\n"
+msgstr ""
+"Skader alle i syne som bevæger sig hurtigere end dig. De der er magisk\n"
+"forhastede, kommer særligt slemt til skade.\n"
+
+#. key: step from time ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:step from time ability"
+msgid ""
+"Removes you completely from the flow of time. Time will pass as it usually does,\n"
+"and monsters will wander away and sometimes even fall back to sleep. After some\n"
+"time has passed, you will return in the same state as the very second you\n"
+"departed.\n"
+"\n"
+"Invocations skill increases the likelihood that your absence will have been so\n"
+"long that alert monsters have fallen asleep again.\n"
+msgstr ""
+"Fjerner dig fra tidens strøm. Ting omkring sker med deres sædvanlige tempo,\n"
+"uhyrer vandrer omkring, forgængelige ting forfalder, planter vokser. Efter et\n"
+"stykke tid vender du tilbage i samme tilstand som i det præcise sekund du drog\n"
+"af sted.\n"
+
+#. key: slimify ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:slimify ability"
+msgid ""
+"Coats a wielded weapon or your fists with slime, turning the next living or\n"
+"corporeal undead monster hit into a neutral slime.\n"
+msgstr ""
+"Betrækket våbnet i dine hænder eller dine næver med slim, som vil forvandle det\n"
+"næste levende eller udøde uhyre til en neutral slim.\n"
+
+#. key: renounce religion ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:renounce religion ability"
+msgid ""
+"Renounces your faith. This will make you leave your god (and usually anger\n"
+"said god).\n"
+msgstr ""
+"Forsager din tro. Dette vil få din karakter til at forlade sin gud (hvilket som\n"
+"regel vækker gudens vrede).\n"
+
+#. key: convert to beogh ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:convert to beogh ability"
+msgid ""
+"Swears fealty to Beogh, the god of cave orcs. This god demands that all\n"
+"non-believers must die, but new believers must be spared and accepted into the\n"
+"fold. Beware, for orcs who do not see you convert may still be hostile until\n"
+"you have built your reputation!\n"
+"\n"
+"All other gods hate Beogh, and do not take desertion lightly.\n"
+msgstr ""
+"Sværg troskab til Beogh, huleorkernes gud. Denne gud kræver alle hedninges død,\n"
+"men nye troende skal skånes og accepteres ind i folden. Pas på, for orker, som\n"
+"ikke har set dig konvertere er måske stadig fjendtlige indtil du har opbygget\n"
+"et omdømme!\n"
+"\n"
+"Alle andre guder hader Beogh og tager ikke let på desertering.\n"
+
+#. key: a buggy card
+#: dat/descript/cards.txt
+msgctxt ""
+"textdb:descriptions:a buggy card"
+msgid ""
+"The card depicts a Crawl player filing a bug report on Mantis.\n"
+"\n"
+"Drawing this card is a bug, if one ever encounters it as such.\n"
+msgstr ""
+"Fejlbehæftet (det er en fejl, hvis du nogensinde ser den her.)\n"
+
+#. key: a very buggy card
+#: dat/descript/cards.txt
+msgctxt ""
+"textdb:descriptions:a very buggy card"
+msgid ""
+"The card depicts several Crawl players angrily filing several bug reports on\n"
+"Mantis.\n"
+"\n"
+"Drawing this card is a bug, if one ever encounters it as such.\n"
+msgstr ""
+"Fejlbehæftet (det er en fejl, hvis du nogensinde ser den her.)\n"
+
+#. key: cmd_rest
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_rest"
+msgid ""
+"Rest and heal\n"
+msgstr ""
+"Hvil og hel\n"
+
+#. key: cmd_rest verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_rest verbose"
+msgid ""
+"Rests while your health and magic regenerate. Resting is interrupted as soon\n"
+"as a hostile monster comes into view. If health and magic are both already\n"
+"full, resting will wait for 100 turns.\n"
+msgstr ""
+"Brug op til 100 ture på at genvinde helbred og/eller magi. Dit hvil vil blive\n"
+"afbrudt, så snart du får øje på et fjendtligt uhyre.\n"
+
+#. key: cmd_explore
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_explore"
+msgid ""
+"Autoexplore the current level\n"
+msgstr ""
+"Autoudforsker det nuværende niveau\n"
+
+#. key: cmd_explore verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_explore verbose"
+msgid ""
+"Automatically explores the current level, collecting items on the way.\n"
+"Exploration stops as soon as a hostile monster comes into view, or when you\n"
+"encounter new items or features.\n"
+msgstr ""
+"Lader din karakter rejse på autopilot mod uudforskede områder af det nuværende\n"
+"niveau og samle genstande, der er underlagt automatisk opsamling, undervejs.\n"
+"Rejsen stopper, så snart et fjendtligtsindet uhyrer kommer til syne, og når\n"
+"genstande og landmærker skal annonceres.\n"
+
+#. key: cmd_interlevel_travel
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_interlevel_travel"
+msgid ""
+"Travel to distant levels\n"
+msgstr ""
+"Rejs til fjerne niveauer\n"
+
+#. key: cmd_interlevel_travel verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_interlevel_travel verbose"
+msgid ""
+"Automatically travels to a chosen level or branch. Travel is interrupted by\n"
+"monsters coming into view.\n"
+msgstr ""
+"Rejs automatisk til fjerne niveauer. Rejsen bliver afbrudt, hvis uhyrer kommer\n"
+"til syne.\n"
+
+#. key: cmd_use_ability
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_use_ability"
+msgid ""
+"Use divine, innate or evokable abilities\n"
+msgstr ""
+"Brug guddommelige eller iboende evner\n"
+
+#. key: cmd_search_stashes
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_search_stashes"
+msgid ""
+"Search for items/features\n"
+msgstr ""
+"Led efter genstande/elementer\n"
+
+#. key: cmd_search_stashes verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_search_stashes verbose"
+msgid ""
+"Searches for items or features seen elsewhere, and allows you to travel to\n"
+"their location.\n"
+msgstr ""
+"Søger efter genstande eller områder, du har set andetsteds, og rejser derhen.\n"
+
+#. key: cmd_replay_messages
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_replay_messages"
+msgid ""
+"Reread recent messages\n"
+msgstr ""
+"Læs de nyeste beskeder igen\n"
+
+#. key: cmd_resists_screen
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_resists_screen"
+msgid ""
+"Display character overview\n"
+msgstr ""
+"Viser et overblik over karakteren\n"
+
+#. key: cmd_resists_screen verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_resists_screen verbose"
+msgid ""
+"Displays an overview of your current resistances, abilities, equipment and\n"
+"attributes.\n"
+msgstr ""
+"Viser oplysninger om kendte modstandsdygtigheder, evner, udstyrsstatistik osv.\n"
+
+#. key: cmd_display_overmap
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_overmap"
+msgid ""
+"Display dungeon overview\n"
+msgstr ""
+"Viser oversigtskortet over de underjordiske gange\n"
+
+#. key: cmd_display_overmap verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_overmap verbose"
+msgid ""
+"Displays an overview of dungeon branch locations, discovered altars, shops and\n"
+"level annotations.\n"
+msgstr ""
+"Viser placeringen af indgange til forgreninger, butikker og andre\n"
+"karakteristiske træk, du er stødt på.\n"
+
+#. key: cmd_display_religion
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_religion"
+msgid ""
+"Display religious status\n"
+msgstr ""
+"Viser religiøs status\n"
+
+#. key: cmd_display_religion verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_religion verbose"
+msgid ""
+"Displays your god's likes and dislikes, conduct, and your current religious\n"
+"standing and divine abilities.\n"
+msgstr ""
+"Viser, hvad din gud kan lide og ikke kan lide, opførsel og din nuværende\n"
+"religiøse anseelse og guddommelige evner.\n"
+
+#. key: cmd_display_mutations
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_mutations"
+msgid ""
+"Display mutations\n"
+msgstr ""
+"Viser mutationer\n"
+
+#. key: cmd_display_skills
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_skills"
+msgid ""
+"Manage skills\n"
+msgstr ""
+"Hold styr på dine færdigheder\n"
+
+#. key: cmd_display_character_status
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_character_status"
+msgid ""
+"Display character status\n"
+msgstr ""
+"Vis karakterens status\n"
+
+#. key: cmd_display_character_status verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_character_status verbose"
+msgid ""
+"Displays details on your current movement speed, attack speed, stealth, magic\n"
+"resistance, and any currently active enchantments or status effects.\n"
+msgstr ""
+"Viser aktive fortryllelser og et par andre ting.\n"
+
+#. key: cmd_display_known_objects
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_known_objects"
+msgid ""
+"List discovered item types\n"
+msgstr ""
+"Viser en liste over typer af genstande, du har mødt\n"
+
+#. key: cmd_save_game_now
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_save_game_now"
+msgid ""
+"Save and exit\n"
+msgstr ""
+"Gem og afslut\n"
+
+#. key: cmd_save_game_now verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_save_game_now verbose"
+msgid ""
+"Saves the game for later and exits. Once you resume the game, the save file is\n"
+"deleted again.\n"
+msgstr ""
+"Gemmer spillet til senere og afslutter. Når du genoptager spillet, vil de gemte\n"
+"data blive slettet.\n"
+
+#. key: cmd_edit_player_tile
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_edit_player_tile"
+msgid ""
+"Modify the player tile\n"
+msgstr ""
+"Lav om på spillergrafikken\n"
+
+#. key: cmd_edit_player_tile verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_edit_player_tile verbose"
+msgid ""
+"Allows you to modify the equipment and species tile displayed in the player\n"
+"doll.\n"
+msgstr ""
+"Tilpasser den grafik, der bliver vist for udstyr og art på spillerdukken.\n"
+
+#. key: cmd_display_commands
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_commands"
+msgid ""
+"Game help\n"
+msgstr ""
+"Spilhjælp\n"
+
+#. key: cmd_display_commands verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_commands verbose"
+msgid ""
+"Displays a list of commands.\n"
+msgstr ""
+"Liste med kommandoer, indstillinger osv.\n"
+
+#. key: cmd_character_dump verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_character_dump verbose"
+msgid ""
+"Dumps detailed information about your character into a file ‘playername.txt’ in\n"
+"the morgue directory, to peruse at your leisure. This includes main stats,\n"
+"equipment, spells, skills, notes, etc.\n"
+msgstr ""
+"Gemmer en masse oplysninger om din karakter i en fil ved navn 'spillernavn.txt'\n"
+"i morgue-mappen, så du kan læse den, når du lyster. Dette inkluderer de\n"
+"vigtigste statistikker, dit udstyr, dine besværgelser, færdigheder, noter osv.\n"
+
+#. key: cmd_autofight
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_autofight"
+msgid ""
+"Hit the closest monster\n"
+msgstr ""
+"Slå det nærmeste uhyre\n"
+
+#. key: cmd_autofight verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_autofight verbose"
+msgid ""
+"Moves towards the closest hostile monster, or attacks an adjacent monster with\n"
+"your current weapon.\n"
+msgstr ""
+"Ryk frem mod det nærmeste, fjendtlige uhyre, og angrib det med det\n"
+"forhåndenværende våben.\n"
+
+#. key: cmd_autofight_nomove
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_autofight_nomove"
+msgid ""
+"Hit an adjacent monster\n"
+msgstr ""
+"Slå et uhyre ved siden af dig\n"
+
+#. key: cmd_autofight_nomove verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_autofight_nomove verbose"
+msgid ""
+"Attacks an adjacent monster with your current weapon.\n"
+msgstr ""
+"Angriber et uhyre ved siden af dig med dit våben.\n"
+
+#. key: cmd_wait
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_wait"
+msgid ""
+"Wait a single turn\n"
+msgstr ""
+"Vent en enkelt tur\n"
+
+#. key: cmd_wait verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_wait verbose"
+msgid ""
+"Spends a single turn waiting and resting.\n"
+msgstr ""
+"Bruger en enkelt tur på at vente og hvile.\n"
+
+#. key: cmd_display_inventory
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_inventory"
+msgid ""
+"Display the contents of your inventory\n"
+msgstr ""
+"Vis indholdet af din oppakning\n"
+
+#. key: cmd_display_inventory verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_inventory verbose"
+msgid ""
+"Displays the contents of your inventory.\n"
+msgstr ""
+"Viser indoholdet af din oppakning.\n"
+
+#. key: cmd_cast_spell
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_cast_spell"
+msgid ""
+"Cast a spell\n"
+msgstr ""
+"Kast en besværgelse\n"
+
+#. key: cmd_cast_spell verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_cast_spell verbose"
+msgid ""
+"Casts a spell.\n"
+msgstr ""
+"Kaster en besværgelse.\n"
+
+#. key: cmd_memorise_spell
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_memorise_spell"
+msgid ""
+"Memorise spell\n"
+msgstr ""
+"Lær besværgelse\n"
+
+#. key: cmd_memorise_spell verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_memorise_spell verbose"
+msgid ""
+"Memorises a chosen spell from your spell library.\n"
+msgstr ""
+"Læser en besværgelse fra en bog, du holder eller står på, og husker den.\n"
+
+#. key: cmd_drop
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_drop"
+msgid ""
+"Drop items\n"
+msgstr ""
+"Smid genstande\n"
+
+#. key: cmd_drop verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_drop verbose"
+msgid ""
+"Drops one or more items that you are currently holding.\n"
+msgstr ""
+"Smid en eller flere af de genstande, du bærer på.\n"
+
+#. key: cmd_display_map
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_map"
+msgid ""
+"Enter map mode\n"
+msgstr ""
+"Gå i korttilstand\n"
+
+#. key: cmd_display_map verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_map verbose"
+msgid ""
+"Displays a map of the current level.\n"
+msgstr ""
+"Lader dig navigere rundt på det af kortet, du tidligere har udforsket.\n"
+
+#. key: cmd_map_goto_target
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_goto_target"
+msgid ""
+"Travel to cursor\n"
+msgstr ""
+"Rejs til markør\n"
+
+#. key: cmd_map_goto_target verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_goto_target verbose"
+msgid ""
+"Starts travelling to the cursor's current location.\n"
+msgstr ""
+"Begynd at rejse mod markørens nuværende placering.\n"
+
+#. key: cmd_map_add_waypoint
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_add_waypoint"
+msgid ""
+"Add waypoint\n"
+msgstr ""
+"Tilføj pejlemærke\n"
+
+#. key: cmd_map_add_waypoint verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_add_waypoint verbose"
+msgid ""
+"Sets a waypoint at your current position.\n"
+msgstr ""
+"Placerer et pejlemærke på din nuværende position.\n"
+
+#. key: cmd_map_exclude_area
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_exclude_area"
+msgid ""
+"Create exclusion\n"
+msgstr ""
+"Rejseundtagelse\n"
+
+#. key: cmd_map_exclude_area verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_exclude_area verbose"
+msgid ""
+"Creates a travel exclusion, changes its radius, or removes it.\n"
+msgstr ""
+"Skaber en rejseundtagelse, ændrer dens radius eller fjerner den.\n"
+
+#. key: cmd_map_clear_excludes
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_clear_excludes"
+msgid ""
+"Clear travel exclusions\n"
+msgstr ""
+"Fjern alle rejseundtagelser\n"
+
+#. key: cmd_map_clear_excludes verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_clear_excludes verbose"
+msgid ""
+"Erases all travel exclusions on the level.\n"
+msgstr ""
+"Fjerner alle rejseundtagelser på dette niveau.\n"
+
+#. key: cmd_map_next_level
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_next_level"
+msgid ""
+"Down one level\n"
+msgstr ""
+"Et niveau ned\n"
+
+#. key: cmd_map_next_level verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_next_level verbose"
+msgid ""
+"Displays the next deeper level.\n"
+msgstr ""
+"Gå videre til det næste, dybere niveau.\n"
+
+#. key: cmd_map_prev_level
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_prev_level"
+msgid ""
+"Up one level\n"
+msgstr ""
+"Et niveau op\n"
+
+#. key: cmd_map_prev_level verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_prev_level verbose"
+msgid ""
+"Displays the next higher level.\n"
+msgstr ""
+"Gå videre til et niveau, der er højere oppe.\n"
+
+#. key: cmd_map_goto_level
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_goto_level"
+msgid ""
+"Go to level\n"
+msgstr ""
+"Gå til niveau\n"
+
+#. key: cmd_map_goto_level verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_goto_level verbose"
+msgid ""
+"Displays another chosen level by branch and depth.\n"
+msgstr ""
+"Gå til et andet niveau, som vælges efter forgrening og dybde.\n"
+
+#. key: cmd_map_find_upstair
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_upstair"
+msgid ""
+"Find stairs up\n"
+msgstr ""
+"Find trapperne op\n"
+
+#. key: cmd_map_find_upstair verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_upstair verbose"
+msgid ""
+"Cycles through stairs up.\n"
+msgstr ""
+"Skifter mellem de trapper, der fører op.\n"
+
+#. key: cmd_map_find_downstair
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_downstair"
+msgid ""
+"Find stairs down\n"
+msgstr ""
+"Find trapperne ned\n"
+
+#. key: cmd_map_find_downstair verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_downstair verbose"
+msgid ""
+"Cycles through stairs down.\n"
+msgstr ""
+"Skifter mellem de trapper, der fører ned.\n"
+
+#. key: cmd_map_find_you
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_you"
+msgid ""
+"Find me\n"
+msgstr ""
+"Find mig\n"
+
+#. key: cmd_map_find_you verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_you verbose"
+msgid ""
+"Moves the map cursor back to your current position.\n"
+msgstr ""
+"Flytter kortmarkøren tilbage til din nuværende placering.\n"
+
+#. key: cmd_map_find_portal
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_portal"
+msgid ""
+"Find shops and portals\n"
+msgstr ""
+"Find butikker og portaler\n"
+
+#. key: cmd_map_find_portal verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_portal verbose"
+msgid ""
+"Cycles through shops and portals on the current level.\n"
+msgstr ""
+"Skifter mellem butikker og portaler på dette niveau.\n"
+
+#. key: cmd_map_find_trap
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_trap"
+msgid ""
+"Find traps\n"
+msgstr ""
+"Find fælder\n"
+
+#. key: cmd_map_find_trap verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_trap verbose"
+msgid ""
+"Cycles through traps on the current level.\n"
+msgstr ""
+"Skifter mellem fælderne på dette niveau.\n"
+
+#. key: cmd_map_find_altar
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_altar"
+msgid ""
+"Find altars\n"
+msgstr ""
+"Find altre\n"
+
+#. key: cmd_map_find_altar verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_altar verbose"
+msgid ""
+"Cycles through altars on the current level.\n"
+msgstr ""
+"Skifter mellem altrene på dette niveau.\n"
+
+#. key: cmd_map_find_excluded
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_excluded"
+msgid ""
+"Find travel exclusion\n"
+msgstr ""
+"Find rejseundtagelse\n"
+
+#. key: cmd_map_find_excluded verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_excluded verbose"
+msgid ""
+"Cycles through travel exclusions on the current level.\n"
+msgstr ""
+"Skifter mellem rejseundtagelserne på dette niveau.\n"
+
+#. key: cmd_map_find_waypoint
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_waypoint"
+msgid ""
+"Find waypoint\n"
+msgstr ""
+"Find pejlemærke\n"
+
+#. key: cmd_map_find_waypoint verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_waypoint verbose"
+msgid ""
+"Cycles through all waypoints on the current level.\n"
+msgstr ""
+"Skifter mellem alle pejlemærkerne på dette nivaeu.\n"
+
+#. key: cmd_map_find_stash
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_stash"
+msgid ""
+"Find stash\n"
+msgstr ""
+"Find gemmested\n"
+
+#. key: cmd_map_find_stash verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_stash verbose"
+msgid ""
+"Cycles through all stashes on the current level.\n"
+msgstr ""
+"Skifter mellem alle gemmestederne på dette niveau.\n"
+
+#. key: cmd_zoom_in
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_zoom_in"
+msgid ""
+"Zoom in\n"
+msgstr ""
+"Zoom ind\n"
+
+#. key: cmd_zoom_in verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_zoom_in verbose"
+msgid ""
+"Zooms in on dungeon area.\n"
+msgstr ""
+"Zoomer ind på et område af de underjordiske gange\n"
+
+#. key: cmd_zoom_out
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_zoom_out"
+msgid ""
+"Zoom out\n"
+msgstr ""
+"Zoom ud\n"
+
+#. key: cmd_zoom_out verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_zoom_out verbose"
+msgid ""
+"Zooms out on dungeon area.\n"
+msgstr ""
+"Zoomer ud fra et område af de underjordiske gange\n"
+
+#. key: deep elf
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:deep elf"
+msgid ""
+"Deep Elves have a strong affinity for all kinds of magic, but are very fragile.\n"
+"They regenerate magical power rapidly.\n"
+msgstr ""
+"Denne elver har det største talent for magi, men er også den skrøbeligste.\n"
+
+#. key: demigod
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:demigod"
+msgid ""
+"Demigods refuse to worship any god, but make up for this with divine attributes\n"
+"and high reserves of health and magic.\n"
+msgstr ""
+"De følger aldrig en gud, men halvguder kompenserer for det med guddommelige\n"
+"egenskaber og helbred.\n"
+
+#. key: demonspawn
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:demonspawn"
+msgid ""
+"Demonspawn are half human, half demon. They acquire strong demonic mutations as\n"
+"they grow.\n"
+msgstr ""
+"Dæmonyngel er halvt menneske, halvt dæmon. De pådrager sig stærke, dæmoniske\n"
+"mutationer, når de vokser.\n"
+
+#. key: draconian
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:draconian"
+msgid ""
+"Draconians are versatile hybrids. They mature when reaching level 7 and develop\n"
+"a colour.\n"
+msgstr ""
+"Drakonere er alsidige hybrider. De modnes og får en farve, når de når niveau 7.\n"
+
+#. key: felid
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:felid"
+msgid ""
+"Felids are many-lived sentient cats. They cannot use armour or weapons.\n"
+msgstr ""
+"Disse katte besidder ikke bare flere liv, men også en bevidsthed. Til gengæld\n"
+"er de ude af stand til at håndtere komplicerede genstande eller at bruge\n"
+"rustning eller våben.\n"
+
+#. key: gargoyle
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:gargoyle"
+msgid ""
+"Made of living stone, Gargoyles have a preternatural affinity for earth magic.\n"
+"They have low health, but their stone bodies are incredibly tough.\n"
+msgstr ""
+"Gargoiler er skabt af levende sten, og har et overnaturligt talent for jorden.\n"
+
+#. key: human
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:human"
+msgid ""
+"Humans are natural explorers. Discovering new places refreshes and invigorates them.\n"
+"They are otherwise completely average.\n"
+msgstr ""
+"Prosaiske og gennemsnitlige.\n"
+
+#. key: tengu
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:tengu"
+msgid ""
+"Tengu are bird-people who love to fight, both with weapons and spells. They are\n"
+"fragile but agile, and eventually learn to fly.\n"
+msgstr ""
+"Fuglefolk som elsker at slås, både med våben og besværgelser. De er ganske\n"
+"skrøbelige, men lærer på et tidspunkt at flyve.\n"
+
+#. key: merfolk
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:merfolk"
+msgid ""
+"Half fish, half human, Merfolk are citizens of both water and land. They are\n"
+"strong combatants, and adept at using magic to assist in battle.\n"
+msgstr ""
+"Nøkker er halvt fisk, halvt menneske og kan leve på både vand og land.\n"
+
+#. key: minotaur
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:minotaur"
+msgid ""
+"Minotaurs are large muscular humans with bovine heads. They excel at all forms\n"
+"of close and ranged combat.\n"
+msgstr ""
+"Et stort, muskuløst menneske med tyrehoved. De er fremragende til alle former\n"
+"for kamp.\n"
+
+#. key: mummy
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:mummy"
+msgid ""
+"Compelled to walk by an ancient curse, Mummies have innate faith and are adept\n"
+"at Necromancy, but learn other skills very slowly. They cannot drink potions.\n"
+msgstr ""
+"En udød skikkelse, dækket af bandager og balsameringsvæsker, som er tvunget til\n"
+"at vandre af en ældgammel forbandelse.\n"
+
+#. key: naga
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:naga"
+msgid ""
+"Nagas are hybrids: human from the waist up, with a snake-like tail instead of\n"
+"legs. They move very slowly but are naturally resilient.\n"
+msgstr ""
+"En hybrid, der er menneske fra brystet og opefter, men med muskuløs torso,\n"
+"dækket af skæl, som snævrer ind som en slange.\n"
+
+#. key: octopode
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:octopode"
+msgid ""
+"Octopodes are a species of amphibious cephalopods. They can wear eight rings,\n"
+"but almost no armour fits them.\n"
+msgstr ""
+"En art amfibiske cephalopoda. De kan bære otte ringe, men kun meget få typer\n"
+"rustning.\n"
+
+#. key: spriggan
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:spriggan"
+msgid ""
+"Very small, very frail and very fast, Spriggans are highly competent stabbers\n"
+"and spellcasters.\n"
+msgstr ""
+"Meget små, meget skrøbelige og meget hurtige. Sprigger er særdeles dygtige\n"
+"dolkere og troldmænd.\n"
+
+#. key: troll
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:troll"
+msgid ""
+"Trolls are monstrous creatures with powerful claws. They regenerate health\n"
+"rapidly.\n"
+msgstr ""
+"Store, brutale og klar til at lemlæste hvad som helst med deres kløer uden at\n"
+"tøve. De er altid sultne.\n"
+
+#. key: air elementalist
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:air elementalist"
+msgid ""
+"Air Elementalists have learned the Shock spell. Their electrical magic can harm\n"
+"groups of foes, while their air spells assist in fighting or fleeing enemies.\n"
+msgstr ""
+"Lufttroldmænd har lært besværgelsen Stød. Senere giver deres Bogen om luften\n"
+"dem alsidighed nok til at overleve.\n"
+
+#. key: artificer
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:artificer"
+msgid ""
+"Artificers start with a few magic wands and a club. They'll need to find better\n"
+"weapons and armour before their wands run out.\n"
+msgstr ""
+"Artefaktmagere starter med nogle magiske anordninger og er dygtige til at bruge\n"
+"den slags redskaber.\n"
+
+#. key: berserker
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:berserker"
+msgid ""
+"Berserkers believe in Trog, the magic-hating god of frenzy. Not much can stop a\n"
+"raging berserker early on, apart from hubris.\n"
+msgstr ""
+"Bersærkere tilbeder Trog, vildskabens trolddomshadske gud. Der er ikke meget,\n"
+"der kan stoppe en frådende bersærker i begyndelsen, bortset fra hybris.\n"
+
+#. key: chaos knight
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:chaos knight"
+msgid ""
+"Chaos Knights are playthings of the unpredictable Xom, and are subject to the\n"
+"god's constantly changing moods.\n"
+msgstr ""
+"Kaosriddere er den utilregnelige Xoms legetøj og underkaster sig gudens\n"
+"konstant skiftende humør.\n"
+
+#. key: conjurer
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:conjurer"
+msgid ""
+"Conjurers begin with the Magic Dart spell, and can learn other non-elemental\n"
+"spells to reliably blast their foes.\n"
+msgstr ""
+"Fremmanere løser problemer med skadelige besværgelser fra Bogen om\n"
+"fremmaninger.\n"
+
+#. key: earth elementalist
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:earth elementalist"
+msgid ""
+"Earth Elementalists know the Sandblast spell, and can later learn more earthen\n"
+"spells suitable for subtle stabbing or brute-force blasting.\n"
+msgstr ""
+"Jordtroldmænd kender besværgelsen Sandblæst og bærer rundt på sten, der øger\n"
+"dens kraft. Der er flere jordbundne besværgelser i Bogen om geomantik.\n"
+
+#. key: enchanter
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:enchanter"
+msgid ""
+"Enchanters know a variety of Hexes that can incapacitate their foes, and are\n"
+"equipped with an enchanted dagger and potions of invisibility.\n"
+msgstr ""
+"Fortryllere bruger besværgelser fra Bogen om onde tunger til at gøre deres\n"
+"fjender ukampdygtige og er udstyret med en dolk og nogle kastepile.\n"
+
+#. key: fighter
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:fighter"
+msgid ""
+"Fighters are equipped with armour and shield, as well as a weapon of their\n"
+"choice and potions of might.\n"
+msgstr ""
+"Krigere er udstyret med rustning og skjold, et valgfrit våben og en\n"
+"krafteliksir.\n"
+
+#. key: fire elementalist
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:fire elementalist"
+msgid ""
+"Fire Elementalists have learned the Foxfire spell. Their other starting spells\n"
+"are likewise focused on fiery and explosive destruction.\n"
+msgstr ""
+"Ildtroldmænd starter med Bogen om flammer og kender besværgelsen Flammetunge.\n"
+"De andre besværgelser i bogen fokuserer også ødelæggelse.\n"
+
+#. key: gladiator
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:gladiator"
+msgid ""
+"Gladiators are ready for the arena with light armour, a weapon of their choice,\n"
+"and a few throwing weapons and nets.\n"
+msgstr ""
+"Gladiatorer er klar til arenaen med let rustning, net og et valgfrit våben.\n"
+
+#. key: hedge wizard
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:hedge wizard"
+msgid ""
+"Hedge Wizards are magic generalists, good at using a wide variety of tools to\n"
+"frustrate their foes and gain an edge in the battlefield.\n"
+msgstr ""
+"Troldmænd starter med Bogen om mindre magi, som indeholder et bredt udvalg af\n"
+"besværgelser. De har større magiske reserver end nogen anden baggrund.\n"
+
+#. key: hunter
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:hunter"
+msgid ""
+"Hunters carry a shortbow, light armour and a scroll of butterflies.\n"
+msgstr ""
+"Jægere kan angribe med et valgfrit skydevåben uden at forlade sig på forbistret\n"
+"trolddom.\n"
+
+#. key: ice elementalist
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:ice elementalist"
+msgid ""
+"Ice Elementalists begin with the Freeze spell. Their later spells provide strong\n"
+"offence and defence, but may restrict their movement.\n"
+msgstr ""
+"Istroldmænd starter med Bogen om frost og besværgelsen Frys. Bogens andre\n"
+"besværgelser er ganske alsidige.\n"
+
+#. key: monk
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:monk"
+msgid ""
+"Monks start with a simple weapon of their choice, an orb of light, and a potion\n"
+"of divine ambrosia, and gain additional piety with the first god they worship.\n"
+msgstr ""
+"Munke er klar til at udfordre de underjordiske gange, kun iført en kåbe og med\n"
+"deres kroppe som våben. De får yderligere fromhed hos den første gud, de\n"
+"tilbeder.\n"
+
+#. key: necromancer
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:necromancer"
+msgid ""
+"Necromancers start out with the Soul Splinter spell. Eventually, they can turn\n"
+"the dead into allies and use the life force of the living to restore themselves.\n"
+msgstr ""
+"Nekromantikere er troldmænd, som specialiserer sig i studiet af dødsmagi. De\n"
+"starter med besværgelsen Smerte.\n"
+
+#. key: summoner
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:summoner"
+msgid ""
+"Summoners are able to cast Summon Small Mammal from the start, and begin with\n"
+"spells to summon stronger and more exotic allies in their library.\n"
+msgstr ""
+"Hidkaldere starter med Bogen om kald og kan kaste Hidkald Små Pattedyr fra\n"
+"begyndelsen.\n"
+
+#. key: wanderer
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:wanderer"
+msgid ""
+"Wanderers start with random equipment and skills.\n"
+msgstr ""
+"Vandringsmænd starter med tilfældigt udstyr og færdigheder.\n"
+
+#. key: warper
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:warper"
+msgid ""
+"Warpers start with a weapon of their choice, a scroll of blinking, darts of\n"
+"disjunction, and some Translocation spells in their library.\n"
+msgstr ""
+"Forvrængere starter med et valgfrit våben og en skriftrulle med blink. De kan\n"
+"lære besværgelser fra Bogen om spatiale translokationer.\n"
+
+#. key: welcome
+#. Preserve {{ lua }} delimiters exactly.
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:welcome"
+msgid ""
+"<white>Welcome to Dungeon Crawl!</white>\n"
+"\n"
+"Your objective is to lead your <w>{{ return you.race() }} {{ return you.class()\n"
+"}}</w> safely through the depths of the dungeon, retrieving the fabled Orb of\n"
+"Zot and returning it to the surface. In the beginning, however, let discovery\n"
+"be your main goal. Try to delve as deeply as possible but beware; death lurks\n"
+"around every corner.\n"
+"\n"
+"For the moment, just remember the following keys and their functions:\n"
+"  <input>$cmd[CMD_DISPLAY_COMMANDS]?</input> — shows the items and the commands\n"
+"  <input>$cmd[CMD_SAVE_GAME]</input>  — saves the game, to be resumed later\n"
+"(but note that death is permanent)\n"
+"  <input>$cmd[CMD_LOOK_AROUND]</input>  — examines something in your vicinity\n"
+"\n"
+"The hint mode will help you play Crawl without reading any documentation. If\n"
+"you haven't yet, you might want to try out the tutorial. Also, if you feel\n"
+"intrigued, there is more information available in the following files from the\n"
+"docs/ directory (all of which can also be read in-game):\n"
+"  <lightblue>quickstart.txt</lightblue>     — A very short guide to Crawl.\n"
+"  <lightblue>crawl_manual.txt</lightblue>   — This contains all details on\n"
+"species, magic, skills, etc.\n"
+"  <lightblue>options_guide.txt</lightblue>  — Crawl's interface is highly\n"
+"configurable. This document explains all the options.\n"
+"\n"
+"Happy Crawling!\n"
+msgstr ""
+"<white>Velkommen til Dungeon Crawl!</white>\n"
+"\n"
+"Dit mål er at føre en <w>{{ return you.race() }} {{ return you.class()\n"
+"}}</w> sikkert gennem de underjordiske gange, få fat i den sagnomspundne Sfære\n"
+"fra Zot og vende tilbage til overfladen. Til at begynde med bør du dog lade\n"
+"udforskningen være dit vigtigste mål. Prøv at nå så dybt som muligt, men tag\n"
+"dig i agt: Døden lurer om hvert et hjørne.\n"
+"\n"
+"Indtil videre skal du bare huske følgende taster og deres funktioner:\n"
+"  <input>$cmd[CMD_DISPLAY_COMMANDS]?</input> – viser genstandene og\n"
+"kommandoerne\n"
+"  <input>$cmd[CMD_SAVE_GAME]</input> – gemmer spillet, så du kan genoptage det\n"
+"senere (men døden er permanent)\n"
+"  <input>$cmd[CMD_LOOK_AROUND]</input> – undersøger ting i nærheden af dig\n"
+"\n"
+"Tip-tilstanden hjælper dig med at spille Crawl uden at skulle læse nogen\n"
+"dokumentation. Hvis du ikke har gjort det endnu, bør du prøve\n"
+"introduktionsspillet. Og hvis du er nysgerrig, kan du finde flere oplysninger i\n"
+"følgende filer fra mappen docs/ (som alle kan læses inde i spillet):\n"
+"  <lightblue>quickstart.txt</lightblue> – En meget kort vejledning til Crawl.\n"
+"  <lightblue>crawl_manual.txt</lightblue> – Indeholder alle oplysninger om\n"
+"arter, magi, evner osv.\n"
+"  <lightblue>options_guide.txt</lightblue> – Crawls brugerflade kan tilpasses\n"
+"på mange måder. Dette dokument forklarer mulighederne.\n"
+"\n"
+"God fornøjelse med Crawl!\n"
+
+#. key: death
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:death"
+msgid ""
+"Condolences! Your character's premature death is a sad, but common occurrence\n"
+"in Crawl. Rest assured that with diligence and playing experience your\n"
+"characters will last longer.\n"
+"\n"
+"Perhaps the following advice can improve your playing style:\n"
+msgstr ""
+"Vi kondolerer! Din karakters alt for tidlige død er bedrøvelig, men en ganske\n"
+"almindelige hændelse i Crawl. Du kan dog trygt stole på, at med knofedt og mere\n"
+"spilerfaring vil dine karakterer kunne overleve længere.\n"
+"\n"
+"Måske kan det følgende råd forbedre din spillestil:\n"
+
+#. key: death conjurer melee
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:death conjurer melee"
+msgid ""
+"As a Conjurer your main weapon should be offensive magic. Cast spells more\n"
+"often! Remember to rest when your Magic is low.\n"
+msgstr ""
+"Som fremmaner bør dit vigtigste våben være angrebsmagi. Kast besværgelser\n"
+"oftere! Husk at hvile når din magi er lav.\n"
+
+#. key: death berserker unberserked
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:death berserker unberserked"
+msgid ""
+"Don't forget to go berserk when fighting particularly difficult foes. It's\n"
+"risky, but makes you faster and beefier.\n"
+msgstr ""
+"Glem ikke at gå bersærk, når du kæmper mod særligt vanskelige fjender. Det er\n"
+"risikabelt, men det gør dig hurtigere og stærkere.\n"
+
+#. key: death ranger melee
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:death ranger melee"
+msgid ""
+"Your bow and arrows are extremely powerful against distant monsters.\n"
+msgstr ""
+"Din bue og dine pile er ekstremt kraftfulde mod fjerne monstre. Sørg for at\n"
+"samle alle pile som ligger og flyder i de underjordiske gange.\n"
+
+#. key: death random 0
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:death random 0"
+msgid ""
+"Always consider using projectiles, wands or spells before engaging monsters in\n"
+"close combat.\n"
+msgstr ""
+"Overvej altid at bruge projektiler, vånde eller besværgelser før du angriber\n"
+"monstre i nærkamp.\n"
+
+#. key: death random 1
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:death random 1"
+msgid ""
+"Learn when to run away from things you can't handle — this is important! It is\n"
+"often wise to skip a particularly dangerous level. But don't overdo this as\n"
+"monsters will only get harder the deeper you delve.\n"
+msgstr ""
+"Du må lære at stikke af fra ting, du ikke kan klare – det er vigtigt! Det er\n"
+"tit en god idé at springe over et særligt farligt niveau, men det er farligt at\n"
+"gøre det for meget, for uhyrerne bliver kun sværere, jo dybere du søger.\n"
+
+#. key: death random 2
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:death random 2"
+msgid ""
+"Rest between encounters, if possible in an area already explored and cleared of\n"
+"monsters. Pressing <input>$cmd[CMD_REST]</input><localtiles>, or\n"
+"<input>clicking on the 'rest' button in the command bar'</input></localtiles>\n"
+"will rest for 100 turns, or until fully healed.\n"
+msgstr ""
+"Du bør hvile mellem sammenstød, helst i et område du allerede har udforsket og\n"
+"renset for uhyrer. Når du trykker på <input>$cmd[CMD_REST]</input>\n"
+"<localtiles> eller <input>klikker i statistikområdet</input> kan du hvile et\n"
+"øjeblik (du holder op med at hvile efter 100 ture, eller når du er fuldt\n"
+"udhvilet).\n"
+
+#. key: death random 3
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:death random 3"
+msgid ""
+"Remember to use those scrolls, potions or wands you've found. Learn to\n"
+"improvise: you will need to identify potions and scrolls by using them.\n"
+msgstr ""
+"Husk nu at bruge de skriftruller, eliksirer og vånde du har fundet. Du kan\n"
+"oftest ikke forvente at få identificeret alt med skriftruller. Lær at\n"
+"improvisere: Identificér gennem brug.\n"
+
+#. key: death random 4
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:death random 4"
+msgid ""
+"If a particular encounter feels overwhelming, don't forget to use emergency\n"
+"items early on. A scroll of teleportation or a potion of haste can really save\n"
+"your bacon.\n"
+msgstr ""
+"Glem ikke at bruge nødforsyninger tidligt hvis et særligt sammenstød synes\n"
+"overvældende. En skriftrulle med teleportation eller en hurtighedseliksir kan\n"
+"virkeligt redde dit skind.\n"
+
+#. key: death random 5
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:death random 5"
+msgid ""
+"Never fight more than one monster, if you can help it. Always back into a\n"
+"corridor so that they are forced to fight you one on one.\n"
+msgstr ""
+"Kæmp aldrig mod mere end et monster hvis du kan undgå det. Bak altid ind i en\n"
+"korridor så de bliver tvunget til at kæmpe mod dig en mod en.\n"
+
+#. key: finished
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:finished"
+msgid ""
+"Congrats! You survived until the end of hints mode — be sure to try the\n"
+"other characters as well. Note that the command help screen\n"
+"(<input>$cmd[CMD_DISPLAY_COMMANDS]?</input>) will look very different from now\n"
+"on. Here's a last playing hint:\n"
+msgstr ""
+"Tillykke! Du har overlevet helt til slutningen af tip-tilstanden, men husk også\n"
+"at prøve de andre. Bemærk, at hjælpeskærmen med kommandoer\n"
+"(<input>$cmd[CMD_DISPLAY_COMMANDS]?</input>) kan se meget anderledes ud fra nu\n"
+"af. Her er et sidste spiltip:\n"
+
+#. key: finished explored
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:finished explored"
+msgid ""
+"Walking around and exploring levels gets easier by using auto-explore\n"
+"(<input>$cmd[CMD_EXPLORE]</input>). Crawl will let you automatically move to\n"
+"and pick up interesting items.<localtiles>\n"
+"\n"
+"Autoexploration can also be started by <input>Ctrl-Leftclick</input> on the\n"
+"minimap.</localtiles>\n"
+msgstr ""
+"Det bliver lettere at udforske gangene, når man bruger auto-udforskning\n"
+"(<input>$cmd[CMD_EXPLORE]</input>). Crawl sørger automatisk for, at du bevæger\n"
+"dig rundt og samler interessante genstande op.<localtiles>\n"
+"\n"
+"Auto-udforskning kan også startes ved at <input>ctrl+venstreklikke</input> på\n"
+"minikortet.</localtiles>\n"
+
+#. key: finished travel
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:finished travel"
+msgid ""
+"There is a convenient way to travel between distant dungeon levels: press\n"
+"<input>$cmd[CMD_INTERLEVEL_TRAVEL]</input> and enter the desired destination.\n"
+"If your travel gets interrupted, issuing <input>$cmd[CMD_INTERLEVEL_TRAVEL]\n"
+"Enter</input> will continue it.\n"
+msgstr ""
+"Der er en praktisk måde at rejse mellem fjerne steder på: Tryk på\n"
+"<input>$cmd[CMD_INTERLEVEL_TRAVEL]</input>, og vælg den ønskede destination.\n"
+"Hvis din rejse bliver afbrudt, kan du trykke <input>$cmd[CMD_INTERLEVEL_TRAVEL]\n"
+"og enter</input> for at fortsætte den.\n"
+
+#. key: finished stashes
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:finished stashes"
+msgid ""
+"You can search among all items existing in the dungeon with the\n"
+"<input>$cmd[CMD_SEARCH_STASHES]</input> command. For example,\n"
+"<input>$cmd[CMD_SEARCH_STASHES]</input> <w>“dagger”</w> will list all daggers,\n"
+"and allow you to travel to them. You can even search for dungeon features, like\n"
+"<w>“shop”</w> or <w>“altar”</w>.\n"
+msgstr ""
+"Du kan søge i alle de genstande, der findes i de underjordiske gange, med\n"
+"<input>$cmd[CMD_SEARCH_STASHES]</input>-kommandoen. For eksempel vil\n"
+"<input>$cmd[CMD_SEARCH_STASHES]</input> <w>\"dolk\"</w> vise en liste med alle\n"
+"dolke. Så kan du rejse hen til et af de steder. Du kan endda indtaste ord som\n"
+"<w>\"butik\"</w> eller <w>\"alter\"</w>.\n"
+
+#. key: finished random 0
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:finished random 0"
+msgid ""
+"The game keeps an automated log for your characters. Use\n"
+"<input>$cmd[CMD_DISPLAY_COMMANDS]:</input> to read it. Once your character\n"
+"perishes, two morgue files are left in the <w>morgue/</w> directory. The one\n"
+"ending in .txt contains a copy of your log. During play, you can create a dump\n"
+"file with <input>$cmd[CMD_CHARACTER_DUMP]</input>.\n"
+msgstr ""
+"Spillet fører en automatisk logbog for dine karakterer. Tryk på\n"
+"<input>$cmd[CMD_DISPLAY_COMMANDS]:</input> for at læse den. Du kan skrive noter\n"
+"manuelt med <input>$cmd[CMD_MAKE_NOTE]</input>. Når din karakter dør,\n"
+"efterlader den to morgue-filer i <w>morgue/</w>-mappen. Den, der slutter med\n"
+".txt, indeholder en kopi af din logbog. Mens du spiller, kan du lave en\n"
+"dump-fil med <input>$cmd[CMD_CHARACTER_DUMP]</input>.\n"
+
+#. key: finished random 1
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:finished random 1"
+msgid ""
+"Crawl has a macro function built in: press <input>$cmd[CMD_MACRO_MENU]</input>\n"
+"to define a macro by first specifying a trigger key (say, <input>F1</input>)\n"
+"and a command sequence, for example <input>za.</input>. The latter will make\n"
+"the <input>F1</input> key always zap the spell in slot a at the nearest\n"
+"monster. For more information on macros, type\n"
+"<input>$cmd[CMD_DISPLAY_COMMANDS]~</input>.\n"
+msgstr ""
+"Crawl har en indbygget makro-funktion: Tryk på <input>-m</input> for at\n"
+"definere en makro ved først at vælge en udløsertast (det kunne være\n"
+"<input>F1</input>) og en kommandosekvens, for eksempel <input>za+</input>. Det\n"
+"betyder, at <input>F1</input>-tasten altid affyrer besværgelsen på plads a mod\n"
+"det nærmeste uhyre. Du kan få mere at vide om makroer ved at skrive\n"
+"<input>$cmd[CMD_DISPLAY_COMMANDS]-</input>.\n"
+
+#. key: finished random 2
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:finished random 2"
+msgid ""
+"The interface can be greatly customised. All options are explained in the file\n"
+"<w>options_guide.txt</w> which can be found in the <w>docs</w> directory. The\n"
+"options themselves are set in <w>init.txt</w> or <w>.crawlrc</w>. Crawl will\n"
+"complain if it can't find either file.\n"
+msgstr ""
+"Brugerfladen kan tilpasses på mange måder. Alle indstillingerne er forklaret i\n"
+"filen <w>options_guide.txt</w>, som findes i <w>docs</w>-mappen.\n"
+"Indstillingerne tilpasses i <w>init.txt</w> eller <w>.crawlrc</w>. Crawl\n"
+"brokker sig, hvis det ikke kan nogen af de filer.\n"
+
+#. key: finished random 3
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:finished random 3"
+msgid ""
+"You can ask other Crawl players for advice and help using any of the community\n"
+"resources described at http://crawl.develz.org/\n"
+msgstr ""
+"Du kan spørge andre Crawl-spillere til råds i IRC-kanalen (Internet Relay Chat)\n"
+"<w>#crawl</w> på Libera-serveren (<w>irc.libera.chat</w>).\n"
+
+#. key: hint_convert xom
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:hint_convert xom"
+msgid ""
+"You've just converted to worshipping <w>Xom</w>. As a follower of Xom, you'll\n"
+"be treated like a plaything, randomly helped or harmed for Xom's own amusement.\n"
+"\n"
+"There is no way to guarantee Xom remains in a good mood - the best any follower\n"
+"can hope for is to avoid letting Xom grow bored!\n"
+msgstr ""
+"Du er netop konverteret til <w>Xom</w>. Du kan glæde Xom ved at fornøje ham, og\n"
+"du ønsker virkelig ikke, at den her gud synes, at du er kedelig!\n"
+"\n"
+"Hvis du fornøjer Xom, behandler han dig som legetøj og skader og hjælper dig\n"
+"tilfældigt, alt efter hvad han synes er sjovest. Ellers behandler han dig som\n"
+"legetøj, han ikke bryder sig om.\n"
+
+#. key: hint_convert
+#. Preserve {{ lua }} delimiters exactly.
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:hint_convert"
+msgid ""
+"You've just converted to worshipping <w>{{ return you.god() }}</w>. Your piety\n"
+"(divine favour) will increase as you do things to please your new god, and will\n"
+"gradually decrease over time.\n"
+"\n"
+"You can check your god's likes and dislikes, as well as your current standing\n"
+"and divine abilities, by typing\n"
+"<input>$cmd[CMD_DISPLAY_RELIGION]</input><localtiles>, or by pressing\n"
+"<input>Shift-right-click</input> on your avatar</localtiles>.\n"
+msgstr ""
+"Du er netop konverteret til at tilbede <w>{{ return you.god() }}</w>. Din\n"
+"fromhed (din gunst hos guden) vil gradvist aftage med tiden, og hvis den løber\n"
+"ud, ekskommunikerer og straffer {{ return you.god() }} dig. Det kan du dog\n"
+"undgå, og endda få fromhed nok til at få evner og guddommelige gaver, ved at\n"
+"gøre ting, som glæder {{ return you.god() }}. Men ingen panik: du starter med\n"
+"en anstændig mængde fromhed, så faren for at blive ekskommunikeret er lille.\n"
+"\n"
+"Du kan se, hvad din gud kan og ikke kan lide, sammen med din nuværende stand og\n"
+"dine guddommelige evner, ved at trykke <input>^</input><localtiles> (eller ved\n"
+"at <input>shift-højreklikke</input> på din avatar)</localtiles>.\n"
+
+#. key: hint_seen_first_object
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:hint_seen_first_object"
+msgid ""
+"That <console>$1 </console>is an item. If you move there and press\n"
+"<input>$cmd[CMD_PICKUP]</input><localtiles>, or <input>left-click</input> on it\n"
+"in your inventory</localtiles>, you will pick it up.<console> Generally, items\n"
+"are shown by non-letter symbols like <w>%?!\"=()[</w>.</console> Some\n"
+"objects<tiles>, marked with a green frame,</tiles> will be picked up\n"
+"automatically.\n"
+"\n"
+"Once it is in your inventory, you can drop it again with <localtiles>a\n"
+"<input>Shift-left-click</input>. Whenever you <input>right-click</input> on an\n"
+"item</localtiles><console><input>$cmd[CMD_DROP]</input>. Any time you look at an\n"
+"item in your inventory (<input>$cmd[CMD_DISPLAY_INVENTORY]</input>)</console>,\n"
+"you can read about its properties and its description.\n"
+msgstr ""
+"<console>$1 </console> er en genstand. Hvis du går herhen og trykker på\n"
+"<input>$cmd[CMD_PICKUP]</input>, kan du samle den op.<console> Generelt vises\n"
+"genstande med tegn, der ikke er bogstaver, som <w>%?!\"=()[</w>.</console>\n"
+"<tiles> Du kan også samle en genstand op ved at trykke på <input>venstre\n"
+"museknap</input>, mens du står på dens felt.</tiles> Forskellige typer\n"
+"genstande bliver automatisk samlet op. <tiles>De er markeret med en grøn\n"
+"ramme.</tiles>\n"
+"\n"
+"Når du har genstanden i din oppakning, kan du smide den med <tiles>et\n"
+"<input>shift-venstreklik</input>. Når du <input>højre-klikker</input> på en\n"
+"genstand</tiles><console><input>$cmd[CMD_DROP]</input>. Når du ser på en\n"
+"genstand i din oppakning\n"
+"(<input>$cmd[CMD_DISPLAY_INVENTORY]</input>)</console>, kan du læse om dens\n"
+"egenskaber og en beskrivelse af den.\n"
+

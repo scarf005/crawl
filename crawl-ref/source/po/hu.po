@@ -1,0 +1,166 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: crawl-data\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+#. key: deep elf
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:deep elf"
+msgid ""
+"Deep Elves have a strong affinity for all kinds of magic, but are very fragile.\n"
+"They regenerate magical power rapidly.\n"
+msgstr ""
+"A mágiához legjobban értő tünde, de a legtörékenyebb is.\n"
+
+#. key: demigod
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:demigod"
+msgid ""
+"Demigods refuse to worship any god, but make up for this with divine attributes\n"
+"and high reserves of health and magic.\n"
+msgstr ""
+"Soha nem követnek istent, de segítik őket természetfeletti képességeik és\n"
+"életerejük.\n"
+
+#. key: demonspawn
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:demonspawn"
+msgid ""
+"Demonspawn are half human, half demon. They acquire strong demonic mutations as\n"
+"they grow.\n"
+msgstr ""
+"A démonfatty félig ember, félig démon. Ahogy növekednek erős démonikus\n"
+"mutációkat kapnak.\n"
+
+#. key: draconian
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:draconian"
+msgid ""
+"Draconians are versatile hybrids. They mature when reaching level 7 and develop\n"
+"a colour.\n"
+msgstr ""
+"A sárkányfattyak sokoldalúak. A 7. szintet elérve válnak felnőtté és szerzik\n"
+"meg színüket.\n"
+
+#. key: felid
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:felid"
+msgid ""
+"Felids are many-lived sentient cats. They cannot use armour or weapons.\n"
+msgstr ""
+"Ezek a macskák értelmesek, de nem tudnak használni se fegyvereket, se\n"
+"páncélokat és sok más tárgyat sem.\n"
+
+#. key: human
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:human"
+msgid ""
+"Humans are natural explorers. Discovering new places refreshes and invigorates them.\n"
+"They are otherwise completely average.\n"
+msgstr ""
+"Evilágiak és átlagosak.\n"
+
+#. key: tengu
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:tengu"
+msgid ""
+"Tengu are bird-people who love to fight, both with weapons and spells. They are\n"
+"fragile but agile, and eventually learn to fly.\n"
+msgstr ""
+"Madárember, egyaránt szeret fegyverekkel és varázslatokkal harcolni. Nagyon\n"
+"törékenyek, de később megtanul repülni.\n"
+
+#. key: merfolk
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:merfolk"
+msgid ""
+"Half fish, half human, Merfolk are citizens of both water and land. They are\n"
+"strong combatants, and adept at using magic to assist in battle.\n"
+msgstr ""
+"Félig ember, félig hal, a hablény otthon érzi magát vízben és szárazon is.\n"
+
+#. key: minotaur
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:minotaur"
+msgid ""
+"Minotaurs are large muscular humans with bovine heads. They excel at all forms\n"
+"of close and ranged combat.\n"
+msgstr ""
+"Nagy és izmos ember bikafejjel. A közel- és távharc minden formájában kiválóak.\n"
+
+#. key: mummy
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:mummy"
+msgid ""
+"Compelled to walk by an ancient curse, Mummies have innate faith and are adept\n"
+"at Necromancy, but learn other skills very slowly. They cannot drink potions.\n"
+msgstr ""
+"Bebalzsamozott és bepólyált élőholt, akit egy ősi átok kényszerít a mozgásra.\n"
+
+#. key: naga
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:naga"
+msgid ""
+"Nagas are hybrids: human from the waist up, with a snake-like tail instead of\n"
+"legs. They move very slowly but are naturally resilient.\n"
+msgstr ""
+"Hibrid: deréktól felfelé ember, vastag, pikkelyes, kígyóéhoz hasonlatos\n"
+"alsótesttel. Lassan mozognak de természettől fogva ellenállóak.\n"
+
+#. key: octopode
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:octopode"
+msgid ""
+"Octopodes are a species of amphibious cephalopods. They can wear eight rings,\n"
+"but almost no armour fits them.\n"
+msgstr ""
+"A fejlábúak egy kétéltű faja. 8 gyűrűt viselhetnek, de szinte semmilyen páncélt\n"
+"nem tudnak felhúzni.\n"
+
+#. key: spriggan
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:spriggan"
+msgid ""
+"Very small, very frail and very fast, Spriggans are highly competent stabbers\n"
+"and spellcasters.\n"
+msgstr ""
+"Nagyon kicsi, nagyon törékeny és nagyon gyors. A sprigganok ügyesen szúrnak le\n"
+"másokat hátulról, és jól értenek a varázsláshoz.\n"
+
+#. key: troll
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:troll"
+msgid ""
+"Trolls are monstrous creatures with powerful claws. They regenerate health\n"
+"rapidly.\n"
+msgstr ""
+"Nagy és nyers, bármit kész elsőre széthasítani a karmaival. Mindig éhes.\n"
+
+#. key: air elementalist
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:air elementalist"
+msgid ""
+"Air Elementalists have learned the Shock spell. Their electrical magic can harm\n"
+"groups of foes, while their air spells assist in fighting or fleeing enemies.\n"
+msgstr ""
+"A Légelmentalista a Sokk varázslatot tanulta meg. Később a Levegő könyve\n"
+"biztosít alkalmazkodóképességet a túléléshez.\n"
+

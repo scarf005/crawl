@@ -1,0 +1,3343 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: crawl-data\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+#. key: a blossoming altar of fedhas
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a blossoming altar of fedhas"
+msgid ""
+"An altar to Fedhas Madash, covered in vibrant and colourful plant life.\n"
+msgstr ""
+"Un altare consacrato a Fedhas Madash, ricoperto di una brulicante e colorata\n"
+"vita vegetale.\n"
+
+#. key: a crawl-hole back to the lair
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a crawl-hole back to the lair"
+msgid ""
+"A passage leading back to the Lair of Beasts.\n"
+msgstr ""
+"Questo passaggio riconduce a spazi meno angusti con un minor numero di\n"
+"ragnatele.\n"
+
+#. key: a closed door
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a closed door"
+msgid ""
+"A closed wooden door. All monsters that can wield equipment, and some of them\n"
+"that can't, may open it again. If it is opened by a monster while it is aware\n"
+"of you, it has a chance of breaking.\n"
+msgstr ""
+"Una porta di legno. Per aprirla prova semplicemente ad attraversarla, oppure\n"
+"premi il tasto “O”.\n"
+
+#. key: amulet
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:amulet"
+msgid ""
+"An amulet to be worn as jewellery around the neck, charged with arcane powers\n"
+"of unknown provenance.\n"
+msgstr ""
+"Un talismano che può essere indossato come un comune gioiello attorno al collo,\n"
+"caricato con poteri arcani di provenienza sconosciuta.\n"
+
+#. key: potion
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:potion"
+msgid ""
+"An unlabelled flask containing a single dose of unknown liquid.\n"
+msgstr ""
+"Una fiaschetta contenente una singola dose di un liquido sconosciuto.\n"
+
+#. key: ring
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:ring"
+msgid ""
+"A ring charged with arcane forces of unknown provenance, to be worn as jewellery\n"
+"on a finger.\n"
+msgstr ""
+"Un talismano che può essere indossato come un comune gioiello su un dito,\n"
+"caricp con poteri arcani di provenienza sconosciuta.\n"
+
+#. key: scroll
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:scroll"
+msgid ""
+"A disposable arcane formula inscribed on parchment by a professional scribe or\n"
+"sorcerer. Anyone can evoke the power of the arcane formula by reading it out\n"
+"loud, but the nature of that power is not a priori apparent.\n"
+msgstr ""
+"Una formula arcana monouso iscritta su una pergamena da uno scriba\n"
+"professionista o da un mago. Chiunque può evocarne il potere leggendola ad alta\n"
+"voce, ma la natura del suo potere non è da subito nota.\n"
+
+#. key: staff
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:staff"
+msgid ""
+"A staff improved with arcane powers of unknown nature.\n"
+msgstr ""
+"Una staffa potenziata da poteri arcani di natura ignota.\n"
+
+#. key: wand
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:wand"
+msgid ""
+"An unusually magical sort of stick.\n"
+msgstr ""
+"Un bastone. Magari è magico.\n"
+
+#. key: singing sword
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:singing sword"
+msgid ""
+"An enchanted blade which loves nothing more than to sing to its owner, whether\n"
+"they want it to or not.\n"
+msgstr ""
+"Quest'arma incantata non ama fare altro che cantare a chi la possiede, che lo\n"
+"voglia o no.\n"
+
+#. key: wrath of trog
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:wrath of trog"
+msgid ""
+"A bloodstained axe that was the favourite weapon of the old god Trog, before it\n"
+"was lost. It induces a bloodthirsty berserker rage when used in battle, although\n"
+"mere mortals who wield it will find themselves temporarily overwhelmed by Trog's\n"
+"power.\n"
+msgstr ""
+"Era l'arma preferita dell'antica divinità Trog, prima di essere perduta. Usarla\n"
+"per attaccare indurrà chiunque l'adopera in una furia assetata di sangue.\n"
+
+#. key: mace of variability
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:mace of variability"
+msgid ""
+"A large mace said to have appeared when Xom grew bored with the predictability\n"
+"of more ordinary instruments of chaos.\n"
+msgstr ""
+"È decisamente inaffidabile.\n"
+
+#. key: partisan of prune
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:partisan of prune"
+msgid ""
+"The partisan of Prune carries a terrible and insidious curse. Unless its wielder\n"
+"maintains firm self-control, they are doomed to undergo a horrifying (albeit\n"
+"temporary) transformation. This is normally trivial to resist, but incapacitated\n"
+"wielders are certain to succumb, finding themselves nightmarishly purple, squishy,\n"
+"and delicious. They can take comfort in learning that it's surprisingly hard to\n"
+"injure a giant prune.\n"
+msgstr ""
+"È la creazione di un dio pazzo, e porta una maledizione che trasforma chiunque\n"
+"la usi in una prugna. Per fortuna, la maledizione fa effetto molto lentamente,\n"
+"e si può utilizzarlo per brevi periodi senza alcun sintomo se non quello di\n"
+"avere la pelle vagamente viola e alcune rughe.\n"
+
+#. key: scythe of curses
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:scythe of curses"
+msgid ""
+"A scythe surrounded by an ominous aura of dread. It carries a terrible and\n"
+"ancient curse, which it busily inflicts on both the wielder and their enemies.\n"
+msgstr ""
+"Quest'arma porta con sé una terribile e fastidiosissima maledizione.\n"
+
+#. key: sceptre of torment
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:sceptre of torment"
+msgid ""
+"An accursed bone sceptre, created by some unknown hellish power. When used in\n"
+"combat, it causes agonising pain in all those unfortunate enough to gaze upon\n"
+"it, save for the wielder.\n"
+msgstr ""
+"Quest'arma maledetta è davvero uno strumento degno dell'Inferno.\n"
+
+#. key: faerie dragon scales
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:faerie dragon scales"
+msgid ""
+"An enchanted suit of armour created from the scales of a rare breed of dragon,\n"
+"now thought to be extinct. This prized relic is now one of the last proofs that\n"
+"the vividly coloured faerie dragons ever existed.\n"
+msgstr ""
+"I draghi fatati erano una razza della stessa specie di quelli chiazzati.\n"
+"Sfortunatamente, i loro vividi colori furono la loro disgrazia, poiché\n"
+"allertavano le potenziali prede. Adesso sono estinti, e questo prezioso\n"
+"artefatto è una delle ultime prove della loro passata esistenza.\n"
+
+#. key: scimitar of flaming death
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:scimitar of flaming death"
+msgid ""
+"A scimitar with a mysteriously smoking blade. Occasionally its heat leaks out,\n"
+"covering opponents in magical flame.\n"
+msgstr ""
+"Fumo!\n"
+
+#. key: dagger of chilly death
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:dagger of chilly death"
+msgid ""
+"A dagger made of one huge shard of sapphire. It covers opponents in ice,\n"
+"slowing down their movement somewhat.\n"
+msgstr ""
+"Un pugnale fatto di un enorme pezzo di zaffiro.\n"
+
+#. key: scythe "finisher"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:scythe \"finisher\""
+msgid ""
+"A long and exceedingly sharp scythe, capable of eviscerating in a single blow.\n"
+"Its extraordinary speed is the work of a mad wizard, who spent years refining\n"
+"it before discarding it in a fit of rage.\n"
+"\n"
+"The blade looses a low keen as it cuts through the air.\n"
+msgstr ""
+"Una lunga e affilata falce, modificata apposta per il combattimento.\n"
+
+#. key: giant club "skullcrusher"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:giant club \"skullcrusher\""
+msgid ""
+"A massive enchanted cudgel that augments the already considerable strength of\n"
+"anyone mighty enough to wield it.\n"
+msgstr ""
+"Quest'amabile randello rendere euforico ogni ogre — sia una rissa al bar, un\n"
+"genocidio o un'unione di entrambi.\n"
+
+#. key: glaive of the guard
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:glaive of the guard"
+msgid ""
+"A glaive commissioned several years ago by a wealthy queen fearful for the\n"
+"safety of her vast treasury. No foe, the smith promised, could defeat a guard\n"
+"wielding such a weapon!\n"
+"\n"
+"It was stolen a few months later, along with the rest of the queen's treasury;\n"
+"the guard, it transpired, had been caught napping. Still, it should serve more\n"
+"than adequately in the hands of a waking user.\n"
+msgstr ""
+"Quest'arma era una volta di Gar Dogh, la guarda dei tesori reali. Secondo la\n"
+"legenda, lui si perse da qualche parte nel Dungeon.\n"
+
+#. key: sword of the dread knight
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:sword of the dread knight"
+msgid ""
+"An adamantine great sword. Its first wielder was a worshipper of Yredelemnul\n"
+"who eschewed the use of magic in combat, preferring to destroy her enemies with\n"
+"brute force. Unfortunately for her, not all of her opponents shared her\n"
+"limitations.\n"
+"\n"
+"It has felled countless great warriors under her grip, and the souls of those\n"
+"who had their lives taken beckon it to take even more under its new owner.\n"
+msgstr ""
+"Uno spadone adamantino.\n"
+
+#. key: morningstar "eos"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:morningstar \"eos\""
+msgid ""
+"A jewelled morningstar, glowing brightly with the light of the dawn. It\n"
+"illuminates the dungeon's recesses, revealing the machinations of those who\n"
+"would prefer to stay invisible.\n"
+msgstr ""
+"Le rosee dita dell'Alba...\n"
+
+#. key: spear of the botono
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:spear of the botono"
+msgid ""
+"A dark and malign artefact. It increases the potency of hexes cast by anyone\n"
+"unwise enough to risk wielding it.\n"
+msgstr ""
+"Un artefatto oscuro e maligno. Aumenta il potere delle malie lanciate da\n"
+"chiunque sia così sciocco da rischiare ad usarlo.\n"
+
+#. key: mithril axe "arga"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:mithril axe \"arga\""
+msgid ""
+"A beautiful mithril axe, probably lost by some dwarven hero.\n"
+msgstr ""
+"Una splendida ascia di mithril, probabilmente perduta da qualche eroe nano.\n"
+
+#. key: longbow "piercer"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:longbow \"piercer\""
+msgid ""
+"An exceptionally large metal longbow.\n"
+msgstr ""
+"Un eccezionalmente grande arco di metallo.\n"
+
+#. key: blowgun of the assassin
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:blowgun of the assassin"
+msgid ""
+"This blowgun seems to guide the needle to seek the most lethal point to hit\n"
+"the target, packing a nasty punch.\n"
+msgstr ""
+"È progettata per essere nascosta facilmente, ma riesce comunque a fare molto\n"
+"male.\n"
+
+#. key: lance "wyrmbane"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:lance \"wyrmbane\""
+msgid ""
+"An enchanted lance deadly to all dragonkind. It grows more powerful every time\n"
+"it inflicts a killing blow on a strong dragon. The more powerful it grows, the\n"
+"harder it will be to find a worthy opponent.\n"
+msgstr ""
+"Una lancia incantata che diventa più forte ogni volta che uccide un potente\n"
+"drago. Più diventa forte, più sarà difficile trovarle un degno sfidante.\n"
+
+#. key: knife of accuracy
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:knife of accuracy"
+msgid ""
+"It is almost unerringly accurate.\n"
+msgstr ""
+"È quasi infallibilmente preciso.\n"
+
+#. key: lehudib's crystal spear
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:lehudib's crystal spear"
+msgid ""
+"Presumably this relic led to the invention of the famous spell, or maybe the\n"
+"other way around.\n"
+msgstr ""
+"Probabilmente questa reliquia ha portato all'invenzione del famoso incantesimo,\n"
+"o forse l'esatto opposto.\n"
+
+#. key: captain's cutlass
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:captain's cutlass"
+msgid ""
+"An infamous weapon, once used by a vile pirate captain to slaughter countless\n"
+"innocents. He finally met his destiny when a kraken swallowed his ship, and the\n"
+"cutlass was thought to be lost with him.\n"
+msgstr ""
+"Questa famigerata arma era usata da un vile capitano pirata per massacrare\n"
+"infiniti innocenti. Alla fine, incontrò il suo destino quando un kraken ingoiò\n"
+"la sua barca con tutta ciurma al suo interno. Si pensava poi che la sciabola\n"
+"fosse per sempre perduta, ma adesso hai nelle tue stesse mani la prova del\n"
+"contrario.\n"
+
+#. key: storm bow
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:storm bow"
+msgid ""
+"A longbow with the colour of dark rain clouds that fires arrows like lightning.\n"
+msgstr ""
+"Quest'arco ha il colore delle nere nubi da pioggia, e l'odore di ozono bagnato.\n"
+
+#. key: tower shield of ignorance
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:tower shield of ignorance"
+msgid ""
+"A shield unearthed from the remains of a ruined city. It bears an inscription\n"
+"written in an ancient language. Scholars and wise men laboured for countless\n"
+"hours to decipher it, and in time, a translation was finally settled on:\n"
+"\n"
+"\"With a shield like this, who needs to think?\"\n"
+msgstr ""
+"«Una mente aperta è come una fortezza con i suoi cancello spalancati e\n"
+"sguarniti.»\n"
+
+#. key: robe of augmentation
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:robe of augmentation"
+msgid ""
+"A variegated robe, woven with enchantments to enhance the wearer's physical and\n"
+"mental abilities. Its creators wove in strands of hair from a hundred different\n"
+"animals, each chosen for the unique strengths it could grant the robe's wearer.\n"
+msgstr ""
+"Una tunica fatta della seta più pura.\n"
+
+#. key: cloak of the thief
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:cloak of the thief"
+msgid ""
+"A pitch-black cloak which allows its wearer to excel in the arts of thievery.\n"
+"Even the clumsy will find their footsteps softer and the shouts of their\n"
+"adversaries less attention-getting.\n"
+msgstr ""
+"Permette al suo indossatore di eccellere nelle arti del furto, e può essere\n"
+"evocata per rilasciare delle dense nuvole di fumo per aiutare una fuga\n"
+"affrettata.\n"
+
+#. key: tower shield "bullseye"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:tower shield \"bullseye\""
+msgid ""
+"Just in case you had trouble getting hit.\n"
+msgstr ""
+"Giusto in caso avessi problemi a farti colpire.\n"
+
+#. key: crown of dyrovepreva
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:crown of dyrovepreva"
+msgid ""
+"A large circlet of dull bronze, set with a dazzling array of gemstones. It was\n"
+"first worn by a prince of the Titans, who sought protection from the incessant\n"
+"warfare between his fellow princes. In practice, the main effect of the\n"
+"artefact was to unite his rivals against him.\n"
+msgstr ""
+"Una grande corona di bronzo grezzo, tempestata di svariate gemme diverse.\n"
+
+#. key: hat of the bear spirit
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:hat of the bear spirit"
+msgid ""
+"A fur hat once owned by Ukta, a powerful ogre shaman. It houses the spirit of\n"
+"an especially mighty bear, whose rages devastated the ogres until it was slain.\n"
+msgstr ""
+"Una volta in possesso di Ukta, un potente orco sciamano, questo cappello di\n"
+"pelliccia fa da casa allo spirito di un orso particolarmente potente.\n"
+
+#. key: robe of misfortune
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:robe of misfortune"
+msgid ""
+"A splendid flowing robe of fur and silk whose lucky colour has faded.\n"
+msgstr ""
+"Una splendida tunica di pelliccia e seta.\n"
+
+#. key: cloak of flash
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:cloak of flash"
+msgid ""
+"A cloak that twitches and jerks without any intervention.\n"
+msgstr ""
+"Un mantello vibrante.\n"
+
+#. key: lear's hauberk
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:lear's hauberk"
+msgid ""
+"A well-made golden hauberk that covers all of its wearer's body parts. It\n"
+"includes a chainmail coif, chausses and maille gauntlets.\n"
+msgstr ""
+"Un hauberk che copre tutte le parte del corpo dell'indossatore. Include una\n"
+"cuffia, gambali e guanti di maglia.\n"
+
+#. key: skin of zhor
+#. Preserve {{ lua }} delimiters exactly.
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:skin of zhor"
+msgid ""
+"The {{\n"
+"    if you.can_smell() then\n"
+"        return \"smelly \"\n"
+"    end\n"
+"}}skin of some strange animal, native to cold and distant lands. It radiates\n"
+"the chill of its native habitat.\n"
+msgstr ""
+"Una puzzolente pelliccia di un qualche strano animale.\n"
+
+#. key: salamander hide armour
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:salamander hide armour"
+msgid ""
+"Most salamanders' bodies are consigned to the fiery depths from which they\n"
+"sprang. Rarely, though, salamanders instead preserve the skins of those that\n"
+"passed. The runes and decorations on this hide suggest it once belonged to a\n"
+"respected warrior or priest - perhaps even a king. The fiery spirit remains in\n"
+"the skin, granting its power to the wearer.\n"
+msgstr ""
+"Un'armatura di cuoio fatta della pelle di salamandra.\n"
+
+#. key: gauntlets of war
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:gauntlets of war"
+msgid ""
+"A pair of thick steel gauntlets. They were Okawaru's reward for a mighty\n"
+"warlord. The owner is destined to die in battle, but what a death it will be!\n"
+msgstr ""
+"Questi spessi guanti d'acciaio erano la ricompensa di Okawaru per un potente\n"
+"signore della guerra. Ti meriti di possederli?\n"
+
+#. key: shield of resistance
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:shield of resistance"
+msgid ""
+"A bronze shield, looking almost exactly like a tortoise's shell. It was built\n"
+"by the adherents of an obscure minor faith, who imbued it with the power of\n"
+"their god. As the god is said to, this shield protects against sword and sling,\n"
+"frost and flame.\n"
+msgstr ""
+"Uno scudo di bronzo.\n"
+
+#. key: robe of folly
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:robe of folly"
+msgid ""
+"A dull grey robe. It is enchanted to provide mages with immeasurable power,\n"
+"and more than a little overconfidence...\n"
+msgstr ""
+"Un abito di grigio spento. È incantato per dare all'indossatore\n"
+"incommensurabile potere e saggezza.\n"
+
+#. key: maxwell's patent armour
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:maxwell's patent armour"
+msgid ""
+"A suit of armour created by the famous inventor Maxwell, providing unparalleled\n"
+"protective qualities at a very affordable price. His unorthodox materials left\n"
+"it with certain shortcomings, but he's yet to have anyone come back for a\n"
+"refund.\n"
+msgstr ""
+"Una strana armatura.\n"
+
+#. key: mask of the dragon
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:mask of the dragon"
+msgid ""
+"The mask of the High Priest of ancient Erebora. In ancient times, the gods of\n"
+"the Ereborans ceased to answer their prayers, and in desperation, the people\n"
+"turned to the forbidden worship of dragons. Now, of their works, only this mask\n"
+"remains.\n"
+msgstr ""
+"Uno strano elmo blu fatto di un duro cuoio flessibile che rende la faccia\n"
+"dell'indossatore simile al muso di un drago.\n"
+
+#. key: scales of the dragon king
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:scales of the dragon king"
+msgid ""
+"A suit of armour created from the enchanted scales of a once-mighty king of\n"
+"dragons. In his time, titans and lesser dragons struggled with him in vain —\n"
+"but as with all things, even he was eventually cast down and undone. Of his\n"
+"life and deeds, this is all that remains.\n"
+msgstr ""
+"Tanto tempo fa, un possente drago d'oro si impose re di tutti i draghi nella\n"
+"sua parte di mondo. Ma il suo regno non durò a lungo, fermato da un singolo,\n"
+"insignificante umano che poi fece quest'armatura dalla pelle del drago.\n"
+
+#. key: hat of the alchemist
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:hat of the alchemist"
+msgid ""
+"A dirty hat. It bears signs of surviving many weird explosions, which suggests\n"
+"it may have means of protecting the head inside from the risks involved with\n"
+"alchemy experiments.\n"
+msgstr ""
+"Un cappello sporco. Porta i segni di sopravvivenza da tante strane esplosioni,\n"
+"che suggeriscono che potrebbe essere stato un mezzo per proteggere la testa al\n"
+"suo interno dai rischi correlati con gli esperimenti d'alchimia. E con la\n"
+"protezione data questo cappello, è certo che essersi fatti male alla testa da\n"
+"prima sia un prerequisito anche solo per pensare di fare certi esperimenti\n"
+
+#. key: fencer's gloves
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:fencer's gloves"
+msgid ""
+"A pair of gloves made of white silk.\n"
+msgstr ""
+"Un paio di guanti fatti di seta bianca.\n"
+
+#. key: cloak of starlight
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:cloak of starlight"
+msgid ""
+"A phosphorescent cloak, woven of pure light beams. The ripples of its folds\n"
+"as the wearer leaps and swerves in combat may dazzle those who gaze on it.\n"
+msgstr ""
+"Un mantello fosforescente, tessuto di puri raggi di luce.\n"
+
+#. key: ratskin cloak
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:ratskin cloak"
+msgid ""
+"A cloak stitched from the hides of hundreds of hell rats by an enchantress with\n"
+"far too much time on her hands. Many more rats remain somehow concealed within\n"
+"it, and may scurry out to assist the wearer.\n"
+msgstr ""
+"Un'incantatrice con un telaio magico e troppo tempo libero ha tessuto questo\n"
+"mantello dalle pellicce di centinaia di ratti, la maggior parte di queste di\n"
+"color arancio. È decisamente imbarazzante da indossare, ma provvede\n"
+"un'eccellente protezione da ratti di tutti i tipi.\n"
+
+#. key: amulet of the air
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:amulet of the air"
+msgid ""
+"A sky-blue amulet, suffused with enchantments that protect the wearer and make\n"
+"their Air spells more powerful. Its creator lacked just one thing: a steady\n"
+"hand.\n"
+msgstr ""
+"Questo amuleto blu cielo deve aver ricevuto le sue tante proprietà protettive\n"
+"da un potente mago dell'aria. Sembra che una delle cose che gli mancava era la\n"
+"mano ferma.\n"
+
+#. key: amulet of cekugob
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:amulet of cekugob"
+msgid ""
+"A strange-looking piece of crystal on an ordinary-looking string, with an odd\n"
+"selection of powers.\n"
+msgstr ""
+"Un strano pezzo di cristallo su uno stano filo, dotato di una strana selezione\n"
+"di poteri.\n"
+
+#. key: amulet of tranquility
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:amulet of tranquility"
+msgid ""
+"A pendant made of purest jade. It grants its wearer immense willpower and\n"
+"mental fortitude.\n"
+msgstr ""
+"Questo pendente fatto della giada più pura da al suo indossatore un'immensa\n"
+"forza mistica per ignorare la magia ostile.\n"
+
+#. key: necklace of bloodlust
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:necklace of bloodlust"
+msgid ""
+"A necklace made of bloodstained human and animal teeth, and something that\n"
+"appears to be a piece of spine.\n"
+msgstr ""
+"Ti domandi quale bruto possa indossare una collana macchiata di sangue fatta di\n"
+"denti animali ed umani insieme a qualcosa che sembra essere un pezzo di colonna\n"
+"vertebrale fatta a pezzi.\n"
+
+#. key: ring of the mage
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:ring of the mage"
+msgid ""
+"An enchanted sapphire, inset into a ring. It aids the spellcasting of its\n"
+"wearer.\n"
+msgstr ""
+"Uno zaffiro incantato, incastonato in un anello. Aiuta l'indossatore a lanciare\n"
+"incantesimi.\n"
+
+#. key: brooch of shielding
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:brooch of shielding"
+msgid ""
+"A brooch with an intricate inlaid design, providing a range of magical\n"
+"protections. Back in the good old days, every adventurer had one of these handy\n"
+"devices. That, and a pony.\n"
+msgstr ""
+"Nei bei vecchi tempi passati, ogni avventuriero aveva uno di questi comodi\n"
+"attrezzi. Questo, ed un pony.\n"
+
+#. key: robe of clouds
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:robe of clouds"
+msgid ""
+"A robe of a material as nebulous and insubstantial as the clouds. It whips the\n"
+"air around it up into a furious storm as it ripples and swirls.\n"
+msgstr ""
+"Una tunica di un materiale così leggero che potrebbe quasi essere fatta di\n"
+"nuvole.\n"
+
+#. key: obsidian axe
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:obsidian axe"
+msgid ""
+"An axe with a powerful curse placed on it by one of the lords of Pandemonium,\n"
+"so that unsuspecting adventurers would unleash demons into this world. Beware,\n"
+"for it has ways of taking its wielder under its command...\n"
+msgstr ""
+"Quest'ascia è stata maledetta da uno dei signori del Pandemonio cosicché gli\n"
+"ignari avventurieri come te possano liberare i demoni in questo mondo. Bada,\n"
+"poiché quest'ascia ha i suoi modi per prendere il controllo di chi la usa...\n"
+
+#. key: lightning scales
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:lightning scales"
+msgid ""
+"A set of armoured plates assembled to protect a creature with a long, scaly\n"
+"lower body. Faintly crackling with electricity, they supercharge their wearer's\n"
+"ability to cover distance.\n"
+msgstr ""
+"Queste scaglie sono state rese un armatura per la parte inferiore del corpo di\n"
+"un naga. Scoppiettando debolmente di elettricità, quest'armatura permette al\n"
+"suo indossatore di muoversi quasi tanto velocemente quanto un umano.\n"
+
+#. key: autumn katana
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:autumn katana"
+msgid ""
+"An exquisitely crafted sword. Its blade is so sharp that it can cut through\n"
+"space itself.\n"
+msgstr ""
+"Quest'esotica arma è fatta per essere usata da persone illuminate.\n"
+
+#. key: shillelagh "devastator"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:shillelagh \"devastator\""
+msgid ""
+"A wooden cudgel, loaded with more than just lead.\n"
+msgstr ""
+"Immagini che questo bastone sia caricato con qualcosa in più del solo piombo.\n"
+
+#. key: dragonskin cloak
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:dragonskin cloak"
+msgid ""
+"An opalescent cloak gleaming with the colours of all kinds of dragons. It\n"
+"imbues the wearer with draconic resistances, although somewhat unreliably.\n"
+msgstr ""
+"Questo iridescente mantello sfavilla con i colori di tutti i draghi. Protegge\n"
+"chi lo indossa da tutti gli elementi, anche se non infallibilmente.\n"
+
+#. key: ring of the octopus king
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:ring of the octopus king"
+msgid ""
+"One of the eight rings once worn by the Octopus King and now scattered across\n"
+"the land. Each has its own unique enchantment.\n"
+msgstr ""
+"«Una sirena amava cantare,\n"
+" E svegliò la lussuria nel re Polo.\n"
+" Il suo sinuoso pretendente,\n"
+" Provò tanto a corteggiarla,\n"
+" Ma lei non poteva indossare tutti i suoi anelli.»\n"
+
+#. key: axe of woe
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:axe of woe"
+msgid ""
+"As you hold this axe your mind does not feel fully your own. Your body begins\n"
+"to exhibit strength far beyond its capabilities, and your movements become\n"
+"guided by Makhleb.\n"
+msgstr ""
+"Stringendo quest'ascia in mano la tua mente non sembra davvero appartenerti. Il\n"
+"tuo corpo inizia a mostrare forza ben oltre le sue capacità, e i tuoi movimenti\n"
+"diventano guidati da Makhleb.\n"
+
+#. key: moon troll leather armour
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:moon troll leather armour"
+msgid ""
+"A suit of armour rumoured to have been created by enchanting the hide of a\n"
+"now-extinct species of troll. Whether the name rings true or is merely\n"
+"appropriated to add mystique is something of a mystery. The armour's innate\n"
+"powers of regeneration and magical protection, however, are hard to dispute.\n"
+msgstr ""
+"A quanto si dice, quest'armatura è stata creata incantando la pelliccia di una\n"
+"specie ormai estinta di troll. Se quest'armatura sia davvero la testimonianza\n"
+"di qualche orrore mai visto o una semplice appropriazione di un nome per\n"
+"aggiungere del misterioso ad un mistero; ciononostante il suo potere di rapida\n"
+"rigenerazione all'occasionale costo del potere magico dell'indossatore, è\n"
+"difficile da discutere.\n"
+
+#. key: dispater
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:dispater"
+msgid ""
+"Greatest and most ruthless of the Lords of Hell, Dispater was born when first an\n"
+"iron sword drank mortal blood. They despise mortal vanities, the pursuit of\n"
+"‘reason’ and ‘beauty’ - the only art they enjoy is the art of war.\n"
+msgstr ""
+"Il Signore della Città di Ferro di Dis\n"
+
+#. key: gloorx vloq
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:gloorx vloq"
+msgid ""
+"A shadowy figure clothed in profound darkness.\n"
+msgstr ""
+"Un'oscura figura avvolta in una profonda oscurità.\n"
+
+#. key: joseph
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:joseph"
+msgid ""
+"Looks like a mercenary in a stupid-looking hat.\n"
+msgstr ""
+"Sembrerebbe un mercenario.\n"
+
+#. key: xtahua
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:xtahua"
+msgid ""
+"An ancient and mighty dragon.\n"
+msgstr ""
+"Un antico e potete drago.\n"
+
+#. key: balrug
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:balrug"
+msgid ""
+"A huge and very powerful demon, wreathed in fire and shadows.\n"
+msgstr ""
+"Un grande e molto potente demone, circondato da fiamme e ombra.\n"
+
+#. key: fire vortex
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:fire vortex"
+msgid ""
+"A swirling cloud of flame. After striking a foe, it disintegrates.\n"
+msgstr ""
+"Una vorticosa nuvola di fiamme.\n"
+
+#. key: glowing shapeshifter
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:glowing shapeshifter"
+msgid ""
+"A shapeshifter which has lost control over its transformations, and is\n"
+"constantly changing form.\n"
+msgstr ""
+"Un mutaforma che ha perso il controllo sulle sue trasformazioni, e cambia\n"
+"costantemente forma.\n"
+
+#. key: gnoll
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:gnoll"
+msgid ""
+"A taller and better-equipped relative of goblins, and ally of orcs. It is\n"
+"somewhat doglike in appearance.\n"
+msgstr ""
+"Un parente di goblin e orchi, più alto e meglio equipaggiato, in qualche modo\n"
+"somigliante a un cane.\n"
+
+#. key: hellion
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:hellion"
+msgid ""
+"A hateful demon, desirous to see all life destroyed by its damnation.\n"
+msgstr ""
+"Uno spaventoso demone, ricoperto da fiamme infernali.\n"
+
+#. key: hellwing
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:hellwing"
+msgid ""
+"A hideous skeletal demon. It swoops through the air on powerful wings of\n"
+"ancient withered skin, taking sadistic joy from harrying those who would try to\n"
+"flee its grasp.\n"
+msgstr ""
+"Un ripugnante demone scheletrico, con ali di antica pelle secca.\n"
+
+#. key: ice devil
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:ice devil"
+msgid ""
+"A man-sized demon covered in glittering ice.\n"
+msgstr ""
+"Un demone dalle dimensioni di un uomo, ricoperto da ghiaccio scintillante.\n"
+
+#. key: killer bee
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:killer bee"
+msgid ""
+"A giant bee, bearing a deadly barb which can sting repeatedly.\n"
+msgstr ""
+"Un'ape gigante, con un aculeo mortale in grado di pungere ripetutamente.\n"
+
+#. key: naga warrior
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:naga warrior"
+msgid ""
+"A fearsome naga warrior clad in sturdy armour and wielding a mighty weapon.\n"
+msgstr ""
+"Un terribile guerriero naga rivestito da una robusta armatura brandendo una\n"
+"potente arma.\n"
+
+#. key: pillar of salt
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:pillar of salt"
+msgid ""
+"A pillar of salt shaped like a statue, but worked by no living hands.\n"
+msgstr ""
+"Un grosso pilastro di sale che si sta sgretolando velocemente.\n"
+
+#. key: plant
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:plant"
+msgid ""
+"A plant that has adapted to grow in the unpleasant dungeon environment,\n"
+"somehow thriving even underground in the absence of the sun.\n"
+msgstr ""
+"Poche piante posso crescere negli ambienti sgradevoli delle segrete, ma alcune\n"
+"sono riuscite ad adattarsi e addirittura prosperare in assenza del sole.\n"
+
+#. key: reaper
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:reaper"
+msgid ""
+"A haunting form wielding a giant scythe, ceaselessly harvesting the souls of\n"
+"the living.\n"
+msgstr ""
+"Una forma scheletrica che brandisce una grossa falce.\n"
+
+#. key: giga bat
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:giga bat"
+msgid ""
+"An enormous, bloated bat.\n"
+msgstr ""
+"Un enorme, gonfio pipistrello.\n"
+
+#. key: ice bat
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:ice bat"
+msgid ""
+"An undead creature in the shape of a bat, made of ice.\n"
+msgstr ""
+"Una creatura non morta, dalla forma di un pipistrello di ghiaccio.\n"
+
+#. key: megabat
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:megabat"
+msgid ""
+"A huge black bat.\n"
+msgstr ""
+"Un enorme pipistrello nero.\n"
+
+#. key: ashenzari
+#: dat/descript/gods.txt
+msgctxt ""
+"textdb:descriptions:ashenzari"
+msgid ""
+"While it seems inconceivable that the divine could be shackled, Ashenzari is\n"
+"just that: bound to the sky for eternity, the unbudging god is all-knowing,\n"
+"all-seeing. Devoted worshippers are allowed to grasp shreds of this knowledge\n"
+"and foresight, but be warned: to Ashenzari, power and blessing and curse are\n"
+"all the same thing.\n"
+msgstr ""
+"Anche sembra inconcepibile che un essere divino possa essere incatenato,\n"
+"Ashenzari lo è: inchiodata al cielo per l'eternità, questa divinità immobile è\n"
+"onnisciente e onnivedente. I seguaci devoti possono avere frammenti di questa\n"
+"conoscenza e preveggenza, ma siate avvisati: la potenza, benedizione e\n"
+"maledizione di Ashenzari sono la stessa cosa.\n"
+
+#. key: cheibriados
+#: dat/descript/gods.txt
+msgctxt ""
+"textdb:descriptions:cheibriados"
+msgid ""
+"Cheibriados is a god of deliberation. Those following Cheibriados travel more\n"
+"slowly the further they progress in their faith, and are forbidden from using\n"
+"any means to hasten themselves. In the process of so imitating their god, they\n"
+"attain perfection of mind and body, and the mysteries of time unfold before\n"
+"them. Especially devout followers may even momentarily abandon the flow of\n"
+"time and its needless disturbances.\n"
+msgstr ""
+"Cheibriados è una divinità che medita sui misteri del tempo. Coloro che\n"
+"scelgono di seguire i dettami di questa divinità impareranno a rinunciare alla\n"
+"fretta inutile, a rallentare sé stessi e gli altri e a danneggiare coloro che\n"
+"si rifiutano di rallentare. I seguaci particolarmente devoti possono\n"
+"abbandonare il flusso del tempo e le sue seccature.\n"
+
+#. key: elyvilon
+#: dat/descript/gods.txt
+msgctxt ""
+"textdb:descriptions:elyvilon"
+msgid ""
+"Elyvilon the Healer welcomes all kind souls prepared to help others. Those\n"
+"individuals can expect to gain powerful healing abilities, by which they can\n"
+"avoid bloodshed. Elyvilon appreciates exploration of the dungeon. Elyvilon's\n"
+"followers can convert to the Shining One or Zin while keeping some piety.\n"
+msgstr ""
+"Elyvilon il Curatore accetta tutte le buone anime che sono pronte ad aiutare\n"
+"gli altri. Questi guadagnano dei potenti poteri curativi. Il Curatore professa\n"
+"un credo di pacifismo e aiuta i suoi fedeli ad evitare di spargere sangue.\n"
+"Elyvilon apprezza la distruzione delle armi, ance se i fedeli più pii devono\n"
+"trovare delle armi malvage o blasfeme per aumentare la propria devozione. I\n"
+"seguaci possono convertirsi al Lucente o a Zin e mantenere parte della propria\n"
+"devozione.\n"
+
+#. key: fedhas
+#: dat/descript/gods.txt
+msgctxt ""
+"textdb:descriptions:fedhas"
+msgid ""
+"Fedhas is the god of plant and fungal life. Followers are prevented from\n"
+"harming any species under Fedhas' protection. In return, Fedhas grants a number\n"
+"of abilities that promote the growth of plants and fungi. These abilities may\n"
+"incidentally prove useful to adventurers.\n"
+msgstr ""
+"Fedhas Madash è la divinità delle piante e dei funghi. Fedhas richiede che i\n"
+"seguaci aiutino la decomposizione dei cadaveri, proibisce che si danneggino le\n"
+"specie sotto la sua protezione e l'uso di effetti negromantici che\n"
+"interferiscono con i cadaveri. In cambio Fedhas conferisce delle abilità per\n"
+"promuovere la crescita di piante e funghi che possono risultare utili agli\n"
+"avventurieri.\n"
+
+#. key: jiyva
+#: dat/descript/gods.txt
+msgctxt ""
+"textdb:descriptions:jiyva"
+msgid ""
+"Jiyva is the ancient deity of the slimes. Followers are expected to\n"
+"support the spread and satiation of their fellow slimes by allowing them to\n"
+"consume items, and are prevented from harming any slimes. Especially favoured\n"
+"followers will become as shapeless as their god, mutating wildly.\n"
+msgstr ""
+"Jiyva è la divinità antica e caotica dei protoplasmi. I seguaci devono\n"
+"supportare la diffusione e l'alimentazione dei protoplasmi amici consentendo\n"
+"loro di consumare gli oggetti e è loro vietato di danneggiare i protoplasmi.\n"
+"Jiyva farà a volte disciogliere gli oggetti lasciati nel resto del dungeon dai\n"
+"suoi seguaci. I seguaci preferiti dalla divinità diventeranno senza forma come\n"
+"il loro patrono, dato che le caratteristiche e le mutazioni cambieranno sotto\n"
+"l'influenza di Jiyva.\n"
+
+#. key: kikubaaqudgha
+#: dat/descript/gods.txt
+msgctxt ""
+"textdb:descriptions:kikubaaqudgha"
+msgid ""
+"Kikubaaqudgha is a terrible Demon-God, served by those who wish to indulge in\n"
+"the powers of death. An evil god, Kikubaaqudgha requires worshippers to cause\n"
+"the death and destruction of as many creatures as possible. In exchange,\n"
+"Kikubaaqudgha offers great assistance to the aspiring necromancer: a supply of\n"
+"useful bodies, knowledge of dark magic, and protection against necromantic\n"
+"backlash.\n"
+msgstr ""
+"Kikubaaqudgha è una terribile divinità demoniaca che è servita da coloro che\n"
+"vogliono servirsi dei poteri della morte. Kikubaaqudgha è malvagio e richiede\n"
+"che si uccidano demoni e creature viventi il più spesso possibile.\n"
+
+#. key: lugonu
+#: dat/descript/gods.txt
+msgctxt ""
+"textdb:descriptions:lugonu"
+msgid ""
+"Banished to the chaotic realm of the Abyss, Lugonu the Unformed seeks followers\n"
+"to spread bloodshed and corruption in the overworld. Those who gain Lugonu's\n"
+"favour will be granted some of the power of the Abyss itself, allowing them to\n"
+"call forth eldritch horrors, and even to travel between the overworld and the\n"
+"Abyss at will.\n"
+msgstr ""
+"Lugonu l'Informe gozzoviglia nell'Abisso. I seguaci sono mandati a provocare\n"
+"spargimenti di sangue e corruzione nel mondo superiore e devono farlo senza\n"
+"sosta per ottenere il favore di questa malvagia divinità.\n"
+
+#. key: makhleb
+#: dat/descript/gods.txt
+msgctxt ""
+"textdb:descriptions:makhleb"
+msgid ""
+"Makhleb the Destroyer is a fearsome deity of bloodshed and mortification of the\n"
+"flesh. Followers are expected to cleanse others by inflicting suffering and\n"
+"death on them in Makhleb's name. Dedicated followers may also access the raw\n"
+"energies and hell-spawned servants of chaos, so that they may better break the\n"
+"impure world and its false laws for their evil god's glory.\n"
+msgstr ""
+"Makhleb il Distruttore è una terribile divinità dello spargimento di sangue e\n"
+"mortificazione della carne. I seguaci devono infliggere sofferenza e morte agli\n"
+"altri nel suo nome e possono ottenere altri favori profanando i cadaveri\n"
+"freschi, come accesso alla pura energia distruttiva o ai servitori del caos\n"
+"schizzati fuori dall'inferno stesso.\n"
+
+#. key: okawaru
+#: dat/descript/gods.txt
+msgctxt ""
+"textdb:descriptions:okawaru"
+msgid ""
+"Okawaru is a dangerous and powerful god of battle. Followers are expected to\n"
+"constantly prove themselves in combat, and may channel Okawaru's might to\n"
+"enhance their prowess. Okawaru demands that followers prove themselves by their\n"
+"own strength alone, and so worshippers are forbidden from gaining allies by any\n"
+"means. Okawaru pays little heed to easy victories, but will reward worshippers\n"
+"for heroic feats against mighty foes.\n"
+msgstr ""
+"Okawaru è una pericolosa e potente divinità della battaglia. I seguaci\n"
+"ottengono alcuni poteri utili in combattimento oltre a delle ricompense ma\n"
+"devono dimostrarsi degni in battaglia e tramite il sacrificio dei cadaveri dei\n"
+"nemici. Okawaru preferisce atti eroici contro nemici potenti e non considera\n"
+"molto le vittorie facili. Inoltre, mentre non ha un codice di combattimento\n"
+"vero e proprio, si infuria se i seguaci causano danni ai proprio alleati.\n"
+
+#. key: sif muna
+#: dat/descript/gods.txt
+msgctxt ""
+"textdb:descriptions:sif muna"
+msgid ""
+"Sif Muna the Loreminder is a contemplative but powerful deity, served by those\n"
+"who seek magical knowledge. Followers who triumph over their foes can call upon\n"
+"the Loreminder for magical power and the ability to cast spells beyond their\n"
+"magical training. The devout are rewarded with a supply of spellbooks taken\n"
+"directly from Sif Muna's legendary library.\n"
+msgstr ""
+"Sif Muna il Signore del Sapere è una divinità contemplativa ma potente, servita\n"
+"da coloro che cercano la conoscenza magica. Apprezza la pratica delle varie\n"
+"abilità di lancio degli incantesimi.\n"
+
+#. key: the shining one
+#: dat/descript/gods.txt
+msgctxt ""
+"textdb:descriptions:the shining one"
+msgid ""
+"Followers of the Shining One are bound to the code of the honourable warrior,\n"
+"soldiers in their god's eternal crusade against evil. For forsaking dark magic\n"
+"and underhanded tactics, the Shining One rewards them and their allies with the\n"
+"power they need to slay demons and the undead. Especially devout warriors can\n"
+"even call upon angels in times of need. The Shining One's followers can convert\n"
+"to Elyvilon or Zin while keeping some piety.\n"
+msgstr ""
+"Il Lucente è una divinità potente che è dedicata alla crociata contro ogni\n"
+"male. I seguaci e i loro alleati possono essere benedetti uccidendo gli esseri\n"
+"malvagi e blasfemi, ma non possono utilizzare magia malvagia o blasfema e ci si\n"
+"attende che dimostrino la loro superiorità morale combattendo in maniera\n"
+"onorevole. La divinità richiede che i seguaci vaghino per il mondo alla ricerca\n"
+"di tracce del male da sradicare. I seguaci del Lucente possono convertirsi a\n"
+"Elyvilon o Zin mantenendo parte della propria devozione.\n"
+
+#. key: trog
+#: dat/descript/gods.txt
+msgctxt ""
+"textdb:descriptions:trog"
+msgid ""
+"Trog is an ancient god of anger and violence. Followers are expected to kill in\n"
+"Trog's name, and especially to slay wizards. In return, worshippers of Trog\n"
+"gain the ability to go berserk at will in combat, and will be granted\n"
+"assistance in the form of powerful weapons and mighty allies. Followers are\n"
+"absolutely forbidden the use of spell magic.\n"
+msgstr ""
+"Trog è un'antica divinità di rabbia e violenza. I seguaci devono uccidere nel\n"
+"nome di Trog e sacrificare i morti, in cambio ottengono poteri in battaglia e\n"
+"altre ricompense. Trog odia tutti i maghi e ama vedere i loro libri degli\n"
+"incantesimi bruciare, per cui i suoi seguaci non possono far uso della magia.\n"
+
+#. key: vehumet
+#: dat/descript/gods.txt
+msgctxt ""
+"textdb:descriptions:vehumet"
+msgid ""
+"Vehumet is a god of the destructive powers of magic. Followers will gain divine\n"
+"assistance in commanding the hermetic arts, and the most favoured stand to gain\n"
+"access to some of the fearsome spells in Vehumet's library. One's devotion to\n"
+"Vehumet can be proven by the causing of as much carnage and destruction as\n"
+"possible.\n"
+msgstr ""
+"Vehumet è la divinità dei poteri distruttivi della magia. I seguaci ottengono\n"
+"molti poteri utili per migliorare il comando delle arti arcane e i più favoriti\n"
+"ottengono accesso agli incantesimi più distruttivi nella sua biblioteca. La\n"
+"devozione a Vehumet può essere provata causando quanta più distruzione e\n"
+"macello possibile.\n"
+
+#. key: yredelemnul
+#: dat/descript/gods.txt
+msgctxt ""
+"textdb:descriptions:yredelemnul"
+msgid ""
+"Cast down by the good gods eons ago, Yredelemnul seeks to despoil their\n"
+"creations and chain all living souls within their inexorable grip. Followers who\n"
+"would conquer in Yredelemnul's name are granted the power to reap an army of the\n"
+"dead and bind powerful souls into eternal service - provided they can sweep\n"
+"across the land in a tide as inexorable as their god.\n"
+msgstr ""
+"Yredelemnul l'Oscuro è la divinità malvagio adorato da coloro che cercano il\n"
+"potere sulla morte e sui non morti. I seguaci devono opporsi a tutte le cose\n"
+"sacre e possono creare legioni di fedeli non morti e ricevere altri poteri\n"
+"utili (anche se non sempre piacevoli). Yredelemnul apprezza le uccisioni ma\n"
+"preferisce che i cadaveri siano utilizzati piuttosto che sacrificati. Apprezza\n"
+"anche la distruzione di esseri artificiali visto che non sono veramente morti o\n"
+"soggetti alla morte o alla non morte.\n"
+
+#. key: cheibriados powers
+#: dat/descript/gods.txt
+msgctxt ""
+"textdb:descriptions:cheibriados powers"
+msgid ""
+"Followers of Cheibriados move more slowly as they gain favour. As they move\n"
+"slower, worshippers of Cheibriados are granted increased attributes.\n"
+"Cheibriados rewards the faithful with the power to slow other creatures and the\n"
+"power to briefly distort the flow of time. Devout worshippers will gain the\n"
+"ability to inflict great harm on all those who move more quickly than they do,\n"
+"and finally the ability to step out of the flow of time entirely.\n"
+msgstr ""
+"I seguaci di Cheibriados diventano più lenti all'aumentare del favore divino\n"
+"nei loro confronti, e sono ricompensati per uccidere le creature più veloci di\n"
+"loro. Il muoversi troppo velocemente o utilizzare armi magicamente accelerate è\n"
+"disapprovato. Cheibriados ricompensa i fedeli con un metabolismo rallentato, il\n"
+"potere di rallentare le altre creature, di distorcere il flusso del tempo e la\n"
+"possibilità di ferire chiunque sia più veloce dei suoi seguaci, e, infine, di\n"
+"uscire per intero dal flusso del tempo.\n"
+
+#. key: elyvilon powers
+#: dat/descript/gods.txt
+msgctxt ""
+"textdb:descriptions:elyvilon powers"
+msgid ""
+"The Healer offers followers a number of means to heal themselves from damage\n"
+"and other ill effects. Followers may also attempt to pacify hostile monsters\n"
+"and turn them neutral. Elyvilon may directly intervene to save a follower's\n"
+"life, and if there has been no such intervention recently, is sure to prevent\n"
+"a killing blow against especially pious followers. Elyvilon may also\n"
+"occasionally protect the follower's allies from death.\n"
+msgstr ""
+"Il Curatore offre ai seguaci i mezzi per curarsi dai danni e da altri effetti\n"
+"negativi. Elyvilon permette anche il curare mostri ostili,  provando a farli\n"
+"diventare neutrali. Elyvilon può intervenire direttamente per salvare la vita\n"
+"di un fedele, soprattutto quando gli è chiesto; i seguaci più pii possono\n"
+"essere certi di tale aiuto.\n"
+
+#. key: fedhas powers
+#: dat/descript/gods.txt
+msgctxt ""
+"textdb:descriptions:fedhas powers"
+msgid ""
+"Plants and fungi will not attack Fedhas' worshippers without provocation.\n"
+"Worshippers may walk through plants or fungi, and even fire missiles or spells\n"
+"through them without causing harm. Fedhas grants powers to temporarily grow a\n"
+"menagerie of plant allies whose strength and duration increase with Invocations\n"
+"skill. Worshippers may grow a protective wall of briar patches as well as\n"
+"ballistomycetes that fire damaging spores whose explosions confuse living\n"
+"creatures. Devout followers can overgrow a stretch of solid terrain with a\n"
+"cluster of plant allies or even summon a mighty oklob plant.\n"
+msgstr ""
+"Piante e funghi non attaccheranno i seguaci di Fedhas se non provocati. I\n"
+"fedeli di Fedhas possono camminare attraverso piante o funghi, e gli\n"
+"incantesimi o proiettili infuocati possono passargli attraverso senza fare\n"
+"danni. Fedhas conferisce l'abilità di promuovere piante e funghi in specie più\n"
+"forti. I seguaci infine potranno far crescere un muro di piante e creare spore\n"
+"esplosive dai cadaveri, e ricevono anche poteri per controllare il tempo,\n"
+"essendo capaci di chiamare la luce del sole e più avanti anche tempeste.\n"
+
+#. key: vehumet powers
+#: dat/descript/gods.txt
+msgctxt ""
+"textdb:descriptions:vehumet powers"
+msgid ""
+"Worshippers of Vehumet will quickly be able to recover their magical energy\n"
+"upon killing beings. As they gain favour, they will also gain enhancements to\n"
+"their destructive spells — first assistance in casting such spells and then\n"
+"increased range for conjurations. Vehumet will offer followers the knowledge of\n"
+"increasingly powerful destructive spells as they gain piety.\n"
+msgstr ""
+"I fedeli di Vehumet saranno presto in grado di recuperare la loro energia\n"
+"magica quando uccidono. Ottenendo il suo favore, potranno anche ricevere\n"
+"potenziami ai loro incantesimi distruttivi — prima un aiuto per lanciarli, poi\n"
+"un raggio di tiro più grande per gli incantesimi di comparizione. Vehumet\n"
+"offrirà anche il sapere di incantesimi sempre più potenti più si conquista il\n"
+"suo favore.\n"
+
+#. key: xom powers
+#: dat/descript/gods.txt
+msgctxt ""
+"textdb:descriptions:xom powers"
+msgid ""
+"To worship Xom is to live riskily. In a good mood Xom may shower worshippers\n"
+"with gifts, while at other times this capricious god could decide to “spice\n"
+"things up a little” and send worshippers to their doom. If such toys of Xom\n"
+"prove to be interesting, so much the better; if not, well, there'll be other\n"
+"playthings...\n"
+msgstr ""
+"Venerare Xom vuol dire vivere perennemente a rischio. Se di buon umore Xom può\n"
+"tempestarti di doni, ma a volte questa capricciosa divinità potrebbe voler\n"
+"rendere tutto un po' più «divertente» per poi mandarti incontro a morte certa.\n"
+"Se dimostri di essere il più forte, buon per te; in caso contrario, beh, ci\n"
+"saranno sempre altri giocattolini...\n"
+
+#. key: zin powers
+#: dat/descript/gods.txt
+msgctxt ""
+"textdb:descriptions:zin powers"
+msgid ""
+"Zin grants followers the ability to preach to the unenlightened masses, and\n"
+"powers to vitalise their bodies, protecting them from various afflictions.\n"
+"Later, followers gain the ability to imprison their foes temporarily. Followers\n"
+"can eventually find temporary safety in a divine refuge. As piety grows,\n"
+"followers will be protected from mutation and the Hells, and Zin may even\n"
+"occasionally directly intervene to save a follower's life.\n"
+msgstr ""
+"Zin conferisce ai seguaci  l'abilità di predicare alle masse e il potere di\n"
+"dare vitalità al proprio corpo, e ottenere resistenza divina che li protegge da\n"
+"varie seccature e sostenere il loro metabolismo. Seguaci potenti possono\n"
+"imprigionare temporaneamente i loro nemici e trovare sicurezza in un rifugio\n"
+"divino. Con l'aumento della devozione i seguaci saranno preservati dalle\n"
+"mutazioni e Zin potrebbe occasionalmente intervenire direttamente per salvare\n"
+"la vita di un seguace.\n"
+
+#. key: elven halls
+#: dat/descript/branches.txt
+msgctxt ""
+"textdb:descriptions:elven halls"
+msgid ""
+"The Elven Halls are home to the deep elves, a race that turned their backs on\n"
+"the sun long ago. Their halls are filled with riches, but a deadly welcome\n"
+"awaits any would-be robbers. In their long seclusion, the deep elves have\n"
+"perfected dark sorceries of a power the orcs can only dream of!\n"
+msgstr ""
+"Laddove la maggior parte degli elfi non entrerebbe mai in complessi sotterranei\n"
+"buio come questo, gli elfi della profondità hanno addirittura deciso di\n"
+"abitarci. Le loro sale sono piene di ricchezze, ma ogni passante dovrebbe\n"
+"essere al corrente della leggendaria conoscenza di questa specie.\n"
+"\n"
+"Le Sale degli Elfi sono profonde tre livelli.\n"
+
+#. key: lair
+#: dat/descript/branches.txt
+msgctxt ""
+"textdb:descriptions:lair"
+msgid ""
+"Most adventurers find the Lair of Beasts to be an exciting change of climate.\n"
+"And indeed, there is something to be said about getting gored, mauled and eaten\n"
+"rather than sliced, burnt or stabbed.\n"
+"\n"
+"The Lair contains the entrances to one of the Swamp or the Shoals, one of the\n"
+"Snake Pit or the Spider Nest, and to the Pits of Slime.\n"
+msgstr ""
+"La maggior parte degli avventurieri trova L'Antro delle Bestie un piacevole\n"
+"cambio di clima. E ovviamente, vi è molto a dirsi sul cambiamento dall'essere\n"
+"affettati, arsi vivi o pugnalati al farsi sventrare, azzannare e mangiati vivi.\n"
+"\n"
+"L'Antro è profondo otto livelli e contiene le scale ad altre tre ramificazioni.\n"
+
+#. key: sewer
+#: dat/descript/branches.txt
+msgctxt ""
+"textdb:descriptions:sewer"
+msgid ""
+"Every inhabited place needs to dispose of its waste products. The Dungeon too\n"
+"has its stinking sewers and drains, full of filthy water and ignored by most\n"
+"but used as hideaways by the disgusting and the desperate. Old tales speak of\n"
+"dangerous creatures stalking through the foul-smelling green water, preying on\n"
+"each other without mercy. The tales also allude to valuable items accidentally\n"
+"washed into the drainage tunnels, forgotten and left to grow mouldy in the damp\n"
+"caverns.\n"
+msgstr ""
+"Ogni posto abitato necessita di un posto in cui gettare i suoi rifiuti. Anche\n"
+"il Dungeon ha le sue puteolenti fogne e tombini, piene di acqua torbida e\n"
+"ignorate da tutti, se non dai più disgustosi o dai disperati in cerca di\n"
+"rifugio. Vecchi miti raccontano di creature pericolose che si aggirano nella\n"
+"lurida acqua verde, facendo preda l'una dell'altra senza pietà alcuna. I\n"
+"racconti alludono anche a oggetti preziosi accidentalmente lavati via dalle\n"
+"condutture di scarico, dimenticati e abbandonati a marcire nelle umide caverne.\n"
+
+#. key: volcano
+#: dat/descript/branches.txt
+msgctxt ""
+"textdb:descriptions:volcano"
+msgid ""
+"Built from enormous blocks of obsidian, the volcano's sweltering chambers may\n"
+"once have served as a temple to some strange deity, or perhaps the dwelling of\n"
+"a mighty fire giant. The air shimmers with oppressive heat, and the dull roar\n"
+"of the volcano's heart never ceases.\n"
+msgstr ""
+"Costruita da enormi blocchi di ossidiana, questa soffocante sala  potrebbe\n"
+"essere stata una volta un tempio per qualche strana divinità, o magari\n"
+"l'abitazione di un potente gigante di fuoco. L'aria scintilla con un calore\n"
+"opprimente, mentre il ruggire sordo del cuore del vulcano non cessa mai di\n"
+"farsi sentire.\n"
+
+#. key: fighting
+#: dat/descript/skills.txt
+msgctxt ""
+"textdb:descriptions:fighting"
+msgid ""
+"Fighting skill increases your accuracy and damage in physical combat, and\n"
+"also increases your maximum health.\n"
+msgstr ""
+"L'abilità di combattimento aumenta la precisione degli attacchi,  i danni in\n"
+"mischia e i punti ferita.\n"
+
+#. key: throwing
+#: dat/descript/skills.txt
+msgctxt ""
+"textdb:descriptions:throwing"
+msgid ""
+"Training Throwing will make thrown weapons (such as javelins) more accurate\n"
+"and damaging. It also makes certain magical darts more likely to have an\n"
+"effect.\n"
+msgstr ""
+"Imparare a lanciare oggetti consente di scagliare oggetti (come i giavellotti)\n"
+"o lanciare dardi in maniera più efficace. In particolare rende le armi\n"
+"ritornanti più affidabili e gli aghi magici più efficienti nei loro effetti\n"
+"quando vengono usati con le cerbottane.\n"
+"\n"
+"Essere abili con le fionde rende più facile imparare a lanciare oggetti.\n"
+
+#. key: armour
+#: dat/descript/skills.txt
+msgctxt ""
+"textdb:descriptions:armour"
+msgid ""
+"Armour skill multiplies the AC gained from wearing armour of all kinds, both\n"
+"from body armour and cloaks, gloves, etc. It also slightly lessens penalties\n"
+"to spellcasting and ranged weapon speed from heavy armour.\n"
+msgstr ""
+"L'abilità in armatura aumenta l'AC ottenuta indossando armature pesanti e aiuta\n"
+"a diminuire le penalità indotte dalle armature pesanti durante il combattimento\n"
+"in mischia e durante il lancio di incantesimi.\n"
+
+#. key: dodging
+#: dat/descript/skills.txt
+msgctxt ""
+"textdb:descriptions:dodging"
+msgid ""
+"The Dodging skill will affect your chance of dodging an attack, be it melee,\n"
+"ranged or magical. Certain types of attack cannot be dodged, however, such as\n"
+"enchantments (which must be resisted with willpower) and explosions.\n"
+msgstr ""
+"L'abilità in schivare aumenta le probabilità di schivare un attacco, sia esso\n"
+"in mischia, a distanza o magico. Certi tipi di attacco, però, non possono\n"
+"essere schivati. Tra  questi gli incanti e le malie (a cui bisogna resistere) e\n"
+"le esplosioni.\n"
+
+#. key: shields
+#: dat/descript/skills.txt
+msgctxt ""
+"textdb:descriptions:shields"
+msgid ""
+"A high Shields skill helps you block melee attacks or projectiles (both magical\n"
+"and non-magical) with your equipped shield, and reduces their penalty to your\n"
+"evasion, attack speed and spellcasting success.\n"
+msgstr ""
+"Un'alta abilità con gli scudi consente di parare attacchi in mischia o\n"
+"proiettili (sia mondani che magici) con uno scudo utilizzato o con un suo\n"
+"equivalente magico. Qualche attacco, come i colpi penetranti, non viene parato\n"
+"per niente.\n"
+
+#. key: unarmed combat
+#: dat/descript/skills.txt
+msgctxt ""
+"textdb:descriptions:unarmed combat"
+msgid ""
+"Being skilled in Unarmed Combat increases your accuracy, damage and attack\n"
+"speed in melee combat when barehanded.\n"
+msgstr ""
+"L'abilità in combattimento disarmato aumenta la precisione, il danno e la\n"
+"velocità degli attacchi in mischia a mani nude. Consente anche di attaccare\n"
+"occasionalmente con la propria mano secondaria se non è impegnata da un'arma a\n"
+"due mani o da uno scudo.\n"
+
+#. key: a buggy card
+#: dat/descript/cards.txt
+msgctxt ""
+"textdb:descriptions:a buggy card"
+msgid ""
+"The card depicts a Crawl player filing a bug report on Mantis.\n"
+"\n"
+"Drawing this card is a bug, if one ever encounters it as such.\n"
+msgstr ""
+"Bacato (se vedete questo messaggio si tratta di un bug).\n"
+
+#. key: a very buggy card
+#: dat/descript/cards.txt
+msgctxt ""
+"textdb:descriptions:a very buggy card"
+msgid ""
+"The card depicts several Crawl players angrily filing several bug reports on\n"
+"Mantis.\n"
+"\n"
+"Drawing this card is a bug, if one ever encounters it as such.\n"
+msgstr ""
+"Bacato (se vedete questo messaggio si tratta di un bug).\n"
+
+#. key: cmd_rest verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_rest verbose"
+msgid ""
+"Rests while your health and magic regenerate. Resting is interrupted as soon\n"
+"as a hostile monster comes into view. If health and magic are both already\n"
+"full, resting will wait for 100 turns.\n"
+msgstr ""
+"Passi fino a 100 turni rigenerando salute e/o ricaricando magia. Il riposo è\n"
+"interrotto appena viene visto un mostro ostile.\n"
+
+#. key: cmd_explore
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_explore"
+msgid ""
+"Autoexplore the current level\n"
+msgstr ""
+"Autoesplora il livello corrente\n"
+
+#. key: cmd_explore verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_explore verbose"
+msgid ""
+"Automatically explores the current level, collecting items on the way.\n"
+"Exploration stops as soon as a hostile monster comes into view, or when you\n"
+"encounter new items or features.\n"
+msgstr ""
+"Lascia viaggiare il tuo personaggio con l'autopilota verso aree inesplorate del\n"
+"livello corrente e raccoglie gli oggetti previsti dall'autoraccolta. Il\n"
+"viaggiare si ferma appena un mostro ostile è visibile, e anche per annunciare\n"
+"oggetti e peculiarità trovate.\n"
+
+#. key: cmd_interlevel_travel
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_interlevel_travel"
+msgid ""
+"Travel to distant levels\n"
+msgstr ""
+"Viaggia a livelli distanti\n"
+
+#. key: cmd_interlevel_travel verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_interlevel_travel verbose"
+msgid ""
+"Automatically travels to a chosen level or branch. Travel is interrupted by\n"
+"monsters coming into view.\n"
+msgstr ""
+"Autoviaggio verso livelli distanti. Il viaggio è interrotto appena sono visti\n"
+"mostri.\n"
+
+#. key: cmd_use_ability
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_use_ability"
+msgid ""
+"Use divine, innate or evokable abilities\n"
+msgstr ""
+"Usa abilità innate o divine\n"
+
+#. key: cmd_search_stashes
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_search_stashes"
+msgid ""
+"Search for items/features\n"
+msgstr ""
+"Cerca oggetti o peculiarità\n"
+
+#. key: cmd_search_stashes verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_search_stashes verbose"
+msgid ""
+"Searches for items or features seen elsewhere, and allows you to travel to\n"
+"their location.\n"
+msgstr ""
+"Cerca oggetti o peculiarità viste da qualche altra parte, per poi andarci.\n"
+
+#. key: cmd_replay_messages
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_replay_messages"
+msgid ""
+"Reread recent messages\n"
+msgstr ""
+"Rileggi messaggi recenti\n"
+
+#. key: cmd_resists_screen
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_resists_screen"
+msgid ""
+"Display character overview\n"
+msgstr ""
+"Mostra la scheda del personaggio\n"
+
+#. key: cmd_resists_screen verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_resists_screen verbose"
+msgid ""
+"Displays an overview of your current resistances, abilities, equipment and\n"
+"attributes.\n"
+msgstr ""
+"Mostra informazioni su resistenze, abilità, statistiche dell'equipaggiamento,\n"
+"ecc.\n"
+
+#. key: cmd_display_overmap
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_overmap"
+msgid ""
+"Display dungeon overview\n"
+msgstr ""
+"Mostra la struttura del Dungeon\n"
+
+#. key: cmd_display_overmap verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_overmap verbose"
+msgid ""
+"Displays an overview of dungeon branch locations, discovered altars, shops and\n"
+"level annotations.\n"
+msgstr ""
+"Mostra la posizione delle entrate alle ramificazioni, negozi e altre cose che\n"
+"hai incontrato sino ad ora.\n"
+
+#. key: cmd_display_religion
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_religion"
+msgid ""
+"Display religious status\n"
+msgstr ""
+"Mostra lo status religioso\n"
+
+#. key: cmd_display_religion verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_religion verbose"
+msgid ""
+"Displays your god's likes and dislikes, conduct, and your current religious\n"
+"standing and divine abilities.\n"
+msgstr ""
+"Mostra ciò che piace e non alla tua divinità, la tua condotta, il tuo rapporto\n"
+"con la divinità e le abilità divine.\n"
+
+#. key: cmd_display_mutations
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_mutations"
+msgid ""
+"Display mutations\n"
+msgstr ""
+"Mostra le mutazioni\n"
+
+#. key: cmd_display_skills
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_skills"
+msgid ""
+"Manage skills\n"
+msgstr ""
+"Organizza le abilità\n"
+
+#. key: cmd_display_character_status
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_character_status"
+msgid ""
+"Display character status\n"
+msgstr ""
+"Mostra lo status del personaggio\n"
+
+#. key: cmd_display_character_status verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_character_status verbose"
+msgid ""
+"Displays details on your current movement speed, attack speed, stealth, magic\n"
+"resistance, and any currently active enchantments or status effects.\n"
+msgstr ""
+"Mostra gli incantamenti attivi e altre cose.\n"
+
+#. key: cmd_display_known_objects
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_known_objects"
+msgid ""
+"List discovered item types\n"
+msgstr ""
+"Lista dei tipi di oggetti scoperti\n"
+
+#. key: cmd_save_game_now
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_save_game_now"
+msgid ""
+"Save and exit\n"
+msgstr ""
+"Salva ed esci\n"
+
+#. key: cmd_save_game_now verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_save_game_now verbose"
+msgid ""
+"Saves the game for later and exits. Once you resume the game, the save file is\n"
+"deleted again.\n"
+msgstr ""
+"Salvi il gioco per dopo ed esci. Una volta ripreso il gioco, il salvataggio è\n"
+"perduto.\n"
+
+#. key: cmd_edit_player_tile
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_edit_player_tile"
+msgid ""
+"Modify the player tile\n"
+msgstr ""
+"Modifica la casella del giocatore\n"
+
+#. key: cmd_edit_player_tile verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_edit_player_tile verbose"
+msgid ""
+"Allows you to modify the equipment and species tile displayed in the player\n"
+"doll.\n"
+msgstr ""
+"Modifica l'equipaggiamento e la specie mostrata dall'icona del giocatore.\n"
+
+#. key: cmd_display_commands
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_commands"
+msgid ""
+"Game help\n"
+msgstr ""
+"Aiuto per il gioco\n"
+
+#. key: cmd_display_commands verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_commands verbose"
+msgid ""
+"Displays a list of commands.\n"
+msgstr ""
+"Lista di comandi, opzioni, ecc.\n"
+
+#. key: cmd_autofight
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_autofight"
+msgid ""
+"Hit the closest monster\n"
+msgstr ""
+"Attacca il nemico più vicino\n"
+
+#. key: cmd_autofight verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_autofight verbose"
+msgid ""
+"Moves towards the closest hostile monster, or attacks an adjacent monster with\n"
+"your current weapon.\n"
+msgstr ""
+"Ti fa muovere e lo attacca con l'arma impugnata.\n"
+
+#. key: cmd_autofight_nomove
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_autofight_nomove"
+msgid ""
+"Hit an adjacent monster\n"
+msgstr ""
+"Attacca un mostro adiacente\n"
+
+#. key: cmd_autofight_nomove verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_autofight_nomove verbose"
+msgid ""
+"Attacks an adjacent monster with your current weapon.\n"
+msgstr ""
+"Attacca un mostro accanto a te con l'arma impugnata.\n"
+
+#. key: cmd_wait
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_wait"
+msgid ""
+"Wait a single turn\n"
+msgstr ""
+"Aspetta un singolo turno\n"
+
+#. key: cmd_wait verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_wait verbose"
+msgid ""
+"Spends a single turn waiting and resting.\n"
+msgstr ""
+"Attendi un turno riposando e aspettando.\n"
+
+#. key: cmd_display_inventory
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_inventory"
+msgid ""
+"Display the contents of your inventory\n"
+msgstr ""
+"Mostra i contenuti del tuo inventario\n"
+
+#. key: cmd_display_inventory verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_inventory verbose"
+msgid ""
+"Displays the contents of your inventory.\n"
+msgstr ""
+"Mostra i contenuti del tuo inventario.\n"
+
+#. key: cmd_cast_spell
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_cast_spell"
+msgid ""
+"Cast a spell\n"
+msgstr ""
+"Lancia un incantesimo\n"
+
+#. key: cmd_cast_spell verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_cast_spell verbose"
+msgid ""
+"Casts a spell.\n"
+msgstr ""
+"Lancia un incantesimo.\n"
+
+#. key: cmd_memorise_spell
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_memorise_spell"
+msgid ""
+"Memorise spell\n"
+msgstr ""
+"Memorizza un incantesimo\n"
+
+#. key: cmd_memorise_spell verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_memorise_spell verbose"
+msgid ""
+"Memorises a chosen spell from your spell library.\n"
+msgstr ""
+"Ti impegni a ricordare un incantesimo, leggendolo da un libro che hai in mano o\n"
+"che è per terra.\n"
+
+#. key: cmd_drop
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_drop"
+msgid ""
+"Drop items\n"
+msgstr ""
+"Getta oggetti\n"
+
+#. key: cmd_drop verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_drop verbose"
+msgid ""
+"Drops one or more items that you are currently holding.\n"
+msgstr ""
+"Getta uno o più oggetti che possiedi,\n"
+
+#. key: cmd_display_map
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_map"
+msgid ""
+"Enter map mode\n"
+msgstr ""
+"Entra in modalità mappa\n"
+
+#. key: cmd_display_map verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_map verbose"
+msgid ""
+"Displays a map of the current level.\n"
+msgstr ""
+"Naviga nella mappa precedentemente esplorata.\n"
+
+#. key: cmd_map_goto_target
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_goto_target"
+msgid ""
+"Travel to cursor\n"
+msgstr ""
+"Viaggia sino al cursore\n"
+
+#. key: cmd_map_goto_target verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_goto_target verbose"
+msgid ""
+"Starts travelling to the cursor's current location.\n"
+msgstr ""
+"Inizia a viaggiare sino alla posizione corrente del cursore.\n"
+
+#. key: cmd_map_add_waypoint
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_add_waypoint"
+msgid ""
+"Add waypoint\n"
+msgstr ""
+"Aggiungi un punto di riferimento\n"
+
+#. key: cmd_map_add_waypoint verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_add_waypoint verbose"
+msgid ""
+"Sets a waypoint at your current position.\n"
+msgstr ""
+"Imposta il punto di riferimento alla posizione corrente.\n"
+
+#. key: cmd_map_exclude_area
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_exclude_area"
+msgid ""
+"Create exclusion\n"
+msgstr ""
+"Esclusione dal viaggiare\n"
+
+#. key: cmd_map_exclude_area verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_exclude_area verbose"
+msgid ""
+"Creates a travel exclusion, changes its radius, or removes it.\n"
+msgstr ""
+"Crei un area che escludi dal viaggiare, cambia la sua area o rimuovila.\n"
+
+#. key: cmd_map_clear_excludes
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_clear_excludes"
+msgid ""
+"Clear travel exclusions\n"
+msgstr ""
+"Rimuove tutte le limitazioni di viaggio\n"
+
+#. key: cmd_map_clear_excludes verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_clear_excludes verbose"
+msgid ""
+"Erases all travel exclusions on the level.\n"
+msgstr ""
+"Rimuove tutte le limitazioni di viaggio sul livello.\n"
+
+#. key: cmd_map_next_level
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_next_level"
+msgid ""
+"Down one level\n"
+msgstr ""
+"Giù di un livello\n"
+
+#. key: cmd_map_next_level verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_next_level verbose"
+msgid ""
+"Displays the next deeper level.\n"
+msgstr ""
+"Esamini il livello appena più profondo.\n"
+
+#. key: cmd_map_prev_level
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_prev_level"
+msgid ""
+"Up one level\n"
+msgstr ""
+"Su di un livello\n"
+
+#. key: cmd_map_prev_level verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_prev_level verbose"
+msgid ""
+"Displays the next higher level.\n"
+msgstr ""
+"Esamini il livello appena più in alto.\n"
+
+#. key: cmd_map_goto_level
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_goto_level"
+msgid ""
+"Go to level\n"
+msgstr ""
+"Vai in un livello\n"
+
+#. key: cmd_map_goto_level verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_goto_level verbose"
+msgid ""
+"Displays another chosen level by branch and depth.\n"
+msgstr ""
+"Vai in un livello in base alla ramificazione e profondità.\n"
+
+#. key: cmd_map_find_upstair
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_upstair"
+msgid ""
+"Find stairs up\n"
+msgstr ""
+"Trova le scale per andare su\n"
+
+#. key: cmd_map_find_upstair verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_upstair verbose"
+msgid ""
+"Cycles through stairs up.\n"
+msgstr ""
+"Esamina tutte le scalinate per andare su.\n"
+
+#. key: cmd_map_find_downstair
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_downstair"
+msgid ""
+"Find stairs down\n"
+msgstr ""
+"Trova le scale per andare giù\n"
+
+#. key: cmd_map_find_downstair verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_downstair verbose"
+msgid ""
+"Cycles through stairs down.\n"
+msgstr ""
+"Esamina tutte le scalinate per andare giù.\n"
+
+#. key: cmd_map_find_you
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_you"
+msgid ""
+"Find me\n"
+msgstr ""
+"Trovami\n"
+
+#. key: cmd_map_find_you verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_you verbose"
+msgid ""
+"Moves the map cursor back to your current position.\n"
+msgstr ""
+"Fa tornare il cursore della mappa alla tua posizione corrente.\n"
+
+#. key: cmd_map_find_portal
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_portal"
+msgid ""
+"Find shops and portals\n"
+msgstr ""
+"Trova portali e negozi\n"
+
+#. key: cmd_map_find_portal verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_portal verbose"
+msgid ""
+"Cycles through shops and portals on the current level.\n"
+msgstr ""
+"Esamina tutti i portali e negozi sul livello corrente.\n"
+
+#. key: cmd_map_find_trap
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_trap"
+msgid ""
+"Find traps\n"
+msgstr ""
+"Trova trappole\n"
+
+#. key: cmd_map_find_trap verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_trap verbose"
+msgid ""
+"Cycles through traps on the current level.\n"
+msgstr ""
+"Esamina tutte le trappole sul livello corrente.\n"
+
+#. key: cmd_map_find_altar
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_altar"
+msgid ""
+"Find altars\n"
+msgstr ""
+"Trova altari\n"
+
+#. key: cmd_map_find_altar verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_altar verbose"
+msgid ""
+"Cycles through altars on the current level.\n"
+msgstr ""
+"Esamina tutti gli altari sul livello corrente.\n"
+
+#. key: cmd_map_find_excluded
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_excluded"
+msgid ""
+"Find travel exclusion\n"
+msgstr ""
+"Trova esclusioni di viaggio\n"
+
+#. key: cmd_map_find_excluded verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_excluded verbose"
+msgid ""
+"Cycles through travel exclusions on the current level.\n"
+msgstr ""
+"Esamina tutte le esclusioni di viaggio sul livello corrente\n"
+
+#. key: cmd_map_find_waypoint
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_waypoint"
+msgid ""
+"Find waypoint\n"
+msgstr ""
+"Trova punto di riferimento\n"
+
+#. key: cmd_map_find_waypoint verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_waypoint verbose"
+msgid ""
+"Cycles through all waypoints on the current level.\n"
+msgstr ""
+"Esamina tutti i punti di riferimento sul livello corrente.\n"
+
+#. key: cmd_map_find_stash
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_stash"
+msgid ""
+"Find stash\n"
+msgstr ""
+"Trova deposito\n"
+
+#. key: cmd_map_find_stash verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_stash verbose"
+msgid ""
+"Cycles through all stashes on the current level.\n"
+msgstr ""
+"Esamina tutti i depositi sul livello corrente.\n"
+
+#. key: cmd_zoom_in
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_zoom_in"
+msgid ""
+"Zoom in\n"
+msgstr ""
+"Ingrandisci\n"
+
+#. key: cmd_zoom_in verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_zoom_in verbose"
+msgid ""
+"Zooms in on dungeon area.\n"
+msgstr ""
+"Ingrandisci un'area del Dungeon\n"
+
+#. key: cmd_zoom_out
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_zoom_out"
+msgid ""
+"Zoom out\n"
+msgstr ""
+"Rimpicciolisci\n"
+
+#. key: cmd_zoom_out verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_zoom_out verbose"
+msgid ""
+"Zooms out on dungeon area.\n"
+msgstr ""
+"Rimpicciolisci un'area del Dungeon\n"
+
+#. key: deep elf
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:deep elf"
+msgid ""
+"Deep Elves have a strong affinity for all kinds of magic, but are very fragile.\n"
+"They regenerate magical power rapidly.\n"
+msgstr ""
+"Gli elfi delle profondità sono la specie più affine alla magia, ma anche la più\n"
+"fragile.\n"
+
+#. key: demigod
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:demigod"
+msgid ""
+"Demigods refuse to worship any god, but make up for this with divine attributes\n"
+"and high reserves of health and magic.\n"
+msgstr ""
+"I semidei non possono adorare una divinità, ma hanno attributi ultraterreni e\n"
+"godono di una salute ugualmente straordinaria.\n"
+
+#. key: demonspawn
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:demonspawn"
+msgid ""
+"Demonspawn are half human, half demon. They acquire strong demonic mutations as\n"
+"they grow.\n"
+msgstr ""
+"I demoniaci sono mezzi uomini e mezzi demoni. Acquisendo potere subiscono\n"
+"potenti mutazioni che derivano dalla loro discendenza.\n"
+
+#. key: draconian
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:draconian"
+msgid ""
+"Draconians are versatile hybrids. They mature when reaching level 7 and develop\n"
+"a colour.\n"
+msgstr ""
+"I draconici sono ibridi versatili. Al raggiungimento del livello sette maturano\n"
+"acquisendo il colore che deriva dalla loro parentela e delle relative\n"
+"caratteristiche.\n"
+
+#. key: felid
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:felid"
+msgid ""
+"Felids are many-lived sentient cats. They cannot use armour or weapons.\n"
+msgstr ""
+"I felidi sono gatti dalle molte vite sono senzienti, ma non sono in grado di\n"
+"manipolare oggetti complessi, né indossare armature e utilizzare le armi.\n"
+
+#. key: gargoyle
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:gargoyle"
+msgid ""
+"Made of living stone, Gargoyles have a preternatural affinity for earth magic.\n"
+"They have low health, but their stone bodies are incredibly tough.\n"
+msgstr ""
+"Fatti di pietra vivente, i Gargoyle hanno un'innaturale affinità con la terra.\n"
+
+#. key: human
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:human"
+msgid ""
+"Humans are natural explorers. Discovering new places refreshes and invigorates them.\n"
+"They are otherwise completely average.\n"
+msgstr ""
+"Gli umani sono diffusi e le loro abilità sono nella media.\n"
+
+#. key: tengu
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:tengu"
+msgid ""
+"Tengu are bird-people who love to fight, both with weapons and spells. They are\n"
+"fragile but agile, and eventually learn to fly.\n"
+msgstr ""
+"I tengu sono uomini uccello che amano combattere, sia con le armi che con la\n"
+"magia. Sono abbastanza fragili ma con l'aumentare dell'esperienza imparano a\n"
+"usare le loro ali per spiccare il volo.\n"
+
+#. key: merfolk
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:merfolk"
+msgid ""
+"Half fish, half human, Merfolk are citizens of both water and land. They are\n"
+"strong combatants, and adept at using magic to assist in battle.\n"
+msgstr ""
+"I tritoni sono mezzi pesci e mezzi umani, cittadini sia dell'acqua che della\n"
+"terraferma, sono combattenti potenti e competenti nella magia che assiste in\n"
+"battaglia.\n"
+
+#. key: minotaur
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:minotaur"
+msgid ""
+"Minotaurs are large muscular humans with bovine heads. They excel at all forms\n"
+"of close and ranged combat.\n"
+msgstr ""
+"I minotauri sono umani particolarmente muscolosi con la testa di un toro. Sono\n"
+"formidabili in tutte le forme di combattimento in mischia e con le armi a\n"
+"distanza.\n"
+
+#. key: mummy
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:mummy"
+msgid ""
+"Compelled to walk by an ancient curse, Mummies have innate faith and are adept\n"
+"at Necromancy, but learn other skills very slowly. They cannot drink potions.\n"
+msgstr ""
+"Le mummie sono non morti coperti di bende impregnate di fluidi di\n"
+"imbalsamazione, obbligate a camminare tra i viventi per via di una maledizione\n"
+"antica.\n"
+
+#. key: naga
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:naga"
+msgid ""
+"Nagas are hybrids: human from the waist up, with a snake-like tail instead of\n"
+"legs. They move very slowly but are naturally resilient.\n"
+msgstr ""
+"I naga sono ibridi umani dalla cintura in su, con un torso muscoloso e coperto\n"
+"di scaglie che spunta da un ventre e una coda di serpente. Si muovono\n"
+"lentamente ma sono naturalmente resistenti.\n"
+
+#. key: octopode
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:octopode"
+msgid ""
+"Octopodes are a species of amphibious cephalopods. They can wear eight rings,\n"
+"but almost no armour fits them.\n"
+msgstr ""
+"Gli ottopodi sono una specie di cefalopode anfibio. Possono indossare sino a\n"
+"otto anelli sui tentacoli, ma in pratica non sono adatti ad alcuna armatura.\n"
+
+#. key: spriggan
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:spriggan"
+msgid ""
+"Very small, very frail and very fast, Spriggans are highly competent stabbers\n"
+"and spellcasters.\n"
+msgstr ""
+"Gli spriggan sono molto piccoli, molto fragili ed estremamente veloci. Questo\n"
+"fa di loro dei maghi molto potenti e degli straordinari assassini.\n"
+
+#. key: troll
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:troll"
+msgid ""
+"Trolls are monstrous creatures with powerful claws. They regenerate health\n"
+"rapidly.\n"
+msgstr ""
+"I troll sono grandi energumeni pronti a lacerare qualsiasi cosa con i loro\n"
+"temibili artigli, senza pensarci due volte. Hanno sempre fame.\n"
+
+#. key: air elementalist
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:air elementalist"
+msgid ""
+"Air Elementalists have learned the Shock spell. Their electrical magic can harm\n"
+"groups of foes, while their air spells assist in fighting or fleeing enemies.\n"
+msgstr ""
+"Gli elementalisti dell'aria hanno imparato l'incantesimo Shock. Più avanti il\n"
+"loro Libro dell'Aria fornisce loro la flessibilità per sopravvivere.\n"
+
+#. key: artificer
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:artificer"
+msgid ""
+"Artificers start with a few magic wands and a club. They'll need to find better\n"
+"weapons and armour before their wands run out.\n"
+msgstr ""
+"Gli artefici iniziano il gioco con alcuni oggetti magici e sono competenti nel\n"
+"loro uso.\n"
+
+#. key: berserker
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:berserker"
+msgid ""
+"Berserkers believe in Trog, the magic-hating god of frenzy. Not much can stop a\n"
+"raging berserker early on, apart from hubris.\n"
+msgstr ""
+"I berserker credono in Trog, il dio della furia che odia la magia. Poche cose\n"
+"inizialmente possono fermare un berserker infuriato, tranne l'arroganza.\n"
+
+#. key: chaos knight
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:chaos knight"
+msgid ""
+"Chaos Knights are playthings of the unpredictable Xom, and are subject to the\n"
+"god's constantly changing moods.\n"
+msgstr ""
+"I cavalieri del caos sono burattini dell'imprevedibile divinità Xom e sono\n"
+"soggetti al suo continuo cambio di umore.\n"
+
+#. key: conjurer
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:conjurer"
+msgid ""
+"Conjurers begin with the Magic Dart spell, and can learn other non-elemental\n"
+"spells to reliably blast their foes.\n"
+msgstr ""
+"I maghi della comparizione affrontano i problemi con incantesimi potenti di\n"
+"danno diretto dal Libro della Comparizione.\n"
+
+#. key: earth elementalist
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:earth elementalist"
+msgid ""
+"Earth Elementalists know the Sandblast spell, and can later learn more earthen\n"
+"spells suitable for subtle stabbing or brute-force blasting.\n"
+msgstr ""
+"Gli elementalisti della terra conoscono l'incantesimo Esplosione di Sabbia e\n"
+"portano con sé delle pietre per aumentare il suo potere. Nel loro libro di\n"
+"Geomanzia ci sono altri incantesimi della terra.\n"
+
+#. key: enchanter
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:enchanter"
+msgid ""
+"Enchanters know a variety of Hexes that can incapacitate their foes, and are\n"
+"equipped with an enchanted dagger and potions of invisibility.\n"
+msgstr ""
+"Gli incantatori usano incantesimi per aumentare le loro capacità in battaglia o\n"
+"mettere in difficoltà i nemici. Cominciano anche con dei buoni dardi.\n"
+
+#. key: fire elementalist
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:fire elementalist"
+msgid ""
+"Fire Elementalists have learned the Foxfire spell. Their other starting spells\n"
+"are likewise focused on fiery and explosive destruction.\n"
+msgstr ""
+"Gli elementalisti del fuoco cominciano con il Libro delle Fiamme e conoscono\n"
+"l'incantesimo Lingua di Fuoco. Gli altri incantesimi del libro sono comunque\n"
+"incentrati sulla distruzione.\n"
+
+#. key: gladiator
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:gladiator"
+msgid ""
+"Gladiators are ready for the arena with light armour, a weapon of their choice,\n"
+"and a few throwing weapons and nets.\n"
+msgstr ""
+"I gladiatori sono pronti per l'arena con armature leggere, scudi, reti e\n"
+"un'arma a scelta.\n"
+
+#. key: hedge wizard
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:hedge wizard"
+msgid ""
+"Hedge Wizards are magic generalists, good at using a wide variety of tools to\n"
+"frustrate their foes and gain an edge in the battlefield.\n"
+msgstr ""
+"I maghi cominciano con il Libro della Magia Minore che contiene una gamma di\n"
+"incantesimi piuttosto diversi. Hanno la riserva magica più grande di ogni altro\n"
+"profilo.\n"
+
+#. key: hunter
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:hunter"
+msgid ""
+"Hunters carry a shortbow, light armour and a scroll of butterflies.\n"
+msgstr ""
+"I cacciatori sono abili ad attaccare a distanza, senza fare affidamento sulla\n"
+"magia.\n"
+
+#. key: ice elementalist
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:ice elementalist"
+msgid ""
+"Ice Elementalists begin with the Freeze spell. Their later spells provide strong\n"
+"offence and defence, but may restrict their movement.\n"
+msgstr ""
+"Gli elementalisti del ghiaccio cominciano con il Libro del Gelo e l'incantesimo\n"
+"Raggelare. Gli altri incantesimi del libro sono piuttosto versatili.\n"
+
+#. key: monk
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:monk"
+msgid ""
+"Monks start with a simple weapon of their choice, an orb of light, and a potion\n"
+"of divine ambrosia, and gain additional piety with the first god they worship.\n"
+msgstr ""
+"I monaci affrontano il dungeon indossando soltanto una tunica e usando il loro\n"
+"corpo.\n"
+
+#. key: necromancer
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:necromancer"
+msgid ""
+"Necromancers start out with the Soul Splinter spell. Eventually, they can turn\n"
+"the dead into allies and use the life force of the living to restore themselves.\n"
+msgstr ""
+"I negromanti sono maghi specialisti nella magia della morte. Cominciano con\n"
+"l'incantesimo Dolore.\n"
+
+#. key: summoner
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:summoner"
+msgid ""
+"Summoners are able to cast Summon Small Mammal from the start, and begin with\n"
+"spells to summon stronger and more exotic allies in their library.\n"
+msgstr ""
+"Gli attrattori cominciano con il Libro delle Chiamate e sono in grado\n"
+"inizialmente di attrarre piccolo mammifero.\n"
+
+#. key: wanderer
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:wanderer"
+msgid ""
+"Wanderers start with random equipment and skills.\n"
+msgstr ""
+"Gli erranti cominciano con equipaggiamento e abilità casuali.\n"
+
+#. key: warper
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:warper"
+msgid ""
+"Warpers start with a weapon of their choice, a scroll of blinking, darts of\n"
+"disjunction, and some Translocation spells in their library.\n"
+msgstr ""
+"I distorsori cominciano con un'arma a scelta e una pergamena di Lampeggio.\n"
+"Possono imparare incantesimi dal Libro delle Traslocazioni dello Spazio.\n"
+
+#. key: welcome
+#. Preserve {{ lua }} delimiters exactly.
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:welcome"
+msgid ""
+"<white>Welcome to Dungeon Crawl!</white>\n"
+"\n"
+"Your objective is to lead your <w>{{ return you.race() }} {{ return you.class()\n"
+"}}</w> safely through the depths of the dungeon, retrieving the fabled Orb of\n"
+"Zot and returning it to the surface. In the beginning, however, let discovery\n"
+"be your main goal. Try to delve as deeply as possible but beware; death lurks\n"
+"around every corner.\n"
+"\n"
+"For the moment, just remember the following keys and their functions:\n"
+"  <input>$cmd[CMD_DISPLAY_COMMANDS]?</input> — shows the items and the commands\n"
+"  <input>$cmd[CMD_SAVE_GAME]</input>  — saves the game, to be resumed later\n"
+"(but note that death is permanent)\n"
+"  <input>$cmd[CMD_LOOK_AROUND]</input>  — examines something in your vicinity\n"
+"\n"
+"The hint mode will help you play Crawl without reading any documentation. If\n"
+"you haven't yet, you might want to try out the tutorial. Also, if you feel\n"
+"intrigued, there is more information available in the following files from the\n"
+"docs/ directory (all of which can also be read in-game):\n"
+"  <lightblue>quickstart.txt</lightblue>     — A very short guide to Crawl.\n"
+"  <lightblue>crawl_manual.txt</lightblue>   — This contains all details on\n"
+"species, magic, skills, etc.\n"
+"  <lightblue>options_guide.txt</lightblue>  — Crawl's interface is highly\n"
+"configurable. This document explains all the options.\n"
+"\n"
+"Happy Crawling!\n"
+msgstr ""
+"<white>Benvenuto a Dungeon Crawl!</white>\n"
+"\n"
+"Il tuo obiettivo è condurre un <w>{{ return you.race() }} {{ return you.class()\n"
+"}}</w> vivo sino alle profondità del dungeon, catturando la Sfera di Zot per\n"
+"poi tornare in superficie. All'inizio, però, lascia che sia la scoperta il tuo\n"
+"obiettivo principale. Prova a scendere più in basso che puoi ma bada! La morte\n"
+"si nasconde dietro ogni angolo.\n"
+"\n"
+"Per il momento, basta che ti ricordi questi comandi e le loro funzioni:\n"
+"  <input>$cmd[CMD_DISPLAY_COMMANDS]?</input> — mostra gli oggetti e i comandi\n"
+"  <input>$cmd[CMD_SAVE_GAME]</input>  — salva il gioco, per essere ripreso dopo\n"
+"(ma ricorda che la morte è permanente)\n"
+"  <input>$cmd[CMD_LOOK_AROUND]</input>  — esamina qualcosa nella tuoi pressi\n"
+"\n"
+"La modalità suggerimenti ti aiuterà a giocare a Crawl senza leggere alcuna\n"
+"documentazione. Se ancora non l'hai fatto, leggi il tutorial. Se ti senti\n"
+"intrigato, ci sono più informazioni disponibili nei seguenti files dalla\n"
+"cartella docs/ (che possono essere tutti letti durante il gioco):\n"
+"  <lightblue>quickstart.txt</lightblue>      — Una brevissima guida a Crawl.\n"
+"  <lightblue>crawl_manual.txt</lightblue>    — Questo contiene tutti i dettagli\n"
+"sulle specie, magie, abilità, ecc.\n"
+"  <lightblue>options_guide.txt</lightblue>i  — L'interfaccia di Crawl è molto\n"
+"configurabile. Questo documento spiega tutte le opzioni.\n"
+"\n"
+"Buon Crawling!\n"
+
+#. key: death
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:death"
+msgid ""
+"Condolences! Your character's premature death is a sad, but common occurrence\n"
+"in Crawl. Rest assured that with diligence and playing experience your\n"
+"characters will last longer.\n"
+"\n"
+"Perhaps the following advice can improve your playing style:\n"
+msgstr ""
+"Condoglianze! La morte prematura del tuo personaggio è triste, ma è\n"
+"un'occorrenza comune in Crawl. Sii sicuro che con diligenza e con esperienza\n"
+"nel giocare i tuoi personaggi dureranno di più.\n"
+"\n"
+"Magari questi consigli possono migliorare il tuo stile di gioco:\n"
+
+#. key: death conjurer melee
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:death conjurer melee"
+msgid ""
+"As a Conjurer your main weapon should be offensive magic. Cast spells more\n"
+"often! Remember to rest when your Magic is low.\n"
+msgstr ""
+"Come mago della Comparizione la tua arma principale dovrebbe essere la magia.\n"
+"Lancia incantesimi più spesso! Ricordati di riposare quando la tua Magia è\n"
+"bassa.\n"
+
+#. key: death berserker unberserked
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:death berserker unberserked"
+msgid ""
+"Don't forget to go berserk when fighting particularly difficult foes. It's\n"
+"risky, but makes you faster and beefier.\n"
+msgstr ""
+"Non scordarti di infuriarti quando combatti contro nemici particolarmente\n"
+"difficili. È rischioso, ma ti fa più forte e resistente.\n"
+
+#. key: death ranger melee
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:death ranger melee"
+msgid ""
+"Your bow and arrows are extremely powerful against distant monsters.\n"
+msgstr ""
+"Il tuo arco e frecce sono molto potenti contro i nemici lontani. Assicurati di\n"
+"raccogliere tutte le frecce che trovi per terra nel dungeon.\n"
+
+#. key: death random 0
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:death random 0"
+msgid ""
+"Always consider using projectiles, wands or spells before engaging monsters in\n"
+"close combat.\n"
+msgstr ""
+"Prendi sempre in considerazione l'utilizzo di armi a distanza, bacchette o\n"
+"incantesimi prima di attaccare i nemici da vicino.\n"
+
+#. key: death random 1
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:death random 1"
+msgid ""
+"Learn when to run away from things you can't handle — this is important! It is\n"
+"often wise to skip a particularly dangerous level. But don't overdo this as\n"
+"monsters will only get harder the deeper you delve.\n"
+msgstr ""
+"Impara quando fuggire dalle cose che non puoi sconfiggere — questo è\n"
+"importante! Spesso è saggio saltare un livello particolarmente pericoloso. Ma\n"
+"non esagerare poiché i mostri diventeranno più forti più scendi in profondità.\n"
+
+#. key: death random 2
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:death random 2"
+msgid ""
+"Rest between encounters, if possible in an area already explored and cleared of\n"
+"monsters. Pressing <input>$cmd[CMD_REST]</input><localtiles>, or\n"
+"<input>clicking on the 'rest' button in the command bar'</input></localtiles>\n"
+"will rest for 100 turns, or until fully healed.\n"
+msgstr ""
+"Riposati tra le battaglie, se possibile in una zona già esplorata e libera da\n"
+"mostri. Premendo <input>$cmd[CMD_REST]</input><localtiles> o <input>cliccando\n"
+"l'area delle statistiche</input></localtiles> ti farà riposare per un momento\n"
+"(smetterai di riposarti quando sarai totalmente curato o dopo 100 turni).\n"
+
+#. key: death random 3
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:death random 3"
+msgid ""
+"Remember to use those scrolls, potions or wands you've found. Learn to\n"
+"improvise: you will need to identify potions and scrolls by using them.\n"
+msgstr ""
+"Ricorda di usare quelle pergamene, pozioni o bacchette che hai trovato. Molto\n"
+"spesso, non puoi aspettarti di identificare tutto solo con le pergamene. Impara\n"
+"a improvvisare: identifica con l'uso.\n"
+
+#. key: death random 5
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:death random 5"
+msgid ""
+"Never fight more than one monster, if you can help it. Always back into a\n"
+"corridor so that they are forced to fight you one on one.\n"
+msgstr ""
+"Non combatter mai più di un mostro alla volta, se puoi evitare. Ritirati in un\n"
+"corridoio così che puoi costringere i nemici ad attaccarti uno alla volta.\n"
+
+#. key: finished
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:finished"
+msgid ""
+"Congrats! You survived until the end of hints mode — be sure to try the\n"
+"other characters as well. Note that the command help screen\n"
+"(<input>$cmd[CMD_DISPLAY_COMMANDS]?</input>) will look very different from now\n"
+"on. Here's a last playing hint:\n"
+msgstr ""
+"Congratulazione! Sei sopravvissuto fino alla fine della modalità suggerimenti —\n"
+"assicurati di provare anche le altre. Nota che la schermata d'aiuto\n"
+"(<input>$cmd[CMD_DISPLAY_COMMANDS]?</input>) sarà molto diverso da adesso in\n"
+"poi. Eccoti un ultimo suggerimento per giocare\n"
+
+#. key: finished explored
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:finished explored"
+msgid ""
+"Walking around and exploring levels gets easier by using auto-explore\n"
+"(<input>$cmd[CMD_EXPLORE]</input>). Crawl will let you automatically move to\n"
+"and pick up interesting items.<localtiles>\n"
+"\n"
+"Autoexploration can also be started by <input>Ctrl-Leftclick</input> on the\n"
+"minimap.</localtiles>\n"
+msgstr ""
+"Vagare e esplorare livelli diventa più facile utilizzando l'autoesplorazione\n"
+"(<input>$cmd[CMD_EXPLORE]</input>). Crawl ti permette di muoverti\n"
+"automaticamente e raccogliendo oggetti interessanti<localtiles>\n"
+"\n"
+"L'autoesplorazione può anche essere iniziata facendo  <input>Ctrl-click\n"
+"sinistro</input> sulla minimappa</localtiles>\n"
+
+#. key: finished travel
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:finished travel"
+msgid ""
+"There is a convenient way to travel between distant dungeon levels: press\n"
+"<input>$cmd[CMD_INTERLEVEL_TRAVEL]</input> and enter the desired destination.\n"
+"If your travel gets interrupted, issuing <input>$cmd[CMD_INTERLEVEL_TRAVEL]\n"
+"Enter</input> will continue it.\n"
+msgstr ""
+"C'è un modo conveniente per viaggiare fra i livelli distanti del dungeon: premi\n"
+"<input>$cmd[CMD_INTERLEVEL_TRAVEL]</input>  e entra nella destinazione\n"
+"desiderata. Se il tuo viaggio è interrotto, premere\n"
+"<input>$cmd[CMD_INTERLEVEL_TRAVEL] Enter</input> lo farà riprendere.\n"
+
+#. key: finished stashes
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:finished stashes"
+msgid ""
+"You can search among all items existing in the dungeon with the\n"
+"<input>$cmd[CMD_SEARCH_STASHES]</input> command. For example,\n"
+"<input>$cmd[CMD_SEARCH_STASHES]</input> <w>“dagger”</w> will list all daggers,\n"
+"and allow you to travel to them. You can even search for dungeon features, like\n"
+"<w>“shop”</w> or <w>“altar”</w>.\n"
+msgstr ""
+"Puoi cercare fra tutti gli oggetti esistenti nel dungeon con il comando\n"
+"<input>$cmd[CMD_SEARCH_STASHES]</input>. Per esempio,\n"
+"<input>$cmd[CMD_SEARCH_STASHES]</input> <w>«pugnale»</w> farà la lista di tutti\n"
+"i pugnali. Puoi in seguito viaggiare fino ad uno dei posti indicati. È anche\n"
+"possibile scrivere parole come <w>«negozio»</w> o <w>«altare»</w>.\n"
+
+#. key: finished random 0
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:finished random 0"
+msgid ""
+"The game keeps an automated log for your characters. Use\n"
+"<input>$cmd[CMD_DISPLAY_COMMANDS]:</input> to read it. Once your character\n"
+"perishes, two morgue files are left in the <w>morgue/</w> directory. The one\n"
+"ending in .txt contains a copy of your log. During play, you can create a dump\n"
+"file with <input>$cmd[CMD_CHARACTER_DUMP]</input>.\n"
+msgstr ""
+"Il gioco tiene un diario automatizzato per i tuoi personaggi. Usa\n"
+"<input>$cmd[CMD_DISPLAY_COMMANDS]:</input> per leggerlo. Puoi scrivere\n"
+"manualmente delle note col comando <input>$cmd[CMD_MAKE_NOTE]</input>. Una\n"
+"volta che il tuo personaggio perisce, duo file morgue sono lasciati nella\n"
+"cartella <w>morgue/</w>. Quella che finisce in .txt contiene una copia del tuo\n"
+"diario. Durante il gioco, puoi creare un file dump con\n"
+"<input>$cmd[CMD_CHARACTER_DUMP]</input>.\n"
+
+#. key: finished random 1
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:finished random 1"
+msgid ""
+"Crawl has a macro function built in: press <input>$cmd[CMD_MACRO_MENU]</input>\n"
+"to define a macro by first specifying a trigger key (say, <input>F1</input>)\n"
+"and a command sequence, for example <input>za.</input>. The latter will make\n"
+"the <input>F1</input> key always zap the spell in slot a at the nearest\n"
+"monster. For more information on macros, type\n"
+"<input>$cmd[CMD_DISPLAY_COMMANDS]~</input>.\n"
+msgstr ""
+"Crawl ha incorporato una funziona per le macro: premi <input>~m</input> per\n"
+"definire una macro specificando prima il tasto che l'attiverà (ad esempio,\n"
+"<input>F1</input>), poi una sequenza di comandi, come <input>za+.</input>. Il\n"
+"secondo farà si che il tasto <input>F1</input> farà sempre lanciare\n"
+"l'incantesimo in quello slot al mostro più vicino. Per più informazioni sulle\n"
+"macro, premi <input>$cmd[CMD_DISPLAY_COMMANDS]~</input>.\n"
+
+#. key: finished random 2
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:finished random 2"
+msgid ""
+"The interface can be greatly customised. All options are explained in the file\n"
+"<w>options_guide.txt</w> which can be found in the <w>docs</w> directory. The\n"
+"options themselves are set in <w>init.txt</w> or <w>.crawlrc</w>. Crawl will\n"
+"complain if it can't find either file.\n"
+msgstr ""
+"L'interfaccia può essere altamente personalizzata. Tutte le opzioni sono\n"
+"spiegate nel file <w>options_guide.txt</w> che può essere trovato nella\n"
+"cartella <w>docs</w>. Le opzioni sono in <w>init.txt</w> o <w>.crawlrc</w>.\n"
+"Crawl darà problemi se non potrà trovare uno di questi due files.\n"
+
+#. key: finished random 3
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:finished random 3"
+msgid ""
+"You can ask other Crawl players for advice and help using any of the community\n"
+"resources described at http://crawl.develz.org/\n"
+msgstr ""
+"Puoi chiedere aiuto e consigli agli altri giocatori di Crawl sul canale di IRC\n"
+"(Internet Relay Chat) <w>#crawl</w> sul Libera (<w>irc.libera.chat</w>).\n"
+
+#. key: hint_convert xom
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:hint_convert xom"
+msgid ""
+"You've just converted to worshipping <w>Xom</w>. As a follower of Xom, you'll\n"
+"be treated like a plaything, randomly helped or harmed for Xom's own amusement.\n"
+"\n"
+"There is no way to guarantee Xom remains in a good mood - the best any follower\n"
+"can hope for is to avoid letting Xom grow bored!\n"
+msgstr ""
+"Hai appena iniziato a venerare <w>Xom</w>. Puoi far contento Xom facendolo\n"
+"divertire; non devi MAI far annoiare questa divinità!\n"
+"\n"
+"Se fai divertire Xom ti tratterà come un giocattolino, aiutandoti e ferendoti a\n"
+"caso per il suo divertimento; in caso contrario ti tratterà come un vecchio\n"
+"giocattolo.\n"
+
+#. key: hint_convert
+#. Preserve {{ lua }} delimiters exactly.
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:hint_convert"
+msgid ""
+"You've just converted to worshipping <w>{{ return you.god() }}</w>. Your piety\n"
+"(divine favour) will increase as you do things to please your new god, and will\n"
+"gradually decrease over time.\n"
+"\n"
+"You can check your god's likes and dislikes, as well as your current standing\n"
+"and divine abilities, by typing\n"
+"<input>$cmd[CMD_DISPLAY_RELIGION]</input><localtiles>, or by pressing\n"
+"<input>Shift-right-click</input> on your avatar</localtiles>.\n"
+msgstr ""
+"Hai appena iniziato a venerare <w>{{ return you.god() }}</w>. Il tuo favore\n"
+"divino (o pietà divina) decrescerà naturalmente con il tempo, e se finisce {{\n"
+"return you.god() }} ti scomunicherà e ti punirà. Però puoi evitarlo, e puoi\n"
+"addirittura ottenere abbastanza favore divino per ottenere poteri aggiuntivi e\n"
+"doni divini, tutto ciò soddisfacendo {{ return you.god() }}. Ma non\n"
+"preoccuparti: inizi sempre con un ammontare decente di pietà, scacciando così\n"
+"il pericolo di scomunica.\n"
+"\n"
+"Puoi vedere ciò che piace e non piace alla tua divinità, il tuo rapporto e\n"
+"abilità divine premendo <input>^</input><localtiles> (in via alternativa, puoi\n"
+"anche premere <input>Click destro-Shift</input> sul tuo avatar)</localtiles>.\n"
+
+#. key: hint_seen_first_object
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:hint_seen_first_object"
+msgid ""
+"That <console>$1 </console>is an item. If you move there and press\n"
+"<input>$cmd[CMD_PICKUP]</input><localtiles>, or <input>left-click</input> on it\n"
+"in your inventory</localtiles>, you will pick it up.<console> Generally, items\n"
+"are shown by non-letter symbols like <w>%?!\"=()[</w>.</console> Some\n"
+"objects<tiles>, marked with a green frame,</tiles> will be picked up\n"
+"automatically.\n"
+"\n"
+"Once it is in your inventory, you can drop it again with <localtiles>a\n"
+"<input>Shift-left-click</input>. Whenever you <input>right-click</input> on an\n"
+"item</localtiles><console><input>$cmd[CMD_DROP]</input>. Any time you look at an\n"
+"item in your inventory (<input>$cmd[CMD_DISPLAY_INVENTORY]</input>)</console>,\n"
+"you can read about its properties and its description.\n"
+msgstr ""
+"Quel <console>$1 </console> è un oggetto. Se ti ci vai sopra e premi\n"
+"<input>$cmd[CMD_PICKUP]</input>, lo raccoglierai. <console> Generalmente, gli\n"
+"oggetti sono sono simboleggiati da caratteri che non sono lettere come\n"
+"<w>%?!\"=()[</w>.</console><tiles> Puoi anche raccogliere un oggetto\n"
+"cliccandoci col <input>tasto sinistro del mouse</input> stando sulla sua\n"
+"casella.</tiles> Inoltre, diversi tipi di oggetti saranno raccolti\n"
+"automaticamente. <tiles>Questi saranno marchiati da un contorno verde.</tiles>\n"
+"\n"
+"Una volta nel tuo inventario, puoi buttarlo via con <tiles>a <input>Shift-click\n"
+"sinistro</input>. Ogni volta che tu fai <input>click-destro</input> su un\n"
+"oggetto </tiles><console><input>$cmd[CMD_DROP]</input>. Ogni volta che guardi\n"
+"un oggetto nel tuo inventario\n"
+"(<input>$cmd[CMD_DISPLAY_INVENTORY]</input>)</console>, tu puoi leggere le sue\n"
+"proprietà con la sua descrizione.\n"
+
+#. key: tutorial1 go_on
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial1 go_on"
+msgid ""
+"You're doing great! Now, explore a bit until you reach the next blue square.\n"
+msgstr ""
+"Stai andando benissimo! Adesso, esplora un po' finché non raggiungi il prossimo\n"
+"quadrato blu.\n"
+
+#. key: tutorial1 door
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial1 door"
+msgid ""
+"You can open a closed door by walking into it.\n"
+msgstr ""
+"Puoi aprire una porta chiusa camminandoci.\n"
+
+#. key: tutorial1 close_door
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial1 close_door"
+msgid ""
+"To close an open door, press <input>$cmd[CMD_CLOSE_DOOR]</input>.\n"
+msgstr ""
+"Per chiudere una porta, premi <input>$cmd[CMD_CLOSE_DOOR]</input>.\n"
+
+#. key: tutorial1 water
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial1 water"
+msgid ""
+"Note how you can move through shallow but not through deep water.\n"
+msgstr ""
+"Nota che adesso puoi muoverti attraverso l'acqua bassa ma non attraverso quella\n"
+"profonda.\n"
+
+#. key: tutorial2 start
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial2 start"
+msgid ""
+"This lesson will teach you about monsters and fighting. First, we need a\n"
+"weapon! Go and grab the one lying over there.\n"
+msgstr ""
+"Questa lezione ti insegnerà il funzionamento dei mostri e del combattimento. In\n"
+"primo luogo, ci serve un'arma! Va' e prendi quella che sta li a terra.\n"
+
+#. key: tutorial2 melee
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial2 melee"
+msgid ""
+"To attack a monster with your bare hands or wielded weapon, simply walk into\n"
+"it.\n"
+msgstr ""
+"Per attaccare un mostro a mani nude o l'arma che hai in mano, è sufficiente\n"
+"camminarci sopra.\n"
+
+#. key: tutorial2 resting_reminder
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial2 resting_reminder"
+msgid ""
+"Remember, you can rest up with <input>$cmd[CMD_REST]</input>.\n"
+msgstr ""
+"Ricorda, puoi riposarti con <input>$cmd[CMD_REST]</input>.\n"
+
+#. key: tutorial2 tutorial_end
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial2 tutorial_end"
+msgid ""
+"Congratulations! You've survived your first batch of monsters! To exit the\n"
+"tutorial, simply go down these stairs.\n"
+msgstr ""
+"Congratulazioni! Sei sopravvissuto alla tuo primo gruppo di mostri! Per\n"
+"terminare il tutorial, basta scendere da queste scale.\n"
+
+#. key: tutorial2 exit
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial2 exit"
+msgid ""
+":nowrap\n"
+"<white>Tutorial 2 summary: Combat</white>\n"
+"\n"
+"<yellow>Weapons<console> <cyan>)</cyan></console></yellow>\n"
+"  <input>$cmd[CMD_PICKUP]</input>  pick up an item\n"
+"  <input>$cmd[CMD_EQUIP]</input>  equip an item<localtiles>\n"
+"  You can also do this by <input>clicking</input> on the weapon in your inventory.</localtiles>\n"
+"  <input>$cmd[CMD_QUIVER_ITEM]</input>  adjust your quiver\n"
+"\n"
+"<yellow>Monsters</yellow><localtiles>\n"
+"  <input>mouseover</input>  examine a monster\n"
+"  <input>rightclick</input> read a more detailed description</localtiles><nomouse>\n"
+"  <input>$cmd[CMD_LOOK_AROUND]</input>  examine a monster\n"
+"  <input>$cmd[CMD_LOOK_AROUND]$cmd[CMD_TARGET_DESCRIBE]</input> read a more detailed description</nomouse>\n"
+"  <input>$cmd[CMD_PRIMARY_ATTACK]</input> fire held weapon\n"
+"  <input>$cmd[CMD_FIRE]$cmd[CMD_TARGET_SELECT]</input> fire quiver at pre-targeted monster\n"
+"  <input>shift-tab</input>, <input>p</input> fire quiver at closest monster\n"
+"  <input>$cmd[CMD_FIRE]$cmd[CMD_TARGET_CYCLE_FORWARD]</input> target another monster<localtiles>\n"
+"  You can also fire a missile by <input>clicking</input> on it, then confirming the target with <input>Enter</input>.</localtiles>\n"
+"\n"
+"<yellow>Resting</yellow>\n"
+"  <input>$cmd[CMD_WAIT]</input>  wait and rest a single turn\n"
+"  <input>$cmd[CMD_REST]</input>  wait and rest up to 100 turns\n"
+msgstr ""
+":nowrap\n"
+"<yellow>Armi<console> <cyan>)</cyan></console></yellow>\n"
+"  <input>$cmd[CMD_PICKUP]</input> raccogli un oggetto\n"
+"  <input>$cmd[CMD_WIELD_WEAPON]</input> equipaggia un'arma<localtiles>\n"
+"  Puoi anche farlo <input>cliccando</input> sull'armanell'inventario.</localtiles>\n"
+"\n"
+"<yellow>Mostri</yellow><localtiles>\n"
+"  <input>posiziona il mouse</input> per esaminare un mostro\n"
+"  <input>click destro</input> leggi una descrizione può dettagliata</localtiles><nomouse>\n"
+"  <input>$cmd[CMD_LOOK_AROUND]</input>  esamina un mostro\n"
+"  <input>$cmd[CMD_LOOK_AROUND]$cmd[CMD_TARGET_DESCRIBE]</input> leggi una descrizione più dettagliata</nomouse>\n"
+"  <input>$cmd[CMD_FIRE]$cmd[CMD_TARGET_SELECT]</input> fa fuoco su un mostro già puntato\n"
+"  <input>$cmd[CMD_FIRE]$cmd[CMD_TARGET_CYCLE_FORWARD]</input> punta un altro mostro<localtiles>\n"
+"  Puoi anche fare fuoco <input>cliccandoci</input> e confermando il bersagli con <input>Invio</input>.</localtiles>\n"
+"\n"
+"<yellow>Riposarsi</yellow>\n"
+"  <input>$cmd[CMD_WAIT]</input>  aspetta e riposati per un singolo turno\n"
+"  <input>$cmd[CMD_REST]</input>  aspetta e riposati per 100 turni\n"
+"\n"
+"                  <cyan>Premi un <input>qualunque tasto</input> per liberare questo schermo...</cyan>\n"
+
+#. key: tutorial3 start
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial3 start"
+msgid ""
+"In this lesson you're going to learn about items and how to use them.\n"
+msgstr ""
+"In questa lezioni apprenderai sul funzionamento degli oggetti e come usarli.\n"
+
+#. key: tutorial3 autopickup
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial3 autopickup"
+msgid ""
+"Some types of items<tiles>, marked with a green frame,</tiles> are picked up\n"
+"automatically as you step on them.\n"
+msgstr ""
+"Alcuni tipi di oggetti<tiles>, marchiati con un contro verde,</tiles> sono\n"
+"raccolti automaticamente camminandoci sopra.\n"
+
+#. key: tutorial3 gold
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial3 gold"
+msgid ""
+"Gold can be spent in shops. It takes no inventory space and cannot be dropped.\n"
+msgstr ""
+"L'oro può essere speso nei negozi. Non ha peso e non può essere gettato.\n"
+
+#. key: tutorial3 shop
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial3 shop"
+msgid ""
+"Shops offer a variety of items, but they don't buy items from anyone.\n"
+msgstr ""
+"I negozi offrono una gamma di oggetti diversi, ma non comprano oggetti da\n"
+"nessuno.\n"
+
+#. key: tutorial3 optional_battle
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial3 optional_battle"
+msgid ""
+"Warning, this way leads to <lightred>a difficult battle</lightred>. You may\n"
+"choose to use what you've learned so far in a fight, or try to reach the other\n"
+"exit on the island. Either way, it may be a good idea to do some shopping, if\n"
+"you haven't already.\n"
+msgstr ""
+"Attenzione, questa strada porta ad <lightred>una battaglia\n"
+"difficile</lightred>. Puoi scegliere di usare quello che hai imparato in\n"
+"combattimento o puoi provare a raggiungere l'altra uscita sull'isola. In tutti\n"
+"i casi, potrebbe essere una buon'idea fare degli acquisti, se già non l'hai\n"
+"fatto.\n"
+
+#. key: tutorial3 tutorial_end
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial3 tutorial_end"
+msgid ""
+"Well done! To exit the tutorial, simply go down these stairs.\n"
+msgstr ""
+"Ben fatto! Per terminare il tutorial, basta scendere da queste scale.\n"
+
+#. key: tutorial3 exit
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial3 exit"
+msgid ""
+":nowrap\n"
+"<white>Tutorial 3 summary: Items</white>\n"
+"\n"
+"<yellow>Item commands</yellow>\n"
+"  <input>$cmd[CMD_PICKUP]</input>  pick up an item\n"
+"  <input>$cmd[CMD_DROP]</input>  drop an item\n"
+"  <input>$cmd[CMD_EQUIP]</input>  equip armour, weapons, and jewellery\n"
+"  <input>$cmd[CMD_UNEQUIP]</input>  unequip armour, weapons, and jewellery\n"
+"  <input>$cmd[CMD_READ]</input>  read a scroll\n"
+"  <input>$cmd[CMD_QUAFF]</input>  quaff a potion\n"
+"  <input>$cmd[CMD_EVOKE]</input>  evoke a wand\n"
+"\n"
+"  Use and (un)equip commands are also available from item descriptions in the inventory menu (<input>$cmd[CMD_DISPLAY_INVENTORY]</input>).<localtiles>\n"
+"  And of course, <input>mouseclicks</input> also work.</localtiles>\n"
+"\n"
+"<yellow>Other</yellow>\n"
+"  <input>$cmd[CMD_DISPLAY_COMMANDS]?</input> access the command help\n"
+"  <input>$cmd[CMD_EXPLORE]</input>  explore automatically\n"
+"  <input>$cmd[CMD_SEARCH_STASHES]</input> search for items/features previously seen<localtiles>\n"
+"  Several of these commands can also be executed by clicking in the <w>command panel</w>.</localtiles>\n"
+msgstr ""
+":nowrap\n"
+"<yellow>comandi per gli oggetti</yellow>\n"
+"  <input>$cmd[CMD_PICKUP]</input>  raccogli un oggetto\n"
+"  <input>$cmd[CMD_WEAR_ARMOUR]</input>  indossa una parte d'armatura\n"
+"  <input>$cmd[CMD_READ]</input>  leggi una pergamena\n"
+"  <input>$cmd[CMD_WIELD_WEAPON]</input>  equipaggia un'arma\n"
+"  <input>$cmd[CMD_QUAFF]</input>  bevi una pozione\n"
+"  <input>$cmd[CMD_EVOKE]</input>  evoca una bachetta\n"
+"  <input>$cmd[CMD_WEAR_JEWELLERY]</input>  indossa gioielleria\n"
+"  <input>$cmd[CMD_REMOVE_JEWELLERY]</input>  rimuovi gioielleria\n"
+"  <input>$cmd[CMD_DROP]</input>  getta un oggetto\n"
+"  I comandi per l'utilizzo sono anche disponibili anche dal menu dell'inventario (<input>$cmd[CMD_DISPLAY_INVENTORY]</input>), assieme alle descrizioni.<localtiles>\n"
+"  Ovviamente, anche i <input>click del mouse</input> funzionano.</localtiles>\n"
+"\n"
+"<yellow>Altro</yellow>\n"
+"  <input>$cmd[CMD_DISPLAY_COMMANDS]?</input> accedi agli aiuti per i comandi\n"
+"  <input>$cmd[CMD_RESISTS_SCREEN]</input>  mostra la scheda del personaggio\n"
+"  <input>$cmd[CMD_USE_ABILITY]</input>  usa un'abilità\n"
+"  <input>$cmd[CMD_EXPLORE]</input>  esplora automaticamente\n"
+"  <input>$cmd[CMD_SEARCH_STASHES]</input> cerca oggetti e/o peculiarità già viste<localtiles>\n"
+"  Alcuni di questi comandi possono essere eseguiti anche cliccando nel <w>pannello dei commandi</w>.</localtiles>\n"
+"\n"
+"                  <cyan>Premi un <input>qualunque tasto</input> per liberare questo schermo...</cyan>\n"
+
+#. key: tutorial4 start
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial4 start"
+msgid ""
+"In this lesson you're going to learn how to memorise and cast spells.\n"
+msgstr ""
+"In questa lezione apprenderai come imparare e usare incantesimi.\n"
+
+#. key: tutorial4 mephitic_cloud
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial4 mephitic_cloud"
+msgid ""
+"Mephitic Cloud is a level 3 spell, so you can't memorise it yet. To level up\n"
+"quickly, here are more training dummies — without stones to throw this time.\n"
+"\n"
+"At experience level 3, you'll be able to increase one of your stats — choosing\n"
+"<input>I</input>ntelligence will help your spellcasting even further.\n"
+msgstr ""
+"Nube Pestilenziale è un incantesimo di livello 3, quindi non puoi ancora\n"
+"memorizzarlo. Per passare velocemente di livello, qui ci sono altri manichini\n"
+"per allenamento — senza sassi da lanciarti.\n"
+"\n"
+"Al livello d'esperienza 3, potrai aumentare le tue statistiche — scegliendo\n"
+"<input>I</input>ntelligenza aiuterà ancora di più il tuo lanciare incantesimi.\n"
+
+#. key: tutorial4 aiming_clouds
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial4 aiming_clouds"
+msgid ""
+"Mephitic Cloud covers an area in noxious fumes when cast, and you'll be able to\n"
+"see the area it affects as you target it. Try to catch multiple enemies in a\n"
+"single cloud in order to be more efficient with your magic.\n"
+msgstr ""
+"Nube Pestilenziale ricopre un'area di fumi tossici quando lanciata, e potrai\n"
+"vedere l'area soggetta all'effetto mirando. Prova a prendere più nemici con una\n"
+"singola nube per essere più efficiente con la tua magia.\n"
+
+#. key: tutorial5 start
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial5 start"
+msgid ""
+"In this lesson you're going to learn about gods and how to use their powers.\n"
+msgstr ""
+"In questa lezione apprenderai il funzionamento degli dei e come usare i loro\n"
+"poteri.\n"
+
+#. key: tutorial5 piety_on_kill
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial5 piety_on_kill"
+msgid ""
+"Some gods really like it if you kill monsters in their name. Let the slaughter\n"
+"begin!\n"
+msgstr ""
+"Qualche divinità ama davvero l'uccidere mostri nel suo nome. Lascia che il\n"
+"massacro inizi!\n"
+
+#. key: tutorial5 berserk2
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial5 berserk2"
+msgid ""
+"Berserk is also really useful against multiple enemies — as long as you don't\n"
+"run out of steam in-between.\n"
+msgstr ""
+"La furia è anche molto utile contro tanti nemici — affinché non calmi durante\n"
+"la battaglia.\n"
+
+#. key: tutorial5 tutorial_end
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial5 tutorial_end"
+msgid ""
+"Congratulations! You've finished the last tutorial lesson and are now ready for\n"
+"the real game. Good luck!\n"
+"\n"
+"To exit the tutorial, just go down these stairs.\n"
+msgstr ""
+"Congratulazioni! Hai finito il tuo ultimo tutorial e sei pronto per il gioco\n"
+"vero e proprio. Buona fortuna!\n"
+"\n"
+"Per terminare il tutorial, basta scendere da queste scale.\n"
+
+#. key: tutorial5 exit
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial5 exit"
+msgid ""
+":nowrap\n"
+"<white>Tutorial 5 summary: Religion</white>\n"
+"\n"
+"<yellow>Religious commands</yellow>\n"
+"  <input>$cmd[CMD_GO_DOWNSTAIRS]</input>  pray at an altar to join a god\n"
+"  <input>$cmd[CMD_USE_ABILITY]</input>  use a divine ability\n"
+"  <input>$cmd[CMD_DISPLAY_RELIGION]</input>  check your religious standing<localtiles>\n"
+"  A <input>rightclick</input> on the player tile will also bring up the religion screen.</localtiles>\n"
+"\n"
+"<yellow>Resting</yellow>\n"
+"  <input>$cmd[CMD_WAIT]</input>  wait and rest a single turn\n"
+"  <input>$cmd[CMD_REST]</input>  wait and rest up to 100 turns\n"
+"\n"
+"<yellow>Other commands</yellow>\n"
+"  <input>$cmd[CMD_DISPLAY_OVERMAP]</input> display an overview of the dungeon\n"
+"  <input>$cmd[CMD_DISPLAY_COMMANDS]/</input>  search the description database\n"
+msgstr ""
+":nowrap\n"
+"<yellow>Comandi religiosi</yellow>\n"
+"  <input>$cmd[CMD_PRAY]</input>  prega ad un altare per venerare un dio o scrificare un cadavere\n"
+"  <input>$cmd[CMD_USE_ABILITY]</input>  usa un'abilità divina\n"
+"  <input>$cmd[CMD_DISPLAY_RELIGION]</input>  guarda il tuo status religioso<localtiles>\n"
+"  Anche un <input>click destro</input> sul giocatore farà apparire il menu della religione</localtiles>\n"
+"\n"
+"<yellow>Riposarsi</yellow>\n"
+"  <input>$cmd[CMD_WAIT]</input>  aspetta e riposati per un singolo turno\n"
+"  <input>$cmd[CMD_REST]</input>  aspetta e riposati per 100 turni\n"
+"\n"
+"<yellow>Altri comandi</yellow>\n"
+"  <input>$cmd[CMD_DISPLAY_OVERMAP]</input> mostra una visione d'insieme del Dungeon\n"
+"  <input>$cmd[CMD_DISPLAY_COMMANDS]/</input>  cerca nel database delle descrizioni\n"
+"\n"
+"                  <cyan>Premi un <input>qualunque tasto</input> per liberare questo schermo...</cyan>\n"
+

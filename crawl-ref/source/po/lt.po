@@ -1,0 +1,1296 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: crawl-data\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+#. key: amulet
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:amulet"
+msgid ""
+"An amulet to be worn as jewellery around the neck, charged with arcane powers\n"
+"of unknown provenance.\n"
+msgstr ""
+"Talismanas, skirtas nešioti ant kaklo, įkrautas nežinomos kilmės magiškomis\n"
+"galiomis.\n"
+
+#. key: potion
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:potion"
+msgid ""
+"An unlabelled flask containing a single dose of unknown liquid.\n"
+msgstr ""
+"Buteliukas skysčio.\n"
+
+#. key: ring
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:ring"
+msgid ""
+"A ring charged with arcane forces of unknown provenance, to be worn as jewellery\n"
+"on a finger.\n"
+msgstr ""
+"Talismanas, įkrautas nežinomos kilmės magiškomis galiomis, skirtas nešioti ant\n"
+"piršto.\n"
+
+#. key: scroll
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:scroll"
+msgid ""
+"A disposable arcane formula inscribed on parchment by a professional scribe or\n"
+"sorcerer. Anyone can evoke the power of the arcane formula by reading it out\n"
+"loud, but the nature of that power is not a priori apparent.\n"
+msgstr ""
+"Popieriaus ritinys, padengtas magiškais užrašais.\n"
+
+#. key: staff
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:staff"
+msgid ""
+"A staff improved with arcane powers of unknown nature.\n"
+msgstr ""
+"Lazda, sustiprinta nežinomos kilmės magiškomis galiomis.\n"
+
+#. key: wand
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:wand"
+msgid ""
+"An unusually magical sort of stick.\n"
+msgstr ""
+"Lazda. Galbūt magiška.\n"
+
+#. key: aizul
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:aizul"
+msgid ""
+"Once the primary guardian serpent of a legendary treasure hoard, she was\n"
+"disgraced after thieves looted it while she slept. She seeks to make up for her\n"
+"failure by protecting the only treasure the villains overlooked, a single\n"
+"precious talisman.\n"
+msgstr ""
+"Kadaise jis buvo pagrindinis legendinės lobių sankaupos žaltys sergėtojas, bet\n"
+"užsitraukė gėdą, kai jam bemiegant, ją išplėšė vagys. Dabar jis šliaužioja po\n"
+"požemį, kerštaudamas visiems galimiems plėšikams. Jis yra prityręs burtininkas,\n"
+"tačiau artimoje kovoje pavojingas tiek pat, kiek ir jo giminaičiai.\n"
+
+#. key: asmodeus
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:asmodeus"
+msgid ""
+"Greatest and most cunning of the Lords of Hell, Asmodeus was born when the twin\n"
+"fires of greed and treachery first sparked to life within a mortal's heart.\n"
+"His hideous body is perpetually wreathed in flame.\n"
+msgstr ""
+"Vienas archdemonų, gyvenantis Pragaro gelmėse. Jį siaučia liepsnų kamuolys.\n"
+
+#. key: azrael
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:azrael"
+msgid ""
+"A powerful, belligerent efreet. (Is there any other kind?)\n"
+msgstr ""
+"Karingas, agresyvus ifritas. (Ar būna kitokių?)\n"
+
+#. key: boris
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:boris"
+msgid ""
+"An ancient and powerful lich. Like all true liches, Boris is immortal, and will\n"
+"regenerate his desiccated skeletal remains even if completely disintegrated.\n"
+"The same cannot be said for his many victims over his many centuries, from\n"
+"which he collects and channels their dying woes and regrets.\n"
+msgstr ""
+"Itin senas ir galingas ličas. Kaip ir visi tikri ličai, Borisas yra nemirtingas\n"
+"ir gali regeneruoti savo sudžiūvusius ir kaulėtus palaikus net ir visiškai\n"
+"jiems suirus. Nors paprastai šis sudėtingas procesas trunka mėnesiais ar netgi\n"
+"metais, Borisas jį įvaldė tiek, kad gali atgyti per kelias minutes.\n"
+
+#. key: cerebov
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:cerebov"
+msgid ""
+"A violent and wrathful demon, Cerebov appears as a giant humanoid covered in\n"
+"shining golden armour and wielding a huge twisted sword.\n"
+msgstr ""
+"Rūstus ir smarkus demonas, Cerebovas atrodo lyg milžiniškas žmogus, apsidengęs\n"
+"auksiniais šarvais ir laikantis didžiulį suktą kardą rankose.\n"
+
+#. key: chuck
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:chuck"
+msgid ""
+"Chuck the stone giant loves rocks, the bigger the better! Over the years, he\n"
+"has managed to amass quite the collection, including some rare, enchanted ones.\n"
+msgstr ""
+"Čakas akmens milžinas mėgsta akmenis, kuo didesni, tuo geriau! Laikui bėgant,\n"
+"jis sugebėjo sukaupti gan nemažą kolekciją, įskaitant ir keletą retų, užburtų\n"
+"akmenų.\n"
+
+#. key: crazy yiuf
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:crazy yiuf"
+msgid ""
+"A withered old gnoll with a long silver beard, wielding a quarterstaff and\n"
+"wearing a cloak. He looks like a figure from mythology! Wait, is his beard held\n"
+"on to his ears with hooks?\n"
+msgstr ""
+"Senas ir sudžiūvęs gnolis ilga sidabriška barzda, laikantis lazdą ir vilkintis\n"
+"apsiaustą. Jis atrodo lyg mitinė asmenybė! Pala, ar jo barzda kabliukais\n"
+"užkabinta ant jo ausų?\n"
+
+#. key: dispater
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:dispater"
+msgid ""
+"Greatest and most ruthless of the Lords of Hell, Dispater was born when first an\n"
+"iron sword drank mortal blood. They despise mortal vanities, the pursuit of\n"
+"‘reason’ and ‘beauty’ - the only art they enjoy is the art of war.\n"
+msgstr ""
+"Geležinio Dis Miesto valdovas.\n"
+
+#. key: dissolution
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:dissolution"
+msgid ""
+"The Pits of Slime used to be a thriving civilisation, and Dissolution was the\n"
+"prophet of their god. When the city was overtaken by its current residents,\n"
+"only Dissolution survived, for they alone turned faithfully to the Slime God.\n"
+"Dissolution became a tremendous mass of acidic ooze, yet retained their\n"
+"intelligence. They are filled with hatred for anything that can hold a form.\n"
+msgstr ""
+"Gleivių Olos kadaise buvo klestinti civilizacija, o Beformis buvo jų dievybės\n"
+"pranašas. Kai miestą užėmė dabartiniai jo gyventojai, išliko tik Beformis, nes\n"
+"jis vienintelis pradėjo ištikimai garbinti Gleivių Dievybę. Beformis pavirto\n"
+"milžiniška mase rūgštingo dumblo, tačiau išlaikė savo protą. Jis pilnas\n"
+"neapykantos viskam, kas turi formą.\n"
+
+#. key: donald
+#. Preserve {{ lua }} delimiters exactly.
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:donald"
+msgid ""
+"{{\n"
+"    local descript = \"An adventurer just like you, trying to find the Orb.\"\n"
+"\n"
+"    if you.race() ~= \"Merfolk\" and you.race() ~= \"Octopode\" then\n"
+"        descript = descript .. \" Unlike you, and d\"\n"
+"    else\n"
+"        descript = descript .. \" D\"\n"
+"    end\n"
+"\n"
+"    descript = descript .. \"espite his hatred of it, he takes to water \" ..\n"
+"                           \"like a fowl.\"\n"
+"\n"
+"    return descript\n"
+"}}\n"
+msgstr ""
+"{{\n"
+"    local descript = \"Nuotykių ieškotojas kaip ir jūs, bandantis surasti\n"
+"Rutulį.\"\n"
+"\n"
+"    if you.race() ~= \"Merfolk\" and you.race() ~= \"Octopode\" then\n"
+"        descript = descript .. \" Ne taip, kaip jūs, ir n\"\n"
+"    else\n"
+"        descript = descript .. \" N\"\n"
+"    end\n"
+"\n"
+"    descript = descript .. \"epaisant to, kad jis nemėgsta vandens, jį ten \" ..\n"
+"                           \"nenumaldomai traukia.\"\n"
+"\n"
+"    return descript\n"
+"}}\n"
+
+#. key: dowan
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:dowan"
+msgid ""
+"A beautiful but vain deep elf with an aptitude for magic and little else. His\n"
+"skills are the perfect complement of his twin sister Duvessa's fighting prowess.\n"
+"In search of more powerful spells, he journeys to the surface with his sister.\n"
+msgstr ""
+"Gražus, tačiau tuščiagarbis elfas, gabus magijai ir beveik niekam kitam. Jo\n"
+"gabumai puikiai papildo jo sesers dvynės Diuvesos kovos išmanymą.\n"
+
+#. key: duvessa
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:duvessa"
+msgid ""
+"A plain-looking deep elven fighter who is technically brilliant in many forms of\n"
+"combat, but over-confident because of it. She is complemented by the magical\n"
+"skills of her twin brother, Dowan. She journeys to the surface to challenge\n"
+"its greatest champions.\n"
+msgstr ""
+"Paprastai atrodanti elfų karė, nuostabiai įvaldžiusi daugybės kovos rūšių\n"
+"techniką, tačiau dėl to pernelyg savim pasitikinti. Ją papildo jos brolio\n"
+"dvynio Dovano magijos įgūdžiai.\n"
+
+#. key: edmund
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:edmund"
+msgid ""
+"A jealous sibling of Sigmund (indeed, the youngest of nine brothers). He has\n"
+"none of Sigmund's skills in magic, but makes up for it with his skills in\n"
+"fighting and a canny head for money. He is eager to prove his superiority by\n"
+"killing hapless adventurers with his expensive flail and quick wit.\n"
+msgstr ""
+"Pavydus Sigmundo brolis (iš tikro, jauniausias iš devynių brolių). Ne taip kaip\n"
+"Sigmundas, jis visiškai neišmano magijos, tačiau tą atperka jo kovos įgūdžiai\n"
+"ir gebėjimas prasimanyti pinigų. Jis nekantrauja įrodyti savo pranašumą žudant\n"
+"nelaimėlius nuotykių ieškotojus savuoju brangiai kainavusiu spragilu ir žvitriu\n"
+"sąmoju.\n"
+
+#. key: ereshkigal
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:ereshkigal"
+msgid ""
+"Greatest and most inexorable of the Lords of Hell, Ereshkigal was born when\n"
+"first a mortal breathed her last. Noiselessly she laughs at lives cut short and\n"
+"loved ones separated by untimely death, enwreathed in the silence of the grave.\n"
+msgstr ""
+"Bauginanti išperų išpera, valdanti mirtiną požeminį Tartaro pasaulį.\n"
+
+#. key: erolcha
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:erolcha"
+msgid ""
+"An especially cunning ogre-mage.\n"
+msgstr ""
+"Itin sukta žmogėdra-burtininkė.\n"
+
+#. key: eustachio
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:eustachio"
+msgid ""
+"An apprentice summoner with a flowing moustache. He has funny ideas about\n"
+"honour.\n"
+msgstr ""
+"Pradedantysis iššaukėjas ilgais ūsais. Jis turi keistą supratimą apie garbę.\n"
+
+#. key: frances
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:frances"
+msgid ""
+"A stout warrior who once bested a powerful lord of Pandemonium in combat,\n"
+"gaining control over the demon's realm and thanes. The battle left her with a\n"
+"deep facial scar, one that she carries as a badge of honour rather than a\n"
+"symbol of shame.\n"
+msgstr ""
+"Stambi kovotoja, kadaise kovoje įveikusi galingą Pandemoniumo valdovą, taip\n"
+"paveldėdama jo karaliją ir didikus.\n"
+
+#. key: frederick
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:frederick"
+msgid ""
+"A svelte fighter-mage with a gold-rimmed monocle, a keen sense of tradition,\n"
+"and the blood of the gods running through his veins. He's here looking for a\n"
+"worthy opponent, but he's yet to find one.\n"
+msgstr ""
+"Manieringas karys-magas su monokliu auksiniais apvadais, ieškantis tinkamo ir\n"
+"prideramo priešininko. Jūs greičiausiai netinkate.\n"
+
+#. key: gloorx vloq
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:gloorx vloq"
+msgid ""
+"A shadowy figure clothed in profound darkness.\n"
+msgstr ""
+"Miglota figūra apsupta glūdžios tamsos\n"
+
+#. key: ijyb
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:ijyb"
+msgid ""
+"A small and shrewd goblin inventor, wearing blue rags coated in soot.\n"
+"She claims dominion over this level of the dungeon; trespassers will find\n"
+"themselves on the business end of a homemade wand.\n"
+msgstr ""
+"Mažas ir suktas goblinas, dėvintis keletą mėlynų skudurų. Šį požemio lygį jis\n"
+"laiko savo valdomis, į kurias įžengus baudžiama mirtimi.\n"
+
+#. key: joseph
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:joseph"
+msgid ""
+"Looks like a mercenary in a stupid-looking hat.\n"
+msgstr ""
+"Atrodo kaip samdomas karys.\n"
+
+#. key: xtahua
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:xtahua"
+msgid ""
+"An ancient and mighty dragon.\n"
+msgstr ""
+"Senas ir galingas drakonas.\n"
+
+#. key: brimstone fiend
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:brimstone fiend"
+msgid ""
+"A huge and powerful demon wreathed in damnation, with great scaly wings. It is\n"
+"one of the most fearsome denizens of any of the Hells.\n"
+msgstr ""
+"Milžiniškas ir galingas demonas dideliais žvynuotais sparnais, apsuptas pragaro\n"
+"liepsnų. Vienas labiausiai bauginančių visų Pragarų gyventojų.\n"
+
+#. key: executioner
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:executioner"
+msgid ""
+"A horribly powerful and swift demon, its shape obscured by a cloud of swirling\n"
+"scythe-like blades.\n"
+msgstr ""
+"Siaubingai galingas ir greitas demonas. Jo figūrą temdo sūkuriuojančių panašių\n"
+"į dalgio ašmenų debesis.\n"
+
+#. key: elven halls
+#: dat/descript/branches.txt
+msgctxt ""
+"textdb:descriptions:elven halls"
+msgid ""
+"The Elven Halls are home to the deep elves, a race that turned their backs on\n"
+"the sun long ago. Their halls are filled with riches, but a deadly welcome\n"
+"awaits any would-be robbers. In their long seclusion, the deep elves have\n"
+"perfected dark sorceries of a power the orcs can only dream of!\n"
+msgstr ""
+"Nors dauguma elfų niekados nesikeltų į tokias niūrias požemines sales, kaip\n"
+"šitos, gilumų elfai tą ir padarė. Jų menės kupinos lobių, tačiau prašalaičiai\n"
+"turėtų atminti legendinius šios giminės magijos sugebėjimus.\n"
+"\n"
+"Elfų Salės yra trijų lygių gylio.\n"
+
+#. key: lair
+#: dat/descript/branches.txt
+msgctxt ""
+"textdb:descriptions:lair"
+msgid ""
+"Most adventurers find the Lair of Beasts to be an exciting change of climate.\n"
+"And indeed, there is something to be said about getting gored, mauled and eaten\n"
+"rather than sliced, burnt or stabbed.\n"
+"\n"
+"The Lair contains the entrances to one of the Swamp or the Shoals, one of the\n"
+"Snake Pit or the Spider Nest, and to the Pits of Slime.\n"
+msgstr ""
+"Daugumai nuotykių ieškotojų Žvėrių Irštva yra jaudinantis aplinkos pakeitimas.\n"
+"Ir iš tikrųjų, kur kas geriau būti užbadytam, sumaitotam ir suėstam, o ne\n"
+"papjautam, sudegintam ar nudurtam.\n"
+"\n"
+"Irštva yra aštuonių lygių gylio ir turi laiptus į dar tris atšakas.\n"
+
+#. key: sewer
+#: dat/descript/branches.txt
+msgctxt ""
+"textdb:descriptions:sewer"
+msgid ""
+"Every inhabited place needs to dispose of its waste products. The Dungeon too\n"
+"has its stinking sewers and drains, full of filthy water and ignored by most\n"
+"but used as hideaways by the disgusting and the desperate. Old tales speak of\n"
+"dangerous creatures stalking through the foul-smelling green water, preying on\n"
+"each other without mercy. The tales also allude to valuable items accidentally\n"
+"washed into the drainage tunnels, forgotten and left to grow mouldy in the damp\n"
+"caverns.\n"
+msgstr ""
+"Kiekvienoje gyvenvietėje atsiranda ir kanalizacijos vamzdžiai ir drenažai,\n"
+"daugumos ignoruojami, tačiau priebėga likusiems. Seni pasakojimai byloja apie\n"
+"pavojingus gyvius, besimaudančius šlykščiai smirdančiame žaliame vandenyje ir\n"
+"negailestingai vienas kitą medžiojančius. Pasakojimai taip pat užsimena apie\n"
+"vertingus daiktus, paliktus bebaimių ir nesėkmingų lankytojų, pelijančius\n"
+"drėgnuose urvuose.\n"
+
+#. key: volcano
+#: dat/descript/branches.txt
+msgctxt ""
+"textdb:descriptions:volcano"
+msgid ""
+"Built from enormous blocks of obsidian, the volcano's sweltering chambers may\n"
+"once have served as a temple to some strange deity, or perhaps the dwelling of\n"
+"a mighty fire giant. The air shimmers with oppressive heat, and the dull roar\n"
+"of the volcano's heart never ceases.\n"
+msgstr ""
+"Ši patalpa, pastatyta iš milžiniškų obsidiano luitų, kadaise galėjo būti\n"
+"šventykla kokiai nors keistai dievybei, arba, galbūt, galingo ugnies milžino\n"
+"buveinė.\n"
+
+#. key: fighting
+#: dat/descript/skills.txt
+msgctxt ""
+"textdb:descriptions:fighting"
+msgid ""
+"Fighting skill increases your accuracy and damage in physical combat, and\n"
+"also increases your maximum health.\n"
+msgstr ""
+"Kovos įgūdis didina taiklumą ir žalą artimoje kovoje, ir taip pat padidina\n"
+"gyvybės taškų maksimumą.\n"
+
+#. key: throwing
+#: dat/descript/skills.txt
+msgctxt ""
+"textdb:descriptions:throwing"
+msgid ""
+"Training Throwing will make thrown weapons (such as javelins) more accurate\n"
+"and damaging. It also makes certain magical darts more likely to have an\n"
+"effect.\n"
+msgstr ""
+"Mėtymo įgūdžių treniravimas padaro mėtomus ginklus (kaip ietis) ir spjaudykles\n"
+"efektyvesnius. Ypatingai šie įgūdžiai padidiną tikimybę, kad grįžtamieji\n"
+"ginklai sugrįš, ir kad kai kurios magiškos adatos, iššautos spjaudykle, turės\n"
+"poveikį.\n"
+"\n"
+"Įgūdžiai Mėtyme palengvina mokymasi naudoti Svaidykles, ir atvirkščiai.\n"
+
+#. key: armour
+#: dat/descript/skills.txt
+msgctxt ""
+"textdb:descriptions:armour"
+msgid ""
+"Armour skill multiplies the AC gained from wearing armour of all kinds, both\n"
+"from body armour and cloaks, gloves, etc. It also slightly lessens penalties\n"
+"to spellcasting and ranged weapon speed from heavy armour.\n"
+msgstr ""
+"Šarvų įgūdžiai padidina ŠK, gautą dėvint sunkius šarvus, ir taip pat padeda\n"
+"sumenkinti sunkių šarvų trukdžius artimoje kovoje ir naudojant magiją.\n"
+
+#. key: dodging
+#: dat/descript/skills.txt
+msgctxt ""
+"textdb:descriptions:dodging"
+msgid ""
+"The Dodging skill will affect your chance of dodging an attack, be it melee,\n"
+"ranged or magical. Certain types of attack cannot be dodged, however, such as\n"
+"enchantments (which must be resisted with willpower) and explosions.\n"
+msgstr ""
+"Išsisukinėjimo įgūdžiai įtakoja tikimybę išvengti atakos, nepaisant to ar ji\n"
+"artimos kovos, per atstumą ar magiška. Kai kurių atakų tipų negalima išvengti.\n"
+"kaip pavyzdžiui sustiprinimai (kuriems reikia atsispirti) ir sprogimai.\n"
+
+#. key: shields
+#: dat/descript/skills.txt
+msgctxt ""
+"textdb:descriptions:shields"
+msgid ""
+"A high Shields skill helps you block melee attacks or projectiles (both magical\n"
+"and non-magical) with your equipped shield, and reduces their penalty to your\n"
+"evasion, attack speed and spellcasting success.\n"
+msgstr ""
+"Aukšto lygio Skydų įgūdžiai padeda blokuoti artimas arba tolimas (magiškas ir\n"
+"ne) atakas naudojant laikomą (arba magišką) skydą. Kai kurios atakos, tokios\n"
+"kaip pareinantys žaibai, negali būti blokuojamos.\n"
+
+#. key: unarmed combat
+#: dat/descript/skills.txt
+msgctxt ""
+"textdb:descriptions:unarmed combat"
+msgid ""
+"Being skilled in Unarmed Combat increases your accuracy, damage and attack\n"
+"speed in melee combat when barehanded.\n"
+msgstr ""
+"Įgūdžiai Beginklėje kovoje padidina taiklumą, žalą ir greitį artimoje kovoje,\n"
+"kovojant plikomis rankomis. Jie taip pat leidžia kartais smūgiuoti antrąja\n"
+"ranka atliekant papildomą ataką artimoje kovoje, su sąlyga, kad ta ranka yra\n"
+"laisva.\n"
+
+#. key: cmd_rest verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_rest verbose"
+msgid ""
+"Rests while your health and magic regenerate. Resting is interrupted as soon\n"
+"as a hostile monster comes into view. If health and magic are both already\n"
+"full, resting will wait for 100 turns.\n"
+msgstr ""
+"Praleisti iki 100 ėjimų atgauti sveikatai, atsistatyti maną ir/arba paieškai.\n"
+"Poilsis nutraukiamas, kai tik pasirodo priešiškas monstras.\n"
+
+#. key: cmd_explore
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_explore"
+msgid ""
+"Autoexplore the current level\n"
+msgstr ""
+"Automatiškai tyrinėti dabartinį lygį\n"
+
+#. key: cmd_explore verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_explore verbose"
+msgid ""
+"Automatically explores the current level, collecting items on the way.\n"
+"Exploration stops as soon as a hostile monster comes into view, or when you\n"
+"encounter new items or features.\n"
+msgstr ""
+"Leidžia jūsų veikėjui autopilotu keliauti link neištirtų dabartinio lygio plotų\n"
+"ir pakeliui rinkti automatiškai pakeliamus daiktus. Keliavimas sustoja kai tik\n"
+"pasirodo priešiškas monstras, taip pat norint pranešti apie rastus daiktus ar\n"
+"ypatybes.\n"
+
+#. key: cmd_interlevel_travel
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_interlevel_travel"
+msgid ""
+"Travel to distant levels\n"
+msgstr ""
+"Keliauti į tolimus lygius\n"
+
+#. key: cmd_interlevel_travel verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_interlevel_travel verbose"
+msgid ""
+"Automatically travels to a chosen level or branch. Travel is interrupted by\n"
+"monsters coming into view.\n"
+msgstr ""
+"Automatiškai keliauti į tolimus lygius. Keliavimas nutraukiamas pasirodančių\n"
+"baisūnų.\n"
+
+#. key: cmd_use_ability
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_use_ability"
+msgid ""
+"Use divine, innate or evokable abilities\n"
+msgstr ""
+"Naudoti dieviškus arba įgimtus gebėjimus\n"
+
+#. key: cmd_search_stashes
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_search_stashes"
+msgid ""
+"Search for items/features\n"
+msgstr ""
+"Ieškoti daiktų/ypatybių.\n"
+
+#. key: cmd_search_stashes verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_search_stashes verbose"
+msgid ""
+"Searches for items or features seen elsewhere, and allows you to travel to\n"
+"their location.\n"
+msgstr ""
+"Ieškoti kažkur matytų daiktų arba ypatybių ir tada link jų keliauti.\n"
+
+#. key: cmd_replay_messages
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_replay_messages"
+msgid ""
+"Reread recent messages\n"
+msgstr ""
+"Iš naujo perskaityti paskutinius pranešimus\n"
+
+#. key: cmd_resists_screen
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_resists_screen"
+msgid ""
+"Display character overview\n"
+msgstr ""
+"Parodyti veikėjo apžvalgą\n"
+
+#. key: cmd_resists_screen verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_resists_screen verbose"
+msgid ""
+"Displays an overview of your current resistances, abilities, equipment and\n"
+"attributes.\n"
+msgstr ""
+"Parodo informaciją apie žinomus atsparumus, gebėjimus, aprangos statistiką ir\n"
+"t.t.\n"
+
+#. key: cmd_display_overmap
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_overmap"
+msgid ""
+"Display dungeon overview\n"
+msgstr ""
+"Parodyti požemio planą\n"
+
+#. key: cmd_display_overmap verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_overmap verbose"
+msgid ""
+"Displays an overview of dungeon branch locations, discovered altars, shops and\n"
+"level annotations.\n"
+msgstr ""
+"Parodo iki šiol aptiktų įėjimų į atšakas, parduotuvių ir kitų ypatybių vietas.\n"
+
+#. key: cmd_display_religion
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_religion"
+msgid ""
+"Display religious status\n"
+msgstr ""
+"Parodyti religinę būseną\n"
+
+#. key: cmd_display_religion verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_religion verbose"
+msgid ""
+"Displays your god's likes and dislikes, conduct, and your current religious\n"
+"standing and divine abilities.\n"
+msgstr ""
+"Parodo tavo dievybės polinkius ir nemėgstamus dalykus, elgimasį, ttavo\n"
+"dabartinę religinę padėtį ir dieviškus gebėjimus.\n"
+
+#. key: cmd_display_mutations
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_mutations"
+msgid ""
+"Display mutations\n"
+msgstr ""
+"Parodyti mutacijas\n"
+
+#. key: cmd_display_skills
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_skills"
+msgid ""
+"Manage skills\n"
+msgstr ""
+"Tvarkyti įgūdžius\n"
+
+#. key: cmd_display_character_status
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_character_status"
+msgid ""
+"Display character status\n"
+msgstr ""
+"Parodyti veikėjo būseną\n"
+
+#. key: cmd_display_character_status verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_character_status verbose"
+msgid ""
+"Displays details on your current movement speed, attack speed, stealth, magic\n"
+"resistance, and any currently active enchantments or status effects.\n"
+msgstr ""
+"Parodo aktyvius sustiprinimus ir kelis kitus dalykus.\n"
+
+#. key: cmd_display_known_objects
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_known_objects"
+msgid ""
+"List discovered item types\n"
+msgstr ""
+"Atrastų daiktų tipų sąrašas\n"
+
+#. key: cmd_save_game_now
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_save_game_now"
+msgid ""
+"Save and exit\n"
+msgstr ""
+"Išsaugoti ir išeiti\n"
+
+#. key: cmd_save_game_now verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_save_game_now verbose"
+msgid ""
+"Saves the game for later and exits. Once you resume the game, the save file is\n"
+"deleted again.\n"
+msgstr ""
+"Išsaugo žaidimą ir išeina. Pratęsus žaidimą, išsaugota byla ištrinama.\n"
+
+#. key: cmd_edit_player_tile
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_edit_player_tile"
+msgid ""
+"Modify the player tile\n"
+msgstr ""
+"Pakeisti žaidėjo paveikslėlį\n"
+
+#. key: cmd_edit_player_tile verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_edit_player_tile verbose"
+msgid ""
+"Allows you to modify the equipment and species tile displayed in the player\n"
+"doll.\n"
+msgstr ""
+"Pakeisti aprangos ir rūšies paveikslėlį rodomą ant žaidėjo.\n"
+
+#. key: cmd_display_commands
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_commands"
+msgid ""
+"Game help\n"
+msgstr ""
+"Žaidimo pagalba\n"
+
+#. key: cmd_display_commands verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_commands verbose"
+msgid ""
+"Displays a list of commands.\n"
+msgstr ""
+"Komandų, pasirinkimų ir t.t. sąrašas\n"
+
+#. key: cmd_autofight
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_autofight"
+msgid ""
+"Hit the closest monster\n"
+msgstr ""
+"Smogti artimiausiam monstrui\n"
+
+#. key: cmd_autofight verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_autofight verbose"
+msgid ""
+"Moves towards the closest hostile monster, or attacks an adjacent monster with\n"
+"your current weapon.\n"
+msgstr ""
+"Judėti link artimiausio priešiško monstro ir pulti jį su rankose laikomu\n"
+"ginklu.\n"
+
+#. key: cmd_autofight_nomove
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_autofight_nomove"
+msgid ""
+"Hit an adjacent monster\n"
+msgstr ""
+"Smogti gretimam monstrui\n"
+
+#. key: cmd_autofight_nomove verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_autofight_nomove verbose"
+msgid ""
+"Attacks an adjacent monster with your current weapon.\n"
+msgstr ""
+"Pulti šalia esantį monstrą su rankose laikomu ginklu.\n"
+
+#. key: cmd_wait
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_wait"
+msgid ""
+"Wait a single turn\n"
+msgstr ""
+"Palūkėti vieną ėjimą\n"
+
+#. key: cmd_wait verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_wait verbose"
+msgid ""
+"Spends a single turn waiting and resting.\n"
+msgstr ""
+"Praleisti ėjimą laukiant ir ilsintis.\n"
+
+#. key: cmd_display_inventory
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_inventory"
+msgid ""
+"Display the contents of your inventory\n"
+msgstr ""
+"Rodyti inventoriaus turinį\n"
+
+#. key: cmd_display_inventory verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_inventory verbose"
+msgid ""
+"Displays the contents of your inventory.\n"
+msgstr ""
+"Rodyti inventoriaus turinį\n"
+
+#. key: cmd_memorise_spell
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_memorise_spell"
+msgid ""
+"Memorise spell\n"
+msgstr ""
+"Įsiminti burtažodį\n"
+
+#. key: cmd_drop
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_drop"
+msgid ""
+"Drop items\n"
+msgstr ""
+"Numesti daiktus\n"
+
+#. key: cmd_drop verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_drop verbose"
+msgid ""
+"Drops one or more items that you are currently holding.\n"
+msgstr ""
+"Numesti vieną ar daugiau iš šiuo metu laikomų daiktų\n"
+
+#. key: cmd_map_next_level
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_next_level"
+msgid ""
+"Down one level\n"
+msgstr ""
+"Žeimiau vienu lygiu\n"
+
+#. key: cmd_map_next_level verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_next_level verbose"
+msgid ""
+"Displays the next deeper level.\n"
+msgstr ""
+"Tyrinėti sekantį gilesnį lygį\n"
+
+#. key: cmd_map_prev_level
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_prev_level"
+msgid ""
+"Up one level\n"
+msgstr ""
+"Aukščiau vienu lygiu\n"
+
+#. key: cmd_map_prev_level verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_prev_level verbose"
+msgid ""
+"Displays the next higher level.\n"
+msgstr ""
+"Tyrinėti sekantį aukštesnį lygį\n"
+
+#. key: cmd_map_goto_level
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_goto_level"
+msgid ""
+"Go to level\n"
+msgstr ""
+"Eiti į lygį\n"
+
+#. key: cmd_map_find_upstair
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_upstair"
+msgid ""
+"Find stairs up\n"
+msgstr ""
+"Rasti laiptus aukštyn\n"
+
+#. key: cmd_map_find_downstair
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_downstair"
+msgid ""
+"Find stairs down\n"
+msgstr ""
+"Rasti laiptus žemyn\n"
+
+#. key: cmd_map_find_portal
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_portal"
+msgid ""
+"Find shops and portals\n"
+msgstr ""
+"Rasti parduotuves ir portalus\n"
+
+#. key: cmd_map_find_trap
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_trap"
+msgid ""
+"Find traps\n"
+msgstr ""
+"Rasti spąstus\n"
+
+#. key: cmd_map_find_altar
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_altar"
+msgid ""
+"Find altars\n"
+msgstr ""
+"Rasti altorius\n"
+
+#. key: cmd_map_find_stash
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_stash"
+msgid ""
+"Find stash\n"
+msgstr ""
+"Surasti slėptuvę\n"
+
+#. key: deep elf
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:deep elf"
+msgid ""
+"Deep Elves have a strong affinity for all kinds of magic, but are very fragile.\n"
+"They regenerate magical power rapidly.\n"
+msgstr ""
+"Gabiausias magijai, bet pats silpniausias elfas.\n"
+
+#. key: demigod
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:demigod"
+msgid ""
+"Demigods refuse to worship any god, but make up for this with divine attributes\n"
+"and high reserves of health and magic.\n"
+msgstr ""
+"Jie niekada neseks dievybės, bet pusdieviai tai kompensuoja dieviškomis\n"
+"savybėmis ir sveikata.\n"
+
+#. key: demonspawn
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:demonspawn"
+msgid ""
+"Demonspawn are half human, half demon. They acquire strong demonic mutations as\n"
+"they grow.\n"
+msgstr ""
+"Velnio išpera yra pusiau žmogus, pusiau demonas. Augdami jie įgyja stiprias\n"
+"mutacijas.\n"
+
+#. key: draconian
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:draconian"
+msgid ""
+"Draconians are versatile hybrids. They mature when reaching level 7 and develop\n"
+"a colour.\n"
+msgstr ""
+"Drakošai yra įvairiapusiški mišrūnai. Jie subręsta pasiekę 7 lygį ir įgauna\n"
+"spalvą.\n"
+
+#. key: felid
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:felid"
+msgid ""
+"Felids are many-lived sentient cats. They cannot use armour or weapons.\n"
+msgstr ""
+"Šie katinai turi sąmonę, bet yra nepajėgūs valdyti sudėtingesnių daiktų, šarvų\n"
+"ir ginklų.\n"
+
+#. key: human
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:human"
+msgid ""
+"Humans are natural explorers. Discovering new places refreshes and invigorates them.\n"
+"They are otherwise completely average.\n"
+msgstr ""
+"Paprastas ir vidutiniškas.\n"
+
+#. key: tengu
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:tengu"
+msgid ""
+"Tengu are bird-people who love to fight, both with weapons and spells. They are\n"
+"fragile but agile, and eventually learn to fly.\n"
+msgstr ""
+"Paukščiažmogiai, mylintys kautynes, tiek ginklais, tiek magija. Jie yra gana\n"
+"gležni, bet ilgainiui išmoksta skraidyti.\n"
+
+#. key: merfolk
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:merfolk"
+msgid ""
+"Half fish, half human, Merfolk are citizens of both water and land. They are\n"
+"strong combatants, and adept at using magic to assist in battle.\n"
+msgstr ""
+"Pusiau žuvys, pusiau žmonės, vandeniai yra ir vandens ir žemės gyventojai.\n"
+
+#. key: minotaur
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:minotaur"
+msgid ""
+"Minotaurs are large muscular humans with bovine heads. They excel at all forms\n"
+"of close and ranged combat.\n"
+msgstr ""
+"Dideli raumeningi žmonės su jaučio galvomis. Jie yra labai pajėgūs artimoje ir\n"
+"tolimoje kovoje.\n"
+
+#. key: mummy
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:mummy"
+msgid ""
+"Compelled to walk by an ancient curse, Mummies have innate faith and are adept\n"
+"at Necromancy, but learn other skills very slowly. They cannot drink potions.\n"
+msgstr ""
+"Nemirėlio figūra padengta raiščiais ir balzamuota, seno prakeiksmo priversta\n"
+"vaikščioti.\n"
+
+#. key: naga
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:naga"
+msgid ""
+"Nagas are hybrids: human from the waist up, with a snake-like tail instead of\n"
+"legs. They move very slowly but are naturally resilient.\n"
+msgstr ""
+"Mišrūnas — žmogus su žvynuotu ir raumeningu liemeniu, pereinančiu į gyvatės\n"
+"uodegą.\n"
+
+#. key: octopode
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:octopode"
+msgid ""
+"Octopodes are a species of amphibious cephalopods. They can wear eight rings,\n"
+"but almost no armour fits them.\n"
+msgstr ""
+"Amfibinių galvokojų rūšis. Jie gali dėvėti aštuonis žiedus, bet jiems netinka\n"
+"beveik jokie šarvai.\n"
+
+#. key: spriggan
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:spriggan"
+msgid ""
+"Very small, very frail and very fast, Spriggans are highly competent stabbers\n"
+"and spellcasters.\n"
+msgstr ""
+"Labai maži, labai gležni ir labai greiti. Spriganai yra labai kompetetingi kai\n"
+"reikia ką nors nudurti, taip pat yra labai gabūs burtininkai.\n"
+
+#. key: troll
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:troll"
+msgid ""
+"Trolls are monstrous creatures with powerful claws. They regenerate health\n"
+"rapidly.\n"
+msgstr ""
+"Dideli gyvuliai, pasiruošę savo nagais sužaloti bet ką, niekada negalvojantys\n"
+"du kartus. Jie visada alkani.\n"
+
+#. key: air elementalist
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:air elementalist"
+msgid ""
+"Air Elementalists have learned the Shock spell. Their electrical magic can harm\n"
+"groups of foes, while their air spells assist in fighting or fleeing enemies.\n"
+msgstr ""
+"Oro burtininkai moka Šoko burtažodį. Vėliau jų turima Oro knyga suteikia jiems\n"
+"lankstumą išgyvenimui.\n"
+
+#. key: artificer
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:artificer"
+msgid ""
+"Artificers start with a few magic wands and a club. They'll need to find better\n"
+"weapons and armour before their wands run out.\n"
+msgstr ""
+"Mechanikai pradeda su keliais magiškais įrenginiais ir moka jais naudotis.\n"
+
+#. key: berserker
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:berserker"
+msgid ""
+"Berserkers believe in Trog, the magic-hating god of frenzy. Not much can stop a\n"
+"raging berserker early on, apart from hubris.\n"
+msgstr ""
+"Berserkeriai tiki Trogą, nekenčiantį magijos įtūžio dievą. Nedaug kas pradžioje\n"
+"gali sustabdyti įsisiautėjusį berserkerį, nebent puikybė.\n"
+
+#. key: chaos knight
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:chaos knight"
+msgid ""
+"Chaos Knights are playthings of the unpredictable Xom, and are subject to the\n"
+"god's constantly changing moods.\n"
+msgstr ""
+"Sumaišties riteriai yra neprognozuojamo Xom žaisliukai ir priklauso nuo jo\n"
+"nuolat besimainančių nuotaikų.\n"
+
+#. key: conjurer
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:conjurer"
+msgid ""
+"Conjurers begin with the Magic Dart spell, and can learn other non-elemental\n"
+"spells to reliably blast their foes.\n"
+msgstr ""
+"Magai problemas sprendžia naikinančiais Būrimų knygos burtais.\n"
+
+#. key: earth elementalist
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:earth elementalist"
+msgid ""
+"Earth Elementalists know the Sandblast spell, and can later learn more earthen\n"
+"spells suitable for subtle stabbing or brute-force blasting.\n"
+msgstr ""
+"Žemės burtininkai moka Smėlio Užtaiso burtažodį ir nešiojasi akmenis burto\n"
+"galiai sustiprinti. Daugiau žemės burtų yra jų turimoje Geomantijos knygoje.\n"
+
+#. key: enchanter
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:enchanter"
+msgid ""
+"Enchanters know a variety of Hexes that can incapacitate their foes, and are\n"
+"equipped with an enchanted dagger and potions of invisibility.\n"
+msgstr ""
+"Kerėtojai naudojasi burtažodžiais, kad sustiprėtų kovai patys arba išvestų iš\n"
+"rikiuotės kitus. Taip pat jie pradeda su geros kokybės strėlytėmis.\n"
+
+#. key: fire elementalist
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:fire elementalist"
+msgid ""
+"Fire Elementalists have learned the Foxfire spell. Their other starting spells\n"
+"are likewise focused on fiery and explosive destruction.\n"
+msgstr ""
+"Ugnies burtininkai pradeda su Liepsnų knyga ir moka Ugnies Liežuvio burtažodį.\n"
+"Kiti burtažodžiai jų knygoje taip pat skirti naikinimui.\n"
+
+#. key: gladiator
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:gladiator"
+msgid ""
+"Gladiators are ready for the arena with light armour, a weapon of their choice,\n"
+"and a few throwing weapons and nets.\n"
+msgstr ""
+"Gladiatoriai yra pasirengę arenai su lengvais šarvais, skydu, tinklais ir pačių\n"
+"pasirinktu ginklu.\n"
+
+#. key: hedge wizard
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:hedge wizard"
+msgid ""
+"Hedge Wizards are magic generalists, good at using a wide variety of tools to\n"
+"frustrate their foes and gain an edge in the battlefield.\n"
+msgstr ""
+"Burtininkai pradeda su Smulkiosios Magijos knyga, turinčia pluoštą burtažodžių.\n"
+"Jų magijos atsargos diesnės nei bet kurios kitos profesijos.\n"
+
+#. key: hunter
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:hunter"
+msgid ""
+"Hunters carry a shortbow, light armour and a scroll of butterflies.\n"
+msgstr ""
+"Medžiotojai gali pulti iš atstumo, nesikliaudami varginančia magija.\n"
+
+#. key: ice elementalist
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:ice elementalist"
+msgid ""
+"Ice Elementalists begin with the Freeze spell. Their later spells provide strong\n"
+"offence and defence, but may restrict their movement.\n"
+msgstr ""
+"Ledo burtininkai pradeda su Šalčio knyga ir Šaldymo burtažodžiu. Kiti knygos\n"
+"burtažodžiai yra ganėtinai įvairūs.\n"
+
+#. key: monk
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:monk"
+msgid ""
+"Monks start with a simple weapon of their choice, an orb of light, and a potion\n"
+"of divine ambrosia, and gain additional piety with the first god they worship.\n"
+msgstr ""
+"Vienuoliai yra pasiruošę imtis su bet kuo požemyje, dėvedami tik mantiją ir\n"
+"naudodami savo kūną.\n"
+
+#. key: necromancer
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:necromancer"
+msgid ""
+"Necromancers start out with the Soul Splinter spell. Eventually, they can turn\n"
+"the dead into allies and use the life force of the living to restore themselves.\n"
+msgstr ""
+"Nekromantai yra burtininkai specializuojantys mirties magijos taikyme. Jie\n"
+"pradeda su Skausmo burtažodžiu.\n"
+
+#. key: wanderer
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:wanderer"
+msgid ""
+"Wanderers start with random equipment and skills.\n"
+msgstr ""
+"Klajokliai pradeda su atsitiktiniais reikmenimis ir įgūdžiais.\n"
+
+#. key: warper
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:warper"
+msgid ""
+"Warpers start with a weapon of their choice, a scroll of blinking, darts of\n"
+"disjunction, and some Translocation spells in their library.\n"
+msgstr ""
+"Keliautojai Erdve pradeda su pačių pasirinktu ginklu ir Mirktelėjimo ritiniu.\n"
+"Jie gali išmokti burtažodžius iš Erdvinių Perkėlimų knygos.\n"
+

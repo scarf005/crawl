@@ -1,0 +1,1560 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: crawl-data\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: lv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+#. key: a dry fountain
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a dry fountain"
+msgid ""
+"A dried-up decorative fountain that has seen better days.\n"
+msgstr ""
+"Izkaltusi strūklaka, kas piedzīvojusi labākas dienas.\n"
+
+#. key: a gateway to hell
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a gateway to hell"
+msgid ""
+"A gateway leading to the Vestibule of Hell. Few would go there voluntarily.\n"
+msgstr ""
+"Šie vārti ved uz elles priekštelpu. Tikai retais tur dotos labprātīgi.\n"
+
+#. key: a closed door
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a closed door"
+msgid ""
+"A closed wooden door. All monsters that can wield equipment, and some of them\n"
+"that can't, may open it again. If it is opened by a monster while it is aware\n"
+"of you, it has a chance of breaking.\n"
+msgstr ""
+"Koka durvis. Lai atvērtu, vienkārši uzejiet tām virsū vai nospiediet „o”.\n"
+
+#. key: a dead tree
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a dead tree"
+msgid ""
+"The dry remains of a long-dead tree.\n"
+msgstr ""
+"Šis koks ir tikpat miris, cik viss pārējais te.\n"
+
+#. key: a golden statue
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a golden statue"
+msgid ""
+"A solid gold statue of a saint.\n"
+msgstr ""
+"Gluda no zelta izgatavota svētā statuja.\n"
+
+#. key: a silver wall
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a silver wall"
+msgid ""
+"A wall made of pure silver.\n"
+msgstr ""
+"Šī siena ir izgatavota no tīra sudraba.\n"
+
+#. key: a sarcophagus
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a sarcophagus"
+msgid ""
+"An ancient sarcophagus. It appears to be empty.\n"
+msgstr ""
+"Sens sarkofāgs. Tas izskatās tukšs.\n"
+
+#. key: bardiche
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:bardiche"
+msgid ""
+"A long pole with an enormous, cleaving blade on one end.\n"
+msgstr ""
+"Garš miets ar milzīgu, asu asmeni tā galā.\n"
+
+#. key: book of fixed level
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of fixed level"
+msgid ""
+"A book of magic spells.\n"
+msgstr ""
+"Burvestību grāmata.\n"
+
+#. key: book of fixed theme
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of fixed theme"
+msgid ""
+"A book of magic spells.\n"
+msgstr ""
+"Burvestību grāmata.\n"
+
+#. key: cloak
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:cloak"
+msgid ""
+"A cloth cloak.\n"
+msgstr ""
+"Ādas apmetnis.\n"
+
+#. key: corpse
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:corpse"
+msgid ""
+"A corpse. Useless and dead.\n"
+msgstr ""
+"Līķis. Varat to apstrādāt, izgriežot ēdamos gaļas gabalus.\n"
+
+#. key: crystal plate armour
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:crystal plate armour"
+msgid ""
+"An incredibly heavy but extremely effective suit of crystalline armour.\n"
+msgstr ""
+"Šausmīgi smags, taču ārkārtīgi iedarbīgs kristāla bruņutērps.\n"
+
+#. key: decaying skeleton
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:decaying skeleton"
+msgid ""
+"A decaying skeleton.\n"
+msgstr ""
+"Trūdošs ģindenis.\n"
+
+#. key: demon blade
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:demon blade"
+msgid ""
+"A terrible weapon, forged in the fires of Hell.\n"
+msgstr ""
+"Šaušalīgs ierocis, kas kalts Elles liesmās.\n"
+
+#. key: demon whip
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:demon whip"
+msgid ""
+"A terrible weapon, woven in the depths of the inferno.\n"
+msgstr ""
+"Šaušalīgs ierocis, kas veidots Pekles dzīlēs.\n"
+
+#. key: giant spiked club
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:giant spiked club"
+msgid ""
+"A giant lump of wood with sharp spikes at one end.\n"
+msgstr ""
+"Milzīgs koka baļķis ar asumiem vienā galā.\n"
+
+#. key: glaive
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:glaive"
+msgid ""
+"A pole with a large, heavy blade on one end.\n"
+msgstr ""
+"Nūja ar lielu un smagu asmeni vienā tās galā.\n"
+
+#. key: gold piece
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:gold piece"
+msgid ""
+"A pile of glittering gold coins.\n"
+msgstr ""
+"Kaudze ar mirdzošām zelta monētām.\n"
+
+#. key: helmet
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:helmet"
+msgid ""
+"A piece of metal headgear.\n"
+msgstr ""
+"Metāla galvassega.\n"
+
+#. key: pair of boots
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:pair of boots"
+msgid ""
+"A pair of boots. They are worn on the feet, and cover all but the largest\n"
+"hooves and talons.\n"
+msgstr ""
+"Zābaku pāris.\n"
+
+#. key: pair of gloves
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:pair of gloves"
+msgid ""
+"A pair of gloves. They are worn on the hands, and cover all but the largest\n"
+"claws.\n"
+msgstr ""
+"Cimdu pāris.\n"
+
+#. key: potion of experience
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:potion of experience"
+msgid ""
+"A truly wonderful and very rare drink, which grants experience when consumed.\n"
+msgstr ""
+"Patiesi brīnišķīgs un ļoti rets dzēriens.\n"
+
+#. key: potion of invisibility
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:potion of invisibility"
+msgid ""
+"A potion which confers invisibility on one who consumes it.\n"
+msgstr ""
+"Dzira, kas tevi paslēpj no pārējo skatieniem.\n"
+
+#. key: quarterstaff
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:quarterstaff"
+msgid ""
+"A sturdy wooden pole, meant for fighting.\n"
+msgstr ""
+"Izturīga koka nūja, kas paredzēta cīņai.\n"
+
+#. key: ring of protection from cold
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of protection from cold"
+msgid ""
+"A ring that protects its wearer from cold.\n"
+msgstr ""
+"Šis gredzens nodrošina aizsardzību pret aukstumu.\n"
+
+#. key: scroll of fog
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scroll of fog"
+msgid ""
+"A scroll that surrounds the reader with a dense cloud of fog, which can block\n"
+"vision temporarily. The fog takes a short time to fully spill out.\n"
+msgstr ""
+"Šis tīstoklis ietin tā lasītāju biezā miglas mākonī.\n"
+
+#. key: potion
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:potion"
+msgid ""
+"An unlabelled flask containing a single dose of unknown liquid.\n"
+msgstr ""
+"Nemarķēta blašķe ar devu nezināma šķidruma.\n"
+
+#. key: wand
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:wand"
+msgid ""
+"An unusually magical sort of stick.\n"
+msgstr ""
+"Nūja. Varbūt tai piemīt burvju spējas.\n"
+
+#. key: scythe "finisher"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:scythe \"finisher\""
+msgid ""
+"A long and exceedingly sharp scythe, capable of eviscerating in a single blow.\n"
+"Its extraordinary speed is the work of a mad wizard, who spent years refining\n"
+"it before discarding it in a fit of rage.\n"
+"\n"
+"The blade looses a low keen as it cuts through the air.\n"
+msgstr ""
+"Gara un asa izkapts, kas īpaši pielāgota kaujai.\n"
+
+#. key: mithril axe "arga"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:mithril axe \"arga\""
+msgid ""
+"A beautiful mithril axe, probably lost by some dwarven hero.\n"
+msgstr ""
+"Skaists mitrila cirvis, ko visdrīzāk pazaudējis kāds rūķu varonis.\n"
+
+#. key: knife of accuracy
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:knife of accuracy"
+msgid ""
+"It is almost unerringly accurate.\n"
+msgstr ""
+"Tas ir gandrīz nekļūdīgi precīzs.\n"
+
+#. key: salamander hide armour
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:salamander hide armour"
+msgid ""
+"Most salamanders' bodies are consigned to the fiery depths from which they\n"
+"sprang. Rarely, though, salamanders instead preserve the skins of those that\n"
+"passed. The runes and decorations on this hide suggest it once belonged to a\n"
+"respected warrior or priest - perhaps even a king. The fiery spirit remains in\n"
+"the skin, granting its power to the wearer.\n"
+msgstr ""
+"Ādas bruņas, kas izgatavotas no salamandru ādas.\n"
+
+#. key: shield of resistance
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:shield of resistance"
+msgid ""
+"A bronze shield, looking almost exactly like a tortoise's shell. It was built\n"
+"by the adherents of an obscure minor faith, who imbued it with the power of\n"
+"their god. As the god is said to, this shield protects against sword and sling,\n"
+"frost and flame.\n"
+msgstr ""
+"Bronzas vairogs.\n"
+
+#. key: maxwell's patent armour
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:maxwell's patent armour"
+msgid ""
+"A suit of armour created by the famous inventor Maxwell, providing unparalleled\n"
+"protective qualities at a very affordable price. His unorthodox materials left\n"
+"it with certain shortcomings, but he's yet to have anyone come back for a\n"
+"refund.\n"
+msgstr ""
+"Dīvaina paskata bruņas.\n"
+
+#. key: fencer's gloves
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:fencer's gloves"
+msgid ""
+"A pair of gloves made of white silk.\n"
+msgstr ""
+"No balta zīda izgatavots cimdu pāris.\n"
+
+#. key: asmodeus
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:asmodeus"
+msgid ""
+"Greatest and most cunning of the Lords of Hell, Asmodeus was born when the twin\n"
+"fires of greed and treachery first sparked to life within a mortal's heart.\n"
+"His hideous body is perpetually wreathed in flame.\n"
+msgstr ""
+"Viens no arhidēmoniem, kas mīt liesmu apvītajās pekles dzīlēs.\n"
+
+#. key: azrael
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:azrael"
+msgid ""
+"A powerful, belligerent efreet. (Is there any other kind?)\n"
+msgstr ""
+"Varens un kareivīgs ifrīts. (Vai tad ir arī citādāki?)\n"
+
+#. key: cerebov
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:cerebov"
+msgid ""
+"A violent and wrathful demon, Cerebov appears as a giant humanoid covered in\n"
+"shining golden armour and wielding a huge twisted sword.\n"
+msgstr ""
+"Nežēlīgs un trakojošs dēmons, Cerebovs atgādina milzu cilvēku, kas noklāts\n"
+"mirdzošās zelta bruņās, rokās turot milzīgu ieliektu zobenu.\n"
+
+#. key: crazy yiuf
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:crazy yiuf"
+msgid ""
+"A withered old gnoll with a long silver beard, wielding a quarterstaff and\n"
+"wearing a cloak. He looks like a figure from mythology! Wait, is his beard held\n"
+"on to his ears with hooks?\n"
+msgstr ""
+"Izdilis, vecs gnolls ar garu, sidrabainu bārdu, plecos uzmestu mantiju un nūju\n"
+"rokā. Viņš izskatās gluži kā no grāmatas izkāpis pasaku tēls. Paga, vai viņa\n"
+"bārdu pie ausīm tur āķi?\n"
+
+#. key: dowan
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:dowan"
+msgid ""
+"A beautiful but vain deep elf with an aptitude for magic and little else. His\n"
+"skills are the perfect complement of his twin sister Duvessa's fighting prowess.\n"
+"In search of more powerful spells, he journeys to the surface with his sister.\n"
+msgstr ""
+"Skaists, taču augstprātīgs elfs ar dotībām galvenokārt tikai burvestībās. Viņa\n"
+"prasmes ir lielisks papildinājums viņa dvīņumāsas Duvesas cīņas bezbailībai.\n"
+
+#. key: duvessa
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:duvessa"
+msgid ""
+"A plain-looking deep elven fighter who is technically brilliant in many forms of\n"
+"combat, but over-confident because of it. She is complemented by the magical\n"
+"skills of her twin brother, Dowan. She journeys to the surface to challenge\n"
+"its greatest champions.\n"
+msgstr ""
+"Parasta paskata elfu karotāja, kura ir tehniski izcils daudzās kaujas formās,\n"
+"taču šī iemesla dēļ ir pārlieku pašpārliecināta. Viņu papildina viņas dvīņu\n"
+"brāļa Dovana burvju prasmes.\n"
+
+#. key: ereshkigal
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:ereshkigal"
+msgid ""
+"Greatest and most inexorable of the Lords of Hell, Ereshkigal was born when\n"
+"first a mortal breathed her last. Noiselessly she laughs at lives cut short and\n"
+"loved ones separated by untimely death, enwreathed in the silence of the grave.\n"
+msgstr ""
+"Baismīgs arhivelns, kurš valda nāvīgajā Tartaras pazemes pasaulē.\n"
+
+#. key: erolcha
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:erolcha"
+msgid ""
+"An especially cunning ogre-mage.\n"
+msgstr ""
+"Īpaši viltīgs cilvēkēdājs-burvis.\n"
+
+#. key: eustachio
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:eustachio"
+msgid ""
+"An apprentice summoner with a flowing moustache. He has funny ideas about\n"
+"honour.\n"
+msgstr ""
+"Radījumu izsaucēja māceklis ar gludām ūsām. Viņam ir smieklīgas idejas par\n"
+"godu.\n"
+
+#. key: frederick
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:frederick"
+msgid ""
+"A svelte fighter-mage with a gold-rimmed monocle, a keen sense of tradition,\n"
+"and the blood of the gods running through his veins. He's here looking for a\n"
+"worthy opponent, but he's yet to find one.\n"
+msgstr ""
+"Graciozs karotājmags, kuram uz deguna balstās zelta ietvara monoklis un kurš\n"
+"meklē piemērotu un cienījamu pretinieku. Jūs droši vien neatbilstat viņa\n"
+"prasībām.\n"
+
+#. key: gloorx vloq
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:gloorx vloq"
+msgid ""
+"A shadowy figure clothed in profound darkness.\n"
+msgstr ""
+"Ēnains siluets, kas tīts dziļā tumsā.\n"
+
+#. key: grinder
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:grinder"
+msgid ""
+"An inefficient shadow imp previously employed as a torturer in one of the lower\n"
+"circles of Hell. She has a tendency to complain and make inane statements.\n"
+msgstr ""
+"Nemākulīgs ēnu velniņš, kurš iepriekš zemākajos elles riņķos tika nodarbināts\n"
+"kā mocītājs. Viņam ir tendence žēloties un izteikt muļķīgus apgalvojumus.\n"
+
+#. key: grum
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:grum"
+msgid ""
+"A tough-looking gnoll, wearing the pelt of one of his former war dogs.\n"
+msgstr ""
+"Sīksta paskata gnolls, valkājam viena no sava bijušo cīņas suņu kažoku.\n"
+
+#. key: harold
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:harold"
+msgid ""
+"A middle-aged bounty hunter, anxious to retire after one final job. He hopes to\n"
+"settle down somewhere and live a quiet life with his family, using the money\n"
+"from his final bounty: you.\n"
+msgstr ""
+"Pusmūža atlīdzības mednieks, kas nevar vien sagaidīt, kad varēs doties pensijā\n"
+"pēc viena pēdējā darbiņa paveikšanas. Viņš cer kaut kur apmesties un dzīvot\n"
+"mierīgu dzīvi kopā ar savu ģimeni, pārtiekot no naudas, ko saņems par pēdējo\n"
+"nogalināšanas pasūtījumu: jūs.\n"
+
+#. key: jessica
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:jessica"
+msgid ""
+"An evil apprentice sorceress. She entered the dungeon hoping to find a quiet,\n"
+"secluded place where she could study the darker arts without being disturbed.\n"
+msgstr ""
+"Ļauna burvja mācekle. Viņa devās pazemē cerībā atrast klusu un nošķirtu vietu,\n"
+"kur varētu netraucēta apgūt tumšās zintis.\n"
+
+#. key: joseph
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:joseph"
+msgid ""
+"Looks like a mercenary in a stupid-looking hat.\n"
+msgstr ""
+"Izskatās pēc algotņa.\n"
+
+#. key: lom lobon
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:lom lobon"
+msgid ""
+"Stoic and inscrutable, Lom Lobon is an ancient demon infamous for their mastery\n"
+"of magic. Rumoured to be the most learned being in the halls of Pandemonium,\n"
+"they are at times sought out by mortal wizards who offer their souls in\n"
+"exchange for the secrets of the arcane. Lacking the terrible wrath present in\n"
+"most demons, Lom Lobon's single eye instead hides a cold, impartial cruelty.\n"
+msgstr ""
+"Sens un savādi rāms dēmons. Tas uz Jums vēsi noraugās ar savu milzīgo un\n"
+"mirdzošo pieres vidū esošo aci.\n"
+
+#. key: maurice
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:maurice"
+msgid ""
+"A sly, conniving thief. A self-proclaimed legend, he was one of the most skilled\n"
+"and crafty of the thieves and rogues lured by the Orb. The magical parasitic\n"
+"vines that have claimed his body still wish to continue his life's work, with a\n"
+"back-up plan of both a vicious magic-drinking maw and potent wands.\n"
+msgstr ""
+"Izmanīgs un maskējies garnadzis.\n"
+
+#. key: menkaure
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:menkaure"
+msgid ""
+"A fair and noble ruler of an ancient and mighty kingdom, mummified after an\n"
+"early death. His faithful priests subsequently infused him with great and\n"
+"powerful magic, seeking to grant him eternal life. Now he is forgotten and\n"
+"reduced to mouldering bandages and dry, brittle bones.\n"
+msgstr ""
+"Krietns un dižciltīgs senas un diženas karaļvalsts valdnieks, kurš tika\n"
+"mumificēts pēc savas pāragrās nāves. Pēc viņa nāves viņam uzticīgie priesteri\n"
+"tā ķermenī iedvesa varenu un spēcīgu maģiju, mēģinot viņam piešķirt mūžīgu\n"
+"dzīvi. Nu viņš ir aizmirsts un izdēdējis līdz irstošām marlēm un izkaltušam un\n"
+"trauslam ģindenim.\n"
+
+#. key: rupert
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:rupert"
+msgid ""
+"Rippling muscles, glistening pecs, incredible glutes - Rupert is the peak of\n"
+"physical perfection. Even so, his roars seem louder than even his fantastic form\n"
+"can explain. Perhaps he holds some talisman that lends supernatural force to his\n"
+"bellows?\n"
+msgstr ""
+"Vīrs ar ļoti sliktām manierēm, kura aurus, viņu apskauž pat cilvēkēdāji.\n"
+
+#. key: saint roka
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:saint roka"
+msgid ""
+"A mighty warlord. Some orcs even say they are the Chosen One of Beogh.\n"
+msgstr ""
+"Varens karakungs. Daži orki pat apgalvo, ka viņš ir Beogas izredzētais.\n"
+
+#. key: snorg
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:snorg"
+msgid ""
+"A particularly corpulent troll with a short temper and a sizable gut.\n"
+"Uninterested in the Orb, Snorg delights in the endless parade of adventurers –\n"
+"that is, easy meals — it attracts.\n"
+msgstr ""
+"Īpaši tukls trollis ar strauju raksturu un prāvu vēderu. Neieinteresēts par\n"
+"Lodi, Snorgs ir sajūsmā par tās pievilinātajiem nebeidzamajiem dēkaiņu pūļiem\n"
+"jeb vieglajām maltītēm.\n"
+
+#. key: sonja
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:sonja"
+msgid ""
+"A graceful kobold assassin. Admire her graceful pirouettes, thrill at her\n"
+"daring leaps! But watch out for her knives!\n"
+msgstr ""
+"Gracioza koboldu slepkava. Apbrīno tās gracizās piruetes, noelsies par tās\n"
+"pārdrošajiem lēcieni! Tomēr uzmanies no viņas nažiem!\n"
+
+#. key: urug
+#. Preserve {{ lua }} delimiters exactly.
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:urug"
+msgid ""
+"A coarse and lanky orc. Urug lost her eye in a fight with a harpy, and has\n"
+"sworn to slay every last one of them. Unfortunately, the vision in her\n"
+"remaining eye is not very good, and she has mistaken you for one.\n"
+"{{\n"
+"    if you.can_smell() then\n"
+"        return \"She smells terrible.\"\n"
+"    end\n"
+"}}\n"
+msgstr ""
+"Noplucis un izstīdzējis orks. Urugs zaudēju savu aci cīņā ar harpiju un kopš\n"
+"tās dienas nozvērējās izkaut tās līdz pēdējam. Diemžēl viņa atlikušās acs redze\n"
+"nav diez ko laba, tādēļ viņš tevi notur par harpiju.\n"
+"{{\n"
+"    if you.can_smell() then\n"
+"        return \"Viņš šausmīgi smako.\"\n"
+"    end\n"
+"}}\n"
+
+#. key: xtahua
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:xtahua"
+msgid ""
+"An ancient and mighty dragon.\n"
+msgstr ""
+"Sens un dižens pūķis.\n"
+
+#. key: acid blob
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:acid blob"
+msgid ""
+"A lump of sickly pustulent flesh, dripping with lethal acid.\n"
+msgstr ""
+"Slimīgi sastrutojis miesas blāķis, no kura pil nāvējoša skābe.\n"
+
+#. key: adder
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:adder"
+msgid ""
+"A common dungeon snake, a species of troglodytic reptile commonly found in\n"
+"subterranean spaces.\n"
+msgstr ""
+"Izplatīta pazemes čūska. Troglodītiska rāpuļa suga, kas bieži sastopama pazemē.\n"
+
+#. key: anaconda
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:anaconda"
+msgid ""
+"A very large snake that moves with startling swiftness. It kills not by poison\n"
+"but by constricting its prey.\n"
+msgstr ""
+"Ļoti liela čūska, kas gan pa zemi, gan ūdenī pārvietojas ar pārsteidzošu\n"
+"straujumu. Tas savus upurus nenogalina ar indi, bet gan nožņaudzot.\n"
+
+#. key: ancient champion
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:ancient champion"
+msgid ""
+"An unfathomably ancient skeleton. It has hundreds of golden sigils etched onto\n"
+"its bones, and pulses with terrible, unholy power.\n"
+msgstr ""
+"Neaptverami sens ģindenis. Tā kaulos iegravētas simtiem zeltītas zīmes, kuras\n"
+"pulsē ar šaušalīgu un nešķīstu spēku.\n"
+
+#. key: ancient lich
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:ancient lich"
+msgid ""
+"A lich who, having existed for countless centuries, has grown almost\n"
+"unimaginably powerful through the study of dark magic.\n"
+msgstr ""
+"Ličs, kurš neskaitāmu gadsimtu laikā, pētot tumšās zintis, ir kļuvis\n"
+"neiedomājami spēcīgs.\n"
+
+#. key: azure jelly
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:azure jelly"
+msgid ""
+"An extremely cold blob of bright blue cytoplasm, forming bits of frost in the\n"
+"air around it.\n"
+msgstr ""
+"Ārkārtīgi auksts, spilgti zilas citoplazmas blāķis, kurš sev apkārt gaisā veido\n"
+"ledus gabalus.\n"
+
+#. key: balrug
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:balrug"
+msgid ""
+"A huge and very powerful demon, wreathed in fire and shadows.\n"
+msgstr ""
+"Milzīgs un ļoti varens dēmons, kas tīts liesmās un ēnās.\n"
+
+#. key: basilisk
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:basilisk"
+msgid ""
+"A crested lizard of middling size with a terrible petrifying gaze.\n"
+msgstr ""
+"Vidēja izmēra cekulaina ķirzaka ar šausminoši stindzinošu skatienu.\n"
+
+#. key: black bear
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:black bear"
+msgid ""
+"A small black bear. Like all ursines, it will become enraged if badly hurt.\n"
+msgstr ""
+"Mazs melns lācis. Kā jau visi lāčveidīgie, melnais lācis satrakosies, ja tiks\n"
+"smagi savainots vai nobiedēts.\n"
+
+#. key: blizzard demon
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:blizzard demon"
+msgid ""
+"A greater demon formed from wistful snow and bitter lightning.\n"
+msgstr ""
+"Lieldēmons, kas tīts sniegā un zibeņos.\n"
+
+#. key: brimstone fiend
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:brimstone fiend"
+msgid ""
+"A huge and powerful demon wreathed in damnation, with great scaly wings. It is\n"
+"one of the most fearsome denizens of any of the Hells.\n"
+msgstr ""
+"Milzīgs un varens ugunīgām liesmām apvīts dēmons ar lieliem un zvīņainiem\n"
+"svārniem. Viens no biedējošākajiem Elles iemītniekiem.\n"
+
+#. key: centaur warrior
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:centaur warrior"
+msgid ""
+"A muscular centaur, veteran of numerous battles, armed with well-made weapons\n"
+"and able to use them skilfully.\n"
+msgstr ""
+"Neskaitāmas kaujas piedzīvojis muskuļots kentaurs, kurš apbruņots ar labiem\n"
+"ieročiem, kurus prot arī prasmīgi likt lietā.\n"
+
+#. key: deep elf knight
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:deep elf knight"
+msgid ""
+"A battle-hardened deep elf fighter.\n"
+msgstr ""
+"Kaujās rūdīts dzīļu elfu karotājs.\n"
+
+#. key: executioner
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:executioner"
+msgid ""
+"A horribly powerful and swift demon, its shape obscured by a cloud of swirling\n"
+"scythe-like blades.\n"
+msgstr ""
+"Briesmīgi varens un spējš dēmons, ap kura tēlu šķind izkaptveidīgu asmeņu\n"
+"mākonis.\n"
+
+#. key: hellion
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:hellion"
+msgid ""
+"A hateful demon, desirous to see all life destroyed by its damnation.\n"
+msgstr ""
+"Šaušalīgs dēmons, kuru sedz dārdošas pekles liesmas.\n"
+
+#. key: megabat
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:megabat"
+msgid ""
+"A huge black bat.\n"
+msgstr ""
+"Milzīgs melns sikspārnis.\n"
+
+#. key: call imp spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:call imp spell"
+msgid ""
+"Calls forth a minor demon from the pits of Hell, equipped with a spear with\n"
+"which to jab at the caster's enemies. The quality of the imp's weaponry rises\n"
+"with spell power.\n"
+msgstr ""
+"Šī burvestība no Elles dzīlēm atsauc šurp kādu dēmoniņu.\n"
+
+#. key: cause fear spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:cause fear spell"
+msgid ""
+"Causes fear in those near to the caster, causing those affected to be unable to\n"
+"approach the caster, and to sometimes fail to attack them in melee. Leaving the\n"
+"caster's line of sight will end the effect.\n"
+msgstr ""
+"Burvestība izraisa bailes visos, kas apkārt būrējam.\n"
+
+#. key: debugging ray spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:debugging ray spell"
+msgid ""
+"Fires a ray which does massive damage (1500 hp) and always hits.\n"
+msgstr ""
+"Stars, kas nodara milzīgus bojājumus (1500 dzīvības punktus) un vienmēr trāpa.\n"
+
+#. key: freeze spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:freeze spell"
+msgid ""
+"Freezes an adjacent creature, dealing damage that bypasses any armour the\n"
+"target may have. This may temporarily slow cold-blooded creatures.\n"
+msgstr ""
+"Burvestība sasaldē briesmoni. Aukstasiņu radījumiem tā var tikai īslaicīgi\n"
+"palēnināt vielmaiņu.\n"
+
+#. key: freezing cloud spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:freezing cloud spell"
+msgid ""
+"Conjures up a large cloud of lethally cold vapour.\n"
+msgstr ""
+"Burvestība uzburt lielu nāvīgi aukstu garaiņu mākoni.\n"
+
+#. key: iron shot spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:iron shot spell"
+msgid ""
+"Hurls a large and heavy metal shot.\n"
+msgstr ""
+"Burvestība raida lielu un smagu metāla bultu uz izvēlēto pretinieku.\n"
+
+#. key: lehudib's crystal spear spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:lehudib's crystal spear spell"
+msgid ""
+"Hurls a lethally sharp shard of crystal.\n"
+msgstr ""
+"Burvestība raida nāvīgi asu kristāla bultu.\n"
+
+#. key: paralyse spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:paralyse spell"
+msgid ""
+"Prevents a creature from taking any action for a short time.\n"
+msgstr ""
+"Burvestība atņem briesmonim spēju kustēties.\n"
+
+#. key: shock spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:shock spell"
+msgid ""
+"Throws a bouncing bolt of electricity. It bypasses half of defenders' armour.\n"
+msgstr ""
+"Burvestība sviež lēkājošu zibens šautru.\n"
+
+#. key: fighting
+#: dat/descript/skills.txt
+msgctxt ""
+"textdb:descriptions:fighting"
+msgid ""
+"Fighting skill increases your accuracy and damage in physical combat, and\n"
+"also increases your maximum health.\n"
+msgstr ""
+"Cīņas prasme palielina precizitāti un nodarītos bojājumus dūru cīņā, kā arī\n"
+"maksimālo dzīvības punktu skaitu.\n"
+
+#. key: dodging
+#: dat/descript/skills.txt
+msgctxt ""
+"textdb:descriptions:dodging"
+msgid ""
+"The Dodging skill will affect your chance of dodging an attack, be it melee,\n"
+"ranged or magical. Certain types of attack cannot be dodged, however, such as\n"
+"enchantments (which must be resisted with willpower) and explosions.\n"
+msgstr ""
+"Izvairīšanās prasme palielina iespēju izvairīties no uzbrukuma, vienalga vai\n"
+"tas ir tuvcīņas, tālcīņas vai maģijas. Tomēr no dažiem uzbrukuma veidiem,\n"
+"piemēram, noburšanas (pret ko var pretoties) vai sprādzieniem izvairīties nav\n"
+"iespējams.\n"
+
+#. key: shields
+#: dat/descript/skills.txt
+msgctxt ""
+"textdb:descriptions:shields"
+msgid ""
+"A high Shields skill helps you block melee attacks or projectiles (both magical\n"
+"and non-magical) with your equipped shield, and reduces their penalty to your\n"
+"evasion, attack speed and spellcasting success.\n"
+msgstr ""
+"Augsta vairoga prasme palīdz atvairīt tuvcīņas uzbrukumus, kā arī lidojošos\n"
+"šāviņus (gan maģiskos, gan nemaģiskos) ar savu rokā turamo (vai maģisko)\n"
+"vairogu.\n"
+
+#. key: spit poison ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:spit poison ability"
+msgid ""
+"Spits poison at a targeted creature.\n"
+msgstr ""
+"Uzspļaut indi izvēlētajam briesmonim.\n"
+
+#. key: breathe poison gas ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:breathe poison gas ability"
+msgid ""
+"Breathes a blast of poison gas at a targeted creature.\n"
+msgstr ""
+"Uzpūst izvēlētajam briesmonim indīgas gāzes mākoni.\n"
+
+#. key: cure all mutations ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:cure all mutations ability"
+msgid ""
+"Cures all your mutations — but only once.\n"
+msgstr ""
+"Izdziedēt visas mutācijas, taču tikai vienreiz.\n"
+
+#. key: cmd_rest verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_rest verbose"
+msgid ""
+"Rests while your health and magic regenerate. Resting is interrupted as soon\n"
+"as a hostile monster comes into view. If health and magic are both already\n"
+"full, resting will wait for 100 turns.\n"
+msgstr ""
+"Pavadīt līdz 100 gājieniem, atjaunojot dzīvības un/vai burvestību enerģiju.\n"
+"Atpūšanās tiek pārtraukta, tiklīdz redzeslokā parādās naidīgs briesmonis.\n"
+
+#. key: cmd_explore
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_explore"
+msgid ""
+"Autoexplore the current level\n"
+msgstr ""
+"Automātiski pētīt pašreizējo līmeni\n"
+
+#. key: cmd_search_stashes
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_search_stashes"
+msgid ""
+"Search for items/features\n"
+msgstr ""
+"Meklēt priekšmetus/iespējas\n"
+
+#. key: cmd_replay_messages
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_replay_messages"
+msgid ""
+"Reread recent messages\n"
+msgstr ""
+"Pārlasīt nesenās ziņas\n"
+
+#. key: cmd_resists_screen
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_resists_screen"
+msgid ""
+"Display character overview\n"
+msgstr ""
+"Parādīt tēla pārskatu\n"
+
+#. key: cmd_resists_screen verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_resists_screen verbose"
+msgid ""
+"Displays an overview of your current resistances, abilities, equipment and\n"
+"attributes.\n"
+msgstr ""
+"Parāda ziņas par zināmajām pretestībām, spējām, aprīkojuma statistiku utt.\n"
+
+#. key: cmd_display_mutations
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_mutations"
+msgid ""
+"Display mutations\n"
+msgstr ""
+"Parādīt mutācijas\n"
+
+#. key: cmd_display_skills
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_skills"
+msgid ""
+"Manage skills\n"
+msgstr ""
+"Pārvaldīt prasmes\n"
+
+#. key: cmd_display_character_status
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_character_status"
+msgid ""
+"Display character status\n"
+msgstr ""
+"Parādīt tēla stāvokli\n"
+
+#. key: cmd_display_known_objects
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_known_objects"
+msgid ""
+"List discovered item types\n"
+msgstr ""
+"Uzskaitīt atklāto priekšmetu veidus.\n"
+
+#. key: cmd_save_game_now
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_save_game_now"
+msgid ""
+"Save and exit\n"
+msgstr ""
+"Saglabāt un iziet\n"
+
+#. key: cmd_save_game_now verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_save_game_now verbose"
+msgid ""
+"Saves the game for later and exits. Once you resume the game, the save file is\n"
+"deleted again.\n"
+msgstr ""
+"Saglabā spēli vēlākam un iziet no tās. Tiklīdz spēle tiek atsākta, saglabātā\n"
+"datne tiek atkal izdzēsta.\n"
+
+#. key: cmd_display_commands
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_commands"
+msgid ""
+"Game help\n"
+msgstr ""
+"Spēles palīdzību\n"
+
+#. key: cmd_display_commands verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_commands verbose"
+msgid ""
+"Displays a list of commands.\n"
+msgstr ""
+"Pavēļu, iespēju utt. uzskaitījums.\n"
+
+#. key: cmd_autofight
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_autofight"
+msgid ""
+"Hit the closest monster\n"
+msgstr ""
+"Sist tuvākajam briesmonim\n"
+
+#. key: cmd_autofight verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_autofight verbose"
+msgid ""
+"Moves towards the closest hostile monster, or attacks an adjacent monster with\n"
+"your current weapon.\n"
+msgstr ""
+"Pārvietoties tuvākā naidīgā briesmoņa virzienā un uzbrukt tam ar rokā turēto\n"
+"ieroci.\n"
+
+#. key: cmd_autofight_nomove
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_autofight_nomove"
+msgid ""
+"Hit an adjacent monster\n"
+msgstr ""
+"Sist blakus stāvošajam briesmonim\n"
+
+#. key: cmd_autofight_nomove verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_autofight_nomove verbose"
+msgid ""
+"Attacks an adjacent monster with your current weapon.\n"
+msgstr ""
+"Uzbrukt blakus stāvošajam briesmonim ar rokā turēto ieroci\n"
+
+#. key: cmd_wait
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_wait"
+msgid ""
+"Wait a single turn\n"
+msgstr ""
+"Pagaidīt vienu gājienu\n"
+
+#. key: cmd_wait verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_wait verbose"
+msgid ""
+"Spends a single turn waiting and resting.\n"
+msgstr ""
+"Patērēt gājienu gaidot un atpūšoties.\n"
+
+#. key: cmd_cast_spell
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_cast_spell"
+msgid ""
+"Cast a spell\n"
+msgstr ""
+"Uzburt burvestību\n"
+
+#. key: cmd_cast_spell verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_cast_spell verbose"
+msgid ""
+"Casts a spell.\n"
+msgstr ""
+"Uzburt burvestību.\n"
+
+#. key: cmd_memorise_spell
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_memorise_spell"
+msgid ""
+"Memorise spell\n"
+msgstr ""
+"Iegaumēt burvestību\n"
+
+#. key: cmd_drop
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_drop"
+msgid ""
+"Drop items\n"
+msgstr ""
+"Nomest priekšmetus\n"
+
+#. key: cmd_display_map
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_map"
+msgid ""
+"Enter map mode\n"
+msgstr ""
+"Ievadīt kartes kodu\n"
+
+#. key: cmd_map_goto_target
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_goto_target"
+msgid ""
+"Travel to cursor\n"
+msgstr ""
+"Doties uz kursora atrašanās vietu\n"
+
+#. key: cmd_map_next_level
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_next_level"
+msgid ""
+"Down one level\n"
+msgstr ""
+"Vienu līmeni zemāk\n"
+
+#. key: cmd_map_prev_level
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_prev_level"
+msgid ""
+"Up one level\n"
+msgstr ""
+"Vienu līmeni augstāk\n"
+
+#. key: cmd_map_goto_level
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_goto_level"
+msgid ""
+"Go to level\n"
+msgstr ""
+"Doties uz līmeni\n"
+
+#. key: cmd_map_find_upstair
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_upstair"
+msgid ""
+"Find stairs up\n"
+msgstr ""
+"Meklēt kāpnes augšup\n"
+
+#. key: cmd_map_find_downstair
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_downstair"
+msgid ""
+"Find stairs down\n"
+msgstr ""
+"Meklēt kāpnes lejup\n"
+
+#. key: cmd_map_find_you
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_you"
+msgid ""
+"Find me\n"
+msgstr ""
+"Atrast meni\n"
+
+#. key: cmd_map_find_trap
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_trap"
+msgid ""
+"Find traps\n"
+msgstr ""
+"Meklēt lamatas\n"
+
+#. key: cmd_map_find_altar
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_altar"
+msgid ""
+"Find altars\n"
+msgstr ""
+"Meklēt ziedokļus\n"
+
+#. key: cmd_zoom_in
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_zoom_in"
+msgid ""
+"Zoom in\n"
+msgstr ""
+"Pietuvināt\n"
+
+#. key: cmd_zoom_out
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_zoom_out"
+msgid ""
+"Zoom out\n"
+msgstr ""
+"Attālināt\n"
+
+#. key: demigod
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:demigod"
+msgid ""
+"Demigods refuse to worship any god, but make up for this with divine attributes\n"
+"and high reserves of health and magic.\n"
+msgstr ""
+"Viņi nekad nesekos dievam, taču Pusdievi to kompensē ar dievišķām spējām un\n"
+"izturību.\n"
+
+#. key: merfolk
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:merfolk"
+msgid ""
+"Half fish, half human, Merfolk are citizens of both water and land. They are\n"
+"strong combatants, and adept at using magic to assist in battle.\n"
+msgstr ""
+"Kā puszivis un puscilvēki jūrcilvēki ir gan ūdens, gan zemes iemītnieki. Tie ir\n"
+"spēcīgi kaujinieki, kas kaujas laikā mēdz ņemt arī talkā burvestības.\n"
+
+#. key: minotaur
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:minotaur"
+msgid ""
+"Minotaurs are large muscular humans with bovine heads. They excel at all forms\n"
+"of close and ranged combat.\n"
+msgstr ""
+"Liels muskuļots cilvēks ar buļļa galvu. Tiem padodas visa veida tuvcīņa un\n"
+"tālcīņa.\n"
+
+#. key: spriggan
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:spriggan"
+msgid ""
+"Very small, very frail and very fast, Spriggans are highly competent stabbers\n"
+"and spellcasters.\n"
+msgstr ""
+"Ļoti mazi, ļoti vāri un ļoti ātri. No sprigāniem sanāk ārkārtīgi spējīgi\n"
+"slepkavas un burvji.\n"
+
+#. key: chaos knight
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:chaos knight"
+msgid ""
+"Chaos Knights are playthings of the unpredictable Xom, and are subject to the\n"
+"god's constantly changing moods.\n"
+msgstr ""
+"Haosa bruņinieki ir neparedzamā Ksorna spēlmantiņas, kas atkarīgas no dieva\n"
+"nepārtraukti mainīgās omas.\n"
+
+#. key: enchanter
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:enchanter"
+msgid ""
+"Enchanters know a variety of Hexes that can incapacitate their foes, and are\n"
+"equipped with an enchanted dagger and potions of invisibility.\n"
+msgstr ""
+"Apburēji izmanto burvestības, lai sevi pastiprinātu kaujās vai padarītu\n"
+"nespējīgus savus to pretiekus. Viņi arī spēli sāk ar labām šautriņām.\n"
+
+#. key: gladiator
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:gladiator"
+msgid ""
+"Gladiators are ready for the arena with light armour, a weapon of their choice,\n"
+"and a few throwing weapons and nets.\n"
+msgstr ""
+"Gladiatori ir vienmēr gatavi cīņai, nēsājot vieglas bruņas, vairogu, tīklus un\n"
+"izvēlētu ieroci.\n"
+
+#. key: hunter
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:hunter"
+msgid ""
+"Hunters carry a shortbow, light armour and a scroll of butterflies.\n"
+msgstr ""
+"Mednieki spēj uzbrukt no attāluma, nepaļaujoties uz riebīgajām burvestībām.\n"
+
+#. key: monk
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:monk"
+msgid ""
+"Monks start with a simple weapon of their choice, an orb of light, and a potion\n"
+"of divine ambrosia, and gain additional piety with the first god they worship.\n"
+msgstr ""
+"Mūki ir gatavi stāties pretī visam pazemē sastopamajam valkājot tik vien kā\n"
+"talāru un izmantojot savu ķermeni.\n"
+
+#. key: necromancer
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:necromancer"
+msgid ""
+"Necromancers start out with the Soul Splinter spell. Eventually, they can turn\n"
+"the dead into allies and use the life force of the living to restore themselves.\n"
+msgstr ""
+"Nekromanti ir burvji, kas specializējas nāves zintīs. Viņi sāk spēli ar Sāpju\n"
+"burvestību.\n"
+
+#. key: summoner
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:summoner"
+msgid ""
+"Summoners are able to cast Summon Small Mammal from the start, and begin with\n"
+"spells to summon stronger and more exotic allies in their library.\n"
+msgstr ""
+"Būtņotāji sāk ar Izsaukšanas grāmatu un no paša sākuma var atburt Mazu\n"
+"zīdītāju.\n"
+
+#. key: wanderer
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:wanderer"
+msgid ""
+"Wanderers start with random equipment and skills.\n"
+msgstr ""
+"Klejotāji sāk spēli ar nejauši izvēlētu aprīkojumu un prasmēm.\n"
+
+#. key: death
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:death"
+msgid ""
+"Condolences! Your character's premature death is a sad, but common occurrence\n"
+"in Crawl. Rest assured that with diligence and playing experience your\n"
+"characters will last longer.\n"
+"\n"
+"Perhaps the following advice can improve your playing style:\n"
+msgstr ""
+"Izsākām līdzjūtību! Jūsu tēla pirmslaicīgā nāve ir skumja, taču ierasta\n"
+"parādība Crawl. Neapšaubāmi, ka ar centību un spēlēšanas pieredzi Jūsu tēlu\n"
+"mūžs būs ilgāks.\n"
+"\n"
+"Varbūt šie padomi uzlabos Jūsu spēlēšanas stilu:\n"
+
+#. key: death ranger melee
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:death ranger melee"
+msgid ""
+"Your bow and arrows are extremely powerful against distant monsters.\n"
+msgstr ""
+"Jūsu loks un bultas ir ārkārtīgi iedarbīgas pret attāliem briesmoņiem, tādēļ\n"
+"paceliet visas pazemē mētājošās bultas.\n"
+
+#. key: death random 0
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:death random 0"
+msgid ""
+"Always consider using projectiles, wands or spells before engaging monsters in\n"
+"close combat.\n"
+msgstr ""
+"Vienmēr centieties izmantot šāviņus vai burvestības pirms iesaistīšanās ar\n"
+"briesmoņiem tuvcīņā.\n"
+
+#. key: death random 5
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:death random 5"
+msgid ""
+"Never fight more than one monster, if you can help it. Always back into a\n"
+"corridor so that they are forced to fight you one on one.\n"
+msgstr ""
+"Ja iespējams, nekad necīnieties ar vairāk kā vienu briesmoni. Vienmēr\n"
+"atkāpieties gaitenī, lai tie ir spiesti ar Jums cīnīties viens pret viens.\n"
+
+#. key: tutorial1 go_on
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial1 go_on"
+msgid ""
+"You're doing great! Now, explore a bit until you reach the next blue square.\n"
+msgstr ""
+"Tev izdodas lieliski! Nu papēti vēl mazliet līdz sasniedz nākamo zilo\n"
+"kvadrātiņu.\n"
+
+#. key: tutorial1 newlevel
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial1 newlevel"
+msgid ""
+"A new level! To begin with, head over to that door to the right.\n"
+"\n"
+"Also, remember: You can reread old messages with\n"
+"<input>$cmd[CMD_REPLAY_MESSAGES]</input>.\n"
+msgstr ""
+"Jauns līmenis! Lai sāktu, dodieties iekšā pa labajā pusē esošajām durvīm.\n"
+"\n"
+"Kā arī atcerieties: Jūs varat lasīt vecos ziņojumus, nospiežot\n"
+"<input>$cmd[CMD_REPLAY_MESSAGES]</input>.\n"
+
+#. key: tutorial2 start
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial2 start"
+msgid ""
+"This lesson will teach you about monsters and fighting. First, we need a\n"
+"weapon! Go and grab the one lying over there.\n"
+msgstr ""
+"Šajā mācību stundā Jūs apgūsit par briesmoņiem un cīnīšanos. Vispirms mums\n"
+"vajadzēs ieroci! Aizejiet un paņemiet to, kas tur mētājas.\n"
+
+#. key: tutorial2 melee
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial2 melee"
+msgid ""
+"To attack a monster with your bare hands or wielded weapon, simply walk into\n"
+"it.\n"
+msgstr ""
+"Lai uzbruktu briesmonim ar dūrēm vai rokās turēto ieroci, vienkārši uzejiet tam\n"
+"virsū.\n"
+
+#. key: tutorial2 wait
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial2 wait"
+msgid ""
+"Rather than storm the room and get swarmed by monsters, you can also step back\n"
+"and wait (with <input>$cmd[CMD_WAIT]</input><localtiles> or by\n"
+"<input>clicking</input> on your character</localtiles>) for them to come to you.\n"
+msgstr ""
+"Tā vietā, lai gāztos iekšā telpā un tikt briesmoņu aplenktam, Jūs varat arī\n"
+"pakāpties atpakaļ un nogaidīt (ar <input>$cmd[CMD_WAIT]</input>) līdz\n"
+"tie nāk pēc Jums.\n"
+
+#. key: tutorial2 tutorial_end
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial2 tutorial_end"
+msgid ""
+"Congratulations! You've survived your first batch of monsters! To exit the\n"
+"tutorial, simply go down these stairs.\n"
+msgstr ""
+"Apsveicu! Jūs pārdzīvojāt pirmo briesmoņu baru! Lai izietu no apmācības,\n"
+"vienkārši nokāpiet lejā pa šīm kāpnēm.\n"
+
+#. key: tutorial5 start
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial5 start"
+msgid ""
+"In this lesson you're going to learn about gods and how to use their powers.\n"
+msgstr ""
+"Šajā mācību stundā Jūs uzzināsit par dieviem un to, kā izmantot to spēku.\n"
+
+#. key: tutorial5 piety_on_kill
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial5 piety_on_kill"
+msgid ""
+"Some gods really like it if you kill monsters in their name. Let the slaughter\n"
+"begin!\n"
+msgstr ""
+"Dažiem dieviem tiešām patīk, ja viņu vārdā nogalināt briesmoņus. Lai tik sākas\n"
+"slaktiņš!\n"
+

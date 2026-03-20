@@ -1,0 +1,2195 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: crawl-data\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+#. key: a dry fountain
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a dry fountain"
+msgid ""
+"A dried-up decorative fountain that has seen better days.\n"
+msgstr ""
+"Vyschlá fontána, která již zaznamenala lepší časy.\n"
+
+#. key: a gate leading back out of this place
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a gate leading back out of this place"
+msgid ""
+"A gate that will let you return whence you came.\n"
+msgstr ""
+"Tato brána vede zpět do žaláře.\n"
+
+#. key: a gateway to hell
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a gateway to hell"
+msgid ""
+"A gateway leading to the Vestibule of Hell. Few would go there voluntarily.\n"
+msgstr ""
+"Tato brána vede do předsálí pekla. Jen málokdo by tam šel dobrovolně.\n"
+
+#. key: a crawl-hole back to the lair
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a crawl-hole back to the lair"
+msgid ""
+"A passage leading back to the Lair of Beasts.\n"
+msgstr ""
+"Tento průchod vede zpět k méně stísněným prostorám s menším počtem pavučin.\n"
+
+#. key: a closed door
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a closed door"
+msgid ""
+"A closed wooden door. All monsters that can wield equipment, and some of them\n"
+"that can't, may open it again. If it is opened by a monster while it is aware\n"
+"of you, it has a chance of breaking.\n"
+msgstr ""
+"Dřevěné dveře. Chcete-li je otevřít, zkuste do nich jednoduše vejít, nebo\n"
+"stiskněte „O“.\n"
+
+#. key: a large window
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a large window"
+msgid ""
+"A window embedded in the side of an enormous metal pipe, allowing observation\n"
+"of the water flowing inside.\n"
+msgstr ""
+"Okno vložené do boku obrovského kovového potrubí, což umožňuje pozorování\n"
+"tekoucí vody uvnitř.\n"
+
+#. key: a dead tree
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a dead tree"
+msgid ""
+"The dry remains of a long-dead tree.\n"
+msgstr ""
+"Tento strom je mrtvý jako všechno ostatní tady.\n"
+
+#. key: a golden statue
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a golden statue"
+msgid ""
+"A solid gold statue of a saint.\n"
+msgstr ""
+"Socha věštce z ryzího zlata.\n"
+
+#. key: a sarcophagus
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a sarcophagus"
+msgid ""
+"An ancient sarcophagus. It appears to be empty.\n"
+msgstr ""
+"Starověký sarkofág. Zdá být prázdný.\n"
+
+#. key: an exit from the tutorial
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:an exit from the tutorial"
+msgid ""
+"A way out of the dungeon, letting you finish this lesson.\n"
+msgstr ""
+"Toto je cesta ven z žaláře, umožní vám dokončit tuto lekci.\n"
+
+#. key: bardiche
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:bardiche"
+msgid ""
+"A long pole with an enormous, cleaving blade on one end.\n"
+msgstr ""
+"Dlouhá tyč s obrovskou čepelí určenou k sekání na konci.\n"
+
+#. key: book of fixed level
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of fixed level"
+msgid ""
+"A book of magic spells.\n"
+msgstr ""
+"Kniha kouzel.\n"
+
+#. key: book of fixed theme
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of fixed theme"
+msgid ""
+"A book of magic spells.\n"
+msgstr ""
+"Kniha kouzel.\n"
+
+#. key: cloak
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:cloak"
+msgid ""
+"A cloth cloak.\n"
+msgstr ""
+"Plátěný plášť.\n"
+
+#. key: corpse
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:corpse"
+msgid ""
+"A corpse. Useless and dead.\n"
+msgstr ""
+"Mrtvola. Je možno ji nasekat na poživatelné kousky.\n"
+
+#. key: crystal plate armour
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:crystal plate armour"
+msgid ""
+"An incredibly heavy but extremely effective suit of crystalline armour.\n"
+msgstr ""
+"Neuvěřitelně těžká, ale extrémně efektivní zbroj z křišťálu.\n"
+
+#. key: decaying skeleton
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:decaying skeleton"
+msgid ""
+"A decaying skeleton.\n"
+msgstr ""
+"Rozpadající se kostra.\n"
+
+#. key: demon blade
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:demon blade"
+msgid ""
+"A terrible weapon, forged in the fires of Hell.\n"
+msgstr ""
+"Strašná zbraň, kovaná v ohni pekla.\n"
+
+#. key: demon whip
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:demon whip"
+msgid ""
+"A terrible weapon, woven in the depths of the inferno.\n"
+msgstr ""
+"Hrozivá zbraň, spletená v hloubi pekelného ohně.\n"
+
+#. key: giant spiked club
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:giant spiked club"
+msgid ""
+"A giant lump of wood with sharp spikes at one end.\n"
+msgstr ""
+"Obrovský kus dřeva s ostrými hroty na jednom konci.\n"
+
+#. key: glaive
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:glaive"
+msgid ""
+"A pole with a large, heavy blade on one end.\n"
+msgstr ""
+"Tyč s obrovskou těžkou čepelí na konci.\n"
+
+#. key: gold piece
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:gold piece"
+msgid ""
+"A pile of glittering gold coins.\n"
+msgstr ""
+"Hromada třpytivých zlatých mincí.\n"
+
+#. key: helmet
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:helmet"
+msgid ""
+"A piece of metal headgear.\n"
+msgstr ""
+"Část kovové pokrývky hlavy.\n"
+
+#. key: lajatang
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:lajatang"
+msgid ""
+"A very rare and extremely effective weapon, featuring a pole with half-moon\n"
+"blades at both ends.\n"
+msgstr ""
+"Velmi vzácná a velmi efektivní dovážená zbraň. Představuje jí tyč s\n"
+"půlměsícovým ostřím na obou koncích.\n"
+
+#. key: longbow
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:longbow"
+msgid ""
+"A long, strong bow made of yew.\n"
+msgstr ""
+"Dlouhý, silný luk z tisu. Způsobuje výborné poškození v boji a zručný\n"
+"lukostřelec jej může použít s velkým efektem.\n"
+
+#. key: orb of zot
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:orb of zot"
+msgid ""
+"An invaluable artefact. Once you have escaped to the surface with it, your\n"
+"quest is complete.\n"
+msgstr ""
+"Tvá práce je hotova jakmile se ti podaří s tímto cenným artefaktem utéct na\n"
+"povrch.\n"
+
+#. key: pair of boots
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:pair of boots"
+msgid ""
+"A pair of boots. They are worn on the feet, and cover all but the largest\n"
+"hooves and talons.\n"
+msgstr ""
+"Pár bot.\n"
+
+#. key: pair of gloves
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:pair of gloves"
+msgid ""
+"A pair of gloves. They are worn on the hands, and cover all but the largest\n"
+"claws.\n"
+msgstr ""
+"Pár rukavic.\n"
+
+#. key: potion of berserk rage
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:potion of berserk rage"
+msgid ""
+"A potion which can send one into an incoherent rage, granting them a great but\n"
+"temporary increase to their health, damage, and speed. In exchange, their mind\n"
+"is clouded by anger, only allowing them to move and attack in melee. The rage\n"
+"will wear off quickly if they do not attack monsters, and upon expiry, the\n"
+"imbiber will be fatigued, causing them to slow dramatically and rendering them\n"
+"unable to berserk again for a short duration.\n"
+msgstr ""
+"Lekvar, který je schopen uvrhnout uživatele do bezmyšlenkovitého hněvu.\n"
+
+#. key: potion of invisibility
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:potion of invisibility"
+msgid ""
+"A potion which confers invisibility on one who consumes it.\n"
+msgstr ""
+"Lektvar, který vás skrývá před zraky ostatních.\n"
+
+#. key: potion of might
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:potion of might"
+msgid ""
+"A potion which greatly increases the power of the drinker's melee attacks.\n"
+msgstr ""
+"Magický nápoj, výrazně zvyšující fyzickou sílu člověka, který jej vypije.\n"
+
+#. key: quarterstaff
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:quarterstaff"
+msgid ""
+"A sturdy wooden pole, meant for fighting.\n"
+msgstr ""
+"Robustni dreveni kul určenej k boji.\n"
+
+#. key: ring of dexterity
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of dexterity"
+msgid ""
+"A ring that increases the dexterity of its wearer.\n"
+msgstr ""
+"Tenhle prsten zvyšuje nebo snižuje hbitost svého nositele, v závislosti na tom,\n"
+"nakolik je prsten okouzlen.\n"
+
+#. key: ring of evasion
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of evasion"
+msgid ""
+"A ring that makes its wearer more capable of avoiding attacks.\n"
+msgstr ""
+"Tenhle prsten  svemu nositeli umoznuje více či mene  vyhnout se utokum, v\n"
+"zavislosti na stupni okouzleni.\n"
+
+#. key: ring of protection from cold
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of protection from cold"
+msgid ""
+"A ring that protects its wearer from cold.\n"
+msgstr ""
+"Tento prsten zajišťuje ochranu před chladem.\n"
+
+#. key: ring of see invisible
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of see invisible"
+msgid ""
+"A ring that allows its wearer to see invisible things.\n"
+msgstr ""
+"Tento prsten umožňuje svému nositeli vidět věci skryté pohledu kouzlem.\n"
+
+#. key: ring of wizardry
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of wizardry"
+msgid ""
+"A ring that increases the success rate of its wearer's magical spells.\n"
+msgstr ""
+"Tento prsten zvyšuje schopnost svého nositele k použití magických kouzel.\n"
+
+#. key: scroll of fear
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scroll of fear"
+msgid ""
+"A scroll that causes great fear in nearby foes, causing them to flee until\n"
+"attacked, cornered, or enough time has passed.\n"
+"\n"
+"Non-living, undead and plant monsters cannot be feared, and berserk or frenzied\n"
+"monsters are also immune.\n"
+msgstr ""
+"Tento svitek způsobuje velký strach v těch, které vidí ten, kdo ho čte.\n"
+
+#. key: scroll of fog
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scroll of fog"
+msgid ""
+"A scroll that surrounds the reader with a dense cloud of fog, which can block\n"
+"vision temporarily. The fog takes a short time to fully spill out.\n"
+msgstr ""
+"Tento svitek obklopí čtenáře hustým oblakem mlhy.\n"
+
+#. key: wand of polymorph
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:wand of polymorph"
+msgid ""
+"A magical device which causes a creature to be transmogrified into another\n"
+"form. It is especially effective against shape-changing creatures.\n"
+msgstr ""
+"Magické zařízení, které způsobí, že se bytost promění do jiné formy. To je\n"
+"obzvláště účinné proti tvar-měnící bytosti.\n"
+
+#. key: amulet
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:amulet"
+msgid ""
+"An amulet to be worn as jewellery around the neck, charged with arcane powers\n"
+"of unknown provenance.\n"
+msgstr ""
+"Talisman, který lze nosit coby šperk kolem krku, nabitý magickými silami\n"
+"neznámého původu.\n"
+
+#. key: potion
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:potion"
+msgid ""
+"An unlabelled flask containing a single dose of unknown liquid.\n"
+msgstr ""
+"Neoznačená baňka, obsahující jednu dávku neznámé kapaliny.\n"
+
+#. key: ring
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:ring"
+msgid ""
+"A ring charged with arcane forces of unknown provenance, to be worn as jewellery\n"
+"on a finger.\n"
+msgstr ""
+"Talisman s nábojem magických sil neznámého původu, který se nosí coby šperk na\n"
+"prstu.\n"
+
+#. key: scroll
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:scroll"
+msgid ""
+"A disposable arcane formula inscribed on parchment by a professional scribe or\n"
+"sorcerer. Anyone can evoke the power of the arcane formula by reading it out\n"
+"loud, but the nature of that power is not a priori apparent.\n"
+msgstr ""
+"Jednorázová magická formule, zapsaná na pergamen písařem z povolání nebo\n"
+"kouzelníkem. Přečtením nahlas může kdokoliv vyvolat její moc, ale povaha jejího\n"
+"účinku není předem známa.\n"
+
+#. key: staff
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:staff"
+msgid ""
+"A staff improved with arcane powers of unknown nature.\n"
+msgstr ""
+"Hůl, zlepšená magickými silami neznámé povahy.\n"
+
+#. key: wand
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:wand"
+msgid ""
+"An unusually magical sort of stick.\n"
+msgstr ""
+"Hůlka. Možná i kouzelná.\n"
+
+#. key: singing sword
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:singing sword"
+msgid ""
+"An enchanted blade which loves nothing more than to sing to its owner, whether\n"
+"they want it to or not.\n"
+msgstr ""
+"Jedinou zálibou této očarované zbraně je zpívat svému majiteli, ať už je mu to\n"
+"po chuť či nikoliv.\n"
+
+#. key: wrath of trog
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:wrath of trog"
+msgid ""
+"A bloodstained axe that was the favourite weapon of the old god Trog, before it\n"
+"was lost. It induces a bloodthirsty berserker rage when used in battle, although\n"
+"mere mortals who wield it will find themselves temporarily overwhelmed by Trog's\n"
+"power.\n"
+msgstr ""
+"Než se jednoho dne ztratila, byla tato zbraň oblíbeným nástrojem starého\n"
+"božstva Troga. Způsobuje bezhlavý, krvežíznivý vztek u každého, kdo s ní uhodí\n"
+"jiného.\n"
+
+#. key: mace of variability
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:mace of variability"
+msgid ""
+"A large mace said to have appeared when Xom grew bored with the predictability\n"
+"of more ordinary instruments of chaos.\n"
+msgstr ""
+"Je poněkud nespolehlivý.\n"
+
+#. key: scythe of curses
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:scythe of curses"
+msgid ""
+"A scythe surrounded by an ominous aura of dread. It carries a terrible and\n"
+"ancient curse, which it busily inflicts on both the wielder and their enemies.\n"
+msgstr ""
+"Tato zbraň nese strašlivé a vysoce znepokojivé prokletí.\n"
+
+#. key: sceptre of torment
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:sceptre of torment"
+msgid ""
+"An accursed bone sceptre, created by some unknown hellish power. When used in\n"
+"combat, it causes agonising pain in all those unfortunate enough to gaze upon\n"
+"it, save for the wielder.\n"
+msgstr ""
+"Tato skrz naskrz prokletá zbraň je pekelným nástrojem.\n"
+
+#. key: faerie dragon scales
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:faerie dragon scales"
+msgid ""
+"An enchanted suit of armour created from the scales of a rare breed of dragon,\n"
+"now thought to be extinct. This prized relic is now one of the last proofs that\n"
+"the vividly coloured faerie dragons ever existed.\n"
+msgstr ""
+"Pohádkoví draci bývali kdysi velmi podobní skvrnitým drakům. Bohužel se jim\n"
+"jejich pestré zbarvení stalo zkázou, protože jím odstrašovali potenciální\n"
+"kořist. Dnes jsou již vyhynulí, a tento vzácný pozůstatek je jedním z\n"
+"posledních důkazů jejich existence.\n"
+
+#. key: scimitar of flaming death
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:scimitar of flaming death"
+msgid ""
+"A scimitar with a mysteriously smoking blade. Occasionally its heat leaks out,\n"
+"covering opponents in magical flame.\n"
+msgstr ""
+"Kouř!\n"
+
+#. key: dagger of chilly death
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:dagger of chilly death"
+msgid ""
+"A dagger made of one huge shard of sapphire. It covers opponents in ice,\n"
+"slowing down their movement somewhat.\n"
+msgstr ""
+"Dýka z jednoho velkého kusu safíru.\n"
+
+#. key: scythe "finisher"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:scythe \"finisher\""
+msgid ""
+"A long and exceedingly sharp scythe, capable of eviscerating in a single blow.\n"
+"Its extraordinary speed is the work of a mad wizard, who spent years refining\n"
+"it before discarding it in a fit of rage.\n"
+"\n"
+"The blade looses a low keen as it cuts through the air.\n"
+msgstr ""
+"Dlouhá a ostrá kosa, speciálně upravená pro bojové účely.\n"
+
+#. key: giant club "skullcrusher"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:giant club \"skullcrusher\""
+msgid ""
+"A massive enchanted cudgel that augments the already considerable strength of\n"
+"anyone mighty enough to wield it.\n"
+msgstr ""
+"Ať už se jedná o hospodskou rvačku, pořádný masakr nebo něco mezi, tenhle\n"
+"roztomilý klacík dovede udělat radost nejednomu obrovi.\n"
+
+#. key: glaive of the guard
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:glaive of the guard"
+msgid ""
+"A glaive commissioned several years ago by a wealthy queen fearful for the\n"
+"safety of her vast treasury. No foe, the smith promised, could defeat a guard\n"
+"wielding such a weapon!\n"
+"\n"
+"It was stolen a few months later, along with the rest of the queen's treasury;\n"
+"the guard, it transpired, had been caught napping. Still, it should serve more\n"
+"than adequately in the hands of a waking user.\n"
+msgstr ""
+"Tato zbraň kdysi patřila Garu Doghovi, strážci královské poklady. Podle legendy\n"
+"byl ztracen někde v žaláři.\n"
+
+#. key: sword of the dread knight
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:sword of the dread knight"
+msgid ""
+"An adamantine great sword. Its first wielder was a worshipper of Yredelemnul\n"
+"who eschewed the use of magic in combat, preferring to destroy her enemies with\n"
+"brute force. Unfortunately for her, not all of her opponents shared her\n"
+"limitations.\n"
+"\n"
+"It has felled countless great warriors under her grip, and the souls of those\n"
+"who had their lives taken beckon it to take even more under its new owner.\n"
+msgstr ""
+"Adamantiový velký meč.\n"
+
+#. key: morningstar "eos"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:morningstar \"eos\""
+msgid ""
+"A jewelled morningstar, glowing brightly with the light of the dawn. It\n"
+"illuminates the dungeon's recesses, revealing the machinations of those who\n"
+"would prefer to stay invisible.\n"
+msgstr ""
+"První paprsky úsvitu...\n"
+
+#. key: spear of the botono
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:spear of the botono"
+msgid ""
+"A dark and malign artefact. It increases the potency of hexes cast by anyone\n"
+"unwise enough to risk wielding it.\n"
+msgstr ""
+"Černokněžný, zlovolný artefakt, který zvyšuje účinnost zaklínadel čarovaných\n"
+"kýmkoliv, kdo je natolik pošetilý, aby si dovolil jej použít.\n"
+
+#. key: mithril axe "arga"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:mithril axe \"arga\""
+msgid ""
+"A beautiful mithril axe, probably lost by some dwarven hero.\n"
+msgstr ""
+"Překrásná Mithril sekera, pravděpodobně ji ztratil nějaký trpasličí hrdina.\n"
+
+#. key: longbow "piercer"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:longbow \"piercer\""
+msgid ""
+"An exceptionally large metal longbow.\n"
+msgstr ""
+"Mimořádně velký kovový dlouhý luk.\n"
+
+#. key: blowgun of the assassin
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:blowgun of the assassin"
+msgid ""
+"This blowgun seems to guide the needle to seek the most lethal point to hit\n"
+"the target, packing a nasty punch.\n"
+msgstr ""
+"Tato foukačka byla navržena tak, aby se dala snadno skrýt, i přesto však dovede\n"
+"uštědřit značnou ránu.\n"
+
+#. key: knife of accuracy
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:knife of accuracy"
+msgid ""
+"It is almost unerringly accurate.\n"
+msgstr ""
+"Je téměř neomylně přesná.\n"
+
+#. key: lehudib's crystal spear
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:lehudib's crystal spear"
+msgid ""
+"Presumably this relic led to the invention of the famous spell, or maybe the\n"
+"other way around.\n"
+msgstr ""
+"Tato relikvie pravděpodobně vedle k vynálezu stejnojmenného, slavného kouzla\n"
+"Mohlo to ale být i naopak.\n"
+
+#. key: captain's cutlass
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:captain's cutlass"
+msgid ""
+"An infamous weapon, once used by a vile pirate captain to slaughter countless\n"
+"innocents. He finally met his destiny when a kraken swallowed his ship, and the\n"
+"cutlass was thought to be lost with him.\n"
+msgstr ""
+"Touto nechvalně proslulou zbraní zmasakroval zlotřilý kapitán pirátů nespočet\n"
+"nevinných. Nakonec se mu stalo osudným, když jeho loď i s celou posádkou\n"
+"spolknul kraken. Mělo se za to, že se šavle navždy ztratila, ale právě teď\n"
+"držíš ve svých rukou důkaz, že tomu tak není.\n"
+
+#. key: storm bow
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:storm bow"
+msgid ""
+"A longbow with the colour of dark rain clouds that fires arrows like lightning.\n"
+msgstr ""
+"Tento luk má barvu temných, bouřkových mraků, a line se z něj zápach vlhkého\n"
+"ozónu.\n"
+
+#. key: tower shield of ignorance
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:tower shield of ignorance"
+msgid ""
+"A shield unearthed from the remains of a ruined city. It bears an inscription\n"
+"written in an ancient language. Scholars and wise men laboured for countless\n"
+"hours to decipher it, and in time, a translation was finally settled on:\n"
+"\n"
+"\"With a shield like this, who needs to think?\"\n"
+msgstr ""
+"„Otevřená mysl je jako pevnost jejíž brány jsou neblokované a nehlídané.“\n"
+
+#. key: robe of augmentation
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:robe of augmentation"
+msgid ""
+"A variegated robe, woven with enchantments to enhance the wearer's physical and\n"
+"mental abilities. Its creators wove in strands of hair from a hundred different\n"
+"animals, each chosen for the unique strengths it could grant the robe's wearer.\n"
+msgstr ""
+"Plášť vyrobený z pravého hedvábí.\n"
+
+#. key: cloak of the thief
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:cloak of the thief"
+msgid ""
+"A pitch-black cloak which allows its wearer to excel in the arts of thievery.\n"
+"Even the clumsy will find their footsteps softer and the shouts of their\n"
+"adversaries less attention-getting.\n"
+msgstr ""
+"Umožňuje jeho nositeli, aby vynikl v umění krádeže.\n"
+
+#. key: tower shield "bullseye"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:tower shield \"bullseye\""
+msgid ""
+"Just in case you had trouble getting hit.\n"
+msgstr ""
+"Jen kdybys náhodou měl problém se trefit.\n"
+
+#. key: crown of dyrovepreva
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:crown of dyrovepreva"
+msgid ""
+"A large circlet of dull bronze, set with a dazzling array of gemstones. It was\n"
+"first worn by a prince of the Titans, who sought protection from the incessant\n"
+"warfare between his fellow princes. In practice, the main effect of the\n"
+"artefact was to unite his rivals against him.\n"
+msgstr ""
+"Velká koruna z temného bronzu, set s oslnivou škálou drahých kamenů.\n"
+
+#. key: hat of the bear spirit
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:hat of the bear spirit"
+msgid ""
+"A fur hat once owned by Ukta, a powerful ogre shaman. It houses the spirit of\n"
+"an especially mighty bear, whose rages devastated the ogres until it was slain.\n"
+msgstr ""
+"Kdysi jej vlastnil Ukta, mocný obří šaman. Tento klobouk z kožešiny v sobě\n"
+"skrývá obzvláště silného medvědího ducha.\n"
+
+#. key: robe of misfortune
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:robe of misfortune"
+msgid ""
+"A splendid flowing robe of fur and silk whose lucky colour has faded.\n"
+msgstr ""
+"Báječná volná róba vyrobená z kožešin a hedvábí.\n"
+
+#. key: cloak of flash
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:cloak of flash"
+msgid ""
+"A cloak that twitches and jerks without any intervention.\n"
+msgstr ""
+"Vibrační plášť.\n"
+
+#. key: lear's hauberk
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:lear's hauberk"
+msgid ""
+"A well-made golden hauberk that covers all of its wearer's body parts. It\n"
+"includes a chainmail coif, chausses and maille gauntlets.\n"
+msgstr ""
+"Řemeslně kvalitní zlaté kroužkové brnění, které pokrývá celé tělo. Součástí je\n"
+"kroužková kapuce, nohavice a šupinové pěstnice.\n"
+
+#. key: skin of zhor
+#. Preserve {{ lua }} delimiters exactly.
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:skin of zhor"
+msgid ""
+"The {{\n"
+"    if you.can_smell() then\n"
+"        return \"smelly \"\n"
+"    end\n"
+"}}skin of some strange animal, native to cold and distant lands. It radiates\n"
+"the chill of its native habitat.\n"
+msgstr ""
+"Páchnoucí kůže nějakého podivného zvířete.\n"
+
+#. key: salamander hide armour
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:salamander hide armour"
+msgid ""
+"Most salamanders' bodies are consigned to the fiery depths from which they\n"
+"sprang. Rarely, though, salamanders instead preserve the skins of those that\n"
+"passed. The runes and decorations on this hide suggest it once belonged to a\n"
+"respected warrior or priest - perhaps even a king. The fiery spirit remains in\n"
+"the skin, granting its power to the wearer.\n"
+msgstr ""
+"Kožená zbroj z mločí kůže.\n"
+
+#. key: gauntlets of war
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:gauntlets of war"
+msgid ""
+"A pair of thick steel gauntlets. They were Okawaru's reward for a mighty\n"
+"warlord. The owner is destined to die in battle, but what a death it will be!\n"
+msgstr ""
+"Tyto hrubé, ocelové rukavice byly darem Okawaru jednomu mocnému válečníkovi.\n"
+"Zasloužíš si je i ty?\n"
+
+#. key: shield of resistance
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:shield of resistance"
+msgid ""
+"A bronze shield, looking almost exactly like a tortoise's shell. It was built\n"
+"by the adherents of an obscure minor faith, who imbued it with the power of\n"
+"their god. As the god is said to, this shield protects against sword and sling,\n"
+"frost and flame.\n"
+msgstr ""
+"Bronzový štít.\n"
+
+#. key: robe of folly
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:robe of folly"
+msgid ""
+"A dull grey robe. It is enchanted to provide mages with immeasurable power,\n"
+"and more than a little overconfidence...\n"
+msgstr ""
+"Matný šedý plášť. Je okouzlen, aby opatřil svého nositele nesmírnou mocí a\n"
+"moudrostí.\n"
+
+#. key: maxwell's patent armour
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:maxwell's patent armour"
+msgid ""
+"A suit of armour created by the famous inventor Maxwell, providing unparalleled\n"
+"protective qualities at a very affordable price. His unorthodox materials left\n"
+"it with certain shortcomings, but he's yet to have anyone come back for a\n"
+"refund.\n"
+msgstr ""
+"Podivně vypadající brnění.\n"
+
+#. key: mask of the dragon
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:mask of the dragon"
+msgid ""
+"The mask of the High Priest of ancient Erebora. In ancient times, the gods of\n"
+"the Ereborans ceased to answer their prayers, and in desperation, the people\n"
+"turned to the forbidden worship of dragons. Now, of their works, only this mask\n"
+"remains.\n"
+msgstr ""
+"Modrá maska.\n"
+
+#. key: scales of the dragon king
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:scales of the dragon king"
+msgid ""
+"A suit of armour created from the enchanted scales of a once-mighty king of\n"
+"dragons. In his time, titans and lesser dragons struggled with him in vain —\n"
+"but as with all things, even he was eventually cast down and undone. Of his\n"
+"life and deeds, this is all that remains.\n"
+msgstr ""
+"Kdysi dávno jistý mocný, zlatý drak vzal věci do svých pařátů a vládl všem\n"
+"draků ve své části světa. Přesto jeho vláda neměla dlouhého trvání, ukončena\n"
+"jedním obyčejným člověkem, který pak z jeho kůže vyhotovil toho brnění.\n"
+
+#. key: hat of the alchemist
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:hat of the alchemist"
+msgid ""
+"A dirty hat. It bears signs of surviving many weird explosions, which suggests\n"
+"it may have means of protecting the head inside from the risks involved with\n"
+"alchemy experiments.\n"
+msgstr ""
+"Umolousaný klobouk. Vypadá to, že přežil mnoho podivných výbuchů, což\n"
+"naznačuje, že dokáže ochránit hlavu před riziky souvisejícími s alchymistickými\n"
+"experimenty. Úroveň této ochrany také s jistotou říká, že dotyčný musel nějaké\n"
+"to zranění hlavy již dříve utrpět, když na takovéto experimenty měl byť jen\n"
+"pomyšlení.\n"
+
+#. key: fencer's gloves
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:fencer's gloves"
+msgid ""
+"A pair of gloves made of white silk.\n"
+msgstr ""
+"Pár rukavic z bílého hedvábí.\n"
+
+#. key: cloak of starlight
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:cloak of starlight"
+msgid ""
+"A phosphorescent cloak, woven of pure light beams. The ripples of its folds\n"
+"as the wearer leaps and swerves in combat may dazzle those who gaze on it.\n"
+msgstr ""
+"Fosforeskující plášť, tkaný z čistých světelných paprsků.\n"
+
+#. key: ratskin cloak
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:ratskin cloak"
+msgid ""
+"A cloak stitched from the hides of hundreds of hell rats by an enchantress with\n"
+"far too much time on her hands. Many more rats remain somehow concealed within\n"
+"it, and may scurry out to assist the wearer.\n"
+msgstr ""
+"Jistý kouzelnice s magickým kolovrátkem a spostou času tento plášť vyrobila z\n"
+"kůží stovek krys, povětšinou oranžových. Nosí se trochu divně a vypadá docela\n"
+"hloupě, ale poskytuje výtečnou ochranu před krysami všeho druhu.\n"
+
+#. key: amulet of the air
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:amulet of the air"
+msgid ""
+"A sky-blue amulet, suffused with enchantments that protect the wearer and make\n"
+"their Air spells more powerful. Its creator lacked just one thing: a steady\n"
+"hand.\n"
+msgstr ""
+"Mnoho ze svých ochranných vlastností tento nebesky modrý amulet pravděpodobně\n"
+"dostal od nějaké mocného vzdušného mága. Zdá se, že jediné, co mu chybělo,\n"
+"byla pevná ruka.\n"
+
+#. key: amulet of cekugob
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:amulet of cekugob"
+msgid ""
+"A strange-looking piece of crystal on an ordinary-looking string, with an odd\n"
+"selection of powers.\n"
+msgstr ""
+"Podivně vyhlížející kus krystalu na obyčejně vypadajícím řetězu s podivným\n"
+"výběrem moci.\n"
+
+#. key: amulet of tranquility
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:amulet of tranquility"
+msgid ""
+"A pendant made of purest jade. It grants its wearer immense willpower and\n"
+"mental fortitude.\n"
+msgstr ""
+"Tento přívěšek, vyrobený z nejryzejšího nefritu, dává svému nositeli nesmírnou,\n"
+"mytickou sílu odolat nepřátelské magii.\n"
+
+#. key: necklace of bloodlust
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:necklace of bloodlust"
+msgid ""
+"A necklace made of bloodstained human and animal teeth, and something that\n"
+"appears to be a piece of spine.\n"
+msgstr ""
+"Říkáš si, že jen nevkusný hrubián by nosil tento krví zbrocený náhrdelník,\n"
+"vyrobený z lidských a zvířecích zubů, a něčeho, co vypadá jako vytržený kus\n"
+"páteře.\n"
+
+#. key: ring of the mage
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:ring of the mage"
+msgid ""
+"An enchanted sapphire, inset into a ring. It aids the spellcasting of its\n"
+"wearer.\n"
+msgstr ""
+"Očarovaný safír vsazený do prstenu. Svému nositeli umožňuje lépe používat\n"
+"magii.\n"
+
+#. key: brooch of shielding
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:brooch of shielding"
+msgid ""
+"A brooch with an intricate inlaid design, providing a range of magical\n"
+"protections. Back in the good old days, every adventurer had one of these handy\n"
+"devices. That, and a pony.\n"
+msgstr ""
+"Za starých dobrých časů měl tuto užitečnou věcičku k dispozici každý dobrodruh.\n"
+"Tu a ještě poníka.\n"
+
+#. key: robe of clouds
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:robe of clouds"
+msgid ""
+"A robe of a material as nebulous and insubstantial as the clouds. It whips the\n"
+"air around it up into a furious storm as it ripples and swirls.\n"
+msgstr ""
+"Róba z tak jemného materiálu, že by jeden až řekl, že je z obláčků.\n"
+
+#. key: obsidian axe
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:obsidian axe"
+msgid ""
+"An axe with a powerful curse placed on it by one of the lords of Pandemonium,\n"
+"so that unsuspecting adventurers would unleash demons into this world. Beware,\n"
+"for it has ways of taking its wielder under its command...\n"
+msgstr ""
+"Tato sekera nese s sebou kletbu, uvalenou jedním z pánů Pandemonia, aby nic\n"
+"netušící dobrodruzi jako jsi ty do světa přilákali démony. Měj se na pozoru,\n"
+"neb tato sekera moc dobře ví, jak svého nositele přinutit poslouchat...\n"
+
+#. key: lightning scales
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:lightning scales"
+msgid ""
+"A set of armoured plates assembled to protect a creature with a long, scaly\n"
+"lower body. Faintly crackling with electricity, they supercharge their wearer's\n"
+"ability to cover distance.\n"
+msgstr ""
+"Tyto šupiny byly do podoby brnění vyrobeny ze spodní části těla nagy. Tiše\n"
+"jiskří a díky svému očarování umožňují nositeli plazit se téměř lidským tempem.\n"
+
+#. key: autumn katana
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:autumn katana"
+msgid ""
+"An exquisitely crafted sword. Its blade is so sharp that it can cut through\n"
+"space itself.\n"
+msgstr ""
+"Tento exotický meč je zbraň pro skutečně osvícené uživatele.\n"
+
+#. key: shillelagh "devastator"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:shillelagh \"devastator\""
+msgid ""
+"A wooden cudgel, loaded with more than just lead.\n"
+msgstr ""
+"Odhaduješ, že tahle tyč je nabitá něčím lepším, než jen olovem.\n"
+
+#. key: dragonskin cloak
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:dragonskin cloak"
+msgid ""
+"An opalescent cloak gleaming with the colours of all kinds of dragons. It\n"
+"imbues the wearer with draconic resistances, although somewhat unreliably.\n"
+msgstr ""
+"Tento dračí plášť hraje všemi barvami duhy. Svého nositele chrání před\n"
+"elementálními útoky všeho druhu, ačkoliv ne zcela spolehlivě.\n"
+
+#. key: ring of the octopus king
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:ring of the octopus king"
+msgid ""
+"One of the eight rings once worn by the Octopus King and now scattered across\n"
+"the land. Each has its own unique enchantment.\n"
+msgstr ""
+"„Panna mořská, jenž zpívala ráda,\n"
+" v králi chobotnic touhu vyvolala.\n"
+" Nápadník její mnoho chapadel měl,\n"
+" tuze se snažil a pannu chtěl,\n"
+" prsteny jeho všechny však navléct nedokázala.“\n"
+
+#. key: axe of woe
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:axe of woe"
+msgid ""
+"As you hold this axe your mind does not feel fully your own. Your body begins\n"
+"to exhibit strength far beyond its capabilities, and your movements become\n"
+"guided by Makhleb.\n"
+msgstr ""
+"Pokud budete držet tuto sekeru, ve své mysli se nebudete cítit úplně sami. Vaše\n"
+"tělo začne vykazovat sílu, daleko za svými možnostmi, a vaše pohyby budou\n"
+"vedeny Makhleb.\n"
+
+#. key: dispater
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:dispater"
+msgid ""
+"Greatest and most ruthless of the Lords of Hell, Dispater was born when first an\n"
+"iron sword drank mortal blood. They despise mortal vanities, the pursuit of\n"
+"‘reason’ and ‘beauty’ - the only art they enjoy is the art of war.\n"
+msgstr ""
+"Vládce železného mesta Dis.\n"
+
+#. key: erolcha
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:erolcha"
+msgid ""
+"An especially cunning ogre-mage.\n"
+msgstr ""
+"Zvláště prohnaný zlobr-čaroděj.\n"
+
+#. key: joseph
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:joseph"
+msgid ""
+"Looks like a mercenary in a stupid-looking hat.\n"
+msgstr ""
+"Podobá se na žoldnére.\n"
+
+#. key: agony spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:agony spell"
+msgid ""
+"Cuts the health of a target creature in half. This damage is never directly\n"
+"lethal.\n"
+msgstr ""
+"Toto kouzlo snižuje odolnost cílové bytosti na polovinu,  nikdy nezpůsobuje\n"
+"přímo smrt.\n"
+
+#. key: airstrike spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:airstrike spell"
+msgid ""
+"Causes the air around a creature to twist itself into a whirling vortex of\n"
+"meteorological fury. It does more damage to targets surrounded by empty space.\n"
+msgstr ""
+"Toto kouzlo způsobuje, že se vzduch kolem tvora točí v zuřivém víru. Toto\n"
+"kouzlo je zvláště účinné proti létajícím nepřátelům.\n"
+
+#. key: blink spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:blink spell"
+msgid ""
+"Randomly translocates the caster a short distance. After translocating in this\n"
+"way, the spell cannot be cast again for a short period of time depending on\n"
+"spell power.\n"
+msgstr ""
+"Toto kouzlo přenese kouzelníka na krátkou náhodnou vzdálenost .\n"
+
+#. key: elven halls
+#: dat/descript/branches.txt
+msgctxt ""
+"textdb:descriptions:elven halls"
+msgid ""
+"The Elven Halls are home to the deep elves, a race that turned their backs on\n"
+"the sun long ago. Their halls are filled with riches, but a deadly welcome\n"
+"awaits any would-be robbers. In their long seclusion, the deep elves have\n"
+"perfected dark sorceries of a power the orcs can only dream of!\n"
+msgstr ""
+"Zatímco většina elfích lidí  se nikdy nepřesunula do temného podzemního\n"
+"komplexu, jako je tento, hlubinní elfové to udělali. Jejich sály jsou plné\n"
+"bohatství, ale všechny kolemjdoucí si musí být vědomi legendární magické\n"
+"zdatnosti tohoto druhu.\n"
+"\n"
+"Elfí sály jsou tří úrovňové.\n"
+
+#. key: lair
+#: dat/descript/branches.txt
+msgctxt ""
+"textdb:descriptions:lair"
+msgid ""
+"Most adventurers find the Lair of Beasts to be an exciting change of climate.\n"
+"And indeed, there is something to be said about getting gored, mauled and eaten\n"
+"rather than sliced, burnt or stabbed.\n"
+"\n"
+"The Lair contains the entrances to one of the Swamp or the Shoals, one of the\n"
+"Snake Pit or the Spider Nest, and to the Pits of Slime.\n"
+msgstr ""
+"Většina dobrodruhů shledává Doupě šelem vzrušující změnou prostředí. Na tom, že\n"
+"je lepší nechat se nabrat na rohy, podrápat a rozdupat kopyty nežli se nechat\n"
+"rozsekat, zapálit nebo probodat opravdu něco bude.\n"
+"\n"
+"Doupě má osm podlaží a lze v něm nalézt vstup do dalších tří částí žaláře.\n"
+
+#. key: sewer
+#: dat/descript/branches.txt
+msgctxt ""
+"textdb:descriptions:sewer"
+msgid ""
+"Every inhabited place needs to dispose of its waste products. The Dungeon too\n"
+"has its stinking sewers and drains, full of filthy water and ignored by most\n"
+"but used as hideaways by the disgusting and the desperate. Old tales speak of\n"
+"dangerous creatures stalking through the foul-smelling green water, preying on\n"
+"each other without mercy. The tales also allude to valuable items accidentally\n"
+"washed into the drainage tunnels, forgotten and left to grow mouldy in the damp\n"
+"caverns.\n"
+msgstr ""
+"Každé obydlené místo, se musí zbavit svých odpadních produktů. Žalář má také\n"
+"své smradlavé stoky a kanalizace, plné špinavé vody. Jsou to nechutné a\n"
+"beznadějné zákoutí. Staré příběhy mluví o nebezpečných tvorech pronásledujících\n"
+"oběť přes páchnoucí zelenou vodou, lovících bez slitování. Příběhy se také\n"
+"zmiňují o cenných předmětech omylem spláchnutých do odvodňovacích tunelů,\n"
+"zapomenutých a časem zplesnivělých ve vlhkých jeskyních.\n"
+
+#. key: volcano
+#: dat/descript/branches.txt
+msgctxt ""
+"textdb:descriptions:volcano"
+msgid ""
+"Built from enormous blocks of obsidian, the volcano's sweltering chambers may\n"
+"once have served as a temple to some strange deity, or perhaps the dwelling of\n"
+"a mighty fire giant. The air shimmers with oppressive heat, and the dull roar\n"
+"of the volcano's heart never ceases.\n"
+msgstr ""
+"Postaveno z obrovských bloků obsidiánu, může to být horká komora, která kdysi\n"
+"sloužila jako chrám pro nějaké podivné božstvo, nebo možná obydlí mohutného\n"
+"ohnivého obra. Vzduch se třpytí tíhou tepla a nudný řev srdce sopky nikdy\n"
+"nepřestane.\n"
+
+#. key: banish ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:banish ability"
+msgid ""
+"Attempts to banish a creature into the Abyss. If the attempt succeeds, you gain\n"
+"some piety and the creature's full experience value. Even creatures that resist\n"
+"are left malmutated and weakened by the brush with the Abyss. Invocations skill\n"
+"makes Banishment harder to resist.\n"
+msgstr ""
+"Pokoušet vyhnat monstrum do propasti.\n"
+
+#. key: cmd_rest
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_rest"
+msgid ""
+"Rest and heal\n"
+msgstr ""
+"Odpočinek a léčení\n"
+
+#. key: cmd_rest verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_rest verbose"
+msgid ""
+"Rests while your health and magic regenerate. Resting is interrupted as soon\n"
+"as a hostile monster comes into view. If health and magic are both already\n"
+"full, resting will wait for 100 turns.\n"
+msgstr ""
+"Hráč stráví až 100 tahů regenerací zdraví a/nebo dobíjením magie, nebo\n"
+"prohledáváním okolí. Jakmile se objeví nepřítel, odpočinek je přerušen.\n"
+
+#. key: cmd_explore
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_explore"
+msgid ""
+"Autoexplore the current level\n"
+msgstr ""
+"Automaticky prozkoumat současnou úroveň\n"
+
+#. key: cmd_explore verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_explore verbose"
+msgid ""
+"Automatically explores the current level, collecting items on the way.\n"
+"Exploration stops as soon as a hostile monster comes into view, or when you\n"
+"encounter new items or features.\n"
+msgstr ""
+"Umožňuje, aby postava automaticky procestovala neprozkoumané částí současného\n"
+"patra a posbírala předměty, které jsou nastaveny pro automatický sběr. Kdykoliv\n"
+"je objeven nepřítel, nebo je nalezen předmět či zajímavé místo, cestování je\n"
+"zastaveno.\n"
+
+#. key: cmd_interlevel_travel
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_interlevel_travel"
+msgid ""
+"Travel to distant levels\n"
+msgstr ""
+"Cestovat do jiných úrovní\n"
+
+#. key: cmd_interlevel_travel verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_interlevel_travel verbose"
+msgid ""
+"Automatically travels to a chosen level or branch. Travel is interrupted by\n"
+"monsters coming into view.\n"
+msgstr ""
+"Hráč bude automaticky dopraven do zvolené úrovně. Pokud je objeven nepřítel,\n"
+"cestování je zastaveno.\n"
+
+#. key: cmd_use_ability
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_use_ability"
+msgid ""
+"Use divine, innate or evokable abilities\n"
+msgstr ""
+"Použít božské nebo vrozené schopnosti\n"
+
+#. key: cmd_search_stashes
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_search_stashes"
+msgid ""
+"Search for items/features\n"
+msgstr ""
+"Vyhledat předmět/místo\n"
+
+#. key: cmd_search_stashes verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_search_stashes verbose"
+msgid ""
+"Searches for items or features seen elsewhere, and allows you to travel to\n"
+"their location.\n"
+msgstr ""
+"Umožňuje vyhledat předmět či místo, na které již hráč narazil, a pak tam\n"
+"cestovat.\n"
+
+#. key: cmd_replay_messages
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_replay_messages"
+msgid ""
+"Reread recent messages\n"
+msgstr ""
+"Zobrazit nedávnou historii zpráv\n"
+
+#. key: cmd_resists_screen
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_resists_screen"
+msgid ""
+"Display character overview\n"
+msgstr ""
+"Zobrazit přehled postavy\n"
+
+#. key: cmd_resists_screen verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_resists_screen verbose"
+msgid ""
+"Displays an overview of your current resistances, abilities, equipment and\n"
+"attributes.\n"
+msgstr ""
+"Zobrazí informace o známých odolnostech, schopnostech, vlastnotech předmětů\n"
+"atp.\n"
+
+#. key: cmd_display_overmap
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_overmap"
+msgid ""
+"Display dungeon overview\n"
+msgstr ""
+"Zobrazit přehled žáláře\n"
+
+#. key: cmd_display_overmap verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_overmap verbose"
+msgid ""
+"Displays an overview of dungeon branch locations, discovered altars, shops and\n"
+"level annotations.\n"
+msgstr ""
+"Zobrazí umístění vstupů do vedlejších částí žaláře, obchodů a dalších\n"
+"zajímavých míst, na které jsi zatím narazil.\n"
+
+#. key: cmd_display_religion
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_religion"
+msgid ""
+"Display religious status\n"
+msgstr ""
+"Zobrazit informace o náboženství\n"
+
+#. key: cmd_display_religion verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_religion verbose"
+msgid ""
+"Displays your god's likes and dislikes, conduct, and your current religious\n"
+"standing and divine abilities.\n"
+msgstr ""
+"Zobrazí, co tebou uctívaný bůh má rád a co nemá, jak se chovat, tvé aktuální\n"
+"postavení a udělené privilegia.\n"
+
+#. key: cmd_display_mutations
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_mutations"
+msgid ""
+"Display mutations\n"
+msgstr ""
+"Zobrazit mutace\n"
+
+#. key: cmd_display_skills
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_skills"
+msgid ""
+"Manage skills\n"
+msgstr ""
+"Spravovat dovednosti\n"
+
+#. key: cmd_display_character_status
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_character_status"
+msgid ""
+"Display character status\n"
+msgstr ""
+"Zobrazit stav postavy\n"
+
+#. key: cmd_display_character_status verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_character_status verbose"
+msgid ""
+"Displays details on your current movement speed, attack speed, stealth, magic\n"
+"resistance, and any currently active enchantments or status effects.\n"
+msgstr ""
+"Zobrazí aktivní očarování a pár dalších věcí.\n"
+
+#. key: cmd_display_known_objects
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_known_objects"
+msgid ""
+"List discovered item types\n"
+msgstr ""
+"Seznam objevených předmětů\n"
+
+#. key: cmd_save_game_now
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_save_game_now"
+msgid ""
+"Save and exit\n"
+msgstr ""
+"Uložit a ukončit\n"
+
+#. key: cmd_save_game_now verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_save_game_now verbose"
+msgid ""
+"Saves the game for later and exits. Once you resume the game, the save file is\n"
+"deleted again.\n"
+msgstr ""
+"Uloží a ukončí hru. Při opětovném vstupu do hry je soubor s uloženou hrou\n"
+"smazán.\n"
+
+#. key: cmd_edit_player_tile
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_edit_player_tile"
+msgid ""
+"Modify the player tile\n"
+msgstr ""
+"Změnit vzhled postavy\n"
+
+#. key: cmd_edit_player_tile verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_edit_player_tile verbose"
+msgid ""
+"Allows you to modify the equipment and species tile displayed in the player\n"
+"doll.\n"
+msgstr ""
+"Umožňuje změnit, jak bude tvá postava vypadat co do vybavení a rasy.\n"
+
+#. key: cmd_display_commands
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_commands"
+msgid ""
+"Game help\n"
+msgstr ""
+"Nápověda ke hře\n"
+
+#. key: cmd_display_commands verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_commands verbose"
+msgid ""
+"Displays a list of commands.\n"
+msgstr ""
+"Seznam příkazů, předvoleb atd.\n"
+
+#. key: cmd_autofight
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_autofight"
+msgid ""
+"Hit the closest monster\n"
+msgstr ""
+"Zasáhnout nejbližší monstrum\n"
+
+#. key: cmd_autofight verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_autofight verbose"
+msgid ""
+"Moves towards the closest hostile monster, or attacks an adjacent monster with\n"
+"your current weapon.\n"
+msgstr ""
+"Pohnout se směrem k nejbližšímu nepříteli a zaútočit pomocí držené zbraně.\n"
+
+#. key: cmd_autofight_nomove
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_autofight_nomove"
+msgid ""
+"Hit an adjacent monster\n"
+msgstr ""
+"Zasáhnout nejbližší monstrum\n"
+
+#. key: cmd_autofight_nomove verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_autofight_nomove verbose"
+msgid ""
+"Attacks an adjacent monster with your current weapon.\n"
+msgstr ""
+"Zaútočit na nejbližší monstrum pomocí držené zbraně.\n"
+
+#. key: cmd_wait
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_wait"
+msgid ""
+"Wait a single turn\n"
+msgstr ""
+"Čekat jeden tah\n"
+
+#. key: cmd_wait verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_wait verbose"
+msgid ""
+"Spends a single turn waiting and resting.\n"
+msgstr ""
+"Hráč stráví jeden tah čekáním a odpočinkem.\n"
+
+#. key: cmd_display_inventory
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_inventory"
+msgid ""
+"Display the contents of your inventory\n"
+msgstr ""
+"Zobrazit seznam věcí v inventáři\n"
+
+#. key: cmd_display_inventory verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_inventory verbose"
+msgid ""
+"Displays the contents of your inventory.\n"
+msgstr ""
+"Zobrazí seznam předmětů, které momentálně máte u sebe.\n"
+
+#. key: cmd_cast_spell
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_cast_spell"
+msgid ""
+"Cast a spell\n"
+msgstr ""
+"Seslat kouzlo\n"
+
+#. key: cmd_cast_spell verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_cast_spell verbose"
+msgid ""
+"Casts a spell.\n"
+msgstr ""
+"Sešle zvolené kouzlo.\n"
+
+#. key: cmd_memorise_spell
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_memorise_spell"
+msgid ""
+"Memorise spell\n"
+msgstr ""
+"Zapamatovat si kouzlo\n"
+
+#. key: cmd_memorise_spell verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_memorise_spell verbose"
+msgid ""
+"Memorises a chosen spell from your spell library.\n"
+msgstr ""
+"Uloží do paměti kouzlo z knihy, kterou má hráč u sebe nebo na které stojí.\n"
+
+#. key: cmd_drop
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_drop"
+msgid ""
+"Drop items\n"
+msgstr ""
+"Zahodit předměty\n"
+
+#. key: cmd_drop verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_drop verbose"
+msgid ""
+"Drops one or more items that you are currently holding.\n"
+msgstr ""
+"Zahodí jeden či více předmětů, které máš zrovna sebe.\n"
+
+#. key: cmd_display_map
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_map"
+msgid ""
+"Enter map mode\n"
+msgstr ""
+"Zobrazit mapu\n"
+
+#. key: cmd_display_map verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_map verbose"
+msgid ""
+"Displays a map of the current level.\n"
+msgstr ""
+"Umožňuje zobrazit a pohybovat se po již dříve prozkoumané mapě.\n"
+
+#. key: cmd_map_goto_target
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_goto_target"
+msgid ""
+"Travel to cursor\n"
+msgstr ""
+"Cestovat na místo\n"
+
+#. key: cmd_map_goto_target verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_goto_target verbose"
+msgid ""
+"Starts travelling to the cursor's current location.\n"
+msgstr ""
+"Započne cestu na místo určené kurzorem.\n"
+
+#. key: cmd_map_add_waypoint
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_add_waypoint"
+msgid ""
+"Add waypoint\n"
+msgstr ""
+"Přidat cestovní bod\n"
+
+#. key: cmd_map_add_waypoint verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_add_waypoint verbose"
+msgid ""
+"Sets a waypoint at your current position.\n"
+msgstr ""
+"Umožňuje uložit aktuální místo pro pozdější snadné cestování.\n"
+
+#. key: cmd_map_exclude_area
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_exclude_area"
+msgid ""
+"Create exclusion\n"
+msgstr ""
+"Zákaz cestování\n"
+
+#. key: cmd_map_exclude_area verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_exclude_area verbose"
+msgid ""
+"Creates a travel exclusion, changes its radius, or removes it.\n"
+msgstr ""
+"Umožňuje označit místo, kam automaticky necestovat, případně změnit velikost či\n"
+"tuto vyjímku odstranit.\n"
+
+#. key: cmd_map_clear_excludes
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_clear_excludes"
+msgid ""
+"Clear travel exclusions\n"
+msgstr ""
+"Odstranit zákazy cestování\n"
+
+#. key: cmd_map_clear_excludes verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_clear_excludes verbose"
+msgid ""
+"Erases all travel exclusions on the level.\n"
+msgstr ""
+"Smaže všechny zákazy cestovaní na daném patře.\n"
+
+#. key: cmd_map_next_level
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_next_level"
+msgid ""
+"Down one level\n"
+msgstr ""
+"O patro níže\n"
+
+#. key: cmd_map_next_level verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_next_level verbose"
+msgid ""
+"Displays the next deeper level.\n"
+msgstr ""
+"Přepne zobrazení na nižší patro.\n"
+
+#. key: cmd_map_prev_level
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_prev_level"
+msgid ""
+"Up one level\n"
+msgstr ""
+"O patro výše\n"
+
+#. key: cmd_map_prev_level verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_prev_level verbose"
+msgid ""
+"Displays the next higher level.\n"
+msgstr ""
+"Přepne zobrazení na vyšší patro.\n"
+
+#. key: cmd_map_goto_level
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_goto_level"
+msgid ""
+"Go to level\n"
+msgstr ""
+"Cestovat do jiného patra\n"
+
+#. key: cmd_map_goto_level verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_goto_level verbose"
+msgid ""
+"Displays another chosen level by branch and depth.\n"
+msgstr ""
+"Automatická cesta do jiného patra žaláře či vedlejší části.\n"
+
+#. key: cmd_map_find_upstair
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_upstair"
+msgid ""
+"Find stairs up\n"
+msgstr ""
+"Najít schody nahoru\n"
+
+#. key: cmd_map_find_upstair verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_upstair verbose"
+msgid ""
+"Cycles through stairs up.\n"
+msgstr ""
+"Přepíná mezi nalezenými schodišti o patro výše.\n"
+
+#. key: cmd_map_find_downstair
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_downstair"
+msgid ""
+"Find stairs down\n"
+msgstr ""
+"Najít schody dolů\n"
+
+#. key: cmd_map_find_downstair verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_downstair verbose"
+msgid ""
+"Cycles through stairs down.\n"
+msgstr ""
+"Přepíná mezi nalezenými schodišti o patro níže.\n"
+
+#. key: cmd_map_find_you
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_you"
+msgid ""
+"Find me\n"
+msgstr ""
+"Najít hráče\n"
+
+#. key: cmd_map_find_you verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_you verbose"
+msgid ""
+"Moves the map cursor back to your current position.\n"
+msgstr ""
+"Přesune kurzor zpět na hráčovu pozici.\n"
+
+#. key: cmd_map_find_portal
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_portal"
+msgid ""
+"Find shops and portals\n"
+msgstr ""
+"Najít obchody a portály\n"
+
+#. key: cmd_map_find_portal verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_portal verbose"
+msgid ""
+"Cycles through shops and portals on the current level.\n"
+msgstr ""
+"Přepíná mezi nalezenými obchody a portály na současném patře.\n"
+
+#. key: cmd_map_find_trap
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_trap"
+msgid ""
+"Find traps\n"
+msgstr ""
+"Najít pasti\n"
+
+#. key: cmd_map_find_trap verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_trap verbose"
+msgid ""
+"Cycles through traps on the current level.\n"
+msgstr ""
+"Přepíná mezi pastmi na současném patře.\n"
+
+#. key: cmd_map_find_altar
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_altar"
+msgid ""
+"Find altars\n"
+msgstr ""
+"Najít oltáře\n"
+
+#. key: cmd_map_find_altar verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_altar verbose"
+msgid ""
+"Cycles through altars on the current level.\n"
+msgstr ""
+"Přepínat mezi oltáři na současném patře.\n"
+
+#. key: cmd_map_find_excluded
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_excluded"
+msgid ""
+"Find travel exclusion\n"
+msgstr ""
+"Najít zákaz cestování\n"
+
+#. key: cmd_map_find_excluded verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_excluded verbose"
+msgid ""
+"Cycles through travel exclusions on the current level.\n"
+msgstr ""
+"Přepíná mezi zákazy cestování na současném patře.\n"
+
+#. key: cmd_map_find_waypoint
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_waypoint"
+msgid ""
+"Find waypoint\n"
+msgstr ""
+"Najít cestovní bod\n"
+
+#. key: cmd_map_find_waypoint verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_waypoint verbose"
+msgid ""
+"Cycles through all waypoints on the current level.\n"
+msgstr ""
+"Přepíná mezi všemi cestovními body na současném patře.\n"
+
+#. key: cmd_map_find_stash
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_stash"
+msgid ""
+"Find stash\n"
+msgstr ""
+"Najít skrýš\n"
+
+#. key: cmd_map_find_stash verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_stash verbose"
+msgid ""
+"Cycles through all stashes on the current level.\n"
+msgstr ""
+"Přepíná mezi všemi uloženými skrýšemi na současném patře.\n"
+
+#. key: cmd_zoom_in
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_zoom_in"
+msgid ""
+"Zoom in\n"
+msgstr ""
+"Přiblížit\n"
+
+#. key: cmd_zoom_in verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_zoom_in verbose"
+msgid ""
+"Zooms in on dungeon area.\n"
+msgstr ""
+"Přiblíží část žaláře\n"
+
+#. key: cmd_zoom_out
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_zoom_out"
+msgid ""
+"Zoom out\n"
+msgstr ""
+"Oddálit\n"
+
+#. key: cmd_zoom_out verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_zoom_out verbose"
+msgid ""
+"Zooms out on dungeon area.\n"
+msgstr ""
+"Oddálí část žaláře\n"
+
+#. key: deep elf
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:deep elf"
+msgid ""
+"Deep Elves have a strong affinity for all kinds of magic, but are very fragile.\n"
+"They regenerate magical power rapidly.\n"
+msgstr ""
+"Magicky nejnadanější z elfů, ale také nejslabší tělem.\n"
+
+#. key: demigod
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:demigod"
+msgid ""
+"Demigods refuse to worship any god, but make up for this with divine attributes\n"
+"and high reserves of health and magic.\n"
+msgstr ""
+"Za žádných okolností nebudou uctívat božstvo, za to však je jim do vínku dáno\n"
+"božské zdraví a vlastnosti.\n"
+
+#. key: demonspawn
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:demonspawn"
+msgid ""
+"Demonspawn are half human, half demon. They acquire strong demonic mutations as\n"
+"they grow.\n"
+msgstr ""
+"Démonik je napůl člověk, napůl démon, který postupně získáva silné démonické\n"
+"mutace.\n"
+
+#. key: draconian
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:draconian"
+msgid ""
+"Draconians are versatile hybrids. They mature when reaching level 7 and develop\n"
+"a colour.\n"
+msgstr ""
+"Drakoni jsou všeumělové, kteří dospívají na sedmé úrovni, kdy získavají\n"
+"charakteristický odstín.\n"
+
+#. key: felid
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:felid"
+msgid ""
+"Felids are many-lived sentient cats. They cannot use armour or weapons.\n"
+msgstr ""
+"Myslící plemeno koček s mnoha života, které zato nejsou schopny jemné\n"
+"manipulace s předměty či používaní zbroje a zbraní.\n"
+
+#. key: gargoyle
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:gargoyle"
+msgid ""
+"Made of living stone, Gargoyles have a preternatural affinity for earth magic.\n"
+"They have low health, but their stone bodies are incredibly tough.\n"
+msgstr ""
+"Díky tomu, že jsou vytesáni ze žijícího kamene, mají nadpřirozeně pozitivní\n"
+"vztah k zemské magii.\n"
+
+#. key: human
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:human"
+msgid ""
+"Humans are natural explorers. Discovering new places refreshes and invigorates them.\n"
+"They are otherwise completely average.\n"
+msgstr ""
+"Všední a průměrní.\n"
+
+#. key: tengu
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:tengu"
+msgid ""
+"Tengu are bird-people who love to fight, both with weapons and spells. They are\n"
+"fragile but agile, and eventually learn to fly.\n"
+msgstr ""
+"Ptačí lidé, milující jak boj se zbraní, tak s kouzly. Jsou velmi křehcí, ale\n"
+"později se naučí svižnému letu.\n"
+
+#. key: merfolk
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:merfolk"
+msgid ""
+"Half fish, half human, Merfolk are citizens of both water and land. They are\n"
+"strong combatants, and adept at using magic to assist in battle.\n"
+msgstr ""
+"Napůl ryby, napůl lidé, vodnáři jsou doma jak ve vodě, tak na souši. Jsou to\n"
+"silní bojovníci, kteří si dovedou v boji na pomoc přivolat magii.\n"
+
+#. key: minotaur
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:minotaur"
+msgid ""
+"Minotaurs are large muscular humans with bovine heads. They excel at all forms\n"
+"of close and ranged combat.\n"
+msgstr ""
+"Velký, svalnatý člověk s býčí hlavou. Vynikají ve všech formách boje na blízko\n"
+"i na dálku.\n"
+
+#. key: mummy
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:mummy"
+msgid ""
+"Compelled to walk by an ancient curse, Mummies have innate faith and are adept\n"
+"at Necromancy, but learn other skills very slowly. They cannot drink potions.\n"
+msgstr ""
+"Nemrtvá postava, od hlavy k patě pokrytá obvazy nasáklými v balzamovacím\n"
+"roztoku, která je nucena kráčet kvůli starobylé kletbě.\n"
+
+#. key: naga
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:naga"
+msgid ""
+"Nagas are hybrids: human from the waist up, with a snake-like tail instead of\n"
+"legs. They move very slowly but are naturally resilient.\n"
+msgstr ""
+"Kříženci s lidským trupem a šupinatou, svalnatou spodní částí těla, kterou jako\n"
+"hadi tahají za sebou. Pohybují se pomalu, ale jsou od přírody odolní.\n"
+
+#. key: octopode
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:octopode"
+msgid ""
+"Octopodes are a species of amphibious cephalopods. They can wear eight rings,\n"
+"but almost no armour fits them.\n"
+msgstr ""
+"Druh obojživelných hlavonožců schopných nosit osm prstenů, kterým však nepadne\n"
+"téměř žádná zbroj.\n"
+
+#. key: spriggan
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:spriggan"
+msgid ""
+"Very small, very frail and very fast, Spriggans are highly competent stabbers\n"
+"and spellcasters.\n"
+msgstr ""
+"Hodně malí, hodně slabí a hodně rychlí. Sprigané jsou vysoce schopní co se týče\n"
+"bodání dýky do zad a kouzlení.\n"
+
+#. key: troll
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:troll"
+msgid ""
+"Trolls are monstrous creatures with powerful claws. They regenerate health\n"
+"rapidly.\n"
+msgstr ""
+"Velcí surovci, kteří neváhají svými drápy rozsápat, co jim pod ruku přijde.\n"
+"Neustále mají hlad.\n"
+
+#. key: death
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:death"
+msgid ""
+"Condolences! Your character's premature death is a sad, but common occurrence\n"
+"in Crawl. Rest assured that with diligence and playing experience your\n"
+"characters will last longer.\n"
+"\n"
+"Perhaps the following advice can improve your playing style:\n"
+msgstr ""
+"Upřímnou soustrast! Předčasná smrt vaší postavy je smutná, ale běžný jev při\n"
+"procházení bludištěm. Ujišťujeme vás, že pílí a herními zkušenostmi budou vaše\n"
+"postavy přetrvávat déle.\n"
+"\n"
+"Snad následující doporučení pomůže zlepšit váš styl hraní:\n"
+
+#. key: death conjurer melee
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:death conjurer melee"
+msgid ""
+"As a Conjurer your main weapon should be offensive magic. Cast spells more\n"
+"often! Remember to rest when your Magic is low.\n"
+msgstr ""
+"Jako mág by jste měl mít hlavní zbraní ofenzivní magii. Sesílat kouzla častěji!\n"
+"Nezapomeňte si odpočinout, když je váše magie nízká.\n"
+
+#. key: tutorial1 close_door
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial1 close_door"
+msgid ""
+"To close an open door, press <input>$cmd[CMD_CLOSE_DOOR]</input>.\n"
+msgstr ""
+"Chcete-li zavřít otevřené dveře, stiskněte tlačítko\n"
+"<input>$cmd[CMD_CLOSE_DOOR]</input>.\n"
+
+#. key: tutorial5 tutorial_end
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial5 tutorial_end"
+msgid ""
+"Congratulations! You've finished the last tutorial lesson and are now ready for\n"
+"the real game. Good luck!\n"
+"\n"
+"To exit the tutorial, just go down these stairs.\n"
+msgstr ""
+"Gratulujeme! Skončili jste poslední výukovou lekci a nyní jste připraveni pro\n"
+"skutečnou hru. Hodně štěstí!\n"
+"\n"
+"Chcete-li ukončit výuku, stačí jít dolů na schody.\n"
+

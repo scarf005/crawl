@@ -106,7 +106,7 @@ MAKEFLAGS += -rR # This only works for recursive makes, i.e. contribs ...
          clean-coverage clean-coverage-full \
          appimage distclean debug debug-lite profile package-source source \
          build-windows package-windows-installer docs greet api api-dev android FORCE \
-         monster catch2-tests plug-and-play-tests pot-data update-po compile-mo install-mo \
+         monster catch2-tests plug-and-play-tests pot-data bootstrap-po update-po compile-mo install-mo \
          crawl-universal crawl-arm64-apple-macos11 crawl-x86_64-apple-macos10.7 clean-mac
 
 include Makefile.obj
@@ -1330,6 +1330,10 @@ update-po: $(TEXTDB_GETTEXT_POT)
 			$(MSGMERGE) --update --backup=none "$$po" "$(TEXTDB_GETTEXT_POT)"; \
 		done; \
 	fi
+
+bootstrap-po:
+	[ -d $(PO_DIR) ] || mkdir -p $(PO_DIR)
+	$(QUIET_PYTHON)$(PYTHON) util/textdb-legacy-to-po.py $(LANGUAGES) --output-dir $(PO_DIR)
 
 $(LOCALE_DIR)/%/LC_MESSAGES/crawl-data.mo: $(PO_DIR)/%.po $(TEXTDB_GETTEXT_POT)
 	mkdir -p $(dir $@)

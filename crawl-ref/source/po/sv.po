@@ -1,0 +1,451 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: crawl-data\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+#. key: the floor
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:the floor"
+msgid ""
+"The floor.\n"
+msgstr ""
+"Golvet.\n"
+
+#. key: a rock wall
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a rock wall"
+msgid ""
+"A wall consisting of simple rock.\n"
+msgstr ""
+"Denna vägg består av enkel rock.\n"
+
+#. key: a gravestone
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a gravestone"
+msgid ""
+"A nameless grave.\n"
+msgstr ""
+"En namnlös grav.\n"
+
+#. key: a tempered metal wall
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a tempered metal wall"
+msgid ""
+"Walls of brass and nickel, covered in a thin golden foil steadily peeling away\n"
+"in the constant, oppressive heat. Designs depict mortals dealing with devils,\n"
+"but the former rarely seem to come out ahead on the exchange.\n"
+msgstr ""
+"Denna metallvägg avger värme.\n"
+
+#. key: a silver wall
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a silver wall"
+msgid ""
+"A wall made of pure silver.\n"
+msgstr ""
+"Denna vägg är gjord av rent silver.\n"
+
+#. key: book of fixed level
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of fixed level"
+msgid ""
+"A book of magic spells.\n"
+msgstr ""
+"En bok av trollformler.\n"
+
+#. key: book of fixed theme
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of fixed theme"
+msgid ""
+"A book of magic spells.\n"
+msgstr ""
+"En bok av trollformler.\n"
+
+#. key: cloak
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:cloak"
+msgid ""
+"A cloth cloak.\n"
+msgstr ""
+"En tyg slängkappa.\n"
+
+#. key: decaying skeleton
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:decaying skeleton"
+msgid ""
+"A decaying skeleton.\n"
+msgstr ""
+"En ruttnande skelett.\n"
+
+#. key: double sword
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:double sword"
+msgid ""
+"A fearsome weapon with a forked, razor-sharp blade.\n"
+msgstr ""
+"En lång, stort svärd.\n"
+
+#. key: giant club
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:giant club"
+msgid ""
+"A giant lump of wood.\n"
+msgstr ""
+"En jätte klump av trä.\n"
+
+#. key: giant spiked club
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:giant spiked club"
+msgid ""
+"A giant lump of wood with sharp spikes at one end.\n"
+msgstr ""
+"En jätte klump av trä med vassa spikar på ena änden.\n"
+
+#. key: gold piece
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:gold piece"
+msgid ""
+"A pile of glittering gold coins.\n"
+msgstr ""
+"En hög med glittrande guldmynt.\n"
+
+#. key: hand axe
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:hand axe"
+msgid ""
+"A small axe.\n"
+msgstr ""
+"En liten yxa.\n"
+
+#. key: hat
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:hat"
+msgid ""
+"A cloth hat.\n"
+msgstr ""
+"Ett tyg eller läder hatt.\n"
+
+#. key: pair of boots
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:pair of boots"
+msgid ""
+"A pair of boots. They are worn on the feet, and cover all but the largest\n"
+"hooves and talons.\n"
+msgstr ""
+"Ett par kängor.\n"
+
+#. key: pair of gloves
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:pair of gloves"
+msgid ""
+"A pair of gloves. They are worn on the hands, and cover all but the largest\n"
+"claws.\n"
+msgstr ""
+"Ett par handskar.\n"
+
+#. key: cloak of flash
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:cloak of flash"
+msgid ""
+"A cloak that twitches and jerks without any intervention.\n"
+msgstr ""
+"En vibrerande slängkappa.\n"
+
+#. key: shield of resistance
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:shield of resistance"
+msgid ""
+"A bronze shield, looking almost exactly like a tortoise's shell. It was built\n"
+"by the adherents of an obscure minor faith, who imbued it with the power of\n"
+"their god. As the god is said to, this shield protects against sword and sling,\n"
+"frost and flame.\n"
+msgstr ""
+"En brons sköld.\n"
+
+#. key: maxwell's patent armour
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:maxwell's patent armour"
+msgid ""
+"A suit of armour created by the famous inventor Maxwell, providing unparalleled\n"
+"protective qualities at a very affordable price. His unorthodox materials left\n"
+"it with certain shortcomings, but he's yet to have anyone come back for a\n"
+"refund.\n"
+msgstr ""
+"En konstig ser rustning.\n"
+
+#. key: joseph
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:joseph"
+msgid ""
+"Looks like a mercenary in a stupid-looking hat.\n"
+msgstr ""
+"Ser ut som en legosoldat.\n"
+
+#. key: giga bat
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:giga bat"
+msgid ""
+"An enormous, bloated bat.\n"
+msgstr ""
+"En väldig, uppsvälld fladdermus.\n"
+
+#. key: megabat
+#: dat/descript/monsters.txt
+msgctxt ""
+"textdb:descriptions:megabat"
+msgid ""
+"A huge black bat.\n"
+msgstr ""
+"En väldig svart fladdermus.\n"
+
+#. key: cmd_rest
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_rest"
+msgid ""
+"Rest and heal\n"
+msgstr ""
+"Vila och läka\n"
+
+#. key: cmd_replay_messages
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_replay_messages"
+msgid ""
+"Reread recent messages\n"
+msgstr ""
+"Visa meddelandelogg\n"
+
+#. key: cmd_display_mutations
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_mutations"
+msgid ""
+"Display mutations\n"
+msgstr ""
+"Visa mutationer\n"
+
+#. key: cmd_display_skills
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_skills"
+msgid ""
+"Manage skills\n"
+msgstr ""
+"Hantera färdigheter\n"
+
+#. key: cmd_save_game_now
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_save_game_now"
+msgid ""
+"Save and exit\n"
+msgstr ""
+"Spara och avsluta\n"
+
+#. key: cmd_display_commands
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_commands"
+msgid ""
+"Game help\n"
+msgstr ""
+"Spelhjälp\n"
+
+#. key: cmd_wait
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_wait"
+msgid ""
+"Wait a single turn\n"
+msgstr ""
+"Vänta ett enda tur\n"
+
+#. key: cmd_cast_spell
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_cast_spell"
+msgid ""
+"Cast a spell\n"
+msgstr ""
+"Kasta en trollformel\n"
+
+#. key: cmd_cast_spell verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_cast_spell verbose"
+msgid ""
+"Casts a spell.\n"
+msgstr ""
+"Kasta en trollformel\n"
+
+#. key: cmd_memorise_spell
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_memorise_spell"
+msgid ""
+"Memorise spell\n"
+msgstr ""
+"Memorera en trollformel\n"
+
+#. key: cmd_drop
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_drop"
+msgid ""
+"Drop items\n"
+msgstr ""
+"Släppa objekt\n"
+
+#. key: cmd_map_add_waypoint
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_add_waypoint"
+msgid ""
+"Add waypoint\n"
+msgstr ""
+"Lägg en vägpunkt\n"
+
+#. key: cmd_map_next_level
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_next_level"
+msgid ""
+"Down one level\n"
+msgstr ""
+"Ner en våning\n"
+
+#. key: cmd_map_prev_level
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_prev_level"
+msgid ""
+"Up one level\n"
+msgstr ""
+"Upp en våning\n"
+
+#. key: cmd_map_goto_level
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_goto_level"
+msgid ""
+"Go to level\n"
+msgstr ""
+"Gå till våning\n"
+
+#. key: cmd_map_find_upstair
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_upstair"
+msgid ""
+"Find stairs up\n"
+msgstr ""
+"Hitta trappa upp\n"
+
+#. key: cmd_map_find_downstair
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_downstair"
+msgid ""
+"Find stairs down\n"
+msgstr ""
+"Hitta trappa ner\n"
+
+#. key: cmd_map_find_you
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_you"
+msgid ""
+"Find me\n"
+msgstr ""
+"Hitta mig\n"
+
+#. key: cmd_map_find_portal
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_portal"
+msgid ""
+"Find shops and portals\n"
+msgstr ""
+"Hitta affärer och portaler\n"
+
+#. key: cmd_map_find_trap
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_trap"
+msgid ""
+"Find traps\n"
+msgstr ""
+"Hitta fällor\n"
+
+#. key: cmd_map_find_altar
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_altar"
+msgid ""
+"Find altars\n"
+msgstr ""
+"Hitta altaren\n"
+
+#. key: cmd_map_find_waypoint
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_waypoint"
+msgid ""
+"Find waypoint\n"
+msgstr ""
+"Hitta vägpunkt\n"
+
+#. key: cmd_zoom_in
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_zoom_in"
+msgid ""
+"Zoom in\n"
+msgstr ""
+"Zooma in\n"
+
+#. key: cmd_zoom_out
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_zoom_out"
+msgid ""
+"Zoom out\n"
+msgstr ""
+"Zooma ut\n"
+
+#. key: human
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:human"
+msgid ""
+"Humans are natural explorers. Discovering new places refreshes and invigorates them.\n"
+"They are otherwise completely average.\n"
+msgstr ""
+"Världslig och medelvärde.\n"
+

@@ -1,0 +1,4088 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: crawl-data\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+#. key: an ancient bone altar of kikubaaqudgha
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:an ancient bone altar of kikubaaqudgha"
+msgid ""
+"An altar created from piles of ancient bones, dedicated to the terrible\n"
+"Demon-God Kikubaaqudgha.\n"
+msgstr ""
+"Starożytne kości zostały tutaj powbijane tworzą ołtarz dla okropnego\n"
+"Boga-Demona Kikubaaqudgha.\n"
+
+#. key: an iron altar of okawaru
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:an iron altar of okawaru"
+msgid ""
+"An altar of iron and steel dedicated to the Warmaster Okawaru. Its edges are\n"
+"surprisingly sharp.\n"
+msgstr ""
+"Ołtarz z żelaza i stali poświęcony Bogowi Wojny Okawaru. Krawędzie są\n"
+"zadziwiająco ostre.\n"
+
+#. key: a translucent unnaturally hard rock wall
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a translucent unnaturally hard rock wall"
+msgid ""
+"A wall imbued with magic that not only makes it indestructible but also makes\n"
+"it translucent like glass.\n"
+msgstr ""
+"Ta ściana jest nasycona magią, która sprawia, że nie tylko jest niezniszczalna\n"
+"ale i przeźroczysta niczym szkło.\n"
+
+#. key: a stone staircase leading down
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a stone staircase leading down"
+msgid ""
+"A staircase leading further down.\n"
+msgstr ""
+"Te schody prowadzą dalej w dół.\n"
+
+#. key: a stone staircase leading up
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a stone staircase leading up"
+msgid ""
+"A staircase leading back up.\n"
+msgstr ""
+"Te schody prowadzą w górę.\n"
+
+#. key: an abandoned shop
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:an abandoned shop"
+msgid ""
+"A shop that has been abandoned.\n"
+msgstr ""
+"Ten sklep został opuszczony\n"
+
+#. key: an orcish idol
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:an orcish idol"
+msgid ""
+"An idol of the orc god Beogh.\n"
+msgstr ""
+"Figurka boga orków Beogha. Zniszczenie jej może go rozgniewać\n"
+
+#. key: a shaft
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a shaft"
+msgid ""
+"A hole in the ground, leading to a dungeon level one or more floors deeper.\n"
+msgstr ""
+"Głęboka dziura. Kto wie dokąd byś doleciał, gdybyś do niej wpadł.\n"
+
+#. key: a dry fountain
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a dry fountain"
+msgid ""
+"A dried-up decorative fountain that has seen better days.\n"
+msgstr ""
+"Wysuszona fontanna, która najlepsze dni ma już za sobą.\n"
+
+#. key: a gate leading back out of this place
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a gate leading back out of this place"
+msgid ""
+"A gate that will let you return whence you came.\n"
+msgstr ""
+"Ta brama prowadzi z powrotem do lochów.\n"
+
+#. key: a staircase back to the vaults
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a staircase back to the vaults"
+msgid ""
+"A staircase leading back to the Vaults.\n"
+msgstr ""
+"Te schody prowadzą do potężnych Skarbców.\n"
+
+#. key: a closed door
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a closed door"
+msgid ""
+"A closed wooden door. All monsters that can wield equipment, and some of them\n"
+"that can't, may open it again. If it is opened by a monster while it is aware\n"
+"of you, it has a chance of breaking.\n"
+msgstr ""
+"Drewniane drzwi. Aby je otworzyć, po prostu do nich podejdź, lub wciśnij 'O'\n"
+
+#. key: a teleport trap
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a teleport trap"
+msgid ""
+"A magical trap which will displace anyone passing over it to a random place on\n"
+"the same dungeon level. It is worn with age, and will dissipate on use.\n"
+msgstr ""
+"Ta magiczna pułapka przeniesie każdego, kto na niej stanie — a nawet przeleci\n"
+"nad nią — do losowego miejsca na tym samym poziomie lochów.\n"
+
+#. key: a web
+#. Preserve {{ lua }} delimiters exactly.
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a web"
+msgid ""
+"A spider's web. The spider who left it must have been huge, as it seems to be\n"
+"made for trapping {{ return you.genus(true) }} rather than flies.\n"
+msgstr ""
+"Pająk, który pozostawił tą sieć musiał być ogromny, wygląda bardziej na\n"
+"stworzoną do łapania {{ return you.genus(true) }} niż zwykłych much.\n"
+
+#. key: viscous fluid
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:viscous fluid"
+msgid ""
+"A sticky fluid which seems to be secreted by the nearby walls. It looks\n"
+"disgusting.\n"
+msgstr ""
+"Ta lepka substancja zdaje się wydobywać z pobliskich ścian. Wygląda obrzydliwie\n"
+
+#. key: a thin membrane
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a thin membrane"
+msgid ""
+"A strange membrane, thin enough to see through.\n"
+msgstr ""
+"Ta dziwna błona jest na tyle cienka, by widzieć przez nią.\n"
+
+#. key: a dead tree
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a dead tree"
+msgid ""
+"The dry remains of a long-dead tree.\n"
+msgstr ""
+"To drzewo jest tak samo martwe jak wszystko wokół.\n"
+
+#. key: an ice-covered rock wall
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:an ice-covered rock wall"
+msgid ""
+"A rock wall coated in a thick layer of ice. Twisted faces glower beneath the\n"
+"surface, locked in perpetual grimaces of rage and betrayal.\n"
+msgstr ""
+"Skalny mur pokryty cienką warstwą lodu.\n"
+
+#. key: an ice-covered stone wall
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:an ice-covered stone wall"
+msgid ""
+"A stone wall coated in a thick layer of ice. Twisted faces glower beneath the\n"
+"surface, locked in perpetual grimaces of rage and betrayal.\n"
+msgstr ""
+"Kamienny mur pokryty cienką warstwą lodu\n"
+
+#. key: frost-covered floor
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:frost-covered floor"
+msgid ""
+"Earth locked within perpetual frost and cold. It seems ageless and changeless,\n"
+"as though it has existed in this state for an eternity.\n"
+msgstr ""
+"Zamrożona podłoga. Miło chrupie pod stopami\n"
+
+#. key: a silver wall
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a silver wall"
+msgid ""
+"A wall made of pure silver.\n"
+msgstr ""
+"Ta ściana jest zbudowana z czystego srebra.\n"
+
+#. key: a sarcophagus
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a sarcophagus"
+msgid ""
+"An ancient sarcophagus. It appears to be empty.\n"
+msgstr ""
+"Starożytny sarkofag. Wygląda na pusty\n"
+
+#. key: an adventurer's gravestone
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:an adventurer's gravestone"
+msgid ""
+"The grave of an adventurer who came close to victory.\n"
+msgstr ""
+"Grób podróżnika, który był już blisko zwycięztwa.\n"
+
+#. key: an elephant-shaped statue
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:an elephant-shaped statue"
+msgid ""
+"A worn granite statue depicting an elephant standing guard.\n"
+msgstr ""
+"Ten podniszczony posąg przedstawia strażnika pod postacią słonia.\n"
+
+#. key: a weirdly glowing ball
+#: dat/descript/features.txt
+msgctxt ""
+"textdb:descriptions:a weirdly glowing ball"
+msgid ""
+"A floating ball radiating with shimmering light.\n"
+msgstr ""
+"Ta unosząca się kula promieniuje migającym światłem\n"
+
+#. key: animal skin
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:animal skin"
+msgid ""
+"A large piece of thick skin covered in fur, cut from the corpse of an animal\n"
+"and worn as a primitive garment. It offers rudimentary protection against harm,\n"
+"but, having never been tanned, it carries a light stench of rotting flesh.\n"
+msgstr ""
+"Prymitywne okrycie ze zwierzęcej skóry.\n"
+
+#. key: bardiche
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:bardiche"
+msgid ""
+"A long pole with an enormous, cleaving blade on one end.\n"
+msgstr ""
+"Broń z ogromnym ostrzem topora sięgającym do połowy długiego drzewca.\n"
+
+#. key: book of annihilations
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of annihilations"
+msgid ""
+"A tome of arcane fury, greatly sought after by sorcerers. It allows the gifted\n"
+"and resourceful to conjure destruction with ease.\n"
+msgstr ""
+"Ogromna moc pała z kart tej księgi, taka że nawet niepiśmienny barbarzyńca ją\n"
+"poczuje. Jest to najpotężniejsza znane magiczne dzieło w dziedzinie\n"
+"bezpośredniego wyrządzania krzywdy bliźniemu. Zawarte tu czary pozwalają\n"
+"urządzić prawdziwy Armageddon — ale jedynie najlepsi magowie mogą liczyć na\n"
+"jakąś szansę użycia tej mocy. Ktokolwiek słabszy spotka się z zagładą próbując\n"
+"czytać tą księgę.\n"
+
+#. key: book of cantrips
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of cantrips"
+msgid ""
+"A book containing a small selection of very basic magic spells, intended for\n"
+"beginners who wish to learn the rudiments of one of the featured magical\n"
+"schools.\n"
+msgstr ""
+"Księga czarów. Z tych mocy mogą korzystać nawet dzieci.\n"
+
+#. key: book of conjurations
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of conjurations"
+msgid ""
+"A book containing an introduction to the destructive magical arts of\n"
+"Conjurations.\n"
+msgstr ""
+"Księga czarów.\n"
+
+#. key: book of debilitation
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of debilitation"
+msgid ""
+"A spellbook containing spells known for having a particularly unpleasant\n"
+"effect on their victims. It's considered something of a faux pas in the\n"
+"wizarding community to be seen with this book in one's collection.\n"
+msgstr ""
+"Księga czarów.\n"
+
+#. key: book of dreams
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of dreams"
+msgid ""
+"The somniloquent utterings of a famed mystic, using uniquely bizarre imagery\n"
+"and cryptic digressions to describe spells drawn from the mystic's visions.\n"
+msgstr ""
+"Przejrzysta książka. Promienie światła dziwnie grają na jej powierzchni.\n"
+
+#. key: book of fixed level
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of fixed level"
+msgid ""
+"A book of magic spells.\n"
+msgstr ""
+"Księga czarów.\n"
+
+#. key: book of fixed theme
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of fixed theme"
+msgid ""
+"A book of magic spells.\n"
+msgstr ""
+"Księga czarów.\n"
+
+#. key: book of hexes
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of hexes"
+msgid ""
+"A spellbook containing an assortment of powerful Hexes, which sparkles and\n"
+"shimmers as the pages are flipped.\n"
+msgstr ""
+"Księga czarów.\n"
+
+#. key: book of necromancy
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of necromancy"
+msgid ""
+"A macabre book containing basic Necromancy spells. Readers are recommended to\n"
+"wear a pair of gloves they don't mind disposing of afterward.\n"
+msgstr ""
+"Zakurzony tom zabronionej magii.\n"
+
+#. key: book of power
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of power"
+msgid ""
+"A book of powerful and destructive magic spells, rumbling and shuddering with\n"
+"barely-contained energies.\n"
+msgstr ""
+"Księga czarów.\n"
+
+#. key: book of spatial translocations
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of spatial translocations"
+msgid ""
+"A basic spellbook on the magical field of Translocations. Many would-be mages\n"
+"have seen it disappear just as they needed it most.\n"
+msgstr ""
+"Księga czarów.\n"
+
+#. key: book of the warp
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of the warp"
+msgid ""
+"A book of advanced Translocations spells, written by a particularly\n"
+"misanthropic mage. After its completion, they were never seen again, which may\n"
+"or may not have been the point.\n"
+msgstr ""
+"Księga czarów.\n"
+
+#. key: book of unlife
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:book of unlife"
+msgid ""
+"An unholy book describing a variety of magical methods for the creation and\n"
+"command of undead servants.\n"
+msgstr ""
+"Księga czarów, wypełniona mrocznymi symbolami mogącymi przymusić umarłych.\n"
+
+#. key: box of beasts
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:box of beasts"
+msgid ""
+"A box filled with the bizarre leftovers of a depraved wizard's magical\n"
+"experimentations. Opening it might set loose a friendly mutant beast: bizarre\n"
+"creatures, each with their own combination of traits. Increased skill with\n"
+"Evocations will allow stronger beasts to be released.\n"
+"\n"
+"There are six known traits:\n"
+" * Bat beasts fly and move very quickly, but erratically.\n"
+" * Fire beasts resist and breathe fire.\n"
+" * Ox beasts resist cold, are armoured with thick fur, and can knock back foes.\n"
+" * Shock beasts resist electricity and can transform into living lightning.\n"
+" * Sting beasts resist poison and have a reaching poison-tail attack.\n"
+" * Weird beasts can see invisible and attack with constricting tentacles.\n"
+"\n"
+"As far as anyone knows, all beasts have exactly two of these traits.\n"
+msgstr ""
+"Magiczne pudełko zawierające wiele dzikich bestii. Możesz wypuścić je na\n"
+"wolność otwierając wieko.\n"
+
+#. key: buckler
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:buckler"
+msgid ""
+"A small piece of wood and metal, to be strapped on one arm for defence.\n"
+msgstr ""
+"Mała tarcza.\n"
+
+#. key: chain mail
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:chain mail"
+msgid ""
+"A suit of armour made entirely out of tiny metal rings.\n"
+msgstr ""
+"Zbroja wykonana z gęstej plecionki stalowych kółek.\n"
+
+#. key: cloak
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:cloak"
+msgid ""
+"A cloth cloak.\n"
+msgstr ""
+"Wierzchnie okrycie z tkaniny.\n"
+
+#. key: corpse
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:corpse"
+msgid ""
+"A corpse. Useless and dead.\n"
+msgstr ""
+"Trup. Możesz oprawić go aby uzyskać jadalne mięso.\n"
+
+#. key: crystal plate armour
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:crystal plate armour"
+msgid ""
+"An incredibly heavy but extremely effective suit of crystalline armour.\n"
+msgstr ""
+"Niewiarygodnie ciężka ale też i nieziemsko efektywna zbroja z litego kawału\n"
+"wytrzymałego kryształu.\n"
+
+#. key: decaying skeleton
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:decaying skeleton"
+msgid ""
+"A decaying skeleton.\n"
+msgstr ""
+"Kupa kości w trakcie rozkładu.\n"
+
+#. key: demon blade
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:demon blade"
+msgid ""
+"A terrible weapon, forged in the fires of Hell.\n"
+msgstr ""
+"Straszliwa broń, wykuta w ogniach piekieł.\n"
+
+#. key: demon trident
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:demon trident"
+msgid ""
+"A terrible three-pronged weapon, moulded by fire and brimstone.\n"
+msgstr ""
+"Straszliwa broń, uformowana przez ogień i siarkę.\n"
+
+#. key: demon whip
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:demon whip"
+msgid ""
+"A terrible weapon, woven in the depths of the inferno.\n"
+msgstr ""
+"Straszliwa broń, wypleciona na dnie piekieł.\n"
+
+#. key: dire flail
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:dire flail"
+msgid ""
+"A flail with long spikes and a heavy head.\n"
+msgstr ""
+"Cep z kolczastymi odważnikami po obu stronach.\n"
+
+#. key: eudemon blade
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:eudemon blade"
+msgid ""
+"A sacred blade from the forges of Heaven, inhabited by a good spirit. It is a\n"
+"favoured weapon of the Shining One's servants.\n"
+msgstr ""
+"Wspaniałe ostrze wykute w kuźniach Niebios, opętane przez dobrego ducha. Jest\n"
+"to ulubiona broń sług Świetlistego.\n"
+
+#. key: eveningstar
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:eveningstar"
+msgid ""
+"The opposite of a morningstar. A balanced mace with a long shaft and a metal\n"
+"head covered in lethal spikes.\n"
+msgstr ""
+"Wariant morgenszterna.\n"
+
+#. key: fire dragon scales
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:fire dragon scales"
+msgid ""
+"The scales of a fire-breathing dragon. It provides great protection from fire,\n"
+"while rendering its wearer more susceptible to cold.\n"
+msgstr ""
+"Ta zbroja została wykonana skóry smoka właściwego. Zapewnia ona wspaniałą\n"
+"ochronę przed ogniem, ale czyni swego nosiciela wrażliwym na zimno.\n"
+
+#. key: giant spiked club
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:giant spiked club"
+msgid ""
+"A giant lump of wood with sharp spikes at one end.\n"
+msgstr ""
+"Ogromny kawał drewna, z ostrymi szpikulcami na końcu.\n"
+
+#. key: glaive
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:glaive"
+msgid ""
+"A pole with a large, heavy blade on one end.\n"
+msgstr ""
+"Duże ostrze osadzone na drzewcu.\n"
+
+#. key: golden dragon scales
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:golden dragon scales"
+msgid ""
+"The scales of a golden dragon. It is much heavier than most dragon scale\n"
+"armours, and grants its wearer resistance to poison, fire and cold.\n"
+msgstr ""
+"Zbroja zrobiona ze skóry i łusek złotego smoka. Jest skrajnie ciężka i\n"
+"krępująca ruchy, ale zapewnia ochronę przed ogniem, zimnem jak i trucizną. Jest\n"
+"także wspaniałą zaporą przeciw mieczom, młotom, strzałom jak i wszelakimi\n"
+"innymi narzędziami zbrodni.\n"
+
+#. key: gold piece
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:gold piece"
+msgid ""
+"A pile of glittering gold coins.\n"
+msgstr ""
+"Kupka pięknie połyskujących krążków z naszego ukochanego metalu.\n"
+
+#. key: great mace
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:great mace"
+msgid ""
+"An enormous metal war club, of great cumbrousness.\n"
+msgstr ""
+"Wielka i ciężka buława.\n"
+
+#. key: helmet
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:helmet"
+msgid ""
+"A piece of metal headgear.\n"
+msgstr ""
+"Metalowe nakrycie głowy.\n"
+
+#. key: sling
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:sling"
+msgid ""
+"A piece of cloth and leather for launching stones, adequate for hunting small\n"
+"game like rabbits or goblins.\n"
+msgstr ""
+"Kawałek tkaniny i skóry, dobry do strzelania kamykami, które zadają w miarę\n"
+"małe obrażenia. W przeciwieństwie do innych broni miotających, tarcza nie\n"
+"utrudnia korzystania z proc.\n"
+
+#. key: javelin
+#. Preserve {{ lua }} delimiters exactly.
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:javelin"
+msgid ""
+"A lightweight spear, designed for throwing. It will pass through the targets it\n"
+"hits, potentially hitting all targets in its path until it reaches maximum\n"
+"range.\n"
+"{{\n"
+"    if you.race() == \"Kobold\" or you.race() == \"Spriggan\" then\n"
+"        return \"Unfortunately, it is too long and awkward for you to use.\"\n"
+"    end\n"
+"}}\n"
+msgstr ""
+"Długi, lekki patyk do rzucania. {{\n"
+"    if you.race() == \"Halfling\"\n"
+"        or you.race() == \"Kobold\"\n"
+"        or you.race() == \"Spriggan\"\n"
+"    then\n"
+"        return \"Niestety, jest za duży dla ciebie.\"\n"
+"    else\n"
+"        return \"\"\n"
+"    end\n"
+"}}\n"
+
+#. key: kite shield
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:kite shield"
+msgid ""
+"A piece of wood and metal, to be strapped on one arm for defence.\n"
+msgstr ""
+"Kawał metalu, z uchwytem i paskami umożliwiającymi przyczepienie do ramienia.\n"
+"Pozwala blokować ciosy, jednak utrudnia ruchy co spowalnia szybkość ataków oraz\n"
+"przeszkadza w rzucaniu czarów.\n"
+
+#. key: lajatang
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:lajatang"
+msgid ""
+"A very rare and extremely effective weapon, featuring a pole with half-moon\n"
+"blades at both ends.\n"
+msgstr ""
+"Bardzo rzadka i wyjątkowo efektywna zamorska broń, składająca się z dwóch ostrz\n"
+"kosy osadzonych na sztorc na obu końcach drzewca. Wymaga ona pewnych\n"
+"umiejętności aby jej dobrze użyć, jednak w rękach zręcznego wojownika walka\n"
+"stanowi morderczy dla wrogów taniec.\n"
+
+#. key: large rock
+#. Preserve {{ lua }} delimiters exactly.
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:large rock"
+msgid ""
+"A very large and very heavy stone. {{\n"
+"    if you.race() == \"Ogre\"\n"
+"       or you.race() == \"Troll\"\n"
+"   then\n"
+"       return \"\"\n"
+"   else\n"
+"       return \"Only large creatures are capable of throwing it.\"\n"
+"   end\n"
+"}}\n"
+msgstr ""
+"Wielki głaz, używany przez gigantów jako pocisk. {{\n"
+"    if you.race() == \"Ogre\"\n"
+"        or you.race() == \"Troll\"\n"
+"        or you.race() == \"Formicid\"\n"
+"    then\n"
+"        return \"\"\n"
+"    else\n"
+"        return \"Oczywiście, jest on dużo za ciężki dla ciebie.\"\n"
+"    end\n"
+"}}\n"
+
+#. key: leather armour
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:leather armour"
+msgid ""
+"A suit made from layers of tanned animal hide. It provides basic protection\n"
+"with almost no hindrance to spellcasting or stealthy movement.\n"
+msgstr ""
+"Ochronny ubiór z grubej, utwardzonej skóry.\n"
+
+#. key: longbow
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:longbow"
+msgid ""
+"A long, strong bow made of yew.\n"
+msgstr ""
+"Duży, mocny cisowy łuk. Ma spory naciąg i potrafi zadać poważne obrażenia,\n"
+"zwłaszcza w rękach zaawansowanego łucznika.\n"
+
+#. key: orb of zot
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:orb of zot"
+msgid ""
+"An invaluable artefact. Once you have escaped to the surface with it, your\n"
+"quest is complete.\n"
+msgstr ""
+"Najpotężniejszy artefakt z legend, a także powód dla którego tu jesteś. Jeśli\n"
+"doniesiesz ją na powierzchnię — zwycięstwo jest twoje!\n"
+
+#. key: pair of boots
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:pair of boots"
+msgid ""
+"A pair of boots. They are worn on the feet, and cover all but the largest\n"
+"hooves and talons.\n"
+msgstr ""
+"Para butów — nic dodać, nic ująć.\n"
+
+#. key: pair of gloves
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:pair of gloves"
+msgid ""
+"A pair of gloves. They are worn on the hands, and cover all but the largest\n"
+"claws.\n"
+msgstr ""
+"Para skórzanych rękawic.\n"
+
+#. key: pearl dragon scales
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:pearl dragon scales"
+msgid ""
+"The nacreous scales of a pearl dragon. It grants its wearer resistance to\n"
+"negative energies.\n"
+msgstr ""
+"Zbroja wykonana ze skóry perłowego smoka. Jest bardzo wytrzymała, lecz\n"
+"jednocześnie lekka i giętka. Zapewnia także ochronę przed nekromancją.\n"
+
+#. key: phial of floods
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:phial of floods"
+msgid ""
+"An enchanted vessel of elemental water. Removing the stopper unleashes a torrent\n"
+"of water, smashing the target and flooding the nearby area. If any creatures\n"
+"engulfed by the wave need air to breathe, they'll be unable to cast spells until\n"
+"they recover. The strength of the torrent and the duration of the flooding\n"
+"increase with Evocations skill.\n"
+msgstr ""
+"Zaklęty flakon pełen po brzegi żywiołu wody. Odkorkowanie flakonu wyzwala\n"
+"zamknięte w środku przyjazne duchy wody, powodując małą powódź oraz pozwalając\n"
+"im na zaatakowanie twych wrogów.\n"
+
+#. key: potion of berserk rage
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:potion of berserk rage"
+msgid ""
+"A potion which can send one into an incoherent rage, granting them a great but\n"
+"temporary increase to their health, damage, and speed. In exchange, their mind\n"
+"is clouded by anger, only allowing them to move and attack in melee. The rage\n"
+"will wear off quickly if they do not attack monsters, and upon expiry, the\n"
+"imbiber will be fatigued, causing them to slow dramatically and rendering them\n"
+"unable to berserk again for a short duration.\n"
+msgstr ""
+"Eliksir który pozwala wprowadzić się w bitewny szał.\n"
+
+#. key: potion of blood
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:potion of blood"
+msgid ""
+"A potion containing the essence of life.\n"
+msgstr ""
+"Jest to zwykła krew, taka jak płynie w żyłach większości stworzeń. Może\n"
+"stanowić posiłek dla kogokolwiek zdolnego do trawienia mięsa, jakkolwiek\n"
+"cywilizowane osoby uznają to za odrażające. Bardziej potworne istoty nie mają\n"
+"takich oporów. Zaś wampiry i komary... wiadomo.\n"
+
+#. key: potion of brilliance
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:potion of brilliance"
+msgid ""
+"A potion which increases the power of the drinker's spells and halves their\n"
+"magic cost (rounding up).\n"
+msgstr ""
+"Eliksir który wielce zwiększa inteligencję i magiczne zdolności pijącego, na\n"
+"krótki czas.\n"
+
+#. key: potion of enlightenment
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:potion of enlightenment"
+msgid ""
+"A potion which uplifts both the body and mind of its drinkers, lifting them\n"
+"from the ground and increasing their Will to resist the world's temptations.\n"
+msgstr ""
+"Eliksir który daje zdolność lotu.\n"
+
+#. key: potion of experience
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:potion of experience"
+msgid ""
+"A truly wonderful and very rare drink, which grants experience when consumed.\n"
+msgstr ""
+"Prawdziwie cudowny napitek, który trwale zwiększa umiejętności pijącego.\n"
+
+#. key: potion of invisibility
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:potion of invisibility"
+msgid ""
+"A potion which confers invisibility on one who consumes it.\n"
+msgstr ""
+"Eliksir który daje tymczasową niewidzialność.\n"
+
+#. key: potion of might
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:potion of might"
+msgid ""
+"A potion which greatly increases the power of the drinker's melee attacks.\n"
+msgstr ""
+"Eliksir który wielce wzmaga siłę jak i zdolność zadawania fizycznych obrażeń,\n"
+"na krótki czas.\n"
+
+#. key: potion of mutation
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:potion of mutation"
+msgid ""
+"A potion which mutates the drinker, removing several mutations then\n"
+"granting a few random mutations, which are likely (but not guaranteed) to be\n"
+"beneficial.\n"
+msgstr ""
+"Eliksir który powoduje trwałe nieprzewidywalne zmiany w ciele pijącego.\n"
+
+#. key: potion of resistance
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:potion of resistance"
+msgid ""
+"A potion which grants temporary resistance to a variety of harmful effects:\n"
+"fire, cold, electricity, poison, and acid.\n"
+msgstr ""
+"Eliksir który zapewnia tymczasową odporność na ogień, zimno, prąd i truciznę.\n"
+
+#. key: quad damage
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:quad damage"
+msgid ""
+"A mysterious item resembling a rune of some kind. Once evoked, it will make the\n"
+"user glow blue and add a reverb to all sound... and there may be other effects\n"
+"as well.\n"
+msgstr ""
+"Zadziwiający magiczny przedmiot w kształcie runy, jednorazowego użytku. Użyty,\n"
+"powoduje niebieską poświatę i dziwne echo... a wrogowie rozpadający się na\n"
+"strzępy od byle dotknięcia to pewnie jakiś przypadek.\n"
+
+#. key: quarterstaff
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:quarterstaff"
+msgid ""
+"A sturdy wooden pole, meant for fighting.\n"
+msgstr ""
+"Solidny dębowy kij, dobrze nadający się do walki.\n"
+
+#. key: ring of dexterity
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of dexterity"
+msgid ""
+"A ring that increases the dexterity of its wearer.\n"
+msgstr ""
+"Ten pierścień zwiększa lub zmniejsza zręczność nosiciela, w zależności od mocy\n"
+"i kierunku czaru nań rzuconego.\n"
+
+#. key: ring of evasion
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of evasion"
+msgid ""
+"A ring that makes its wearer more capable of avoiding attacks.\n"
+msgstr ""
+"Ten pierścień ułatwia lub utrudnia nosicielowi na unikanie ataków, w zależności\n"
+"od mocy i kierunku czaru nań rzuconego.\n"
+
+#. key: ring of intelligence
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of intelligence"
+msgid ""
+"A ring that increases the intelligence of its wearer.\n"
+msgstr ""
+"Ten pierścień zwiększa lub zmniejsza inteligencję nosiciela, w zależności od\n"
+"mocy i kierunku czaru nań rzuconego.\n"
+
+#. key: ring of magical power
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of magical power"
+msgid ""
+"A ring that increases its wearer's reserves of magical power for so long as it\n"
+"is worn.\n"
+msgstr ""
+"Ten pierścień zwiększa dostępną pulę magicznej mocy, a także powoduje jej\n"
+"szybszą regenerację.\n"
+
+#. key: ring of poison resistance
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of poison resistance"
+msgid ""
+"A ring that protects its wearer from poison.\n"
+msgstr ""
+"Ten pierścień zapewnia znaczną odporność na trucizny i jady.\n"
+
+#. key: ring of protection
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of protection"
+msgid ""
+"A ring that protects its wearer from most sources of damage.\n"
+msgstr ""
+"Ten pierścień zwiększa lub zmniejsza wytrzymałość nosiciela na obrażenia, w\n"
+"zależności od mocy i kierunku czaru nań rzuconego.\n"
+
+#. key: ring of protection from cold
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of protection from cold"
+msgid ""
+"A ring that protects its wearer from cold.\n"
+msgstr ""
+"Ten pierścień zapewnia ochronę przed zimnem.\n"
+
+#. key: ring of see invisible
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of see invisible"
+msgid ""
+"A ring that allows its wearer to see invisible things.\n"
+msgstr ""
+"Ten pierścień pozwala swemu nosicielowi ujrzeć niewidzialne istoty.\n"
+
+#. key: ring of strength
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of strength"
+msgid ""
+"A ring that increases the strength of its wearer.\n"
+msgstr ""
+"Ten pierścień zwiększa lub zmniejsza fizyczną siłę nosiciela, w zależności od\n"
+"mocy i kierunku czaru nań rzuconego.\n"
+
+#. key: ring of wizardry
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:ring of wizardry"
+msgid ""
+"A ring that increases the success rate of its wearer's magical spells.\n"
+msgstr ""
+"Ten pierścień znacznie ułatwia rzucanie czarów. Poprawia to szanse poprawnego\n"
+"rzucenia, nie zwiększa jednak w żaden sposób mocy.\n"
+
+#. key: rune of zot
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:rune of zot"
+msgid ""
+"A charm which allows entry into the Realm of Zot.\n"
+msgstr ""
+"Talizman który pozwala otworzyć bramę do krainy Zot.\n"
+
+#. key: sacred scourge
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:sacred scourge"
+msgid ""
+"A blessed weapon, woven by the saints in Heaven and hated by the unholy. It is\n"
+"a favoured weapon of the Shining One's servants.\n"
+msgstr ""
+"Ten bicz został upleciony przez świętych w Niebiosach i pobłogosławiony przez\n"
+"dobrych bogów. Jest ulubioną bronią sług Świetlistego.\n"
+
+#. key: scale mail
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scale mail"
+msgid ""
+"A leather suit covered with metal plates attached to each other in overlapping\n"
+"rows to provide full protection, but at the cost of reduced freedom of\n"
+"movement.\n"
+msgstr ""
+"Skórzany ubiór pokryty metalowymi płytkami.\n"
+
+#. key: scroll of acquirement
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scroll of acquirement"
+msgid ""
+"A wonderful scroll which causes the creation of a valuable item, with the\n"
+"reader choosing from a small selection. The items offered will often be a\n"
+"good match for the reader's skills; and if nothing recommends itself, the\n"
+"reader can always choose a heap of gold.\n"
+msgstr ""
+"Ten cudowny zwój pozwala stworzyć jakiś wartościowy przedmiot, często nawet\n"
+"jeden ze starożytnych artefaktów. Nie pozwala niestety na dokładne określenie\n"
+"co ma zostać stworzone.\n"
+
+#. key: scroll of amnesia
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scroll of amnesia"
+msgid ""
+"A scroll that allows its reader to selectively erase one spell from memory to\n"
+"recapture the magical energy bound up with it.\n"
+msgstr ""
+"Ten zwój pozwala wymazać jeden czar z pamięci czytającego, odzyskując w ten\n"
+"sposób magiczne energie i część mózgu zajętą tym czarem.\n"
+
+#. key: scroll of blinking
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scroll of blinking"
+msgid ""
+"A scroll that allows its reader to teleport a short distance, with precise\n"
+"control.\n"
+msgstr ""
+"Ten zwój pozwala czytającemu przenieść się na krótki dystans, z pełną precyzją.\n"
+"Jak każdy kontrolowany teleport, powoduje to magiczne skażenie.\n"
+
+#. key: scroll of brand weapon
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scroll of brand weapon"
+msgid ""
+"A scroll that imbues a weapon with a random brand. Any existing brand will be\n"
+"replaced with a different one, and any brand forbidden by your current god will\n"
+"not be chosen. Artefacts cannot be branded in this way.\n"
+"\n"
+"Melee weapons will commonly be branded with the flaming, freezing, heavy,\n"
+"venom or protection brand (or with the special brand exclusive to the category\n"
+"of weapon being branded), and rarely with the draining, electrocution, spectral,\n"
+"vampiric or chaos brand.\n"
+"\n"
+"Ranged weapons will commonly be branded with the flaming, freezing, heavy or\n"
+"draining brand, and rarely with the electrocution or chaos brand.\n"
+msgstr ""
+"Ten zwój trwale nadaje broni którą trzymasz w ręce zdolność bardziej\n"
+"efektywnego wyrządzania krzywdy bliźniemu. Nie zadziała to jeśli broń ta już ma\n"
+"jakąś trwałą magiczną markę. Z drugiej strony, jeśli jakiś czar lub efekt nadał\n"
+"tej broni tymczasowe markowanie, zostanie ono utrwalone. Marki związane z\n"
+"którymś z bogów (Trog: antymagia, Lugonu: zniekształcenie, Kikuubaaqudgha:\n"
+"cierpienie, Świetlisty: święty gniew) nie mogą być utrwalone w ten sposób. Zaś\n"
+"Xom (chaos) jest, powiedzmy, nie do końca przewidywalny: utrwalenie może się\n"
+"powieść, kowadło może spaść z jasnego nieba, albo, któż to wie...\n"
+
+#. key: scroll of fear
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scroll of fear"
+msgid ""
+"A scroll that causes great fear in nearby foes, causing them to flee until\n"
+"attacked, cornered, or enough time has passed.\n"
+"\n"
+"Non-living, undead and plant monsters cannot be feared, and berserk or frenzied\n"
+"monsters are also immune.\n"
+msgstr ""
+"Ten zwój tworzy chwilową iluzję wokół czytającego — wszystkim którzy go widzą\n"
+"wydaje się że zmienił się on lub ona w istotę której widzący najbardziej się\n"
+"boi. Zwykle powoduje to paniczny strach.\n"
+
+#. key: scroll of fog
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scroll of fog"
+msgid ""
+"A scroll that surrounds the reader with a dense cloud of fog, which can block\n"
+"vision temporarily. The fog takes a short time to fully spill out.\n"
+msgstr ""
+"Ten zwój kryje czytającego za zasłoną gęstej mgły.\n"
+
+#. key: scroll of identify
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scroll of identify"
+msgid ""
+"A useful magic scroll which identifies the properties of any unknown object.\n"
+msgstr ""
+"Ten zwój pozwala odkryć własności od jednego do trzech przedmiotów. Użyty na\n"
+"talii kart, zwój ten także podejrzy górną kartę bez aktywowania jej działania.\n"
+
+#. key: scroll of immolation
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scroll of immolation"
+msgid ""
+"A scroll that fills the creatures around the reader with an unstable and\n"
+"powerful inner flame. This fire is released any time the victims are hit, and\n"
+"explosively released upon their death. Giant creatures cause bigger explosions.\n"
+msgstr ""
+"Ten zwój napełnia stworzenia wokół czytającego niestabilnym wewnętrznym ogniem.\n"
+
+#. key: scroll of revelation
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scroll of revelation"
+msgid ""
+"A scroll that reveals its reader's surroundings. The layout of the current\n"
+"floor is fully mapped, and everything within a moderate radius, including\n"
+"both visible and invisible monsters, is momentarily shown.\n"
+msgstr ""
+"Ten zwój tworzy mapę poziomu lochów wokół czytającego.\n"
+
+#. key: scroll of summoning
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scroll of summoning"
+msgid ""
+"A scroll that calls forth several allied creatures woven from shadow into the\n"
+"shapes of those beings found within the reader's immediate vicinity.\n"
+msgstr ""
+"Ten zwój przyzywa kilka stworzeń uformowanych z cienistej materii na kształt\n"
+"stworzeń zwykle żyjących w okolicy w której zwój ten zostanie odczytany.\n"
+
+#. key: scroll of teleportation
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scroll of teleportation"
+msgid ""
+"A scroll that translocates the reader to a random position after a short delay.\n"
+"Reading this scroll while waiting for a teleportation will instead cancel it.\n"
+msgstr ""
+"Odczytanie tego zwoju przeniesie cię w przypadkowe miejsce.\n"
+
+#. key: scythe
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:scythe"
+msgid ""
+"A farm implement, usually only used by untrained mobs in combat. In practice,\n"
+"it's quite similar to a halberd.\n"
+msgstr ""
+"Narzędzie rolnicze, niezbyt przydatne do walki.\n"
+
+#. key: spear
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:spear"
+msgid ""
+"A hunting weapon consisting of a wooden shaft with a pointed metal head\n"
+"fastened on one end.\n"
+msgstr ""
+"Broń myśliwych, składająca się z długiego patyka i prymitywnego grotu na końcu.\n"
+
+#. key: staff of conjuration
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:staff of conjuration"
+msgid ""
+"A staff that increases the power of conjurations cast by its wielder. If the\n"
+"wielder is skilled in Evocations and Conjurations, they can blast those they\n"
+"strike with pure energy.\n"
+msgstr ""
+"Ten kij zwiększa moc czarów Magii Niszczenia.\n"
+
+#. key: stone
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:stone"
+msgid ""
+"A small chunk of dense but otherwise unremarkable natural mineral. It can be\n"
+"thrown to cause minor damage.\n"
+msgstr ""
+"Mały kamyk. Można nim rzucić lub wystrzelić go z procy.\n"
+
+#. key: storm dragon scales
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:storm dragon scales"
+msgid ""
+"The scales of a lightning-breathing dragon. It is heavier than most dragon\n"
+"scale armours, and gives its wearer resistance to electrical discharges.\n"
+msgstr ""
+"Zbroja ze skóry smoka zionącego piorunami. Jest cięższa niż większość smoczych\n"
+"skór, ale zapewnia też świetną obronę, a także odporność na porażenie prądem.\n"
+
+#. key: swamp dragon scales
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:swamp dragon scales"
+msgid ""
+"The scales of a swamp dragon. It confers resistance to poison on its wearer.\n"
+msgstr ""
+"Zbroja ze skóry bagiennego smoka. Zapewnia odporność na trucizny i jady.\n"
+
+#. key: trident
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:trident"
+msgid ""
+"A fishing spear improved with a longer shaft and a three-pronged metal head.\n"
+msgstr ""
+"Broń drzewcowa z trzema szpikulcami.\n"
+
+#. key: trishula
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:trishula"
+msgid ""
+"A blessed trident moulded by cleansing flame, with three points symbolising the\n"
+"combined might of the three holy gods. It is a favoured weapon of the Shining\n"
+"One's servants.\n"
+msgstr ""
+"Błogosławiony trójząb uformowany w świętym ogniu, z trzema zębami\n"
+"symbolizującymi połączoną potęgę trójcy dobrych bogów. Jest to ulubiona broń\n"
+"sług Świetlistego.\n"
+
+#. key: troll leather armour
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:troll leather armour"
+msgid ""
+"The stiff and knobbly skin of a troll. It magically regenerates its wearer's\n"
+"flesh, once attuned to the wearer's body at full health.\n"
+msgstr ""
+"Zaczarowana zbroja ze skóry trolla. Jest twardsza od zwykłej skórzanej zbroi, a\n"
+"także daje nosicielowi część zdolności regeneracji właściwej trollom (chyba że\n"
+"nosiciel sam jest trollem).\n"
+
+#. key: wand of digging
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:wand of digging"
+msgid ""
+"A magical device which drills tunnels through unworked rock.\n"
+msgstr ""
+"Magiczny przedmiot który potrafi rozpuścić nie wzmocnioną skałę, tworząc tunel.\n"
+
+#. key: wand of polymorph
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:wand of polymorph"
+msgid ""
+"A magical device which causes a creature to be transmogrified into another\n"
+"form. It is especially effective against shape-changing creatures.\n"
+msgstr ""
+"Magiczny przedmiot który potrafi przemienić stworzenie w coś innego. Jest\n"
+"szczególnie efektywne wobec istot które naturalnie zmieniają formę: nie są one\n"
+"w stanie odeprzeć tego efektu.\n"
+
+#. key: whip
+#: dat/descript/items.txt
+msgctxt ""
+"textdb:descriptions:whip"
+msgid ""
+"A long plaited strip of leather. Originally developed for use in disagreements\n"
+"with cattle, this simple weapon is now widely used to settle differences\n"
+"between all sorts of creatures.\n"
+msgstr ""
+"Bat z byczej skóry.\n"
+
+#. key: amulet
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:amulet"
+msgid ""
+"An amulet to be worn as jewellery around the neck, charged with arcane powers\n"
+"of unknown provenance.\n"
+msgstr ""
+"Błyskotka do zawieszenia na szyi.\n"
+
+#. key: potion
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:potion"
+msgid ""
+"An unlabelled flask containing a single dose of unknown liquid.\n"
+msgstr ""
+"Mała buteleczka pełna płynu.\n"
+
+#. key: ring
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:ring"
+msgid ""
+"A ring charged with arcane forces of unknown provenance, to be worn as jewellery\n"
+"on a finger.\n"
+msgstr ""
+"Błyskotka którą możesz wsadzić na palec.\n"
+
+#. key: scroll
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:scroll"
+msgid ""
+"A disposable arcane formula inscribed on parchment by a professional scribe or\n"
+"sorcerer. Anyone can evoke the power of the arcane formula by reading it out\n"
+"loud, but the nature of that power is not a priori apparent.\n"
+msgstr ""
+"Zwój papieru pokryty magicznym pismem.\n"
+
+#. key: staff
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:staff"
+msgid ""
+"A staff improved with arcane powers of unknown nature.\n"
+msgstr ""
+"Kij, który może wesprzeć czary maga nim władającego.\n"
+
+#. key: wand
+#: dat/descript/unident.txt
+msgctxt ""
+"textdb:descriptions:wand"
+msgid ""
+"An unusually magical sort of stick.\n"
+msgstr ""
+"Patyk — być może zaczarowany.\n"
+
+#. key: singing sword
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:singing sword"
+msgid ""
+"An enchanted blade which loves nothing more than to sing to its owner, whether\n"
+"they want it to or not.\n"
+msgstr ""
+"Ten cudowny miecz niczego nie kocha bardziej niż śpiewać swemu właścicielowi —\n"
+"czy tego chce czy też nie.\n"
+
+#. key: wrath of trog
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:wrath of trog"
+msgid ""
+"A bloodstained axe that was the favourite weapon of the old god Trog, before it\n"
+"was lost. It induces a bloodthirsty berserker rage when used in battle, although\n"
+"mere mortals who wield it will find themselves temporarily overwhelmed by Trog's\n"
+"power.\n"
+msgstr ""
+"To była niegdyś ulubiona broń Troga, zanim ją utracił pewnego dnia. Wzbudza\n"
+"krwawy berserkerski szał gdy ktokolwiek użyje jej aby uderzyć bliźniego.\n"
+
+#. key: mace of variability
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:mace of variability"
+msgid ""
+"A large mace said to have appeared when Xom grew bored with the predictability\n"
+"of more ordinary instruments of chaos.\n"
+msgstr ""
+"Jest raczej niezbyt niezawodna.\n"
+
+#. key: partisan of prune
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:partisan of prune"
+msgid ""
+"The partisan of Prune carries a terrible and insidious curse. Unless its wielder\n"
+"maintains firm self-control, they are doomed to undergo a horrifying (albeit\n"
+"temporary) transformation. This is normally trivial to resist, but incapacitated\n"
+"wielders are certain to succumb, finding themselves nightmarishly purple, squishy,\n"
+"and delicious. They can take comfort in learning that it's surprisingly hard to\n"
+"injure a giant prune.\n"
+msgstr ""
+"Jest to dzieło jakiegoś szalonego boga, i niesie klątwę która zmienia\n"
+"posiadacza tej broni w śliwę. Na szczęście, klątwa ta działa bardzo powoli, i\n"
+"można używać tej glewii przez krótki czas bez konsekwencji gorszych niż lekko\n"
+"fioletowa skóra i parę zmarszczek.\n"
+
+#. key: scythe of curses
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:scythe of curses"
+msgid ""
+"A scythe surrounded by an ominous aura of dread. It carries a terrible and\n"
+"ancient curse, which it busily inflicts on both the wielder and their enemies.\n"
+msgstr ""
+"Ta broń niesie w sobie straszną i irytującą klątwę.\n"
+
+#. key: sceptre of torment
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:sceptre of torment"
+msgid ""
+"An accursed bone sceptre, created by some unknown hellish power. When used in\n"
+"combat, it causes agonising pain in all those unfortunate enough to gaze upon\n"
+"it, save for the wielder.\n"
+msgstr ""
+"Jest to prawdziwie przeklęte narzędzie piekieł.\n"
+
+#. key: faerie dragon scales
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:faerie dragon scales"
+msgid ""
+"An enchanted suit of armour created from the scales of a rare breed of dragon,\n"
+"now thought to be extinct. This prized relic is now one of the last proofs that\n"
+"the vividly coloured faerie dragons ever existed.\n"
+msgstr ""
+"Wróżkowe smoki były kiedyś rasą tego samego gatunku co nakrapiane. Na swe\n"
+"nieszczęście, ich żywe kolory stały się ich zgubą, alarmując potencjalną\n"
+"zdobycz. Dziś już zupełnie wyginęły, a ten cenny relikt jest jednym z ostatnich\n"
+"dowodów że kiedykolwiek istniały.\n"
+
+#. key: scimitar of flaming death
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:scimitar of flaming death"
+msgid ""
+"A scimitar with a mysteriously smoking blade. Occasionally its heat leaks out,\n"
+"covering opponents in magical flame.\n"
+msgstr ""
+"Gorące ostrze!\n"
+
+#. key: dagger of chilly death
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:dagger of chilly death"
+msgid ""
+"A dagger made of one huge shard of sapphire. It covers opponents in ice,\n"
+"slowing down their movement somewhat.\n"
+msgstr ""
+"Sztylet zrobiony z jednego wielkiego odłamka szafiru.\n"
+
+#. key: scythe "finisher"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:scythe \"finisher\""
+msgid ""
+"A long and exceedingly sharp scythe, capable of eviscerating in a single blow.\n"
+"Its extraordinary speed is the work of a mad wizard, who spent years refining\n"
+"it before discarding it in a fit of rage.\n"
+"\n"
+"The blade looses a low keen as it cuts through the air.\n"
+msgstr ""
+"Długa ostra kosa osadzona na sztorc.\n"
+
+#. key: giant club "skullcrusher"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:giant club \"skullcrusher\""
+msgid ""
+"A massive enchanted cudgel that augments the already considerable strength of\n"
+"anyone mighty enough to wield it.\n"
+msgstr ""
+"Ta śliczna pałeczka może sprawić radość każdego ogra — czy to w rozróbie w\n"
+"barze, czy masowym morderstwie — albo nawet w jednym i drugim naraz.\n"
+
+#. key: glaive of the guard
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:glaive of the guard"
+msgid ""
+"A glaive commissioned several years ago by a wealthy queen fearful for the\n"
+"safety of her vast treasury. No foe, the smith promised, could defeat a guard\n"
+"wielding such a weapon!\n"
+"\n"
+"It was stolen a few months later, along with the rest of the queen's treasury;\n"
+"the guard, it transpired, had been caught napping. Still, it should serve more\n"
+"than adequately in the hands of a waking user.\n"
+msgstr ""
+"Ta broń kiedyś należała do Gar Dogha, strażnika królewskich skarbów. Podobno\n"
+"stracił ją podczas wyprawy w te lochy.\n"
+
+#. key: sword of the dread knight
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:sword of the dread knight"
+msgid ""
+"An adamantine great sword. Its first wielder was a worshipper of Yredelemnul\n"
+"who eschewed the use of magic in combat, preferring to destroy her enemies with\n"
+"brute force. Unfortunately for her, not all of her opponents shared her\n"
+"limitations.\n"
+"\n"
+"It has felled countless great warriors under her grip, and the souls of those\n"
+"who had their lives taken beckon it to take even more under its new owner.\n"
+msgstr ""
+"Wielki miecz z czarnym diamentem w rękojeści.\n"
+
+#. key: morningstar "eos"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:morningstar \"eos\""
+msgid ""
+"A jewelled morningstar, glowing brightly with the light of the dawn. It\n"
+"illuminates the dungeon's recesses, revealing the machinations of those who\n"
+"would prefer to stay invisible.\n"
+msgstr ""
+"Różanopalca jutrzenka.\n"
+
+#. key: spear of the botono
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:spear of the botono"
+msgid ""
+"A dark and malign artefact. It increases the potency of hexes cast by anyone\n"
+"unwise enough to risk wielding it.\n"
+msgstr ""
+"Mroczny i złowrogi artefakt, zwiększający moc uroków rzucanych przez kogoś kto\n"
+"nierozsądnie weźmie ją w rękę.\n"
+
+#. key: mithril axe "arga"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:mithril axe \"arga\""
+msgid ""
+"A beautiful mithril axe, probably lost by some dwarven hero.\n"
+msgstr ""
+"Przepiękny topór z mithrilu, zapewne niegdyś należał do krasnoludzkiego herosa.\n"
+
+#. key: longbow "piercer"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:longbow \"piercer\""
+msgid ""
+"An exceptionally large metal longbow.\n"
+msgstr ""
+"Wyjątkowo duży metalowy łuk.\n"
+
+#. key: blowgun of the assassin
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:blowgun of the assassin"
+msgid ""
+"This blowgun seems to guide the needle to seek the most lethal point to hit\n"
+"the target, packing a nasty punch.\n"
+msgstr ""
+"Zaprojektowana aby można ją było łatwo schować, lecz wciąż zabójcza.\n"
+
+#. key: lance "wyrmbane"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:lance \"wyrmbane\""
+msgid ""
+"An enchanted lance deadly to all dragonkind. It grows more powerful every time\n"
+"it inflicts a killing blow on a strong dragon. The more powerful it grows, the\n"
+"harder it will be to find a worthy opponent.\n"
+msgstr ""
+"Zaczarowana lanca która staje się coraz mocniejsza z każdym smokiem którego\n"
+"zabija.\n"
+
+#. key: knife of accuracy
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:knife of accuracy"
+msgid ""
+"It is almost unerringly accurate.\n"
+msgstr ""
+"Jest niemal bezbłędnie celny.\n"
+
+#. key: lehudib's crystal spear
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:lehudib's crystal spear"
+msgid ""
+"Presumably this relic led to the invention of the famous spell, or maybe the\n"
+"other way around.\n"
+msgstr ""
+"Prawdopodobnie ten relikt doprowadził do powstania słynnego czaru. Albo może na\n"
+"odwrót.\n"
+
+#. key: captain's cutlass
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:captain's cutlass"
+msgid ""
+"An infamous weapon, once used by a vile pirate captain to slaughter countless\n"
+"innocents. He finally met his destiny when a kraken swallowed his ship, and the\n"
+"cutlass was thought to be lost with him.\n"
+msgstr ""
+"Pewien podły piracki kapitan używał tej ogarniętą niesławą broń do mordowania\n"
+"setek niewinnych istot, aż w końcu został pożarty razem ze swym statkiem i całą\n"
+"załogą przez krakena. Wszyscy myśleli że ten kordelas przepadł na zawsze, ale\n"
+"właśnie trzymasz dowód że tak nie jest we własnym ręku.\n"
+
+#. key: storm bow
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:storm bow"
+msgid ""
+"A longbow with the colour of dark rain clouds that fires arrows like lightning.\n"
+msgstr ""
+"Ten łuk ma kolor ciemnych deszczowych chmur, i pachnie ozonem.\n"
+
+#. key: tower shield of ignorance
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:tower shield of ignorance"
+msgid ""
+"A shield unearthed from the remains of a ruined city. It bears an inscription\n"
+"written in an ancient language. Scholars and wise men laboured for countless\n"
+"hours to decipher it, and in time, a translation was finally settled on:\n"
+"\n"
+"\"With a shield like this, who needs to think?\"\n"
+msgstr ""
+"„Otwarty umysł jest jak twierdza o bramach otwartych i niestrzeżonych.”\n"
+
+#. key: robe of augmentation
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:robe of augmentation"
+msgid ""
+"A variegated robe, woven with enchantments to enhance the wearer's physical and\n"
+"mental abilities. Its creators wove in strands of hair from a hundred different\n"
+"animals, each chosen for the unique strengths it could grant the robe's wearer.\n"
+msgstr ""
+"Szata z najlepszego jedwabiu.\n"
+
+#. key: cloak of the thief
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:cloak of the thief"
+msgid ""
+"A pitch-black cloak which allows its wearer to excel in the arts of thievery.\n"
+"Even the clumsy will find their footsteps softer and the shouts of their\n"
+"adversaries less attention-getting.\n"
+msgstr ""
+"Pozwala nosicielowi przodować w złodziejskich sztukach.\n"
+
+#. key: tower shield "bullseye"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:tower shield \"bullseye\""
+msgid ""
+"Just in case you had trouble getting hit.\n"
+msgstr ""
+"Na wypadek jakby twoi wrogowie mieli problemy z trafianiem w ciebie.\n"
+
+#. key: crown of dyrovepreva
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:crown of dyrovepreva"
+msgid ""
+"A large circlet of dull bronze, set with a dazzling array of gemstones. It was\n"
+"first worn by a prince of the Titans, who sought protection from the incessant\n"
+"warfare between his fellow princes. In practice, the main effect of the\n"
+"artefact was to unite his rivals against him.\n"
+msgstr ""
+"Duża korona z brązu bez połysku, wysadzana wspaniałymi połyskującymi kamieniami\n"
+"szlachetnymi.\n"
+
+#. key: hat of the bear spirit
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:hat of the bear spirit"
+msgid ""
+"A fur hat once owned by Ukta, a powerful ogre shaman. It houses the spirit of\n"
+"an especially mighty bear, whose rages devastated the ogres until it was slain.\n"
+msgstr ""
+"Ta czapka kiedyś należała do Ukty, potężnego ogrzego szamana. Nosi w sobie\n"
+"ducha ogromnego niedźwiedzia.\n"
+
+#. key: robe of misfortune
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:robe of misfortune"
+msgid ""
+"A splendid flowing robe of fur and silk whose lucky colour has faded.\n"
+msgstr ""
+"Wspaniała szata z futra i jedwabiu.\n"
+
+#. key: cloak of flash
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:cloak of flash"
+msgid ""
+"A cloak that twitches and jerks without any intervention.\n"
+msgstr ""
+"Wibrujący płaszcz.\n"
+
+#. key: skin of zhor
+#. Preserve {{ lua }} delimiters exactly.
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:skin of zhor"
+msgid ""
+"The {{\n"
+"    if you.can_smell() then\n"
+"        return \"smelly \"\n"
+"    end\n"
+"}}skin of some strange animal, native to cold and distant lands. It radiates\n"
+"the chill of its native habitat.\n"
+msgstr ""
+"Śmierdząca skóra jakiegoś dziwnego zwierzęcia.\n"
+
+#. key: salamander hide armour
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:salamander hide armour"
+msgid ""
+"Most salamanders' bodies are consigned to the fiery depths from which they\n"
+"sprang. Rarely, though, salamanders instead preserve the skins of those that\n"
+"passed. The runes and decorations on this hide suggest it once belonged to a\n"
+"respected warrior or priest - perhaps even a king. The fiery spirit remains in\n"
+"the skin, granting its power to the wearer.\n"
+msgstr ""
+"Skórzana zbroja zrobiona z salamandry.\n"
+
+#. key: gauntlets of war
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:gauntlets of war"
+msgid ""
+"A pair of thick steel gauntlets. They were Okawaru's reward for a mighty\n"
+"warlord. The owner is destined to die in battle, but what a death it will be!\n"
+msgstr ""
+"Płytowe rękawice z grubej stali, niegdyś dar Okawaru dla dzielnego wodza. Czy\n"
+"na nie zasługujesz?\n"
+
+#. key: shield of resistance
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:shield of resistance"
+msgid ""
+"A bronze shield, looking almost exactly like a tortoise's shell. It was built\n"
+"by the adherents of an obscure minor faith, who imbued it with the power of\n"
+"their god. As the god is said to, this shield protects against sword and sling,\n"
+"frost and flame.\n"
+msgstr ""
+"Tarcza ze spiżu.\n"
+
+#. key: robe of folly
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:robe of folly"
+msgid ""
+"A dull grey robe. It is enchanted to provide mages with immeasurable power,\n"
+"and more than a little overconfidence...\n"
+msgstr ""
+"Marna szara szata.\n"
+
+#. key: maxwell's patent armour
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:maxwell's patent armour"
+msgid ""
+"A suit of armour created by the famous inventor Maxwell, providing unparalleled\n"
+"protective qualities at a very affordable price. His unorthodox materials left\n"
+"it with certain shortcomings, but he's yet to have anyone come back for a\n"
+"refund.\n"
+msgstr ""
+"Bardzo dziwnie wyglądająca zbroja.\n"
+
+#. key: mask of the dragon
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:mask of the dragon"
+msgid ""
+"The mask of the High Priest of ancient Erebora. In ancient times, the gods of\n"
+"the Ereborans ceased to answer their prayers, and in desperation, the people\n"
+"turned to the forbidden worship of dragons. Now, of their works, only this mask\n"
+"remains.\n"
+msgstr ""
+"Niebieska maska.\n"
+
+#. key: scales of the dragon king
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:scales of the dragon king"
+msgid ""
+"A suit of armour created from the enchanted scales of a once-mighty king of\n"
+"dragons. In his time, titans and lesser dragons struggled with him in vain —\n"
+"but as with all things, even he was eventually cast down and undone. Of his\n"
+"life and deeds, this is all that remains.\n"
+msgstr ""
+"Dawno temu, możny złoty smok objął władanie nad wszystkimi smokami z tej części\n"
+"świata. Lecz jego rządy nie trwały długo – jakiś zwykły człowiek przebił króla\n"
+"włócznią po czym zrobił tą zbroję z jego skóry.\n"
+
+#. key: hat of the alchemist
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:hat of the alchemist"
+msgid ""
+"A dirty hat. It bears signs of surviving many weird explosions, which suggests\n"
+"it may have means of protecting the head inside from the risks involved with\n"
+"alchemy experiments.\n"
+msgstr ""
+"Osmalony kapelusz, noszący ślady wielu przedziwnych eksplozji. To że jest wciąż\n"
+"w jednym kawałku sugeruje że ma on sposoby chronienia głowy w środku przed\n"
+"urazami. A rodzaje ochrony które zapewnia mówią że głowy myślące o takich\n"
+"eksperymentach musiały wcześniej ulec jakimś urazom.\n"
+
+#. key: fencer's gloves
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:fencer's gloves"
+msgid ""
+"A pair of gloves made of white silk.\n"
+msgstr ""
+"Para rękawic z białego jedwabiu.\n"
+
+#. key: cloak of starlight
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:cloak of starlight"
+msgid ""
+"A phosphorescent cloak, woven of pure light beams. The ripples of its folds\n"
+"as the wearer leaps and swerves in combat may dazzle those who gaze on it.\n"
+msgstr ""
+"Fosforyzujący płaszcz utkany z samych promieni światła.\n"
+
+#. key: ratskin cloak
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:ratskin cloak"
+msgid ""
+"A cloak stitched from the hides of hundreds of hell rats by an enchantress with\n"
+"far too much time on her hands. Many more rats remain somehow concealed within\n"
+"it, and may scurry out to assist the wearer.\n"
+msgstr ""
+"Jakaś czarodziejka z czarodziejskim krosnem i zbyt dużą ilością czasu zszyła\n"
+"ten płaszcz ze skórek setek szczurów, w większości pomarańczowych. Wygląda dość\n"
+"głupio, ale zapewne zapewnia jakąś ochronę przed szczurami.\n"
+
+#. key: amulet of the air
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:amulet of the air"
+msgid ""
+"A sky-blue amulet, suffused with enchantments that protect the wearer and make\n"
+"their Air spells more powerful. Its creator lacked just one thing: a steady\n"
+"hand.\n"
+msgstr ""
+"Jakiś mag powietrza zaczarował ten błękitny amulet, zaklinając weń większość\n"
+"ochronnych uroków swej szkoły magii.\n"
+
+#. key: amulet of cekugob
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:amulet of cekugob"
+msgid ""
+"A strange-looking piece of crystal on an ordinary-looking string, with an odd\n"
+"selection of powers.\n"
+msgstr ""
+"Ten wisiorek to dziwne kawałek kryształu na sznurku, z nietypowym zestawem\n"
+"mocy.\n"
+
+#. key: amulet of tranquility
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:amulet of tranquility"
+msgid ""
+"A pendant made of purest jade. It grants its wearer immense willpower and\n"
+"mental fortitude.\n"
+msgstr ""
+"Ten wisior z najczystszego jadeitu daje nosicielowi mistyczną siłę aby odeprzeć\n"
+"wrogie uroki.\n"
+
+#. key: necklace of bloodlust
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:necklace of bloodlust"
+msgid ""
+"A necklace made of bloodstained human and animal teeth, and something that\n"
+"appears to be a piece of spine.\n"
+msgstr ""
+"Ciekawe jaki prymityw mógłby wpaść na pomysł aby założyć okrwawiony naszyjnik z\n"
+"ludzkich i zwierzęcych zębów... i czegoś co wygląda na kawałek kręgosłupa.\n"
+
+#. key: ring of the mage
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:ring of the mage"
+msgid ""
+"An enchanted sapphire, inset into a ring. It aids the spellcasting of its\n"
+"wearer.\n"
+msgstr ""
+"Pierścień z magicznym szafirem, pomagający w czarowaniu.\n"
+
+#. key: brooch of shielding
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:brooch of shielding"
+msgid ""
+"A brooch with an intricate inlaid design, providing a range of magical\n"
+"protections. Back in the good old days, every adventurer had one of these handy\n"
+"devices. That, and a pony.\n"
+msgstr ""
+"W dawnych czasach, każdy obieżyświat miał taką. No i kucyka.\n"
+
+#. key: robe of clouds
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:robe of clouds"
+msgid ""
+"A robe of a material as nebulous and insubstantial as the clouds. It whips the\n"
+"air around it up into a furious storm as it ripples and swirls.\n"
+msgstr ""
+"Szata z materiału tak delikatnego, jakby to były chmury.\n"
+
+#. key: obsidian axe
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:obsidian axe"
+msgid ""
+"An axe with a powerful curse placed on it by one of the lords of Pandemonium,\n"
+"so that unsuspecting adventurers would unleash demons into this world. Beware,\n"
+"for it has ways of taking its wielder under its command...\n"
+msgstr ""
+"Ten topór niesie w sobie podstępną klątwę jednego z panów Pandemonium, kierując\n"
+"nic nie podejrzewających poszukiwaczy twego typu ku swym niecnym celom.\n"
+
+#. key: lightning scales
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:lightning scales"
+msgid ""
+"A set of armoured plates assembled to protect a creature with a long, scaly\n"
+"lower body. Faintly crackling with electricity, they supercharge their wearer's\n"
+"ability to cover distance.\n"
+msgstr ""
+"Z tych łusek zrobiono zbroję pasującą na dolna połowę wężowego ciała naga.\n"
+"Lekko skrzą się prądem, i dają nosicielowi zdolność pełzania niemal tak szybko\n"
+"jak człowiek idzie.\n"
+
+#. key: autumn katana
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:autumn katana"
+msgid ""
+"An exquisitely crafted sword. Its blade is so sharp that it can cut through\n"
+"space itself.\n"
+msgstr ""
+"Ten zamorski miecz jest bronią dla oświeconego szermierza.\n"
+
+#. key: shillelagh "devastator"
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:shillelagh \"devastator\""
+msgid ""
+"A wooden cudgel, loaded with more than just lead.\n"
+msgstr ""
+"Ten kijaszek jest obciążony czymś cięższym niż ołów.\n"
+
+#. key: dragonskin cloak
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:dragonskin cloak"
+msgid ""
+"An opalescent cloak gleaming with the colours of all kinds of dragons. It\n"
+"imbues the wearer with draconic resistances, although somewhat unreliably.\n"
+msgstr ""
+"Ten dziwny płaszcz błyszczy wszystkimi kolorami smoków. Chroni on swego\n"
+"nosiciela przed atakami ze stron wszelkich rodzajów żywiołów, jakkolwiek jest\n"
+"niezbyt niezawodny.\n"
+
+#. key: ring of the octopus king
+#: dat/descript/unrand.txt
+msgctxt ""
+"textdb:descriptions:ring of the octopus king"
+msgid ""
+"One of the eight rings once worn by the Octopus King and now scattered across\n"
+"the land. Each has its own unique enchantment.\n"
+msgstr ""
+"Pierścień z morskiego koralowca.\n"
+
+#. key: abjuration spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:abjuration spell"
+msgid ""
+"Reduces the remaining duration of any nearby hostile summoned creatures.\n"
+msgstr ""
+"Ten czar próbuje odesłać wskazane przyzwane stworzenie tam skąd przybyło, a\n"
+"nawet jeśli się to nie uda, skraca pozostały czas przyzwania.\n"
+
+#. key: agony spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:agony spell"
+msgid ""
+"Cuts the health of a target creature in half. This damage is never directly\n"
+"lethal.\n"
+msgstr ""
+"Ten czar połowi siły życiowe wskazanego stworzenia (jeśli nie zostanie\n"
+"odparty), nigdy jednak nie jest bezpośrednią przyczyną śmierci. Nie działa na\n"
+"istoty nie potrafiące czuć bólu, jak i na te nie posiadające normalnych sił\n"
+"życiowych.\n"
+
+#. key: airstrike spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:airstrike spell"
+msgid ""
+"Causes the air around a creature to twist itself into a whirling vortex of\n"
+"meteorological fury. It does more damage to targets surrounded by empty space.\n"
+msgstr ""
+"Ten czar powoduje małe lecz bardzo gwałtowne zawirowanie powietrza, zadając\n"
+"spore obrażenia wskazanemu stworzeniu. Zawsze trafia. Latające istoty są\n"
+"szczególnie wrażliwe na ten czar.\n"
+
+#. key: alistair's intoxication spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:alistair's intoxication spell"
+msgid ""
+"Converts a small portion of the brain matter of those around you into alcohol,\n"
+"attempting to confuse all intelligent creatures within view (although\n"
+"poison-resistant creatures may resist the effects). The caster will experience\n"
+"vertigo briefly if they successfully make contact with other minds. It is\n"
+"frequently used as an icebreaker at wizard parties.\n"
+msgstr ""
+"Ten czar zmienia małą część komórek mózgu w alkohol, powodując efekty podobne\n"
+"do upicia we wszystkich inteligentnych stworzeniach w zasięgu wzroku\n"
+"(jakkolwiek nie działa na istoty odporne na trucizny). Rzucający ten czar jest\n"
+"najmocniej objęty jego działaniem, i odporność na trucizny nie zapobiega temu\n"
+"efektowi.\n"
+"\n"
+"Jak można zgadnąć, czar ten jest często nadużywany na imprezach czarodziei.\n"
+
+#. key: animate dead spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:animate dead spell"
+msgid ""
+"For some time after casting this, living creatures killed by the caster will rise\n"
+"as zombies. The chance of reanimating a monster and the duration of the effect\n"
+"increase with spell power. Re-casting this spell will return zombies to dust, as\n"
+"will leaving the floor.\n"
+msgstr ""
+"Ten czar zmusza martwych do powstania i służenia rzucającemu, każde zwłoki\n"
+"zdolne do powstania są nim objęte. Za pomocą tego czaru można stworzyć ogromną\n"
+"armię, jednak utworzeni nieumarli nie są zdolni ani do regeneracji, ani do\n"
+"żadnych skomplikowanych akcji, ani nawet do chodzenia po schodach.\n"
+
+#. key: apportation spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:apportation spell"
+msgid ""
+"Pulls the top item or group of similar items from a distant pile to the floor\n"
+"near the caster. With low power, items might not be moved all the way to the\n"
+"caster's position.\n"
+"\n"
+"Extremely powerful magical items, such as the Orb of Zot, may actively resist\n"
+"the pull of this spell.\n"
+msgstr ""
+"Ten czar pozwala przyciągnąć jakiś przedmiot, lub czasem nawet grupę\n"
+"przedmiotów, rzucając go pod nogi rzucającego. Cięższe przedmioty zostaną\n"
+"przesunięte tylko częściowo — lub nawet, przy małej mocy i dużym ciężarze,\n"
+"nawet w ogóle nie.\n"
+
+#. key: blink spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:blink spell"
+msgid ""
+"Randomly translocates the caster a short distance. After translocating in this\n"
+"way, the spell cannot be cast again for a short period of time depending on\n"
+"spell power.\n"
+msgstr ""
+"Ten czar przemieszcza rzucającego na krótki dystans, w niekontrolowany sposób.\n"
+
+#. key: borgnjor's revivification spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:borgnjor's revivification spell"
+msgid ""
+"Instantly heals any and all wounds suffered by the caster, but also permanently\n"
+"damages their health, to a degree dependent on (and inversely related to) power.\n"
+"\n"
+"It is powerful enough to cancel the effects of Death's Door, although doing so\n"
+"will briefly paralyse the caster. It has no effect on the undead.\n"
+msgstr ""
+"Ten czar natychmiast leczy wszelkie rany odniesione przez rzucającego, ale\n"
+"kosztem nieodwracalnej utraty małej części zdrowia — tym większej, im mniejsze\n"
+"są umiejętności.\n"
+"\n"
+"Czar ten ma wystarczającą moc aby dosłownie wydrzeć kogoś z Bram Śmierci, ale\n"
+"szok tym wywołany powoduje chwilowy paraliż.\n"
+
+#. key: call imp spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:call imp spell"
+msgid ""
+"Calls forth a minor demon from the pits of Hell, equipped with a spear with\n"
+"which to jab at the caster's enemies. The quality of the imp's weaponry rises\n"
+"with spell power.\n"
+msgstr ""
+"Ten czar przyzywa pomniejszego demona z piekielnych czeluści.\n"
+
+#. key: cause fear spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:cause fear spell"
+msgid ""
+"Causes fear in those near to the caster, causing those affected to be unable to\n"
+"approach the caster, and to sometimes fail to attack them in melee. Leaving the\n"
+"caster's line of sight will end the effect.\n"
+msgstr ""
+"Ten czar sieje przerażenie wśród istot w najbliższym pobliżu.\n"
+
+#. key: chain lightning spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:chain lightning spell"
+msgid ""
+"Releases a massive electrical discharge that arcs to the creature nearest the\n"
+"caster and then outward from it. The further it travels, the less damage it\n"
+"does. Secondary arcs have limited range and do little damage to the caster.\n"
+"The spell bypasses half of defenders' armour and resistance to electricity.\n"
+msgstr ""
+"Ten czar uwalnia ogromne elektryczne wyładowanie które przepływa od celu do\n"
+"celu. Jeśli jednak cele nie są wystarczająco blisko siebie, piorun ten zamiast\n"
+"tego pójdzie w ziemię.\n"
+
+#. key: charm spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:charm spell"
+msgid ""
+"Causes an otherwise hostile creature to fight on the caster's side for a while.\n"
+"Adventurers, set on their quest for the ORB, instead suffer momentary confusion.\n"
+msgstr ""
+"Ten czar, jeśli nie zostanie odparty, tymczasowo przejmuje kontrolę nad wybraną\n"
+"istotą.\n"
+
+#. key: confuse spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:confuse spell"
+msgid ""
+"Induces a state of bewilderment and confusion in a creature's mind.\n"
+msgstr ""
+"Ten czar, jeśli nie zostanie odparty, powoduje tymczasowe zaćmienie umysłu u\n"
+"ofiary.\n"
+
+#. key: confusing touch spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:confusing touch spell"
+msgid ""
+"Enchants the caster's dominant hand with magical energy. This energy is\n"
+"released when the caster touches a monster, and may induce a state of confusion\n"
+"in the monster. The caster's attacks do no damage while attempting to touch a\n"
+"monster in this way.\n"
+msgstr ""
+"Ten czar rzuca urok na dłonie rzucającego. Po dotknięciu kogoś taką dłonią,\n"
+"jeśli czar nie zostanie odparty, powoduje on zmieszanie umysłu.\n"
+
+#. key: corona spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:corona spell"
+msgid ""
+"Causes a halo of glowing light to surround and effectively outline a creature.\n"
+"This glow offsets the dark, musty atmosphere of the dungeon, and makes the\n"
+"affected creature appreciably easier to hit.\n"
+msgstr ""
+"Ten czar tworzy poświatę wokół ofiary, czyniąc ją bardziej widoczną. W\n"
+"warunkach słabego światła, takich jak te lochy, bardzo ułatwia to obserwację\n"
+"tej istoty a więc także i celowanie. Ponadto, blokuje to wszelką\n"
+"niewidzialność.\n"
+
+#. key: death channel spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:death channel spell"
+msgid ""
+"Binds the souls of slain living, demonic and holy creatures, forcing their\n"
+"spectres to remain and fight for the caster for as long as the channel lasts.\n"
+msgstr ""
+"Ten czar zniewala dusze żywych istot zabitych przez zarówno rzucającego jak i\n"
+"sprzymierzeńców, tworząc z nich upiory.\n"
+
+#. key: death's door spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:death's door spell"
+msgid ""
+"Renders the caster nigh invulnerable to harm for a brief period, but brings\n"
+"them dangerously close to death in the process. So close, in fact, that the\n"
+"body believes itself to be dead — healing effects will do nothing.\n"
+"\n"
+"The caster will receive one warning shortly before the spell expires. After\n"
+"expiry, the spell cannot immediately be recast, but with high power the caster\n"
+"will be left further from death when the effect ends. It has no effect on those\n"
+"who are already undead.\n"
+msgstr ""
+"Ten czar jest wyjątkowo potężny, ale niesie ze sobą spore ryzyko. Stawia on\n"
+"rzucającego w stan pomiędzy życiem a śmiercią — daje zupełną odporność na\n"
+"jakiekolwiek obrażenia, ale także na wszelkie lecznicze efekty. Kiedy czar ten\n"
+"mija, pozostawia rzucającego niemal martwym.\n"
+"\n"
+"Umiejętności w dziedzinie Nekromacji, jak i łaska Kikubaaqudghy, pozwalają\n"
+"zachować nieco więcej zdrowia.\n"
+
+#. key: debugging ray spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:debugging ray spell"
+msgid ""
+"Fires a ray which does massive damage (1500 hp) and always hits.\n"
+msgstr ""
+"Czar który powoduje 1500 obrażeń i zawsze trafia. I nie jest dostępny w\n"
+"normalnej grze.\n"
+
+#. key: dig spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:dig spell"
+msgid ""
+"Digs a tunnel through unworked rock.\n"
+msgstr ""
+"Ten czar pozwala drążyć tunele w niewzmocnionej skale. Nadaje on skale\n"
+"półpłynną postać która spływa w dół, nie powodując wiele hałasu.\n"
+
+#. key: dispel undead spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:dispel undead spell"
+msgid ""
+"Harms an adjacent undead creature greatly by interfering with the forces\n"
+"binding it together.\n"
+msgstr ""
+"Ten czar częściowo animuje wskazaną nieumarłą istotę, w sposób sprzeczny z\n"
+"czarami za pomocą których się ona porusza. Powoduje to ogromne obrażenia.\n"
+
+#. key: fire storm spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:fire storm spell"
+msgid ""
+"Calls forth a mighty storm of roaring flame directly onto the target, dealing\n"
+"damage in a large area and leaving behind short-lived fire vortices. Half of\n"
+"its damage bypasses fire resistance.\n"
+msgstr ""
+"Ten czar przywołuje potężną burzę płomieni we wskazanym miejscu. Obiekty lub\n"
+"istoty znajdujące się po drodze nie stanowią problemu. Efekt kominowy powoduje\n"
+"powstanie wielu krótkotrwałych wirów ognia.\n"
+
+#. key: fireball spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:fireball spell"
+msgid ""
+"Hurls an explosive ball of fire.\n"
+msgstr ""
+"Ten czar ciska kulę ognia która leci we wskazanie miejsce po czym wybucha.\n"
+
+#. key: freeze spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:freeze spell"
+msgid ""
+"Freezes an adjacent creature, dealing damage that bypasses any armour the\n"
+"target may have. This may temporarily slow cold-blooded creatures.\n"
+msgstr ""
+"Ten czar zmraża jakąś istotę stojącą w zasięgu ręki rzucającego (zawsze\n"
+"trafia). To powoduje obrażenia, i może nieść dodatkowe konsekwencje dla\n"
+"zimnokrwistych stworzeń.\n"
+
+#. key: freezing cloud spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:freezing cloud spell"
+msgid ""
+"Conjures up a large cloud of lethally cold vapour.\n"
+msgstr ""
+"Ten czar przyzywa duży obłok śmiertelnie zimnej pary.\n"
+
+#. key: haste spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:haste spell"
+msgid ""
+"Speeds the actions of the caster.\n"
+msgstr ""
+"Ten czar znacznie przyspiesza wszystkie ruchy jakiegoś stworzenia. Zwykle rzuca\n"
+"się ten czar na siebie samego, jednak nadużywanie grozi skażeniem magią.\n"
+
+#. key: ignite poison spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:ignite poison spell"
+msgid ""
+"Converts all nearby poison into liquid flame, burning poisoned creatures from\n"
+"within. It also turns clouds of poison and mephitic gases into flame. The\n"
+"caster is not affected directly.\n"
+msgstr ""
+"Ten czar zamienia wszelką truciznę w pobliżu w ogień, paląc od środka istoty\n"
+"które uległy zatruciu, mają trującą krew lub gruczoły lub zęby jadowe.\n"
+"\n"
+"Rzucający ten czar i jego wyposażenie nie podlegają temu efektowi.\n"
+
+#. key: inner flame spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:inner flame spell"
+msgid ""
+"Fills an enemy with an intense fire. This fire is released any time the target\n"
+"is hit, and explosively released upon death. The size of the explosion caused\n"
+"is dependent on the size of the target.\n"
+msgstr ""
+"Ten czar, jeśli nie zostanie odparty, wypełnia ofiarę wewnętrznym ogniem. Nie\n"
+"daje to żadnego efektu póki ofiara w jakikolwiek sposób jeszcze żyje (łącznie z\n"
+"fałszywym życiem nieumarłych), jednak w momencie śmierci powoduje gwałtowną\n"
+"ognistą eksplozję. Rozmiar tego wybuchu zależy od rozmiaru ofiary.\n"
+
+#. key: invisibility spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:invisibility spell"
+msgid ""
+"Turns the caster invisible.\n"
+msgstr ""
+"Ten czar ukrywa jakąś istotę (zwykle siebie samego) przed wzrokiem innych.\n"
+"Dłuższa niewidzialność z czasem powoduje magiczne skażenie, które w większych\n"
+"dawkach, oprócz innych nieprzyjemnych rezultatów, jest widoczne jako poświata,\n"
+"co czyni niewidzialność bezużyteczną.\n"
+
+#. key: iron shot spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:iron shot spell"
+msgid ""
+"Hurls a large and heavy metal shot.\n"
+msgstr ""
+"Ten czar tworzy spory i ciężki metalowy pocisk, po czym ciska nim.\n"
+
+#. key: iskenderun's mystic blast spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:iskenderun's mystic blast spell"
+msgid ""
+"Detonates a crackling sphere of destructive energy. The explosion will hit all\n"
+"nearby monsters with physical force, knocking them back if damage is done.\n"
+"Spellpower increases damage and knockback distance.\n"
+msgstr ""
+"Ten czar ciska niestabilną kulę czystej magicznej energii. Ta kula często\n"
+"oprócz bezpośrednich obrażeń wybucha na boki w momencie uderzenia, zwłaszcza\n"
+"jeśli została użyta na krótki dystans.\n"
+
+#. key: leda's liquefaction spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:leda's liquefaction spell"
+msgid ""
+"Liquefies the ground around the caster, making it difficult to move through.\n"
+"Any movement through liquefied ground will be slowed, and creatures stuck in\n"
+"the liquefied ground will be unable to fly. Attempts to attack the caster\n"
+"in melee may fail.\n"
+"\n"
+"The effect starts out with a radius depending on power, which will then shrink,\n"
+"eventually covering only the caster, before it times out. Maintaining the\n"
+"connection to the ground slows the caster's movement, even if they are flying.\n"
+msgstr ""
+"Ten czar czyni grunt wokół i pod rzucającym półpłynnym, wielce utrudniając\n"
+"chodzenie. Rzucający w niewielkim stopniu kontroluje ten czar, pozwalając\n"
+"wykonywać czynności inne niż chodzenie bez większego spowolnienia — wszyscy\n"
+"wokół nie mają tak dobrze.\n"
+
+#. key: lehudib's crystal spear spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:lehudib's crystal spear spell"
+msgid ""
+"Hurls a lethally sharp shard of crystal.\n"
+msgstr ""
+"Ten czar ciska długi i skrajnie ostry pocisk z kryształu.\n"
+
+#. key: magic dart spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:magic dart spell"
+msgid ""
+"Fires a small bolt of magical energy which never misses.\n"
+msgstr ""
+"Ten czar ciska mały pocisk czystej magicznej energii. Zawsze trafia.\n"
+
+#. key: malign gateway spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:malign gateway spell"
+msgid ""
+"Tears a gash in reality, creating a self-sustained but temporary portal to an\n"
+"unknown, tainted otherworld. It requires open space to succeed. After a short\n"
+"time, a powerful clawed tentacle will reach through the portal, remaining bound\n"
+"to the caster's will for a duration depending on power. With the portal's\n"
+"expiry, the tentacle will be severed and turn on the caster. The duration of\n"
+"the portal increases with spell power.\n"
+msgstr ""
+"Ten czar wyrywa dziurę w przestrzeni, tworząc krótkotrwały portal do innego\n"
+"świata, pełnego potwornych istot z wielkimi mackami. Zwykle po krótkim czasie\n"
+"któraś z tych istot wsadza mackę w portal, próbując wybadać co jest po naszej\n"
+"stronie. Nie jest dobrze być wówczas z pobliżu.\n"
+"\n"
+"Ten portal jest jednostronny.\n"
+
+#. key: mass confusion spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:mass confusion spell"
+msgid ""
+"Causes confusion in all who gaze upon the caster.\n"
+msgstr ""
+"Ten czar powoduje zaćmienie umysłu we wszystkich w zasięgu wzroku którzy nie\n"
+"odeprą tego czaru.\n"
+
+#. key: metabolic englaciation spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:metabolic englaciation spell"
+msgid ""
+"Lowers the metabolic rate of every creature in the caster's vicinity, slowing\n"
+"all those who are not resistant to cold. Cold-blooded creatures will be\n"
+"affected much more strongly, and tougher creatures will be slowed for a\n"
+"shorter time.\n"
+msgstr ""
+"Ten czar powoduje wychłodzenie metabolizmu wszystkich pobliskich istot,\n"
+"spowalniając wszystkie które nie są odporne na zimno. Nie można tego czaru w\n"
+"inny sposób odeprzeć, jednak mocniejsze stworzenia zwykle szybciej wracają do\n"
+"normy.\n"
+
+#. key: olgreb's toxic radiance spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:olgreb's toxic radiance spell"
+msgid ""
+"Causes the caster to radiate toxic energy, continuously inflicting poison on\n"
+"everything in line of sight for as long as the spell lasts.\n"
+msgstr ""
+"Ten czar spowija wszystko w zasięgu wzroku w niezdrowym zielonym świetle,\n"
+"powodując zatrucie u wszystkich obecnych (łącznie z rzucającym). Zwykłe szkło\n"
+"zatrzymuje te promienie, a niewidzialność zapewnia całkowitą ochronę.\n"
+
+#. key: orb of destruction spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:orb of destruction spell"
+msgid ""
+"Conjures an orb made of pure destructive magic. Compared to most other\n"
+"projectiles, these orbs travel at a relatively slow pace. The orbs home onto\n"
+"their targets, yet because of their huge inertia, especially agile opponents\n"
+"may be able to outmanoeuvre them. The orbs need some time to stabilise, and a\n"
+"nascent orb will deal reduced damage.\n"
+"\n"
+"Residents of the dungeon are able to maintain the orb until it impacts a\n"
+"target, but when cast by you the orb will dissipate upon leaving your line of\n"
+"sight.\n"
+msgstr ""
+"Ten czar tworzy kulę czystej niszczącej magii, ciskając ją w wybranym kierunku.\n"
+"Te kule poruszają się znacznie wolniej niż większość pocisków. Same\n"
+"naprowadzają się na cel, jednakże ze względu na dużą bezwładność, czasem można\n"
+"je wyminąć biegnąc w bok (jednak krótkie uskoki, takie jak zdolność uników, nic\n"
+"nie dają). Po rzuceniu czaru, kule te potrzebują trochę czasu żeby się uzbroić,\n"
+"i na krótki dystans taka niegotowa kula zadaje tylko część obrażeń.\n"
+"\n"
+"Powszechnie dostępne wersje tego czaru tracą moc po wyjściu poza zasięg wzroku\n"
+"rzucającego, jednak według pogłosek jest to skutek błędu kopisty, i czarownicy\n"
+"którzy żyli setki lat temu znali pełną wersję. Być może, dzięki nekromancji,\n"
+"niektórzy z nich jeszcze nie-żyją do dziś dnia.\n"
+
+#. key: ozocubu's refrigeration spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:ozocubu's refrigeration spell"
+msgid ""
+"Turns the air bitterly cold, freezing all other creatures in line of sight.\n"
+"This is less effective against creatures packed tightly together - those\n"
+"adjacent to their allies will be partly insulated from the cold, taking less\n"
+"damage.\n"
+msgstr ""
+"Ten czar wysysa ciepło z całej okolicy, zadając obrażenia od zimna wszystkim w\n"
+"zasięgu wzroku, łącznie z rzucającym.\n"
+
+#. key: pain spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:pain spell"
+msgid ""
+"Inflicts an extremely painful injury upon one living creature.\n"
+msgstr ""
+"Ten czar wywołuje małą ale wyjątkowo bolesną ranę we wskazanej żyjącej istocie.\n"
+"Rzucający sam otrzymuje pomniejsze obrażenia jako efekt uboczny.\n"
+
+#. key: passage of golubria spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:passage of golubria spell"
+msgid ""
+"Opens two gateways (one always near the caster), which allow instantaneous\n"
+"transport to random other open gateways to any creature entering them. There is\n"
+"no limit to the number of gateways that can be open at one time. However,\n"
+"gateways close a short time after being opened, or immediately once entered.\n"
+msgstr ""
+"Ten czar otwiera dwa portale, z tego jeden zawsze blisko rzucającego, które\n"
+"pozwalają na natychmiastowy transport pomiędzy nimi. Jeśli więcej takich\n"
+"portali jest otwartych jednocześnie, nie ma możliwości wyboru do którego się\n"
+"trafi. Portale te są jednorazowe, i rozwiewają się po upływie czasu działania\n"
+"czaru.\n"
+
+#. key: passwall spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:passwall spell"
+msgid ""
+"Allows the caster to travel a short distance through an adjacent rock wall and\n"
+"emerge again on the other side. This spell takes an unusally long time to cast,\n"
+"during which the caster will be unable to act, but also gain increased armour\n"
+"from their attunement to the rock.\n"
+msgstr ""
+"Ten czar, po krótkiej medytacji nad strukturą skały, pozwala przeniknąć na jej\n"
+"drugą stronę, o ile odległość jest wystarczająco krótka.\n"
+
+#. key: petrify spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:petrify spell"
+msgid ""
+"Petrifies a targeted creature and up to two other foes in a chain. Those which\n"
+"do not muster the Will to resist are briefly slowed, and then turned to stone.\n"
+"Until they return to flesh, they are unable to act, but also take half damage.\n"
+"The spell's power is lessened against secondary targets.\n"
+msgstr ""
+"Ten czar, jeśli nie zostanie odparty, obraca wskazaną istotę w kamień na krótki\n"
+"czas. Trwa to chwilę: początkowo ofiara jest tylko spowolniona, aż w końcu\n"
+"stopniowo zmieni się całkowicie w kamień. Oczywiście, łupanie kamienia jest\n"
+"trudniejsze niż żywego ciała, jednak ofiara, mimo że twarda, jest bezbronna.\n"
+
+#. key: poison arrow spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:poison arrow spell"
+msgid ""
+"Fires a magical arrow coated with the most vile and noxious toxin. Even those\n"
+"resistant to poison will be poisoned by it, and a small portion of its direct\n"
+"damage bypasses poison resistance.\n"
+msgstr ""
+"Ten czar ciska magiczną strzałę zatrutą skrajnie zjadliwą toksyną, przed którą\n"
+"żadna żywa istota nie jest zupełnie odporna. A i sama strzała zadaje pewne\n"
+"obrażenia, tak więc i nieumarli nie są bezpieczni.\n"
+
+#. key: poisonous cloud spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:poisonous cloud spell"
+msgid ""
+"Conjures forth a great cloud of lethal gases.\n"
+msgstr ""
+"Ten czar tworzy wielki obłok trujących gazów.\n"
+
+#. key: polymorph spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:polymorph spell"
+msgid ""
+"Randomly alters the form of a creature. It is especially effective against\n"
+"shape-changing creatures.\n"
+msgstr ""
+"Ten czar, jeśli nie zostanie odparty, zmienia jakąś istotę w jakieś inne,\n"
+"przypadkowe, stworzenie. Działa na wszelkie formy życia łącznie z demonami i\n"
+"aniołami.\n"
+"\n"
+"Zmiennokształtne istoty nie mają możliwości odparcia tego czaru.\n"
+
+#. key: sandblast spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:sandblast spell"
+msgid ""
+"Blasts a target with high-velocity rock shards. Gathering the rock from ambient\n"
+"grit is slow, making this spell take one-and-a-half times as long to cast as\n"
+"most. Its damage is strongly reduced by armour.\n"
+msgstr ""
+"Ten czar ciska strumień ziaren żwiru. Dla dobrego efektu potrzebne jest jakieś\n"
+"źródło (np. kamień trzymany w dłoni), jednak wszędzie obecny piasek i brud też\n"
+"dają pewien rezultat.\n"
+
+#. key: shadow creatures spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:shadow creatures spell"
+msgid ""
+"Creates replicas of creatures native to the caster's current location, weaving\n"
+"them from shadows and threads of Abyssal matter.\n"
+msgstr ""
+"Ten czar tka i ożywia stworzenia ze strzępów cienia. Będą to zawsze istoty\n"
+"podobne do tych jakie zwykle żyją w danej okolicy, jednak nie ma możliwości\n"
+"wyboru co konkretnie utkać. Ten czar nawet utworzy odpowiednie wyposażenie,\n"
+"które, razem z istotami, rozwieje się po krótkim czasie.\n"
+
+#. key: shatter spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:shatter spell"
+msgid ""
+"Causes an enormous burst of concussive force around the caster, dealing severe\n"
+"damage to all nearby creatures. It is especially effective against those made\n"
+"from ice, bone, or any wall-like substance (such as rock, metal or crystal), as\n"
+"well as those turned to stone by petrification. It is less effective against\n"
+"flying, gelatinous and insubstantial creatures. It may also destroy nearby\n"
+"walls.\n"
+msgstr ""
+"Ten czar powoduje trzęsienie ziemi wokół rzucającego, co zadaje ogromne\n"
+"obrażenia niemal wszystkim istotom. Tylko duchy są całkowicie niewrażliwe.\n"
+"\n"
+"Najbardziej ucierpią stworzenia zrobione z kamienia, metalu lub kryształu,\n"
+"trochę mniej te z lodu lub kości. Zaś galarety i ci zdolni do lotu doznają\n"
+"tylko nieznacznych obrażeń.\n"
+
+#. key: shock spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:shock spell"
+msgid ""
+"Throws a bouncing bolt of electricity. It bypasses half of defenders' armour.\n"
+msgstr ""
+"Ten czar ciska małą dawkę elektryczności, zdolną do odbijania się od ścian.\n"
+
+#. key: slow spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:slow spell"
+msgid ""
+"Slows the actions of a creature.\n"
+msgstr ""
+"Ten czar, jeśli nie zostanie odparty, spowalnia wszelkie czynności jakiejś\n"
+"istoty.\n"
+
+#. key: static discharge spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:static discharge spell"
+msgid ""
+"Releases electrical charges against those next to the caster. These may arc to\n"
+"other adjacent creatures, or back to the caster, before eventually grounding\n"
+"out. It deals reduced damage when arcing to the caster, and the damage dealt\n"
+"bypasses half of defenders' armour.\n"
+msgstr ""
+"Ten czar wyzwala ładunek elektryczności, porażając stworzenia w bezpośrednim\n"
+"sąsiedztwie rzucającego. Jeśli te stworzenia przewodzą prąd, porażeniu mogą\n"
+"ulec też istoty stojące dalej w nieprzerwanym łańcuchu.\n"
+"\n"
+"Stworzenia nie dotykające podłoża są całkowicie niewrażliwe.\n"
+
+#. key: sticky flame spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:sticky flame spell"
+msgid ""
+"Unleashes a short-ranged spray of incendiary goo that clings to an adjacent\n"
+"creature and deals armour-ignoring fire damage over several turns. If the victim\n"
+"is allowed to move, it will put out the fire prematurely.\n"
+"\n"
+"If the target is insubstantial, the liquid fire will fail to stick.\n"
+msgstr ""
+"Ten czar tworzy grudę lepkiego płynnego ognia, która opryskuje i przylepia się\n"
+"do pobliskiego stworzenia.\n"
+
+#. key: sting spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:sting spell"
+msgid ""
+"Conjures a jagged shard of crystallised toxins. The stinger's impact will always\n"
+"poison a susceptible target. Even resistant targets have a chance to be poisoned\n"
+"and immune monsters will still be damaged by the physical impact of the stinger.\n"
+msgstr ""
+"Ten czar ciska magiczną zatrutą strzałką.\n"
+
+#. key: stone arrow spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:stone arrow spell"
+msgid ""
+"Fires a sharp spine of rock.\n"
+msgstr ""
+"Ten czar ciska ostrym odłamem kamienia.\n"
+
+#. key: summon horrible things spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:summon horrible things spell"
+msgid ""
+"Opens a gate to the Abyss and calls through two or more hideous abominations\n"
+"from that dreadful place. While powerful, brushing one's mind against the fabric\n"
+"of the Abyss in this manner invites Doom upon the caster and may eventually cost\n"
+"them greatly.\n"
+msgstr ""
+"Ten czar otwiera portal do Otchłani, przyzywając jedno lub więcej z\n"
+"obrzydliwości zamieszkującej tą przeklętą krainę. Kontakt umysłu z Otchłanią\n"
+"często ma negatywny wpływ na zdrowie psychiczne rzucającego.\n"
+
+#. key: summon hydra spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:summon hydra spell"
+msgid ""
+"Summons a many-headed hydra to fight alongside the caster for a short time.\n"
+"Spell power determines the number of heads.\n"
+msgstr ""
+"Ten czar przyzywa wielogłową hydrę, niestety na krótki czas.\n"
+
+#. key: summon ice beast spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:summon ice beast spell"
+msgid ""
+"Calls forth a beast of ice to serve the caster. The strength of the beast\n"
+"depends on spell power.\n"
+msgstr ""
+"Ten czar przyzywa lodową bestię.\n"
+
+#. key: summon small mammal spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:summon small mammal spell"
+msgid ""
+"Summons a rat, bat, or quokka to the caster's aid. Spell power increases the\n"
+"chance of summoning a quokka.\n"
+msgstr ""
+"Ten czar przyzywa jedno lub parę małych stworzeń.\n"
+
+#. key: teleport other spell
+#: dat/descript/spells.txt
+msgctxt ""
+"textdb:descriptions:teleport other spell"
+msgid ""
+"Attempts to teleport a targeted creature out of the caster's sight, after a\n"
+"short delay.\n"
+msgstr ""
+"Ten czar przemieszcza inną istotę w przypadkowe, zwykle odległe, miejsce. Nie\n"
+"działa na siebie samego.\n"
+
+#. key: fighting
+#: dat/descript/skills.txt
+msgctxt ""
+"textdb:descriptions:fighting"
+msgid ""
+"Fighting skill increases your accuracy and damage in physical combat, and\n"
+"also increases your maximum health.\n"
+msgstr ""
+"Umiejętność Walki zwiększa celność i zadawane obrażenia w walce wręcz oraz\n"
+"zwiększa maksymalną ilość punktów życia.\n"
+
+#. key: throwing
+#: dat/descript/skills.txt
+msgctxt ""
+"textdb:descriptions:throwing"
+msgid ""
+"Training Throwing will make thrown weapons (such as javelins) more accurate\n"
+"and damaging. It also makes certain magical darts more likely to have an\n"
+"effect.\n"
+msgstr ""
+"Rozwijając Rzucanie sprawisz ,że broń rzucana ( np. Włócznie ) oraz wybuchowa\n"
+"staną się bardziej efektywne. W szczególności, bronie które powracają będą\n"
+"częściej powracały do rzucającego,\n"
+
+#. key: dodging
+#: dat/descript/skills.txt
+msgctxt ""
+"textdb:descriptions:dodging"
+msgid ""
+"The Dodging skill will affect your chance of dodging an attack, be it melee,\n"
+"ranged or magical. Certain types of attack cannot be dodged, however, such as\n"
+"enchantments (which must be resisted with willpower) and explosions.\n"
+msgstr ""
+"Umiejętność Uniki wpłynie na twoja szansę omijania ataków takich jak ataki\n"
+"bezpośrednie , dystansowe i magiczne . Nie wszystkie ataki są do ominięcia,\n"
+"ataki typu  klątwy czy eksplozje  muszą być odparte przez odporność.\n"
+
+#. key: shields
+#: dat/descript/skills.txt
+msgctxt ""
+"textdb:descriptions:shields"
+msgid ""
+"A high Shields skill helps you block melee attacks or projectiles (both magical\n"
+"and non-magical) with your equipped shield, and reduces their penalty to your\n"
+"evasion, attack speed and spellcasting success.\n"
+msgstr ""
+"Wysoki poziom posługiwania się Tarczami pozwala na blokowanie ciosów oraz\n"
+"pocisków (magicznych oraz niemagicznych) używając Tarczy (fizycznej lub\n"
+"magicznej). Niektóre ataki, takie jak przebijające strzały, nie mogą zostać\n"
+"zablokowane.\n"
+
+#. key: unarmed combat
+#: dat/descript/skills.txt
+msgctxt ""
+"textdb:descriptions:unarmed combat"
+msgid ""
+"Being skilled in Unarmed Combat increases your accuracy, damage and attack\n"
+"speed in melee combat when barehanded.\n"
+msgstr ""
+"Bycie wyszkolonym w Nieuzbrojonej Walce zwiększa twoją celność, zadawane\n"
+"obrażenia oraz szybkość atak w walce wręcz. Pozwala także na okazjonalne\n"
+"zaatakowanie drugą ręką jako dodatkowy atak.\n"
+
+#. key: no ability ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:no ability ability"
+msgid ""
+"If you get this description, it is a bug.\n"
+msgstr ""
+"Jeśli widzisz ten napis, jest to bug.\n"
+
+#. key: spit poison ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:spit poison ability"
+msgid ""
+"Spits poison at a targeted creature.\n"
+msgstr ""
+"Opluj trucizną wyznaczonego przeciwnika.\n"
+
+#. key: breathe poison gas ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:breathe poison gas ability"
+msgid ""
+"Breathes a blast of poison gas at a targeted creature.\n"
+msgstr ""
+"Uwalnia uderzenie zatrutego gazu na wybranym celu.\n"
+
+#. key: evoke invisibility ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:evoke invisibility ability"
+msgid ""
+"Turns the user invisible for a short period of time.\n"
+msgstr ""
+"Stajesz się niewidzialny na pewien okres czasu. Włączenie niewidzialności\n"
+"zwiększa twoje magiczne zanieczyszczenie i może spowodować świecenie.\n"
+
+#. key: end transformation ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:end transformation ability"
+msgid ""
+"Reverts you to your normal form.\n"
+msgstr ""
+"Przywraca Ci normalną postać,z małym opóźnieniem.\n"
+
+#. key: divine shield ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:divine shield ability"
+msgid ""
+"Manifests a blindingly bright shield in front of the user. Held aloft by the\n"
+"Shining One's power, it will unerringly block the next several attacks which\n"
+"could be blocked by a mundane shield. Ranged attacks will be reflected and melee\n"
+"attackers have a chance of being briefly blinded by the resulting flash of\n"
+"light.\n"
+"\n"
+"This shield will block only a limited number of attacks before vanishing, with\n"
+"Invocations skill increasing how many.\n"
+msgstr ""
+"Jedyny Lśniący zapewnia ci niebiańską tarczę. Ponieważ jest ona przepełniona\n"
+"boską mocą, nie wpływa ona na twój ekwipunek. Jednakże jest ona zależna od\n"
+"twojej siły woli i twoje umiejętności we władaniu Tarczą polepszają jej\n"
+"właściwości.\n"
+
+#. key: cleansing flame ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:cleansing flame ability"
+msgid ""
+"Invokes a huge blast of divine fury centered on the user, severely damaging\n"
+"undead and demons and dealing damage to all other hostile creatures. The power\n"
+"of the blast is increased by Invocations skill.\n"
+msgstr ""
+"Wywołuje wielki wybuch świętej furii którego epicentrum jest w tobie,\n"
+"kilkukrotnie zadając obrażenia nieumarłym i demonom. Wszystkie inne wrogie\n"
+"stwory także otrzymują obrażenia lecz nie tak silne. Nie wpływa na\n"
+"sprzymierzeńców.\n"
+
+#. key: bind soul ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:bind soul ability"
+msgid ""
+"Attempts to bind the soul of a living, holy, or demonic being into your eternal\n"
+"service. If the targeted monster is slain before it leaves your sight, it will\n"
+"return as a bound soul, retaining the equipment, spells and abilities it had in\n"
+"life.\n"
+"\n"
+"Only beings who are relatively uninjured may be targeted, and the focus required\n"
+"to keep their soul from escaping will consume 1/3 of the user's current health -\n"
+"returning it only upon slaying them. The attempt will fail entirely if the\n"
+"targeted monster leaves your sight before the process is complete.\n"
+"\n"
+"The bound soul's health is influenced by the user's Invocations skill. It will\n"
+"follow its captor through stairs, and can be recalled from other levels.\n"
+"\n"
+"Only one soul can be bound at a time.\n"
+msgstr ""
+"Zaznacz duszę żyjącego inteligentnego potworka jako  owoc do zebrania. Gdy\n"
+"zaznaczony potworek zginie, jego dusza będzie twoja. Zniewolona dusza będzie\n"
+"posiadała potworka cechy, ekwipunek i umiejętności, jak również trochę jego\n"
+"wrodzonej regenracji. Jednakże tylko nie zranione potworki mogą zostać\n"
+"naznaczone, oraz tylko jedna dusza może być zniewolona w tym samym czasie.\n"
+"Dodatkowo czas trwania zniewolenia jest zależne od poziomu umiejętności\n"
+"wywoływania.\n"
+"\n"
+"Zauważ,że zniewolona dusza podąża za tobą tylko na poziomie w którym została\n"
+"pojamna.\n"
+
+#. key: heroism ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:heroism ability"
+msgid ""
+"Temporarily increases all of your combat skills, both offensive and defensive.\n"
+"The duration is increased by Invocations skill.\n"
+msgstr ""
+"Chwilowo podnieś poziom wszystkich swoich umiejętności bojowych, włącznie z\n"
+"umiejętnością skradania się.\n"
+
+#. key: finesse ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:finesse ability"
+msgid ""
+"Greatly increases your combat speed. The duration is increased by Invocations\n"
+"skill.\n"
+msgstr ""
+"Silnie zwiększa twoją prędkość walki,bez straty celności. Ten nienaturalny\n"
+"efekt może powodować małe zanieczyszczenie magią m  wydłużone trwanie tego\n"
+"efektu jest złe dla twojego zdrowia.\n"
+
+#. key: forget spell ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:forget spell ability"
+msgid ""
+"Removes a known spell from memory, so as to free memory to learn others.\n"
+msgstr ""
+"Zapomnij jakiekolwiek zaklęcie z tych które niedawno poznałeś, pozwala oczyścić\n"
+"pamięć dla innych czarów.\n"
+
+#. key: banish ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:banish ability"
+msgid ""
+"Attempts to banish a creature into the Abyss. If the attempt succeeds, you gain\n"
+"some piety and the creature's full experience value. Even creatures that resist\n"
+"are left malmutated and weakened by the brush with the Abyss. Invocations skill\n"
+"makes Banishment harder to resist.\n"
+msgstr ""
+"Usiłuje odesłać stwora w otchłań.\n"
+
+#. key: corrupt ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:corrupt ability"
+msgid ""
+"Corrupts the current level by unleashing Abyssal energies on it. This will\n"
+"cause the area nearby to change appearance, and will gate in creatures from the\n"
+"Abyss bent on causing destruction. This will not work on levels already\n"
+"corrupted or in the Abyss itself. The size of the effect is increased by\n"
+"Invocations skill.\n"
+msgstr ""
+"Zatruwa aktualny poziom poprzez uwolnienie Pustej energii na niem. Powoduje\n"
+"duże zmiany na poziomie oraz zmieniając jego zachowanie, otwiera bramy dla\n"
+"demonów z Pustki. Nie zadziała na poziomie,który już został zepsuty bądź w\n"
+"Pustce.\n"
+
+#. key: triple draw ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:triple draw ability"
+msgid ""
+"Draws three cards from any deck, and allows you to choose one to play,\n"
+"discarding the other two.\n"
+msgstr ""
+"Wyciągnij trzy karty z jakiejkolwiek talii w ekwipunku, obejrzyj je po czym\n"
+"zostaw tylko jedną niszcząc dwie pozostałe.\n"
+
+#. key: bend time ability
+#: dat/descript/ability.txt
+msgctxt ""
+"textdb:descriptions:bend time ability"
+msgid ""
+"Attempts to slow down everyone adjacent to you. High Invocations skill makes it\n"
+"harder to resist.\n"
+msgstr ""
+"Usiłuje spowolnić wszystkich w twoim sąsiedztwie. Wysoki poziom tej\n"
+"umiejętności sprawia że trudniej się jej oprzeć.\n"
+
+#. key: cmd_rest verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_rest verbose"
+msgid ""
+"Rests while your health and magic regenerate. Resting is interrupted as soon\n"
+"as a hostile monster comes into view. If health and magic are both already\n"
+"full, resting will wait for 100 turns.\n"
+msgstr ""
+"Poświęć do 100 tur na zregenerowanie życia oraz/lub odnowienie magii.\n"
+"Odpoczynek zostanie przerwany w momencie pojawienia się wroga\n"
+
+#. key: cmd_explore
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_explore"
+msgid ""
+"Autoexplore the current level\n"
+msgstr ""
+"Automatycznie eksploruj bieżący poziom\n"
+
+#. key: cmd_replay_messages
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_replay_messages"
+msgid ""
+"Reread recent messages\n"
+msgstr ""
+"Przeczytaj ostatnie wiadomości\n"
+
+#. key: cmd_resists_screen
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_resists_screen"
+msgid ""
+"Display character overview\n"
+msgstr ""
+"Pokaż menu postaci\n"
+
+#. key: cmd_resists_screen verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_resists_screen verbose"
+msgid ""
+"Displays an overview of your current resistances, abilities, equipment and\n"
+"attributes.\n"
+msgstr ""
+"Pokaż informacje na temat odporności, umiejętności, statystyk ekwipunku, itp.\n"
+
+#. key: cmd_display_overmap
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_overmap"
+msgid ""
+"Display dungeon overview\n"
+msgstr ""
+"Pokaż pełną mapę lochów.\n"
+
+#. key: cmd_display_religion
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_religion"
+msgid ""
+"Display religious status\n"
+msgstr ""
+"Pokaż status wiary\n"
+
+#. key: cmd_display_mutations
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_mutations"
+msgid ""
+"Display mutations\n"
+msgstr ""
+"Pokaż mutacje\n"
+
+#. key: cmd_display_skills
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_skills"
+msgid ""
+"Manage skills\n"
+msgstr ""
+"Zarządzaj umiejętnościami\n"
+
+#. key: cmd_display_character_status
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_character_status"
+msgid ""
+"Display character status\n"
+msgstr ""
+"Pokaż status postaci\n"
+
+#. key: cmd_save_game_now
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_save_game_now"
+msgid ""
+"Save and exit\n"
+msgstr ""
+"Zapisz i wyjdź\n"
+
+#. key: cmd_display_commands
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_commands"
+msgid ""
+"Game help\n"
+msgstr ""
+"Pomoc\n"
+
+#. key: cmd_display_commands verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_commands verbose"
+msgid ""
+"Displays a list of commands.\n"
+msgstr ""
+"Lista komend, opcje, itp.\n"
+
+#. key: cmd_autofight
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_autofight"
+msgid ""
+"Hit the closest monster\n"
+msgstr ""
+"Zaatakuj najbliższego przeciwnika.\n"
+
+#. key: cmd_autofight verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_autofight verbose"
+msgid ""
+"Moves towards the closest hostile monster, or attacks an adjacent monster with\n"
+"your current weapon.\n"
+msgstr ""
+"Idź do najbliższego przeciwnika i zaatakuj go bronią, którą w tym momencie\n"
+"używasz.\n"
+
+#. key: cmd_autofight_nomove verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_autofight_nomove verbose"
+msgid ""
+"Attacks an adjacent monster with your current weapon.\n"
+msgstr ""
+"Atakuj wroga stojącego przy tobie\n"
+
+#. key: cmd_wait
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_wait"
+msgid ""
+"Wait a single turn\n"
+msgstr ""
+"Poczekaj jedną turę\n"
+
+#. key: cmd_wait verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_wait verbose"
+msgid ""
+"Spends a single turn waiting and resting.\n"
+msgstr ""
+"Poświęć jedną turę czekając i odpoczywając\n"
+
+#. key: cmd_display_inventory
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_inventory"
+msgid ""
+"Display the contents of your inventory\n"
+msgstr ""
+"Pokaż zawartość ekwipunku\n"
+
+#. key: cmd_display_inventory verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_inventory verbose"
+msgid ""
+"Displays the contents of your inventory.\n"
+msgstr ""
+"Pokaż zawartość ekwipunku.\n"
+
+#. key: cmd_cast_spell
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_cast_spell"
+msgid ""
+"Cast a spell\n"
+msgstr ""
+"Rzuć zaklęcie\n"
+
+#. key: cmd_cast_spell verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_cast_spell verbose"
+msgid ""
+"Casts a spell.\n"
+msgstr ""
+"Rzuć czar\n"
+
+#. key: cmd_memorise_spell
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_memorise_spell"
+msgid ""
+"Memorise spell\n"
+msgstr ""
+"Zapamiętaj zaklęcie\n"
+
+#. key: cmd_drop
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_drop"
+msgid ""
+"Drop items\n"
+msgstr ""
+"Wyrzuć sprzęt\n"
+
+#. key: cmd_display_map
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_display_map"
+msgid ""
+"Enter map mode\n"
+msgstr ""
+"Wejdź w tryb mapy\n"
+
+#. key: cmd_map_add_waypoint
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_add_waypoint"
+msgid ""
+"Add waypoint\n"
+msgstr ""
+"Dodaj cel podróży\n"
+
+#. key: cmd_map_add_waypoint verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_add_waypoint verbose"
+msgid ""
+"Sets a waypoint at your current position.\n"
+msgstr ""
+"Ustaw cel podróży na miejscu, w którym teraz się znajdujesz.\n"
+
+#. key: cmd_map_next_level
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_next_level"
+msgid ""
+"Down one level\n"
+msgstr ""
+"Jeden poziom niżej\n"
+
+#. key: cmd_map_next_level verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_next_level verbose"
+msgid ""
+"Displays the next deeper level.\n"
+msgstr ""
+"Zbadaj następny niżej poziom\n"
+
+#. key: cmd_map_prev_level
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_prev_level"
+msgid ""
+"Up one level\n"
+msgstr ""
+"Jeden poziom wyżej\n"
+
+#. key: cmd_map_prev_level verbose
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_prev_level verbose"
+msgid ""
+"Displays the next higher level.\n"
+msgstr ""
+"Zbadaj następny poziom wyżej\n"
+
+#. key: cmd_map_find_upstair
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_upstair"
+msgid ""
+"Find stairs up\n"
+msgstr ""
+"Znajdź schody na górę\n"
+
+#. key: cmd_map_find_downstair
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_downstair"
+msgid ""
+"Find stairs down\n"
+msgstr ""
+"Znajdź schody na dół\n"
+
+#. key: cmd_map_find_you
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_you"
+msgid ""
+"Find me\n"
+msgstr ""
+"Znajdź mnie\n"
+
+#. key: cmd_map_find_portal
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_portal"
+msgid ""
+"Find shops and portals\n"
+msgstr ""
+"Znajdź sklepy i portale\n"
+
+#. key: cmd_map_find_trap
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_trap"
+msgid ""
+"Find traps\n"
+msgstr ""
+"Znajdź pułapki\n"
+
+#. key: cmd_map_find_altar
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_altar"
+msgid ""
+"Find altars\n"
+msgstr ""
+"Znajdź ołtarze\n"
+
+#. key: cmd_map_find_waypoint
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_waypoint"
+msgid ""
+"Find waypoint\n"
+msgstr ""
+"Znajdź cel podróży\n"
+
+#. key: cmd_map_find_stash
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_map_find_stash"
+msgid ""
+"Find stash\n"
+msgstr ""
+"Znajdź schowek\n"
+
+#. key: cmd_zoom_in
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_zoom_in"
+msgid ""
+"Zoom in\n"
+msgstr ""
+"Przybliż\n"
+
+#. key: cmd_zoom_out
+#: dat/descript/commands.txt
+msgctxt ""
+"textdb:descriptions:cmd_zoom_out"
+msgid ""
+"Zoom out\n"
+msgstr ""
+"Oddal\n"
+
+#. key: deep elf
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:deep elf"
+msgid ""
+"Deep Elves have a strong affinity for all kinds of magic, but are very fragile.\n"
+"They regenerate magical power rapidly.\n"
+msgstr ""
+"Najbardziej magiczne ze wszystkich elfów — ale też i najsłabsze i\n"
+"najwrażliwsze.\n"
+
+#. key: demigod
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:demigod"
+msgid ""
+"Demigods refuse to worship any god, but make up for this with divine attributes\n"
+"and high reserves of health and magic.\n"
+msgstr ""
+"Nie mogąc wyznawać bogów, Półbogowie sami posiadają boskie cechy i zdrowie.\n"
+
+#. key: demonspawn
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:demonspawn"
+msgid ""
+"Demonspawn are half human, half demon. They acquire strong demonic mutations as\n"
+"they grow.\n"
+msgstr ""
+"Demonie Pomioty są krzyżówką człowieka i demona, zyskując demoniczne cechy w\n"
+"miarę wzrostu.\n"
+
+#. key: draconian
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:draconian"
+msgid ""
+"Draconians are versatile hybrids. They mature when reaching level 7 and develop\n"
+"a colour.\n"
+msgstr ""
+"Smokowcy mają naturalny pancerz, lecz nie mogą nosić zbroi. Na 7ym poziomie\n"
+"osiągają dojrzałość i ujawniają swój kolor.\n"
+
+#. key: felid
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:felid"
+msgid ""
+"Felids are many-lived sentient cats. They cannot use armour or weapons.\n"
+msgstr ""
+"Te koty o wielu żywotach posiadają ludzki umysł, lecz brak im chwytnych\n"
+"kończyn, nie pozwalając na użycie większości przedmiotów.\n"
+
+#. key: human
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:human"
+msgid ""
+"Humans are natural explorers. Discovering new places refreshes and invigorates them.\n"
+"They are otherwise completely average.\n"
+msgstr ""
+"Zwykli i przeciętni.\n"
+
+#. key: tengu
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:tengu"
+msgid ""
+"Tengu are bird-people who love to fight, both with weapons and spells. They are\n"
+"fragile but agile, and eventually learn to fly.\n"
+msgstr ""
+"Ludzie-ptaki które kochają walczyć, zarówno bronią jak i magią. Są bardzo\n"
+"delikatni, za to uzyskują później zdolność lotu.\n"
+
+#. key: merfolk
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:merfolk"
+msgid ""
+"Half fish, half human, Merfolk are citizens of both water and land. They are\n"
+"strong combatants, and adept at using magic to assist in battle.\n"
+msgstr ""
+"Pół-ludzie, pół-ryby, merfolkowie czują się jak w domu zarówno w wodzie jak in\n"
+"na lądzie.\n"
+
+#. key: minotaur
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:minotaur"
+msgid ""
+"Minotaurs are large muscular humans with bovine heads. They excel at all forms\n"
+"of close and ranged combat.\n"
+msgstr ""
+"Wielkie osiłki będące ludźmi o byczej głowie. Beznadziejni w magii, lecz\n"
+"śmiertelnie groźni w każdej formie fizycznej walki.\n"
+
+#. key: mummy
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:mummy"
+msgid ""
+"Compelled to walk by an ancient curse, Mummies have innate faith and are adept\n"
+"at Necromancy, but learn other skills very slowly. They cannot drink potions.\n"
+msgstr ""
+"Zabalsamowane zwłoki pokryte bandażami, poruszane mocą starożytnej klątwy.\n"
+
+#. key: naga
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:naga"
+msgid ""
+"Nagas are hybrids: human from the waist up, with a snake-like tail instead of\n"
+"legs. They move very slowly but are naturally resilient.\n"
+msgstr ""
+"Połączenie człowieka i węża: ludzka głowa, ręce i klatka piersiowa, muskularny\n"
+"brzuch i ogon węża. Pełzają bardzo powoli.\n"
+
+#. key: octopode
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:octopode"
+msgid ""
+"Octopodes are a species of amphibious cephalopods. They can wear eight rings,\n"
+"but almost no armour fits them.\n"
+msgstr ""
+"Gatunek głowonogów, zdolny do poruszania się po lądzie. Potrafią użyć broni,\n"
+"ośmiu pierścieni lecz niemal żadnych rodzajów zbroi.\n"
+
+#. key: spriggan
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:spriggan"
+msgid ""
+"Very small, very frail and very fast, Spriggans are highly competent stabbers\n"
+"and spellcasters.\n"
+msgstr ""
+"Bardzo mali, bardzo delikatni i bardzo szybcy. Sprigganie potrafią wspaniale\n"
+"skradać się i robić niecne sztuczki.\n"
+
+#. key: troll
+#: dat/descript/species.txt
+msgctxt ""
+"textdb:gamestart:troll"
+msgid ""
+"Trolls are monstrous creatures with powerful claws. They regenerate health\n"
+"rapidly.\n"
+msgstr ""
+"Wielkie i brutalne, zdolne rozszarpać kogokolwiek swymi szponami, rzadko kiedy\n"
+"myślące, zawsze głodne potwory.\n"
+
+#. key: air elementalist
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:air elementalist"
+msgid ""
+"Air Elementalists have learned the Shock spell. Their electrical magic can harm\n"
+"groups of foes, while their air spells assist in fighting or fleeing enemies.\n"
+msgstr ""
+"Magowie Powietrza znają czar „Iskra”. Później, Księga Powietrza zapewnia im\n"
+"elastyczność.\n"
+
+#. key: berserker
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:berserker"
+msgid ""
+"Berserkers believe in Trog, the magic-hating god of frenzy. Not much can stop a\n"
+"raging berserker early on, apart from hubris.\n"
+msgstr ""
+"Berserkerzy wyznają Troga, nienawidzącego magii boga gniewu. Nie tak wiele\n"
+"potrafi zatrzymać berserkera w bitewnym szale.\n"
+
+#. key: chaos knight
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:chaos knight"
+msgid ""
+"Chaos Knights are playthings of the unpredictable Xom, and are subject to the\n"
+"god's constantly changing moods.\n"
+msgstr ""
+"Rycerze Chaosu są rozrywką nieprzewidywalnego Xoma, i są poddani zmiennym\n"
+"nastrojom tego boga.\n"
+
+#. key: gladiator
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:gladiator"
+msgid ""
+"Gladiators are ready for the arena with light armour, a weapon of their choice,\n"
+"and a few throwing weapons and nets.\n"
+msgstr ""
+"Gladiatorzy są wyposażeni w lekką zbroję, tarczę, sieć i broń wedle upodobania.\n"
+
+#. key: hunter
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:hunter"
+msgid ""
+"Hunters carry a shortbow, light armour and a scroll of butterflies.\n"
+msgstr ""
+"Myśliwi potrafią walczyć na dystans, bez potrzeby uciekania się do magii.\n"
+
+#. key: monk
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:monk"
+msgid ""
+"Monks start with a simple weapon of their choice, an orb of light, and a potion\n"
+"of divine ambrosia, and gain additional piety with the first god they worship.\n"
+msgstr ""
+"Mnisi są gotowi podjąć walkę z kimkolwiek nie uzbrojeni w nic prócz szaty i\n"
+"własnego ciała.\n"
+
+#. key: necromancer
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:necromancer"
+msgid ""
+"Necromancers start out with the Soul Splinter spell. Eventually, they can turn\n"
+"the dead into allies and use the life force of the living to restore themselves.\n"
+msgstr ""
+"Nekromanci są czarodziejami specjalizującymi się w czarnej magii. Zaczynają\n"
+"znając czar „Ból”.\n"
+
+#. key: wanderer
+#: dat/descript/backgrounds.txt
+msgctxt ""
+"textdb:gamestart:wanderer"
+msgid ""
+"Wanderers start with random equipment and skills.\n"
+msgstr ""
+"Włóczykije zaczynają z przypadkowo zebranym sprzętem i umiejętnościami.\n"
+
+#. key: death berserker unberserked
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:death berserker unberserked"
+msgid ""
+"Don't forget to go berserk when fighting particularly difficult foes. It's\n"
+"risky, but makes you faster and beefier.\n"
+msgstr ""
+"Nie zapominaj o używaniu trybu berserk kiedy walczysz z wymagającymi\n"
+"przeciwnikami. Używanie go jest ryzykowne, ale stajesz się szybszy i\n"
+"silniejszy.\n"
+
+#. key: death ranger melee
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:death ranger melee"
+msgid ""
+"Your bow and arrows are extremely powerful against distant monsters.\n"
+msgstr ""
+"Twój łuk i strzały są niesamowicie silne przeciwko oddalonym od siebie\n"
+"potworom. Zawsze zbieraj leżące strzały w lochach.\n"
+
+#. key: death random 0
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:death random 0"
+msgid ""
+"Always consider using projectiles, wands or spells before engaging monsters in\n"
+"close combat.\n"
+msgstr ""
+"Zawsze bierz pod uwagę użycie pocisków, różdżek lub czarów zanim dojdzie do\n"
+"walki bezpośredniej w bliskim dystansie.\n"
+
+#. key: death random 1
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:death random 1"
+msgid ""
+"Learn when to run away from things you can't handle — this is important! It is\n"
+"often wise to skip a particularly dangerous level. But don't overdo this as\n"
+"monsters will only get harder the deeper you delve.\n"
+msgstr ""
+"Naucz się kiedy uciekać od przeciwników silniejszych od siebie — to bardzo\n"
+"ważne! Często opłaca się ominąć zbyt niebezpieczny poziom. Nie rób tego jednak\n"
+"zbyt często, ponieważ potwory staną się jeszcze silniejsze im głębiej się\n"
+"zapuścisz.\n"
+
+#. key: death random 3
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:death random 3"
+msgid ""
+"Remember to use those scrolls, potions or wands you've found. Learn to\n"
+"improvise: you will need to identify potions and scrolls by using them.\n"
+msgstr ""
+"Pamiętaj, aby używać zwojów, mikstur i różdżek, które znajdziesz. W wielu\n"
+"przypadkach nie będziesz mógł zidentyfikować czegoś tylko przy użyciu zwojów.\n"
+"Naucz się improwizować: identyfikuj używając\n"
+
+#. key: death random 5
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:death random 5"
+msgid ""
+"Never fight more than one monster, if you can help it. Always back into a\n"
+"corridor so that they are forced to fight you one on one.\n"
+msgstr ""
+"Jeśli masz wybór, nigdy nie walcz z więcej niż jednym przeciwnikiem\n"
+"jednocześnie. Zawsze używaj korytarzy wymuszając walkę jeden na jednego.\n"
+
+#. key: finished stashes
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:finished stashes"
+msgid ""
+"You can search among all items existing in the dungeon with the\n"
+"<input>$cmd[CMD_SEARCH_STASHES]</input> command. For example,\n"
+"<input>$cmd[CMD_SEARCH_STASHES]</input> <w>“dagger”</w> will list all daggers,\n"
+"and allow you to travel to them. You can even search for dungeon features, like\n"
+"<w>“shop”</w> or <w>“altar”</w>.\n"
+msgstr ""
+"Możesz szukać przedmiotów na danej mapie używając komendy\n"
+"<input>$cmd[CMD_SEARCH_STASHES]</input>. Na przykład komenda\n"
+"<input>$cmd[CMD_SEARCH_STASHES]</input> <w>„dagger”</w> pokaże lokacje\n"
+"wszystkich noży. Możesz wtedy przenieść się do danego miejsca. Możesz także w\n"
+"komendach użyć takich słów jak <w>„shop”</w> lub <w>„altar”</w>.\n"
+
+#. key: finished random 2
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:finished random 2"
+msgid ""
+"The interface can be greatly customised. All options are explained in the file\n"
+"<w>options_guide.txt</w> which can be found in the <w>docs</w> directory. The\n"
+"options themselves are set in <w>init.txt</w> or <w>.crawlrc</w>. Crawl will\n"
+"complain if it can't find either file.\n"
+msgstr ""
+"Interfejs może być dogłębnie zmieniany. Wszystkie opcje są opisane w pliku\n"
+"<w>options_guide.txt</w> który znajdziesz w <w>docs</w> . Same ustawienia\n"
+"znajdują się w <w>init.txt</w> lub <w>.crawlrc</w>. Zostaniesz powiadomiony,\n"
+"jeśli żaden plik nie zostanie znaleziony.\n"
+
+#. key: finished random 3
+#: dat/descript/hints.txt
+msgctxt ""
+"textdb:hints:finished random 3"
+msgid ""
+"You can ask other Crawl players for advice and help using any of the community\n"
+"resources described at http://crawl.develz.org/\n"
+msgstr ""
+"Możesz poprosić o pomoc innych graczy na <w>#crawl</w> kanale IRC na Libera\n"
+"(<w>irc.libera.chat</w>).\n"
+
+#. key: tutorial intro
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial intro"
+msgid ""
+"You can reread all messages at any time with\n"
+"<input>$cmd[CMD_REPLAY_MESSAGES]</input>. Also, press <input>Space</input>\n"
+"<localtiles> or <input>left click</input> with mouse</localtiles> to clear the\n"
+"<cyan>--more--</cyan> prompts.\n"
+msgstr ""
+"Możesz przeczytać wcześniejsze komunikaty w dowolnym momencie wciskając\n"
+"<input>$cmd[CMD_REPLAY_MESSAGES]</input>. Naciśnij <input>spację</input> aby\n"
+"przejść przez <cyan>--more--</cyan>.\n"
+
+#. key: tutorial1 start
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial1 start"
+msgid ""
+"In this lesson you're going to learn how to move around and explore a level.\n"
+"You can move <localtiles>by clicking somewhere with your <input>Mouse</input>,\n"
+"or </localtiles>with the <input>arrow keys</input>.\n"
+msgstr ""
+"W tej lekcji nauczymy się jak się poruszać oraz zwiedzać otoczenie. Możesz\n"
+"ruszać się<localtiles> przez kliknięci gdziekolwiek myszką\n"
+"<input>Mouse</input>, lub</localtiles> używając <input>arrow keys</input>.\n"
+
+#. key: tutorial1 go_on
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial1 go_on"
+msgid ""
+"You're doing great! Now, explore a bit until you reach the next blue square.\n"
+msgstr ""
+"Idzie Ci świetnie! Teraz, przeszukaj trochę okolicę aż nie dotrzesz do\n"
+"następnego niebieskiego pola .\n"
+
+#. key: tutorial1 diagonal
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial1 diagonal"
+msgid ""
+":nowrap\n"
+"Move diagonally with the <input>number pad</input> (try Numlock on/off)<localtiles>,</localtiles> <console>or the </console><input>vi keys</input><console>.</console><localtiles>, or <input>mouse</input>.</localtiles>\n"
+"\n"
+"  Numpad:     <w>7 8 9</w>       vi-keys: <w>   $cmd[CMD_MOVE_UP_LEFT] $cmd[CMD_MOVE_UP] $cmd[CMD_MOVE_UP_RIGHT]</w><localtiles>    Mouse:     <w>click</w> on the floor</localtiles>\n"
+"               \\|/                     \\|/\n"
+"              <w>4</w>-<w>.</w>-<w>6</w> <w>                  $cmd[CMD_MOVE_LEFT]</w>-<w>.</w>-<w>$cmd[CMD_MOVE_RIGHT]</w>\n"
+"               /|\\                     /|\\\n"
+"              <w>1 2 3</w> <w>                  $cmd[CMD_MOVE_DOWN_LEFT] $cmd[CMD_MOVE_DOWN] $cmd[CMD_MOVE_DOWN_RIGHT]</w>\n"
+msgstr ""
+":nowrap\n"
+"Możesz poruszać się po przekątnej naciskając <input>number pad</input> (włącz Numlock) lub przez użwyanie <input>vi keys</input>.\n"
+"\n"
+"  Numpad:       <w>7 8 9</w>           vi-keys: <w>   $cmd[CMD_MOVE_UP_LEFT] $cmd[CMD_MOVE_UP] $cmd[CMD_MOVE_UP_RIGHT]</w>\n"
+"                 \\|/                         \\|/\n"
+"                <w>4</w>-<w>.</w>-<w>6</w> <w>                      $cmd[CMD_MOVE_LEFT]</w>-<w>.</w>-<w>$cmd[CMD_MOVE_RIGHT]</w>\n"
+"                 /|\\                         /|\\\n"
+"                <w>1 2 3</w> <w>                      $cmd[CMD_MOVE_DOWN_LEFT] $cmd[CMD_MOVE_DOWN] $cmd[CMD_MOVE_DOWN_RIGHT]</w>\n"
+"\n"
+"<localtiles>Możesz poruszać się także ,używając <input>Mouse clicks</input>.</localtiles>\n"
+
+#. key: tutorial1 shiftmove
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial1 shiftmove"
+msgid ""
+"A quicker way to “run” through a corridor is to press <input>Shift</input>\n"
+"along with the <input>number pad</input> (try Numlock on/off) or <input>vi\n"
+"keys</input>.\n"
+msgstr ""
+"Szybszym sposobem „Biegania” przez korytarze jest wcisniecie\n"
+"<input>Shift</input> razem z <input>number pad</input> (sprawdź Numpad) lub\n"
+"<input>vi keys</input>.\n"
+
+#. key: tutorial1 downstairs
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial1 downstairs"
+msgid ""
+"When standing on a staircase leading downwards, you can enter the next level\n"
+"with <input>$cmd[CMD_GO_DOWNSTAIRS]</input><localtiles> or with\n"
+"a <input>left click</input> on your character</localtiles>.\n"
+msgstr ""
+"Stojąc na schodach prowadzących w dół, możesz przejść do następnej lokacji,\n"
+"używając <input>$cmd[CMD_GO_DOWNSTAIRS]</input><localtiles> lub klikając\n"
+"<input>Shift-Click</input> na swoją postać</localtiles>.\n"
+
+#. key: tutorial1 door
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial1 door"
+msgid ""
+"You can open a closed door by walking into it.\n"
+msgstr ""
+"Zamknięte drzwi możesz otworzyć podchodząc do nich.\n"
+
+#. key: tutorial1 water
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial1 water"
+msgid ""
+"Note how you can move through shallow but not through deep water.\n"
+msgstr ""
+"Zauważ, że możesz przechodzić tylko przez płytką wodę.\n"
+
+#. key: tutorial1 upstairs
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial1 upstairs"
+msgid ""
+"When standing on a staircase leading upwards, you can enter the previous level\n"
+"with <input>$cmd[CMD_GO_UPSTAIRS]</input><localtiles> or by\n"
+"<input>left clicking</input> on your character</localtiles>.\n"
+msgstr ""
+"Stojąc na schodach prowadzących w górę, możesz powrócić do wcześniejszej\n"
+"lokacji, używająć <input>$cmd[CMD_GO_UPSTAIRS]</input><localtiles> lub\n"
+"klikając <input>Shift-clicking</input> na swoją postać</localtiles>.\n"
+
+#. key: tutorial2 start
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial2 start"
+msgid ""
+"This lesson will teach you about monsters and fighting. First, we need a\n"
+"weapon! Go and grab the one lying over there.\n"
+msgstr ""
+"Ta lekcja nauczy cię o potworach oraz walce. Po pierwsze, potrzebujemy broni!\n"
+"Idź i podnieś tą broń.\n"
+
+#. key: tutorial2 wait
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial2 wait"
+msgid ""
+"Rather than storm the room and get swarmed by monsters, you can also step back\n"
+"and wait (with <input>$cmd[CMD_WAIT]</input><localtiles> or by\n"
+"<input>clicking</input> on your character</localtiles>) for them to come to you.\n"
+msgstr ""
+"Zamiast wchodzić w pomieszczenie pełne potworów, które po chwili cię otoczą\n"
+"możesz poczekać(with <input>$cmd[CMD_WAIT]</input>) aż same do ciebie\n"
+"podejdą.\n"
+
+#. key: tutorial2 resting_reminder
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial2 resting_reminder"
+msgid ""
+"Remember, you can rest up with <input>$cmd[CMD_REST]</input>.\n"
+msgstr ""
+"Pamiętaj, możesz odpoczywać używając <input>$cmd[CMD_REST]</input>.\n"
+
+#. key: tutorial2 newlevel
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial2 newlevel"
+msgid ""
+"Remember: You can reread old messages with\n"
+"<input>$cmd[CMD_REPLAY_MESSAGES]</input>.\n"
+msgstr ""
+"Pamiętaj: Możesz przeczytać stare wiadomości używając\n"
+"<input>$cmd[CMD_REPLAY_MESSAGES]</input>.\n"
+
+#. key: tutorial4 start
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial4 start"
+msgid ""
+"In this lesson you're going to learn how to memorise and cast spells.\n"
+msgstr ""
+"Na tej lekcji dowiesz się jak nauczyć się zaklęć i jak ich używać.\n"
+
+#. key: tutorial4 tutorial_end
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial4 tutorial_end"
+msgid ""
+"Congratulations, you're a real wizard now! To exit the tutorial, simply go down\n"
+"these stairs.\n"
+msgstr ""
+"Gratulacje, jesteś już prawdziwym czarownikiem! Aby wyjść z samouczka, idź\n"
+"schodami w dół.\n"
+
+#. key: tutorial5 start
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial5 start"
+msgid ""
+"In this lesson you're going to learn about gods and how to use their powers.\n"
+msgstr ""
+"W tej lekcji nauczysz się o bogach, i jak używać ich mocy.\n"
+
+#. key: tutorial5 dungeon_overview
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial5 dungeon_overview"
+msgid ""
+"Up ahead is an altar to Trog the Wrathful! Trog is just one of many gods. In a\n"
+"real game, you can check <input>$cmd[CMD_DISPLAY_OVERMAP]</input><localtiles>\n"
+"or <input>click the dungeon overmap button</input> in the command\n"
+"panel</localtiles> for a list of all altars and other interesting features\n"
+"found so far.\n"
+msgstr ""
+"Trog jest tylko jednym z wielu bogów. Podczas normalnej gry, możesz wcisnąć\n"
+"<input>$cmd[CMD_DISPLAY_OVERMAP]</input><localtiles> lub kliknąć\n"
+"<input>schemat lochów</input> w panelu czynności</localtiles> aby obejrzeć\n"
+"listę ołtarzy i podobnych interesujących miejsc.\n"
+
+#. key: tutorial5 altar
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial5 altar"
+msgid ""
+"You can pray on an altar with <input>$cmd[CMD_GO_DOWNSTAIRS]</input>\n"
+"<localtiles> (or by <input>left clicking</input> on your character)</localtiles>\n"
+"to get an idea what a god offers you, and to join the faith. If\n"
+"you press <input>!</input><localtiles> or\n"
+"<input>rightclick</input></localtiles> on the religion screen, you can see a\n"
+"more detailed description.\n"
+"\n"
+"Confirm your choice with <input>J</input> or <input>Enter</input>.\n"
+msgstr ""
+"Możesz pomodlić się na ołtarzu wciskając <input>$cmd[CMD_PRAY]</input>\n"
+"<localtiles> (lub klikając <input>przycisk modlitwy</input> w panelu czynności\n"
+"lub też <input>shift-klikając</input> twą postać)</localtiles> aby zobaczyć\n"
+"moce danego boga lub też przyłączyć się do tej religii. Jeśli wciśniesz\n"
+"<input>!</input><localtiles> lub klikniesz <input>prawym przyciskiem\n"
+"myszy</input></localtiles> na ekranie religii, zobaczysz bardziej szczegółowy\n"
+"opis.\n"
+"\n"
+"Aby potwierdzić ten wybór, należy wcisnąć duże <input>Y</input>.\n"
+
+#. key: tutorial5 religion
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial5 religion"
+msgid ""
+"Have a look at your current religious standing with\n"
+"<input>$cmd[CMD_DISPLAY_RELIGION]</input><localtiles> (or via the <w>religion\n"
+"button</w> in the command panel, or by <input>Shift-rightclicking</input> on\n"
+"the player tile)</localtiles>. Again, pressing <input>!</input><localtiles> or\n"
+"<input>rightclicking</input></localtiles> will bring up a more detailed\n"
+"description of your god.\n"
+msgstr ""
+"Teraz rzuć okiem na swój religijny status wciskając\n"
+"<input>$cmd[CMD_DISPLAY_RELIGION]</input><localtiles> (lub klikając\n"
+"<w>przycisk religii</w> w panelu czynności, lub <input>shift-klikając</input>\n"
+"swą postać)</localtiles>. Tutaj też, wciskając <input>!</input><localtiles>\n"
+"lub <input>prawy przycisk myszy</input></localtiles> możesz obejrzeć\n"
+"szczegółowy opis swego boga.\n"
+
+#. key: tutorial5 piety_on_kill
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial5 piety_on_kill"
+msgid ""
+"Some gods really like it if you kill monsters in their name. Let the slaughter\n"
+"begin!\n"
+msgstr ""
+"Niektórzy bogowie uwielbiają kiedy zabijasz w ich imieniu. Czas na małą rzeź!\n"
+
+#. key: tutorial5 berserk
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial5 berserk"
+msgid ""
+"Against particularly tough foes, you may want to use Trog's Berserk power with\n"
+"<input>$cmd[CMD_USE_ABILITY]</input><localtiles> or via the <w>command\n"
+"panel</w></localtiles>.\n"
+msgstr ""
+"Przeciw szczególnie groźnym wrogom, możesz użyć Berserkerskiego Szału za pomocą\n"
+"mocy Troga (klawisz <input>$cmd[CMD_USE_ABILITY]</input><localtiles> lub\n"
+"przycisk <w>zdolności</w> w panelu czynności</localtiles>).\n"
+
+#. key: tutorial5 exhaustion
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial5 exhaustion"
+msgid ""
+"A berserker rage is truly exhausting. After it ends, you cannot berserk again\n"
+"for a short while and are slowed. It's best to rest with\n"
+"<input>$cmd[CMD_REST]</input><localtiles> (or via the\n"
+"<w>command panel</w>)</localtiles> until you feel fit again.\n"
+msgstr ""
+"Szał bojowy jest bardzo wyczerpujący. Będąc zmęczony, nie możesz ponownie w\n"
+"niego wpaść, a twe ruchy są spowolnione. Najlepiej wówczas trochę odpocząć\n"
+"(klawisz <input>$cmd[CMD_REST]</input><localtiles> lub przycisk\n"
+"<w>odpoczynku</w></localtiles>) aż ci wrócą siły.\n"
+
+#. key: tutorial5 berserk2
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial5 berserk2"
+msgid ""
+"Berserk is also really useful against multiple enemies — as long as you don't\n"
+"run out of steam in-between.\n"
+msgstr ""
+"Szał bojowy jest też przydatny przeciwko grupom wrogów — o ile tylko nie\n"
+"opadniesz z sił w samym środku bitwy.\n"
+
+#. key: tutorial5 tutorial_end
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial5 tutorial_end"
+msgid ""
+"Congratulations! You've finished the last tutorial lesson and are now ready for\n"
+"the real game. Good luck!\n"
+"\n"
+"To exit the tutorial, just go down these stairs.\n"
+msgstr ""
+"Gratulacje! Ukończyłeś ostatnią część samouczka, i jesteś gotów na prawdziwą\n"
+"grę. Powodzenia!\n"
+"\n"
+"Aby zakończyć, zejdź po tych schodach.\n"
+
+#. key: tutorial5 exit
+#: dat/descript/tutorial.txt
+msgctxt ""
+"textdb:hints:tutorial5 exit"
+msgid ""
+":nowrap\n"
+"<white>Tutorial 5 summary: Religion</white>\n"
+"\n"
+"<yellow>Religious commands</yellow>\n"
+"  <input>$cmd[CMD_GO_DOWNSTAIRS]</input>  pray at an altar to join a god\n"
+"  <input>$cmd[CMD_USE_ABILITY]</input>  use a divine ability\n"
+"  <input>$cmd[CMD_DISPLAY_RELIGION]</input>  check your religious standing<localtiles>\n"
+"  A <input>rightclick</input> on the player tile will also bring up the religion screen.</localtiles>\n"
+"\n"
+"<yellow>Resting</yellow>\n"
+"  <input>$cmd[CMD_WAIT]</input>  wait and rest a single turn\n"
+"  <input>$cmd[CMD_REST]</input>  wait and rest up to 100 turns\n"
+"\n"
+"<yellow>Other commands</yellow>\n"
+"  <input>$cmd[CMD_DISPLAY_OVERMAP]</input> display an overview of the dungeon\n"
+"  <input>$cmd[CMD_DISPLAY_COMMANDS]/</input>  search the description database\n"
+msgstr ""
+":nowrap\n"
+"<yellow>Religia:</yellow>\n"
+"  <input>$cmd[CMD_PRAY]</input>  modlitwa na ołtarzu, złożenie ofiary\n"
+"  <input>$cmd[CMD_USE_ABILITY]</input>  przyzwanie boskiej mocy\n"
+"  <input>$cmd[CMD_DISPLAY_RELIGION]</input>  sprawdzenie religijnego statusu<localtiles>\n"
+"  Kliknięcie <input>prawym przyciskiem myszy</input> na twej postaci też przejdzie do ekranu religii.</localtiles>\n"
+"\n"
+"<yellow>Odpoczynek:</yellow>\n"
+"  <input>$cmd[CMD_WAIT]</input>  czekaj i odpoczywaj przez jedną turę\n"
+"  <input>$cmd[CMD_REST]</input>  czekaj i odpoczywaj przez do 100 tur\n"
+"\n"
+"<yellow>Inne:</yellow>\n"
+"  <input>$cmd[CMD_DISPLAY_OVERMAP]</input> wyświetl schemat lochów\n"
+"  <input>$cmd[CMD_DISPLAY_COMMANDS]/</input>  szukaj w bazie opisów\n"
+"\n"
+"                                 <cyan>Wciśnij <input>dowolny klawisz</input> aby zakończyć...</cyan>\n"
+
