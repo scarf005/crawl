@@ -481,29 +481,93 @@ static const vector<game_modes_menu_item> entries =
 
 static constexpr int STARTUP_LANGUAGE_BUTTON_ID = -1000;
 
-static bool _cycle_startup_language()
+static bool _apply_startup_language(const supported_language &language)
 {
-    const auto &languages = get_supported_languages();
-    const string current = i18n::current_language_code();
+    if (i18n::current_language_code() == language.code)
+        return false;
 
-    size_t index = 0;
-    for (size_t i = 0; i < languages.size(); ++i)
-    {
-        if (current == languages[i].code)
-        {
-            index = i;
-            break;
-        }
-    }
-
-    const char *next = languages[(index + 1) % languages.size()].code;
-    Options.language_option = next;
-    read_options("language = " + string(next) + "\n");
+    const newgame_def prefs = read_startup_prefs();
+    Options.language_option = language.code;
+    read_options("language = " + string(language.code) + "\n");
+    Options.prefs_dirty = true;
+    write_newgame_options_file(prefs);
 
     i18n::reload_gettext();
     databaseSystemShutdown();
     databaseSystemInit();
     return true;
+}
+
+static bool _prompt_startup_language_menu()
+{
+    const auto &languages = get_supported_languages();
+    const string current = i18n::current_language_code();
+
+    auto vbox = make_shared<Box>(Box::VERT);
+    vbox->set_cross_alignment(Widget::Align::STRETCH);
+
+    auto title = make_shared<Text>(formatted_string(
+        _tr("startup:choose_language_title", "Choose language"), BROWN));
+    title->set_margin_for_crt(0, 0, 1, 0);
+    title->set_margin_for_sdl(0, 0, 10, 0);
+    vbox->add_child(title);
+
+    auto prompt = make_shared<Text>(formatted_string(
+        _tr("startup:choose_language_prompt",
+            "Select the interface language to use and save."), CYAN));
+    prompt->set_margin_for_crt(0, 0, 1, 0);
+    prompt->set_margin_for_sdl(0, 0, 10, 0);
+    vbox->add_child(prompt);
+
+    auto menu = make_shared<OuterMenu>(true, 1, languages.size());
+    menu->set_margin_for_crt(1, 0);
+    menu->set_margin_for_sdl(15, 0);
+#ifdef USE_TILE_LOCAL
+    menu->min_size().height = TILE_Y * 8;
+#else
+    menu->min_size().height = 8;
+#endif
+
+    shared_ptr<MenuButton> initial_focus;
+    for (size_t i = 0; i < languages.size(); ++i)
+    {
+        const auto &language = languages[i];
+        const bool is_current = current == language.code;
+        auto label = make_shared<Text>(formatted_string(language.label,
+                                                        is_current ? YELLOW : WHITE));
+
+        auto btn = make_shared<MenuButton>();
+        btn->set_child(std::move(label));
+        btn->get_child()->set_margin_for_sdl(2, 10, 2, 2);
+        btn->id = i;
+        btn->highlight_colour = LIGHTGREY;
+        if (is_current)
+            initial_focus = btn;
+        menu->add_button(std::move(btn), 0, i);
+    }
+    vbox->add_child(menu);
+
+    bool done = false;
+    bool changed = false;
+
+    vbox->on_activate_event([&](const ActivateEvent& event) {
+        const auto button = static_pointer_cast<const MenuButton>(event.target());
+        changed = _apply_startup_language(languages.at(button->id));
+        return done = true;
+    });
+
+    auto popup = make_shared<ui::Popup>(vbox);
+    popup->on_hotkey_event([&](const KeyEvent& ev) {
+        if (ui::key_exits_popup(ev.key(), false))
+            return done = true;
+        return false;
+    });
+
+    shared_ptr<Widget> focus = initial_focus;
+    if (!focus)
+        focus = menu;
+    ui::run_layout(std::move(popup), done, focus);
+    return changed;
 }
 
 static void _construct_game_modes_menu(shared_ptr<OuterMenu>& container)
@@ -586,7 +650,7 @@ static shared_ptr<MenuButton> _make_language_button()
 #endif
     btn->id = STARTUP_LANGUAGE_BUTTON_ID;
     btn->description = _tr("startup:language_desc",
-                           "Cycle the interface language for this session.");
+                           "Open the language list and save the selected interface language.");
     btn->highlight_colour = LIGHTGREY;
     return btn;
 }
@@ -976,7 +1040,7 @@ void UIStartupMenu::on_show()
         }
         else if (keyn == CONTROL('L'))
         {
-            reload_menu = _cycle_startup_language();
+            reload_menu = _prompt_startup_language_menu();
             if (reload_menu)
             {
                 selected_game_type = STARTUP_LANGUAGE_BUTTON_ID;
@@ -1053,7 +1117,7 @@ void UIStartupMenu::menu_item_activated(int id)
     switch (id)
     {
     case STARTUP_LANGUAGE_BUTTON_ID:
-        reload_menu = _cycle_startup_language();
+        reload_menu = _prompt_startup_language_menu();
         if (reload_menu)
         {
             selected_game_type = STARTUP_LANGUAGE_BUTTON_ID;

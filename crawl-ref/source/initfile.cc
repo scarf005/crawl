@@ -2457,6 +2457,8 @@ void game_options::write_prefs(FILE *f)
 {
     // TODO: generalize, probably some polymorphic functions on GameOption
     // classes. Not worth doing until more stuff is serialized though...
+    if (!language_option.empty())
+        fprintf(f, "language = %s\n", language_option.c_str());
     fprintf(f, "default_manual_training = %s\n",
                         default_manual_training ? "yes" : "no");
     fprintf(f, "quiver_menu_focus = %s\n",
