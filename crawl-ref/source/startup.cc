@@ -72,6 +72,29 @@
 
 using namespace ui;
 
+static string _replace_token(string text, const string &token,
+                             const string &value)
+{
+    const size_t pos = text.find(token);
+    if (pos != string::npos)
+        text.replace(pos, token.size(), value);
+    return text;
+}
+
+static string _tr(const char *context, const char *english)
+{
+    return i18n::translate(context, english);
+}
+
+static string _startup_language_label()
+{
+    const string current = i18n::current_language_code();
+    for (const auto &language : get_supported_languages())
+        if (current == language.code)
+            return language.label;
+    return current;
+}
+
 static void _loading_message(string m)
 {
     mpr(m.c_str());
@@ -139,10 +162,11 @@ static void _initialize()
     i18n::init_gettext();
 
     // Initialise internal databases.
-    _loading_message("Loading databases...");
+    _loading_message(_tr("startup:loading_databases", "Loading databases..."));
     databaseSystemInit();
 
-    _loading_message("Loading spells and features...");
+    _loading_message(_tr("startup:loading_spells_features",
+                         "Loading spells and features..."));
     init_feat_desc_cache();
     init_spell_name_cache();
 #ifdef DEBUG
@@ -150,7 +174,7 @@ static void _initialize()
 #endif
 
     // Read special levels and vaults.
-    _loading_message("Loading maps...");
+    _loading_message(_tr("startup:loading_maps", "Loading maps..."));
     read_maps();
     run_map_global_preludes();
 
@@ -417,32 +441,68 @@ static void _post_init(bool newc)
 struct game_modes_menu_item
 {
     game_type id;
+    const char *label_context;
     const char *label;
+    const char *description_context;
     const char *description;
 };
 
 static const vector<game_modes_menu_item> entries =
 {
-    {GAME_TYPE_NORMAL, "Dungeon Crawl",
+    {GAME_TYPE_NORMAL, "startup:mode_normal_label", "Dungeon Crawl",
+        "startup:mode_normal_desc",
         "Dungeon Crawl: The main game: full of monsters, items, "
         "gods and danger!" },
-    {GAME_TYPE_CUSTOM_SEED, "Choose Game Seed",
+    {GAME_TYPE_CUSTOM_SEED, "startup:mode_seed_label", "Choose Game Seed",
+        "startup:mode_seed_desc",
         "Play with a chosen custom dungeon seed." },
-    {GAME_TYPE_TUTORIAL, "Tutorial for Dungeon Crawl",
+    {GAME_TYPE_TUTORIAL, "startup:mode_tutorial_label",
+        "Tutorial for Dungeon Crawl", "startup:mode_tutorial_desc",
         "Tutorial that covers the basics of Dungeon Crawl survival." },
-    {GAME_TYPE_HINTS, "Hints Mode for Dungeon Crawl",
+    {GAME_TYPE_HINTS, "startup:mode_hints_label",
+        "Hints Mode for Dungeon Crawl", "startup:mode_hints_desc",
         "A mostly normal game that provides more advanced hints "
         "than the tutorial."},
-    {GAME_TYPE_DESCENT, "Dungeon Descent",
+    {GAME_TYPE_DESCENT, "startup:mode_descent_label", "Dungeon Descent",
+        "startup:mode_descent_desc",
         "Mode with a branching, one-way path through the Dungeon." },
-    {GAME_TYPE_SPRINT, "Dungeon Sprint",
+    {GAME_TYPE_SPRINT, "startup:mode_sprint_label", "Dungeon Sprint",
+        "startup:mode_sprint_desc",
         "Hard, fixed single level game mode." },
-    {GAME_TYPE_INSTRUCTIONS, "Instructions", "Help menu." },
-    {GAME_TYPE_ARENA, "The Arena",
+    {GAME_TYPE_INSTRUCTIONS, "startup:mode_instructions_label",
+        "Instructions", "startup:mode_instructions_desc", "Help menu." },
+    {GAME_TYPE_ARENA, "startup:mode_arena_label", "The Arena",
+        "startup:mode_arena_desc",
         "Pit computer controlled teams versus each other!" },
-    {GAME_TYPE_HIGH_SCORES, "High Scores",
+    {GAME_TYPE_HIGH_SCORES, "startup:mode_high_scores_label",
+        "High Scores", "startup:mode_high_scores_desc",
         "View the high score list." },
 };
+
+static bool _cycle_startup_language()
+{
+    const auto &languages = get_supported_languages();
+    const string current = i18n::current_language_code();
+
+    size_t index = 0;
+    for (size_t i = 0; i < languages.size(); ++i)
+    {
+        if (current == languages[i].code)
+        {
+            index = i;
+            break;
+        }
+    }
+
+    const char *next = languages[(index + 1) % languages.size()].code;
+    Options.language_option = next;
+    read_options("language = " + string(next) + "\n");
+
+    i18n::reload_gettext();
+    databaseSystemShutdown();
+    databaseSystemInit();
+    return true;
+}
 
 static void _construct_game_modes_menu(shared_ptr<OuterMenu>& container)
 {
@@ -464,7 +524,7 @@ static void _construct_game_modes_menu(shared_ptr<OuterMenu>& container)
         hbox->add_child(label);
 #endif
 
-        label->set_text(formatted_string(entry.label, WHITE));
+        label->set_text(formatted_string(_tr(entry.label_context, entry.label), WHITE));
 
         auto btn = make_shared<MenuButton>();
 #ifdef USE_TILE_LOCAL
@@ -474,7 +534,7 @@ static void _construct_game_modes_menu(shared_ptr<OuterMenu>& container)
         btn->set_child(std::move(label));
 #endif
         btn->id = entry.id;
-        btn->description = entry.description;
+        btn->description = _tr(entry.description_context, entry.description);
         btn->highlight_colour = LIGHTGREY;
         container->add_button(std::move(btn), 0, i);
     }
@@ -482,7 +542,8 @@ static void _construct_game_modes_menu(shared_ptr<OuterMenu>& container)
 
 static shared_ptr<MenuButton> _make_newgame_button(int num_chars)
 {
-    auto label = make_shared<Text>(formatted_string("New Game", WHITE));
+    auto label = make_shared<Text>(formatted_string(
+        _tr("startup:new_game", "New Game"), WHITE));
 
 #ifdef USE_TILE_LOCAL
     auto hbox = make_shared<Box>(Box::HORZ);
@@ -575,14 +636,15 @@ static bool _game_defined(const newgame_def& ng)
 class UIStartupMenu : public Widget
 {
 public:
-    UIStartupMenu(newgame_def& _ng_choice, const newgame_def &_defaults)
-                : done(false), end_game(false), ng_choice(_ng_choice),
-                  defaults(_defaults),
-                  selected_game_type(crawl_state.last_type)
+    UIStartupMenu(newgame_def& _ng_choice, const newgame_def &_defaults,
+                  string _input_string, int _selected_game_type)
+                : done(false), end_game(false), reload_menu(false),
+                  ng_choice(_ng_choice), defaults(_defaults),
+                  selected_game_type(_selected_game_type)
     {
         chars = find_all_saved_characters();
         num_saves = chars.size();
-        input_string = crawl_state.default_startup_name;
+        input_string = std::move(_input_string);
 
         m_root = make_shared<Box>(Box::VERT);
         add_internal_child(m_root);
@@ -597,7 +659,19 @@ public:
         auto grid = make_shared<Grid>();
         grid->set_margin_for_crt(0, 0, 1, 0);
 
-        auto name_prompt = make_shared<Text>("Enter your name:");
+        auto language_prompt = make_shared<Text>(
+            _tr("startup:language_prompt", "Language [Ctrl-L]:"));
+        language_prompt->set_margin_for_crt(0, 1, 1, 0);
+        language_prompt->set_margin_for_sdl(0, 0, 10, 0);
+        auto language_value = make_shared<Text>(
+            formatted_string(_startup_language_label(), WHITE));
+        language_value->set_margin_for_crt(0, 0, 1, 0);
+        language_value->set_margin_for_sdl(0, 0, 10, 10);
+        grid->add_child(std::move(language_prompt), 0, 0);
+        grid->add_child(std::move(language_value), 1, 0);
+
+        auto name_prompt = make_shared<Text>(
+            _tr("startup:enter_name", "Enter your name:"));
         name_prompt->set_margin_for_crt(0, 1, 1, 0);
         name_prompt->set_margin_for_sdl(0, 0, 10, 0);
 
@@ -608,12 +682,12 @@ public:
         input_text->set_margin_for_crt(0, 0, 1, 0);
         input_text->set_margin_for_sdl(0, 0, 10, 10);
 
-        grid->add_child(std::move(name_prompt), 0, 0);
-        grid->add_child(input_text, 1, 0);
+        grid->add_child(std::move(name_prompt), 0, 1);
+        grid->add_child(input_text, 1, 1);
 
         descriptions = make_shared<Switcher>();
 
-        auto mode_prompt = make_shared<Text>("Choices:");
+        auto mode_prompt = make_shared<Text>(_tr("startup:choices", "Choices:"));
         mode_prompt->set_margin_for_crt(0, 1, 1, 0);
         mode_prompt->set_margin_for_sdl(0, 0, 10, 0);
         game_modes_menu = make_shared<OuterMenu>(true, 1, entries.size());
@@ -628,13 +702,14 @@ public:
         game_modes_menu->min_size().height = 2;
 #endif
 
-        grid->add_child(std::move(mode_prompt), 0, 1);
-        grid->add_child(game_modes_menu, 1, 1);
+        grid->add_child(std::move(mode_prompt), 0, 2);
+        grid->add_child(game_modes_menu, 1, 2);
 
         save_games_menu = make_shared<OuterMenu>(num_saves > 1, 1, num_saves + 1);
         if (num_saves > 0)
         {
-            auto save_prompt = make_shared<Text>("Saved games:");
+            auto save_prompt = make_shared<Text>(
+                _tr("startup:saved_games", "Saved games:"));
             save_prompt->set_margin_for_crt(0, 1, 1, 0);
             save_prompt->set_margin_for_sdl(0, 0, 10, 0);
             save_games_menu->set_margin_for_sdl(0, 0, 10, 10);
@@ -647,8 +722,8 @@ public:
             save_games_menu->descriptions = descriptions;
 
             _construct_save_games_menu(save_games_menu, chars);
-            grid->add_child(std::move(save_prompt), 0, 2);
-            grid->add_child(save_games_menu, 1, 2);
+            grid->add_child(std::move(save_prompt), 0, 3);
+            grid->add_child(save_games_menu, 1, 3);
 
             game_modes_menu->linked_menus[2] = save_games_menu;
             save_games_menu->linked_menus[0] = game_modes_menu;
@@ -690,21 +765,25 @@ public:
         if (defaults.name.size() > 0 && _find_save(chars, defaults.name) != -1)
         {
             auto save = _find_save(chars, defaults.name);
-            instructions_text +=
-                    "<white>[tab]</white> quick-load last game: "
-                    + chars[save].really_short_desc() + "\n";
+            instructions_text += _replace_token(
+                    _tr("startup:quick_load_last_game",
+                        "<white>[tab]</white> quick-load last game: {save}"),
+                    "{save}", chars[save].really_short_desc()) + "\n";
         }
         else if (_game_defined(defaults))
         {
-            instructions_text +=
-                    "<white>[tab]</white> quick-start last combo: "
-                    + (defaults.name.size() ? (defaults.name + " the ") : "")
-                    + newgame_char_description(defaults) + "\n";
+            instructions_text += _replace_token(
+                    _tr("startup:quick_start_last_combo",
+                        "<white>[tab]</white> quick-start last combo: {combo}"),
+                    "{combo}",
+                    (defaults.name.size() ? (defaults.name + " the ") : "")
+                    + newgame_char_description(defaults)) + "\n";
         }
-        instructions_text +=
-            "<white>[ctrl-p]</white> view rc file information and log";
+        instructions_text += _tr("startup:view_rc_info",
+            "<white>[ctrl-p]</white> view rc file information and log");
         if (recent_error_messages())
-            instructions_text += " (<red>Errors during initialization!</red>)";
+            instructions_text += _tr("startup:init_errors_suffix",
+                                     " (<red>Errors during initialization!</red>)");
 
         m_root->add_child(make_shared<Text>(
                         formatted_string::parse_string(instructions_text)));
@@ -722,9 +801,13 @@ public:
 
     bool done;
     bool end_game;
+    bool reload_menu;
     virtual shared_ptr<Widget> get_child_at_offset(int, int) override {
         return m_root;
     }
+
+    const string &current_input() const { return input_string; }
+    int current_selected_id() const { return selected_game_type; }
 
 private:
     newgame_def& ng_choice;
@@ -852,6 +935,13 @@ void UIStartupMenu::on_show()
             replay_messages_during_startup();
             return true;
         }
+        else if (keyn == CONTROL('L'))
+        {
+            reload_menu = _cycle_startup_language();
+            if (reload_menu)
+                done = true;
+            return reload_menu;
+        }
         else if (keyn == '*')
         {
             input_string = newgame_random_name();
@@ -977,18 +1067,32 @@ static void _show_startup_menu(newgame_def& ng_choice,
                                const newgame_def& defaults)
 {
     unwind_bool no_more(crawl_state.show_more_prompt, false);
+    string input_string = crawl_state.default_startup_name;
+    int selected_game_type = crawl_state.last_type;
 
 #ifdef USE_TILE_WEB
     tiles_crt_popup show_as_popup;
 #endif
 
-    auto startup_ui = make_shared<UIStartupMenu>(ng_choice, defaults);
-    auto popup = make_shared<ui::Popup>(startup_ui);
-
-    ui::run_layout(std::move(popup), startup_ui->done);
-
-    if (startup_ui->end_game || crawl_state.seen_hups)
+    while (true)
     {
+        auto startup_ui = make_shared<UIStartupMenu>(ng_choice, defaults,
+                                                     input_string,
+                                                     selected_game_type);
+        auto popup = make_shared<ui::Popup>(startup_ui);
+
+        ui::run_layout(std::move(popup), startup_ui->done);
+
+        if (startup_ui->reload_menu)
+        {
+            input_string = startup_ui->current_input();
+            selected_game_type = startup_ui->current_selected_id();
+            continue;
+        }
+
+        if (!(startup_ui->end_game || crawl_state.seen_hups))
+            return;
+
 #ifdef USE_TILE_WEB
         tiles.send_exit_reason("cancel");
 #endif

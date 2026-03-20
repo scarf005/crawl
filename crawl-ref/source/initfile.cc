@@ -4434,6 +4434,34 @@ struct language_def
     set<string> names;
 };
 
+const vector<supported_language> &get_supported_languages()
+{
+    static const vector<supported_language> supported_languages = {
+        { "en", "English (en)" },
+        { "cs", "Czech (cs)" },
+        { "da", "Danish (da)" },
+        { "de", "German (de)" },
+        { "el", "Greek (el)" },
+        { "es", "Spanish (es)" },
+        { "fi", "Finnish (fi)" },
+        { "fr", "French (fr)" },
+        { "hu", "Hungarian (hu)" },
+        { "it", "Italian (it)" },
+        { "ja", "Japanese (ja)" },
+        { "ko", "Korean (ko)" },
+        { "lt", "Lithuanian (lt)" },
+        { "lv", "Latvian (lv)" },
+        { "nl", "Dutch (nl)" },
+        { "pl", "Polish (pl)" },
+        { "pt", "Portuguese (pt)" },
+        { "ru", "Russian (ru)" },
+        { "sv", "Swedish (sv)" },
+        { "zh", "Chinese (zh)" },
+    };
+
+    return supported_languages;
+}
+
 static const vector<language_def> get_lang_data()
 {
     static const vector<language_def> lang_data =

@@ -28,6 +28,14 @@ void read_init_file(bool runscript = false);
 struct newgame_def;
 newgame_def read_startup_prefs();
 
+struct supported_language
+{
+    const char *code;
+    const char *label;
+};
+
+const vector<supported_language> &get_supported_languages();
+
 void read_options(const string &s, bool runscript = false,
                   bool clear_aliases = false);
 

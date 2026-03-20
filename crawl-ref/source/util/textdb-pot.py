@@ -8,6 +8,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
+from core_i18n_strings import CORE_STRINGS
 from webserver.webtiles.i18n_strings import WEBTILES_STRINGS
 from textdb_gettext import iter_english_entries, msgctxt, source_root, syntax_comments, write_entry, write_header
 
@@ -28,6 +29,19 @@ def main() -> int:
                 refs=[path.relative_to(root).as_posix()],
                 context=msgctxt(spec, key),
                 msgid_text=body,
+                msgstr_text="",
+            )
+
+        for entry in CORE_STRINGS:
+            comments = []
+            if entry.comment:
+                comments.append(entry.comment)
+            write_entry(
+                output,
+                comments=comments,
+                refs=[entry.path],
+                context=entry.context,
+                msgid_text=entry.msgid,
                 msgstr_text="",
             )
 

@@ -6,6 +6,7 @@
 
 #include "end.h"
 #include "format.h"
+#include "i18n-gettext.h"
 #include "item-name.h" // make_name
 #include "libutil.h"
 #include "options.h"
@@ -13,12 +14,23 @@
 #include "unicode.h"
 #include "version.h"
 
+static string _replace_token(string text, const string &token,
+                             const string &value)
+{
+    const size_t pos = text.find(token);
+    if (pos != string::npos)
+        text.replace(pos, token.size(), value);
+    return text;
+}
+
 // Eventually, this should be something more grand. {dlb}
 formatted_string opening_screen()
 {
-    string msg =
-    "<yellow>Hello, welcome to " CRAWL " " + string(Version::Long) + "!</yellow>\n"
-    "<brown>" CRAWL_COPYRIGHT;
+    string msg = i18n::translate(
+        "startup:opening_screen",
+        "<yellow>Hello, welcome to {crawl} {version}!</yellow>\n<brown>" CRAWL_COPYRIGHT);
+    msg = _replace_token(msg, "{crawl}", CRAWL);
+    msg = _replace_token(msg, "{version}", Version::Long);
 
     return formatted_string::parse_string(msg);
 }
@@ -30,7 +42,8 @@ formatted_string options_read_status()
 
     if (!f.error())
     {
-        msg += "<lightgrey>Options read from \"";
+        msg += i18n::translate("startup:options_read_prefix",
+                               "<lightgrey>Options read from \"");
 #ifdef DGAMELAUNCH
         // For dgl installs, show only the last segment of the .crawlrc
         // file name so that we don't leak details of the directory
@@ -39,19 +52,22 @@ formatted_string options_read_status()
 #else
         msg += Options.filename;
 #endif
-        msg += "\".</lightgrey>";
+        msg += i18n::translate("startup:options_read_suffix",
+                               "\".</lightgrey>");
     }
     else
     {
-        msg += "<lightred>Options file ";
         if (!Options.filename.empty())
         {
-            msg += make_stringf("\"%s\" is not readable",
-                                Options.filename.c_str());
+            msg += i18n::translate("startup:options_file_unreadable_prefix",
+                                   "<lightred>Options file \"");
+            msg += Options.filename;
+            msg += i18n::translate("startup:options_file_unreadable_suffix",
+                                   "\" is not readable; using defaults.</lightred>");
         }
         else
-            msg += "not found";
-        msg += "; using defaults.</lightred>";
+            msg += i18n::translate("startup:options_file_missing",
+                                   "<lightred>Options file not found; using defaults.</lightred>");
     }
 
     msg += "\n";
