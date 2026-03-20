@@ -1320,7 +1320,10 @@ docs: $(GENERATED_DOCS)
 
 pot-data: $(TEXTDB_GETTEXT_POT)
 
-$(TEXTDB_GETTEXT_POT): util/textdb-pot.py util/textdb_gettext.py $(TEXTDB_GETTEXT_FILES)
+$(TEXTDB_GETTEXT_POT): util/textdb-pot.py util/textdb_gettext.py \
+			 util/core_i18n_strings.py \
+			 webserver/webtiles/i18n_strings.py \
+			 $(TEXTDB_GETTEXT_FILES)
 	[ -d $(PO_DIR) ] || mkdir -p $(PO_DIR)
 	$(QUIET_PYTHON)$(PYTHON) util/textdb-pot.py --output $@
 

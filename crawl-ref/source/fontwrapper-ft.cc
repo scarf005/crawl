@@ -35,14 +35,39 @@
 # define dprintf(...) (void)0
 #endif
 
+static const char *const CJK_FALLBACK_FONT =
+    "dat/fonts/noto/NotoSansMonoCJKkr-Regular.otf";
+
 class FontLibrary {
 public:
     static FT_Library &get() {
         static FontLibrary instance;
         return instance.library;
     }
+
+    static const vector<FT_Byte> &font_data(const string &path)
+    {
+        static FontLibrary instance;
+        const auto cached = instance.font_cache.find(path);
+        if (cached != instance.font_cache.end())
+            return cached->second;
+
+        FILE *f = fopen_u(path.c_str(), "rb");
+        if (!f)
+            end(1, false, "Could not read font '%s'\n", path.c_str());
+
+        const unsigned long size = file_size(f);
+        vector<FT_Byte> bytes(size);
+        if (fread(bytes.data(), 1, size, f) != size)
+            end(1, false, "Could not read font '%s': %s\n",
+                path.c_str(), strerror(errno));
+        fclose(f);
+
+        return instance.font_cache.emplace(path, std::move(bytes)).first->second;
+    }
 private:
     FT_Library library;
+    map<string, vector<FT_Byte>> font_cache;
     FontLibrary ()
     {
         if (FT_Init_FreeType(&library))
@@ -67,10 +92,11 @@ FTFontWrapper::FTFontWrapper() :
     charsz(1,1),
     m_max_width(0),
     m_max_height(0),
-    ttf(nullptr),
     face(nullptr),
+    fallback_face(nullptr),
     pixels(nullptr),
-    fsize(0)
+    fsize(0),
+    fallback_face_attempted(false)
 {
     m_buf = GLShapeBuffer::create(true, true);
 }
@@ -82,7 +108,8 @@ FTFontWrapper::~FTFontWrapper()
     delete m_buf;
     if (face)
         FT_Done_Face(face);
-    delete[] ttf;
+    if (fallback_face)
+        FT_Done_Face(fallback_face);
 }
 
 /**
@@ -98,6 +125,14 @@ bool FTFontWrapper::configure_font()
                                 display_density.logical_to_device(fsize));
     ASSERT(!error);
 
+    if (fallback_face)
+    {
+        error = FT_Set_Pixel_Sizes(fallback_face,
+                                   display_density.logical_to_device(fsize),
+                                   display_density.logical_to_device(fsize));
+        ASSERT(!error);
+    }
+
     // Get maximum advance and other global metrics
     FT_Size_Metrics metrics = face->size->metrics;
     m_max_advance   = coord_def(0,0);
@@ -111,6 +146,23 @@ bool FTFontWrapper::configure_font()
     m_max_width     = (face->bbox.xMax >> 6) - (face->bbox.xMin >> 6);
     m_max_height    = (face->bbox.yMax >> 6) - (face->bbox.yMin >> 6);
     m_min_offset    = 0;
+
+    if (fallback_face)
+    {
+        const FT_Size_Metrics fallback_metrics = fallback_face->size->metrics;
+        m_max_advance.x = max(m_max_advance.x,
+                              int(fallback_metrics.max_advance >> 6));
+        m_max_advance.y = max(m_max_advance.y,
+                              int((fallback_metrics.ascender
+                                   - fallback_metrics.descender) >> 6));
+        m_ascender = max(m_ascender, int(fallback_metrics.ascender >> 6));
+        m_max_width = max(m_max_width,
+                          int((fallback_face->bbox.xMax >> 6)
+                              - (fallback_face->bbox.xMin >> 6)));
+        m_max_height = max(m_max_height,
+                           int((fallback_face->bbox.yMax >> 6)
+                               - (fallback_face->bbox.yMin >> 6)));
+    }
 
     charsz = coord_def(1,1);
     // Grow character size to power of 2
@@ -191,25 +243,15 @@ bool FTFontWrapper::load_font(const char *font_name, unsigned int font_size)
     if (font_path.c_str()[0] == 0)
         end(1, false, "Could not find font '%s'", font_name);
 
-    // Certain versions of freetype have problems reading files on Windows,
-    // do that ourselves.
-    FILE *f = fopen_u(font_path.c_str(), "rb");
-    if (!f)
-        end(1, false, "Could not read font '%s'\n", font_name);
-    unsigned long size = file_size(f);
-    ttf = new FT_Byte[size];
-    ASSERT(ttf);
-    if (fread(ttf, 1, size, f) != size)
-        end(1, false, "Could not read font '%s': %s\n", font_name, strerror(errno));
-    fclose(f);
-
-    error = FT_New_Memory_Face(library, ttf, size, 0, &face);
+    const auto &font_data = FontLibrary::font_data(font_path);
+    error = FT_New_Memory_Face(library, font_data.data(), font_data.size(), 0,
+                               &face);
     if (error == FT_Err_Unknown_File_Format)
         end(1, false, "Unknown font format for file '%s'\n", font_path.c_str());
     else if (error)
     {
-        end(1, false, "Invalid font from file '%s' (size %lu): 0x%0x\n",
-                   font_path.c_str(), size, error);
+        end(1, false, "Invalid font from file '%s': 0x%0x\n",
+                   font_path.c_str(), error);
     }
 
     m_atlas = new FontAtlasEntry[MAX_GLYPHS];
@@ -217,6 +259,49 @@ bool FTFontWrapper::load_font(const char *font_name, unsigned int font_size)
     m_atlas_lru.reserve(MAX_GLYPHS);
 
     return configure_font();
+}
+
+bool FTFontWrapper::ensure_fallback_face()
+{
+    if (fallback_face || fallback_face_attempted)
+        return fallback_face != nullptr;
+
+    fallback_face_attempted = true;
+
+    const string font_path = datafile_path(CJK_FALLBACK_FONT, false, true);
+    if (font_path.empty())
+        return false;
+
+    const auto &font_data = FontLibrary::font_data(font_path);
+    const FT_Error error = FT_New_Memory_Face(FontLibrary::get(),
+                                              font_data.data(),
+                                              font_data.size(), 0,
+                                              &fallback_face);
+    if (error)
+    {
+        fallback_face = nullptr;
+        return false;
+    }
+
+    configure_font();
+    return true;
+}
+
+FT_Face FTFontWrapper::face_for_char(char32_t ch, FT_Int &glyph_index)
+{
+    glyph_index = FT_Get_Char_Index(face, ch);
+    if (glyph_index)
+        return face;
+
+    if (ch > 0x7f && ensure_fallback_face() && fallback_face)
+    {
+        glyph_index = FT_Get_Char_Index(fallback_face, ch);
+        if (glyph_index)
+            return fallback_face;
+    }
+
+    glyph_index = FT_Get_Char_Index(face, MISSING_CHAR);
+    return face;
 }
 
 bool FTFontWrapper::resize(unsigned int size)
@@ -239,21 +324,21 @@ FTFontWrapper::GlyphInfo& FTFontWrapper::get_glyph_info(char32_t ch)
     GlyphInfo &glyph = m_glyphs[ch];
     if (!glyph.valid)
     {
-        FT_Int glyph_index = FT_Get_Char_Index(face, ch);
-        if (!glyph_index)
-            glyph_index = FT_Get_Char_Index(face, MISSING_CHAR);
+        FT_Int glyph_index;
+        FT_Face glyph_face = face_for_char(ch, glyph_index);
         // need to use FT_LOAD_RENDER, otherwise glyph->bitmap isn't loaded
-        FT_Error error = FT_Load_Glyph(face, glyph_index, FT_LOAD_RENDER |
+        FT_Error error = FT_Load_Glyph(glyph_face, glyph_index, FT_LOAD_RENDER |
                 (Options.tile_font_ft_light ? FT_LOAD_TARGET_LIGHT : 0));
         ASSERT(!error);
-        FT_Bitmap *bmp = &face->glyph->bitmap;
+        FT_Bitmap *bmp = &glyph_face->glyph->bitmap;
         ASSERT(bmp);
 
-        glyph.offset = face->glyph->bitmap_left;
-        glyph.advance = face->glyph->advance.x >> 6;
-        glyph.ascender = face->glyph->bitmap_top;
+        glyph.offset = glyph_face->glyph->bitmap_left;
+        glyph.advance = glyph_face->glyph->advance.x >> 6;
+        glyph.ascender = glyph_face->glyph->bitmap_top;
         glyph.width = bmp->width;
         glyph.renderable = !!bmp->buffer;
+        glyph.use_fallback = glyph_face == fallback_face;
         glyph.valid = true;
     }
     return glyph;
@@ -263,16 +348,14 @@ void FTFontWrapper::load_glyph(unsigned int c, char32_t uchar)
 {
     // get on with rendering the new glyph
     FT_Error error;
-    FT_Int glyph_index = FT_Get_Char_Index(face, uchar);
+    FT_Int glyph_index;
+    FT_Face glyph_face = face_for_char(uchar, glyph_index);
 
-    if (!glyph_index)
-        glyph_index = FT_Get_Char_Index(face, MISSING_CHAR);
-
-    error = FT_Load_Glyph(face, glyph_index, FT_LOAD_RENDER |
+    error = FT_Load_Glyph(glyph_face, glyph_index, FT_LOAD_RENDER |
         (Options.tile_font_ft_light ? FT_LOAD_TARGET_LIGHT : 0));
     ASSERT(!error);
 
-    FT_Bitmap *bmp = &face->glyph->bitmap;
+    FT_Bitmap *bmp = &glyph_face->glyph->bitmap;
     ASSERT(bmp);
 
     // Was int prior to freetype 2.5.4, then became unsigned.

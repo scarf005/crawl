@@ -479,6 +479,8 @@ static const vector<game_modes_menu_item> entries =
         "View the high score list." },
 };
 
+static constexpr int STARTUP_LANGUAGE_BUTTON_ID = -1000;
+
 static bool _cycle_startup_language()
 {
     const auto &languages = get_supported_languages();
@@ -561,6 +563,30 @@ static shared_ptr<MenuButton> _make_newgame_button(int num_chars)
 #endif
     btn->get_child()->set_margin_for_sdl(2, 10, 2, 2);
     btn->id = NUM_GAME_TYPE + num_chars;
+    btn->highlight_colour = LIGHTGREY;
+    return btn;
+}
+
+static shared_ptr<MenuButton> _make_language_button()
+{
+    auto label = make_shared<Text>(formatted_string(_startup_language_label(), WHITE));
+
+#ifdef USE_TILE_LOCAL
+    auto hbox = make_shared<Box>(Box::HORZ);
+    hbox->set_cross_alignment(Widget::Align::CENTER);
+    hbox->add_child(label);
+#endif
+
+    auto btn = make_shared<MenuButton>();
+#ifdef USE_TILE_LOCAL
+    hbox->set_margin_for_sdl(2, 10, 2, 2);
+    btn->set_child(std::move(hbox));
+#else
+    btn->set_child(std::move(label));
+#endif
+    btn->id = STARTUP_LANGUAGE_BUTTON_ID;
+    btn->description = _tr("startup:language_desc",
+                           "Cycle the interface language for this session.");
     btn->highlight_colour = LIGHTGREY;
     return btn;
 }
@@ -659,16 +685,19 @@ public:
         auto grid = make_shared<Grid>();
         grid->set_margin_for_crt(0, 0, 1, 0);
 
+        descriptions = make_shared<Switcher>();
+
         auto language_prompt = make_shared<Text>(
-            _tr("startup:language_prompt", "Language [Ctrl-L]:"));
+            _tr("startup:language_prompt", "Language:"));
         language_prompt->set_margin_for_crt(0, 1, 1, 0);
         language_prompt->set_margin_for_sdl(0, 0, 10, 0);
-        auto language_value = make_shared<Text>(
-            formatted_string(_startup_language_label(), WHITE));
-        language_value->set_margin_for_crt(0, 0, 1, 0);
-        language_value->set_margin_for_sdl(0, 0, 10, 10);
+        language_menu = make_shared<OuterMenu>(false, 1, 1);
+        language_menu->set_margin_for_crt(0, 0, 1, 0);
+        language_menu->set_margin_for_sdl(0, 0, 10, 10);
+        language_menu->descriptions = descriptions;
+        language_menu->add_button(_make_language_button(), 0, 0);
         grid->add_child(std::move(language_prompt), 0, 0);
-        grid->add_child(std::move(language_value), 1, 0);
+        grid->add_child(language_menu, 1, 0);
 
         auto name_prompt = make_shared<Text>(
             _tr("startup:enter_name", "Enter your name:"));
@@ -684,8 +713,6 @@ public:
 
         grid->add_child(std::move(name_prompt), 0, 1);
         grid->add_child(input_text, 1, 1);
-
-        descriptions = make_shared<Switcher>();
 
         auto mode_prompt = make_shared<Text>(_tr("startup:choices", "Choices:"));
         mode_prompt->set_margin_for_crt(0, 1, 1, 0);
@@ -704,6 +731,8 @@ public:
 
         grid->add_child(std::move(mode_prompt), 0, 2);
         grid->add_child(game_modes_menu, 1, 2);
+        language_menu->linked_menus[2] = game_modes_menu;
+        game_modes_menu->linked_menus[0] = language_menu;
 
         save_games_menu = make_shared<OuterMenu>(num_saves > 1, 1, num_saves + 1);
         if (num_saves > 0)
@@ -741,6 +770,12 @@ public:
         // TODO: focus events should probably not bubble, but there should be
         // some way to capture them...
         for (auto &w : game_modes_menu->get_buttons())
+        {
+            w->on_focusin_event([w, this](const FocusEvent&) {
+                return this->on_button_focusin(*w);
+            });
+        }
+        for (auto &w : language_menu->get_buttons())
         {
             w->on_focusin_event([w, this](const FocusEvent&) {
                 return this->on_button_focusin(*w);
@@ -823,6 +858,7 @@ private:
         selected_game_type = btn.id;
         switch (selected_game_type)
         {
+        case STARTUP_LANGUAGE_BUTTON_ID:
         case GAME_TYPE_NORMAL:
         case GAME_TYPE_DESCENT:
         case GAME_TYPE_CUSTOM_SEED:
@@ -858,6 +894,7 @@ private:
     shared_ptr<Box> m_root;
     shared_ptr<Text> input_text;
     shared_ptr<Switcher> descriptions;
+    shared_ptr<OuterMenu> language_menu;
     shared_ptr<OuterMenu> game_modes_menu;
     shared_ptr<OuterMenu> save_games_menu;
     // not a `game_type` because it is used for save #s as well
@@ -906,8 +943,10 @@ void UIStartupMenu::on_show()
     else
         id = default_id;
 
-    if (auto focus = game_modes_menu->get_button_by_id(id))
-        game_modes_menu->scroll_button_into_view(focus);
+    if (auto language_focus = language_menu->get_button_by_id(id))
+        language_menu->scroll_button_into_view(language_focus);
+    else if (auto game_focus = game_modes_menu->get_button_by_id(id))
+        game_modes_menu->scroll_button_into_view(game_focus);
     else if (auto focus2 = save_games_menu->get_button_by_id(id))
         save_games_menu->scroll_button_into_view(focus2);
 
@@ -939,7 +978,10 @@ void UIStartupMenu::on_show()
         {
             reload_menu = _cycle_startup_language();
             if (reload_menu)
+            {
+                selected_game_type = STARTUP_LANGUAGE_BUTTON_ID;
                 done = true;
+            }
             return reload_menu;
         }
         else if (keyn == '*')
@@ -1010,6 +1052,15 @@ void UIStartupMenu::menu_item_activated(int id)
 {
     switch (id)
     {
+    case STARTUP_LANGUAGE_BUTTON_ID:
+        reload_menu = _cycle_startup_language();
+        if (reload_menu)
+        {
+            selected_game_type = STARTUP_LANGUAGE_BUTTON_ID;
+            done = true;
+        }
+        return;
+
     case GAME_TYPE_NORMAL:
     case GAME_TYPE_DESCENT:
     case GAME_TYPE_CUSTOM_SEED:

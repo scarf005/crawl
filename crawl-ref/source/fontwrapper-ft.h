@@ -4,6 +4,7 @@
 #ifdef USE_FT
 
 #include <map>
+#include <string>
 #include <vector>
 
 #include <ft2build.h>
@@ -115,6 +116,7 @@ protected:
 
         // does glyph have any pixels?
         bool renderable;
+        bool use_fallback;
         bool valid;
     };
     vector<GlyphInfo> m_glyphs;
@@ -149,10 +151,14 @@ protected:
     GenericTexture m_tex;
     GLShapeBuffer *m_buf;
 
-    FT_Byte *ttf;
     FT_Face face;
+    FT_Face fallback_face;
     unsigned char *pixels;
     unsigned int fsize;
+    bool fallback_face_attempted;
+
+    bool ensure_fallback_face();
+    FT_Face face_for_char(char32_t ch, FT_Int &glyph_index);
 };
 
 #endif // USE_FT
