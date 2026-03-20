@@ -20,7 +20,7 @@ from tornado.escape import to_unicode
 from tornado.escape import utf8
 from tornado.ioloop import IOLoop
 
-from webtiles import auth, checkoutput, config, userdb, util, load_games
+from webtiles import auth, checkoutput, config, i18n, userdb, util, load_games
 
 try:
     from typing import Dict, Set, Tuple, Any, Union, Optional
@@ -634,7 +634,8 @@ class CrawlWebSocket(tornado.websocket.WebSocketHandler):
                 play_html = to_unicode(self.render_string("game_links.html",
                                                   games = games,
                                                   save_info = self.save_info,
-                                                  disabled = disable_check))
+                                                  disabled = disable_check,
+                                                  tr = i18n.template_translator(self)))
                 self.send_message("set_game_links", content = play_html)
             except:
                 self.logger.warning("Error on send_game_links callback",

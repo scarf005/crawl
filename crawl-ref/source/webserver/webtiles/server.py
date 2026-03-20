@@ -21,7 +21,7 @@ from tornado.netutil import bind_sockets
 
 import webtiles
 from webtiles import auth, load_games, process_handler, userdb, config
-from webtiles import game_data_handler, util, ws_handler, status
+from webtiles import game_data_handler, i18n, util, ws_handler, status
 
 
 servers = None
@@ -63,7 +63,10 @@ class MainHandler(tornado.web.RequestHandler):
                     game_version = _crawl_version,
                     username = None,
                     config = config,
-                    reset_token = recovery_token, reset_token_error = recovery_token_error)
+                    reset_token = recovery_token,
+                    reset_token_error = recovery_token_error,
+                    tr = i18n.template_translator(self),
+                    webtiles_i18n_json = i18n.js_catalog_json(self))
 
 class NoCacheHandler(tornado.web.StaticFileHandler):
     def set_extra_headers(self, path):

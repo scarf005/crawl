@@ -1,7 +1,7 @@
-define(["exports", "jquery", "key_conversion", "chat", "comm",
+define(["exports", "jquery", "key_conversion", "chat", "comm", "i18n",
         "contrib/jquery.cookie", "contrib/jquery.tablesorter",
         "contrib/jquery.waitforimages", "contrib/inflate"],
-function (exports, $, key_conversion, chat, comm) {
+function (exports, $, key_conversion, chat, comm, i18n) {
 
     // Need to keep this global for backwards compatibility :(
     window.current_layer = "crt";
@@ -26,6 +26,8 @@ function (exports, $, key_conversion, chat, comm) {
     next_loading_img = 0;
 
     var send_message = comm.send_message;
+    var tr = i18n.tr;
+    var trf = i18n.trf;
 
     var game_version = null;
     var loaded_modules = null;
@@ -475,7 +477,7 @@ function (exports, $, key_conversion, chat, comm) {
         $("#login_form").hide();
         $("#reg_link").hide();
         $("#forgot_link").hide();
-        $("#login_message").html("Logging in...");
+        $("#login_message").html(tr("client.js:logging_in", "Logging in..."));
         var username = $("#username").val();
         var password = $("#password").val();
         send_message("login", {
@@ -491,7 +493,7 @@ function (exports, $, key_conversion, chat, comm) {
         if (reason)
             $("#login_message").html(reason);
         else
-            $("#login_message").html("Login failed.");
+            $("#login_message").html(tr("client.js:login_failed", "Login failed."));
     }
 
     function login_failed(data)
@@ -508,7 +510,9 @@ function (exports, $, key_conversion, chat, comm) {
     {
         var username = data.username;
         hide_prompt();
-        $("#login_message").html("Logged in as " + username);
+        $("#login_message").html(
+            trf("client.js:logged_in_as", "Logged in as {username}",
+                { username: username }));
         current_user = username;
         admin_user = data.admin;
         hide_dialog();
@@ -804,13 +808,17 @@ function (exports, $, key_conversion, chat, comm) {
 
         if (username.indexOf(" ") >= 0)
         {
-            $("#register_message").html("The username can't contain spaces.");
+            $("#register_message").html(
+                tr("client.js:username_spaces",
+                   "The username can't contain spaces."));
             return false;
         }
 
         if (password !== password_repeat)
         {
-            $("#register_message").html("Passwords don't match.");
+            $("#register_message").html(
+                tr("client.js:passwords_dont_match",
+                   "Passwords don't match."));
             return false;
         }
 
@@ -848,7 +856,8 @@ function (exports, $, key_conversion, chat, comm) {
 
     function change_password_done(data)
     {
-        $("#ok_message_content").html("Password changed!");
+        $("#ok_message_content").html(
+            tr("client.js:password_changed", "Password changed!"));
         show_dialog("#floating_ok_message");
     }
 
@@ -860,7 +869,9 @@ function (exports, $, key_conversion, chat, comm) {
 
         if (new_password !== new_password_repeat)
         {
-            $("#chpw_message").html("Passwords don't match.");
+            $("#chpw_message").html(
+                tr("client.js:passwords_dont_match",
+                   "Passwords don't match."));
             return false;
         }
 
@@ -874,7 +885,8 @@ function (exports, $, key_conversion, chat, comm) {
 
     function change_password_failed(data)
     {
-        var msg = "Password change failed!";
+        var msg = tr("client.js:password_change_failed",
+                     "Password change failed!");
         if (data.reason)
             msg = msg + " " + data.reason;
         $("#ok_message_content").html(msg);
@@ -919,11 +931,16 @@ function (exports, $, key_conversion, chat, comm) {
     {
         if ( data.email == "" )
         {
-            $("#ok_message_content").html("Your account is no longer associated with an email address.");
+            $("#ok_message_content").html(
+                tr("client.js:email_removed",
+                   "Your account is no longer associated with an email address."));
         }
         else
         {
-            $("#ok_message_content").html("Your email address has been set to " + data.email + ".");
+            $("#ok_message_content").html(
+                trf("client.js:email_set_to",
+                    "Your email address has been set to {email}.",
+                    { email: data.email }));
         }
 
         show_dialog("#floating_ok_message");
@@ -947,7 +964,9 @@ function (exports, $, key_conversion, chat, comm) {
 
         if (email.indexOf(" ") >= 0)
         {
-            $("#forgot_message").html("The email address can't contain spaces.");
+            $("#forgot_message").html(
+                tr("client.js:email_spaces",
+                   "The email address can't contain spaces."));
             return false;
         }
 
@@ -976,7 +995,9 @@ function (exports, $, key_conversion, chat, comm) {
 
         if (password !== password_repeat)
         {
-            $("#reset_pw_message").html("Passwords don't match.");
+            $("#reset_pw_message").html(
+                tr("client.js:passwords_dont_match",
+                   "Passwords don't match."));
             return false;
         }
 
@@ -1141,9 +1162,13 @@ function (exports, $, key_conversion, chat, comm) {
     {
         cleanup();
         show_loading_screen();
-        show_prompt("Login required to play <span id='prompt_game'>"
-                    + data.game + "</span>:",
-                    "<a href='#lobby'>Back to lobby</a>");
+        show_prompt(
+            trf("client.js:login_required_to_play",
+                "Login required to play {game}:",
+                { game: "<span id='prompt_game'>" + data.game + "</span>" }),
+            "<a href='#lobby'>"
+                + tr("client.js:back_to_lobby", "Back to lobby")
+                + "</a>");
     }
 
     function chat_login(data)
@@ -1152,7 +1177,8 @@ function (exports, $, key_conversion, chat, comm) {
 
         var a = $("<a href='javascript:'>Close</a>");
         a.click(hide_prompt);
-        show_prompt("Login to chat:", a);
+        a.text(tr("client.html:close", "Close"));
+        show_prompt(tr("client.js:login_to_chat", "Login to chat:"), a);
     }
 
     var new_list = null;
@@ -1641,7 +1667,7 @@ function (exports, $, key_conversion, chat, comm) {
 
         $("#login_form").bind("submit", login);
         $("#logout_link").bind("click", logout);
-        $("#chat_login_link").bind("click", chat_login);
+        $("#chat_login_text").on("click", "#chat_login_link", chat_login);
 
         $("#reg_link").bind("click", start_register);
         $("#register_form").bind("submit", register);

@@ -1,4 +1,4 @@
-define(["jquery", "comm", "linkify"], function ($, comm, linkify) {
+define(["jquery", "comm", "linkify", "i18n"], function ($, comm, linkify, i18n) {
     var new_message_count = 0;
     var spectators = {
             count: 0,
@@ -9,12 +9,16 @@ define(["jquery", "comm", "linkify"], function ($, comm, linkify) {
     var unsent_message = "";
     var history_pos = -1;
     var chat_hidden = false;
+    var tr = i18n.tr;
+    var trf = i18n.trf;
 
     function update_spectators(data)
     {
         delete data["msg"];
         $.extend(spectators, data);
-        $("#spectator_count").html(data.count + " spectators");
+        $("#spectator_count").html(
+            trf("chat.js:spectators_count", "{count} spectators",
+                { count: data.count }));
         $("#spectator_list").html(data.names);
         $(document).trigger("spectators_changed", [spectators]);
     }
@@ -51,8 +55,13 @@ define(["jquery", "comm", "linkify"], function ($, comm, linkify) {
 
     function update_message_count()
     {
-        var press_key = new_message_count > 0 ? " (Press F12)" : "";
-        $("#message_count").html(new_message_count + " new messages" + press_key);
+        var press_key = new_message_count > 0
+            ? tr("chat.js:press_f12", " (Press F12)")
+            : "";
+        $("#message_count").html(
+            trf("chat.js:new_messages_count",
+                "{count} new messages{press_key}",
+                { count: new_message_count, press_key: press_key }));
         $("#message_count").toggleClass("has_new", new_message_count > 0);
     }
 
@@ -131,7 +140,8 @@ define(["jquery", "comm", "linkify"], function ($, comm, linkify) {
             $("#chat_body").slideDown(200);
             new_message_count = 0;
             update_message_count();
-            $("#message_count").html("(Esc: close)");
+            $("#message_count").html(
+                tr("chat.js:close_prompt", "(Esc: close)"));
             $('#chat_history_container').scrollTop($('#chat_history_container')[0].scrollHeight);
         }
         else
@@ -205,13 +215,21 @@ define(["jquery", "comm", "linkify"], function ($, comm, linkify) {
     {
         $("#spectator_list").html("&nbsp;");
         $("#chat_history").html("");
-        $("#spectator_count").html("0 spectators");
+        $("#spectator_count").html(
+            trf("chat.js:spectators_count", "{count} spectators",
+                { count: 0 }));
         new_message_count = 0;
         update_message_count();
         $("#chat_body").slideUp(200);
     }
 
     $(document).ready(function () {
+        $("#chat_login_text").html(
+            trf("chat.js:login_to_chat_html", "{login_link} to chat", {
+                login_link: '<a id="chat_login_link" href="javascript:">' +
+                    tr("client.html:login", "Login") +
+                    '</a>'
+            }));
         $("#chat_input").bind("keydown", chat_message_send);
         $("#chat_caption").bind("click", toggle);
         $("#chat_hide_button").bind("click", toggle_entire_chat);

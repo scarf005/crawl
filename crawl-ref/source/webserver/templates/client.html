@@ -5,8 +5,14 @@
     <link rel="icon" href="/static/stone_soup_icon-32x32.png" type="image/png">
     <script type="text/javascript">
       {% set fail_safe_game_version = globals().get('game_version', '') %}
-      var socket_server = "{{ socket_server }}";
+      var socket_lang_match = window.location.search.match(/[?&]lang=([^&]+)/);
+      var socket_lang = socket_lang_match
+        ? decodeURIComponent(socket_lang_match[1].replace(/\+/g, "%20"))
+        : null;
+      var socket_server = "{{ socket_server }}"
+        + (socket_lang ? ("?lang=" + encodeURIComponent(socket_lang)) : "");
       var game_version = "{{ fail_safe_game_version }}";
+      window.webtiles_i18n = {% raw webtiles_i18n_json %};
     </script>
     <script src="{{ static_url("scripts/contrib/require.js") }}" data-main="/static/scripts/app"></script>
     <link rel="stylesheet" type="text/css" href="{{ static_url("style.css") }}">
@@ -16,104 +22,104 @@
     <meta name="viewport" content="width=860, initial-scale=1.0">
   </head>
   <body>
-    <noscript>Please enable javascript!</noscript>
+    <noscript>{{ tr("client.html:noscript", "Please enable javascript!") }}</noscript>
 
     <div id="lobby" style="display: none;">
       <div class="login_placeholder">
         <div id="login">
           <span id="login_message"></span>
           <form action="#" id="login_form">
-            <label for="username">User:</label>
+            <label for="username">{{ tr("client.html:user_label", "User:") }}</label>
             <input class="text" type="text" name="username" id="username">
-            <label for="password">Pass:</label>
+            <label for="password">{{ tr("client.html:pass_label", "Pass:") }}</label>
             <input class="text" type="password" name="password" id="password">
-            <input class="button" type="submit" name="submit" id="submit" value="Login">
+            <input class="button" type="submit" name="submit" id="submit" value="{{ tr("client.html:login", "Login") }}">
           </form>
           <span class="extra_links">|
-          <a id="reg_link" href="javascript:">Register</a>
+          <a id="reg_link" href="javascript:">{{ tr("client.html:register", "Register") }}</a>
 {% if getattr(config, "allow_password_reset", False) %}
-          <a id="forgot_link" href="javascript:">Forgot Password</a>
+          <a id="forgot_link" href="javascript:">{{ tr("client.html:forgot_password", "Forgot Password") }}</a>
 {% end %}
-          <a id="chem_link" href="javascript:" style="display: none;">Change Email</a>
-          <a id="chpw_link" href="javascript:" style="display: none;">Change Password</a>
-          <a id="logout_link" href="javascript:" style="display: none;">Logout</a></span>
+          <a id="chem_link" href="javascript:" style="display: none;">{{ tr("client.html:change_email", "Change Email") }}</a>
+          <a id="chpw_link" href="javascript:" style="display: none;">{{ tr("client.html:change_password", "Change Password") }}</a>
+          <a id="logout_link" href="javascript:" style="display: none;">{{ tr("client.html:logout", "Logout") }}</a></span>
         </div>
       </div>
 
       <div id="register" class="floating_dialog" style="display: none;">
         <span id="register_message"></span>
         <form action="#" id="register_form">
-          <label for="username">Username:</label>
+          <label for="username">{{ tr("client.html:username", "Username:") }}</label>
           <input class="text" type="text" name="username" id="reg_username">
           <br>
-          <label for="reg_password">Password:</label>
+          <label for="reg_password">{{ tr("client.html:password", "Password:") }}</label>
           <input class="text" type="password" name="reg_password" id="reg_password">
           <br>
-          <label for="reg_repeat_password">Repeat password:</label>
+          <label for="reg_repeat_password">{{ tr("client.html:repeat_password", "Repeat password:") }}</label>
           <input class="text" type="password" name="reg_repeat_password" id="reg_repeat_password">
           <br>
-          <label for="reg_email">Email address:</label>
+          <label for="reg_email">{{ tr("client.html:email_address", "Email address:") }}</label>
           <input class="text" type="text" name="reg_email" id="reg_email">
           <br>
-          <p>If you do not enter an email, you can't recover your password.</p>
+          <p>{{ tr("client.html:password_recovery_help", "If you do not enter an email, you can't recover your password.") }}</p>
           <input class="button" type="button" name="cancel" id="reg_cancel"
-                 value="Cancel">
-          <input class="button" type="submit" name="submit" id="reg_submit" value="Submit">
+                 value="{{ tr("client.html:cancel", "Cancel") }}">
+          <input class="button" type="submit" name="submit" id="reg_submit" value="{{ tr("client.html:submit", "Submit") }}">
         </form>
       </div>
 
       <div id="change_password" class="floating_dialog" style="display: none;">
         <span id="chpw_message"></span>
         <form action="#" id="chpw_form">
-          <label for="change_cur_password">Current password:</label>
+          <label for="change_cur_password">{{ tr("client.html:current_password", "Current password:") }}</label>
           <input class="text" type="password" name="change_cur_password" id="change_cur_password">
           <br>
-          <label for="change_password">New password:</label>
+          <label for="change_password">{{ tr("client.html:new_password", "New password:") }}</label>
           <input class="text" type="password" name="change_new_password" id="change_new_password">
           <br>
-          <label for="change_repeat_password">Repeat password:</label>
+          <label for="change_repeat_password">{{ tr("client.html:repeat_password", "Repeat password:") }}</label>
           <input class="text" type="password" name="change_repeat_password" id="change_repeat_password">
           <br><br>
           <input class="button" type="button" name="cancel" id="chpw_cancel"
-                 value="Cancel">
-          <input class="button" type="submit" name="submit" id="chpw_submit" value="Submit">
+                 value="{{ tr("client.html:cancel", "Cancel") }}">
+          <input class="button" type="submit" name="submit" id="chpw_submit" value="{{ tr("client.html:submit", "Submit") }}">
         </form>
       </div>
 
       <div id="change_email" class="floating_dialog" style="display: none;">
-        <p>Your current email address is: <span id="chem_current"></span></p>
+        <p>{{ tr("client.html:current_email_address", "Your current email address is:") }} <span id="chem_current"></span></p>
         <span id="chem_message"></span>
         <form action="#" id="chem_form">
-          <label for="chem_email">Email:</label>
+          <label for="chem_email">{{ tr("client.html:email", "Email:") }}</label>
           <input class="text" type="text" name="chem_email" id="chem_email">
           <br />
-          <p>If you do not enter an email, you can't recover your password.</p>
-          <input class="button" type="button" name="cancel" id="chem_cancel" value="Cancel">
-          <input class="button" type="submit" name="submit" id="chem_submit" value="Submit">
+          <p>{{ tr("client.html:password_recovery_help", "If you do not enter an email, you can't recover your password.") }}</p>
+          <input class="button" type="button" name="cancel" id="chem_cancel" value="{{ tr("client.html:cancel", "Cancel") }}">
+          <input class="button" type="submit" name="submit" id="chem_submit" value="{{ tr("client.html:submit", "Submit") }}">
         </form>
       </div>
 
       <div id="floating_ok_message" class="floating_dialog" style="display: none;">
         <span id="ok_message_content"></span>
-        <input class="button" type="submit" name="submit" value="OK">
+        <input class="button" type="submit" name="submit" value="{{ tr("client.html:ok", "OK") }}">
       </div>
 
 {% if getattr(config, "allow_password_reset", False) %}
       <div id="forgot" class="floating_dialog" style="display: none;">
         <span id="forgot_message"></span>
         <form action="#" id="forgot_form">
-          <label for="forgot_email">Email address:</label>
+          <label for="forgot_email">{{ tr("client.html:email_address", "Email address:") }}</label>
           <input class="text" type="text" name="forgot_email" id="forgot_email">
           <br>
           <input class="button" type="button" name="cancel" id="forgot_cancel"
-                 value="Cancel">
-          <input class="button" type="submit" name="submit" id="forgot_submit" value="Submit">
+                 value="{{ tr("client.html:cancel", "Cancel") }}">
+          <input class="button" type="submit" name="submit" id="forgot_submit" value="{{ tr("client.html:submit", "Submit") }}">
         </form>
       </div>
 
       <div id="forgot_2" class="floating_dialog" style="display: none;">
-        <span>If a matching account was found, then an email was sent to reset your password.</span>
-        <input class="button" type="submit" name="submit" value="OK">
+        <span>{{ tr("client.html:forgot_password_done", "If a matching account was found, then an email was sent to reset your password.") }}</span>
+        <input class="button" type="submit" name="submit" value="{{ tr("client.html:ok", "OK") }}">
       </div>
 {% end %}
 
@@ -123,23 +129,23 @@
         <form action="#" id="reset_pw_form">
           <span>{{ reset_token_error }}</span>
           <br><br>
-          <input class="button" type="button" name="cancel" id="reset_pw_cancel" value="Cancel">
+          <input class="button" type="button" name="cancel" id="reset_pw_cancel" value="{{ tr("client.html:cancel", "Cancel") }}">
         </form>
   {% else %}
-        <span>Please choose a new password.</span>
+        <span>{{ tr("client.html:choose_new_password", "Please choose a new password.") }}</span>
         <br>
         <span id="reset_pw_message"></span>
         <form action="#" id="reset_pw_form">
           <input class="text" type="hidden" readonly="readonly" name="reset_pw_token" id="reset_pw_token" value="{{ reset_token }}">
           <br>
-          <label for="reset_pw_password">Password:</label>
+          <label for="reset_pw_password">{{ tr("client.html:password", "Password:") }}</label>
           <input class="text" type="password" name="reset_pw_password" id="reset_pw_password">
           <br>
-          <label for="reset_pw_repeat_password">Repeat password:</label>
+          <label for="reset_pw_repeat_password">{{ tr("client.html:repeat_password", "Repeat password:") }}</label>
           <input class="text" type="password" name="reset_pw_repeat_password" id="reset_pw_repeat_password">
           <br>
-          <input class="button" type="button" name="cancel" id="reset_pw_cancel" value="Cancel">
-          <input class="button" type="submit" name="submit" id="reset_pw_submit" value="Submit">
+          <input class="button" type="button" name="cancel" id="reset_pw_cancel" value="{{ tr("client.html:cancel", "Cancel") }}">
+          <input class="button" type="submit" name="submit" id="reset_pw_submit" value="{{ tr("client.html:submit", "Submit") }}">
         </form>
   {% end %}
       </div>
@@ -151,7 +157,7 @@
                     cols="80" rows="25">
           </textarea>
           <br>
-          <input class="button" type="submit" name="submit" id="rc_submit" value="Save"
+          <input class="button" type="submit" name="submit" id="rc_submit" value="{{ tr("client.html:save", "Save") }}"
                  style="float: right;">
         </form>
       </div>
@@ -160,15 +166,13 @@
           <p id="exit_game_reason"></p>
           <pre id="exit_game_message"></pre>
           <p id="exit_game_dump"></p>
-          <a class="hide_dialog" href="javascript:">Close</a>
+          <a class="hide_dialog" href="javascript:">{{ tr("client.html:close", "Close") }}</a>
       </div>
 
       <div id="banner">{% include banner.html %}</div>
 
       <div id="account_restricted" style="display:none;">
-        This account is being held for administrator approval. Until approved,
-        community features and some game modes may be restricted, and games
-        will not be visible to other players.
+        {{ tr("client.html:account_restricted", "This account is being held for administrator approval. Until approved, community features and some game modes may be restricted, and games will not be visible to other players.") }}
       </div>
       <div>
         <div id="admin_panel_button" style="display:none;">
@@ -207,22 +211,22 @@
 
       <div id="lobby_body">
         <span>
-          Games currently running:
+          {{ tr("client.html:games_currently_running", "Games currently running:") }}
         </span>
         <table id="player_list" class="no_game_times">
           <thead>
             <tr>
-              <th class="username">User</th>
-              <th class="game_id">Game</th>
+              <th class="username">{{ tr("client.html:user", "User") }}</th>
+              <th class="game_id">{{ tr("client.html:game", "Game") }}</th>
               <th class="xl">XL</th>
-              <th class="char">Char</th>
-              <th class="place">Place</th>
-              <th class="turn">Turn</th>
-              <th class="dur">Time</th>
-              <th class="god">God</th>
-              <th class="idle_time">Idle</th>
-              <th class="spectator_count">Specs</th>
-              <th class="milestone_col">Milestone</th>
+              <th class="char">{{ tr("client.html:char", "Char") }}</th>
+              <th class="place">{{ tr("client.html:place", "Place") }}</th>
+              <th class="turn">{{ tr("client.html:turn", "Turn") }}</th>
+              <th class="dur">{{ tr("client.html:time", "Time") }}</th>
+              <th class="god">{{ tr("client.html:god", "God") }}</th>
+              <th class="idle_time">{{ tr("client.html:idle", "Idle") }}</th>
+              <th class="spectator_count">{{ tr("client.html:specs", "Specs") }}</th>
+              <th class="milestone_col">{{ tr("client.html:milestone", "Milestone") }}</th>
             </tr>
           </thead>
           <tbody>
@@ -261,7 +265,7 @@
 
     <div id="loader">
       <div id="loader_center">
-        <span id="loader_text">Loading...</span><br>
+        <span id="loader_text">{{ tr("client.html:loading", "Loading...") }}</span><br>
 
         <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_anon_octopus_wizard.png") }}">
         <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_arbituhhh_tesu.png") }}">
@@ -308,20 +312,20 @@
 
       <div id="stale_processes_message" class="floating_dialog"
            style="display: none;" tabindex="1000">
-        There are some stale <span class="game_name"></span> processes.
-        They'll be stopped in <span class="recover_timeout"></span> seconds.
-        Press a key now if you don't want this to happen!
+        {{ tr("client.html:stale_processes_prefix", "There are some stale") }} <span class="game_name"></span>
+        {{ tr("client.html:stale_processes_middle", "processes. They'll be stopped in") }} <span class="recover_timeout"></span>
+        {{ tr("client.html:stale_processes_suffix", "seconds. Press a key now if you don't want this to happen!") }}
       </div>
 
       <div id="force_terminate" class="floating_dialog"
            style="display: none;" tabindex="1001">
-        Couldn't stop one of your stale <span class="game_name"></span> processes
-        gracefully. Force its termination? [yn]
+        {{ tr("client.html:force_terminate_prefix", "Couldn't stop one of your stale") }} <span class="game_name"></span>
+        {{ tr("client.html:force_terminate_suffix", "processes gracefully. Force its termination? [yn]") }}
         <br>
         <input class="button" type="button" name="force_terminate_no"
-               id="force_terminate_no" value="No" style="float: right;">
+               id="force_terminate_no" value="{{ tr("client.html:no", "No") }}" style="float: right;">
         <input class="button" type="button" name="force_terminate_yes"
-               id="force_terminate_yes" value="Yes" style="float: right;">
+               id="force_terminate_yes" value="{{ tr("client.html:yes", "Yes") }}" style="float: right;">
       </div>
     </div>
 
@@ -347,9 +351,7 @@
 
         <input class="text" type="text" name="chat_input"
                id="chat_input" style="display: none">
-        <div id="chat_login_text">
-          <a id="chat_login_link" href="javascript:">Login</a> to chat
-        </div>
+        <div id="chat_login_text"></div>
       </div>
     </div>
 

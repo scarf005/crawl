@@ -3,6 +3,9 @@
 from __future__ import annotations
 
 import argparse
+import shutil
+import subprocess
+import tempfile
 from pathlib import Path
 
 from textdb_gettext import iter_english_entries, load_legacy_entries, msgctxt, source_root, syntax_comments, write_entry, write_header
@@ -14,21 +17,35 @@ def write_language_catalog(lang: str, output_dir: Path) -> None:
 
     output_dir.mkdir(parents=True, exist_ok=True)
     output_path = output_dir / f"{lang}.po"
-    with output_path.open("w", encoding="utf-8") as handle:
-        write_header(handle, lang)
-        for spec, path, key, english_body in iter_english_entries(root):
-            translated_body = legacy_entries.get((spec.name, key))
-            if not translated_body or translated_body == english_body:
-                continue
+    with tempfile.TemporaryDirectory() as temp_dir:
+        bootstrap_path = Path(temp_dir) / f"{lang}.po"
+        with bootstrap_path.open("w", encoding="utf-8") as handle:
+            write_header(handle, lang)
+            for spec, path, key, english_body in iter_english_entries(root):
+                translated_body = legacy_entries.get((spec.name, key))
+                if not translated_body or translated_body == english_body:
+                    continue
 
-            write_entry(
-                handle,
-                comments=[f"key: {key}", *syntax_comments(english_body)],
-                refs=[path.relative_to(root).as_posix()],
-                context=msgctxt(spec, key),
-                msgid_text=english_body,
-                msgstr_text=translated_body,
-            )
+                write_entry(
+                    handle,
+                    comments=[f"key: {key}", *syntax_comments(english_body)],
+                    refs=[path.relative_to(root).as_posix()],
+                    context=msgctxt(spec, key),
+                    msgid_text=english_body,
+                    msgstr_text=translated_body,
+                )
+
+        if output_path.exists():
+            subprocess.run([
+                "msgcat",
+                "--use-first",
+                str(bootstrap_path),
+                str(output_path),
+                "-o",
+                str(output_path),
+            ], check=True)
+        else:
+            shutil.move(str(bootstrap_path), str(output_path))
 
 
 def main() -> int:
