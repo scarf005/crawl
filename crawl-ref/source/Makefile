@@ -331,7 +331,7 @@ ifdef BUILD_ALL
 endif
 
 # Should be the first rule, but must come after $(GAME) is set.
-all: greet check-fonts $(GAME) docs webserver
+all: greet check-fonts $(GAME) docs webserver compile-mo
 
 # XX these are set wrong on mac cross-compiling
 LIBPCRE := contrib/install/$(ARCH)/lib/libpcre.a
