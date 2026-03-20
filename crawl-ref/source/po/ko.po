@@ -14705,9 +14705,25 @@ msgstr ""
 msgctxt ""
 "startup:language_desc"
 msgid ""
-"Cycle the interface language for this session."
+"Open the language list and save the selected interface language."
 msgstr ""
-"이번 실행 동안 사용할 인터페이스 언어를 순환합니다."
+"언어 목록을 열고 선택한 인터페이스 언어를 저장합니다."
+
+#: startup.cc
+msgctxt ""
+"startup:choose_language_title"
+msgid ""
+"Choose language"
+msgstr ""
+"언어 선택"
+
+#: startup.cc
+msgctxt ""
+"startup:choose_language_prompt"
+msgid ""
+"Select the interface language to use and save."
+msgstr ""
+"사용할 인터페이스 언어를 선택하고 저장하세요."
 
 #: startup.cc
 msgctxt ""
